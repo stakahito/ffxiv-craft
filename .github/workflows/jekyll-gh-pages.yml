@@ -34,7 +34,7 @@ jobs:
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
-          destination: ./
+          destination: ./_site
 
       - name: Run Python Script
         run: python scripts/xivapi_calls.py
@@ -64,4 +64,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          target-folder: ./
+          target-folder: _site
