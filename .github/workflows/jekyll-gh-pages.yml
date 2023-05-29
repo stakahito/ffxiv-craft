@@ -39,6 +39,9 @@ jobs:
       - name: Run Python Script
         run: python scripts/xivapi_calls.py
 
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+
       - name: Commit Changes
         run: |
           git config --global user.name "Daazed McFarland"
