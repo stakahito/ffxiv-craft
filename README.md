@@ -12,8 +12,6 @@ Please remember that this tool is a fan-made initiative and is not officially en
 
 - **Crafting Simulator:** The in-built crafting simulator allows you to test the effectiveness of these macros before committing your in-game resources.
 
-- **Crafting Level Tracker:** Stay on top of your game with our crafting level tracker. Plan for your progression, and target specific crafts with greater ease.
-
 Please be aware that due to the probabilistic nature of Monte Carlo simulations, the resulting macros might vary from run to run. While the absolute optimal sequence is not guaranteed, the tool strives to produce highly successful macros consistently.
 
 ## Usage
