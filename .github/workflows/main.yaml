@@ -39,6 +39,7 @@ jobs:
       - name: Install Jekyll and Dependencies
         run: |
           gem install --user-install bundler
+          echo 'export PATH="$HOME/.local/share/gem/ruby/3.0.0/bin:$PATH"' >> $GITHUB_ENV
           bundle install --path vendor/bundle
 
       - name: Build Jekyll Site
