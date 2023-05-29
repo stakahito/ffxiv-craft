@@ -9,7 +9,7 @@ from collections import defaultdict
 BUFFS_API_URL = "https://xivapi.com/search"
 buff_types = ["Medicine", "Meal"]
 RECIPE_API_URL = 'https://xivapi.com/Recipe'
-PARENT_DIR = Path(__file__).parents[2]
+PARENT_DIR = Path(__file__).parents[1]
 
 
 class Buffs:
