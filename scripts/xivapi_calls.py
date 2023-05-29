@@ -5,6 +5,10 @@ import threading
 from pathlib import Path
 from collections import defaultdict
 
+# TODO: Need a way to trigger only when there is an update to api.
+# I will add a check to compare total buffs/recipes.
+# For now it will auto update at noon UTC, git push, or when a pull request is issued.
+
 # Buffs Endpoint
 BUFFS_API_URL = "https://xivapi.com/search"
 buff_types = ["Medicine", "Meal"]
