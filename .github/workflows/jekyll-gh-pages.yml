@@ -24,11 +24,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Run Python Script
-        run: python scripts/xivapi_calls.py
-
       - name: Checkout
         uses: actions/checkout@v3
+
+      - name: Run Python Script
+        run: python scripts/xivapi_calls.py
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
