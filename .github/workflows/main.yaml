@@ -39,9 +39,6 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Change working directory
-        run: cd ./ffxiv-craft
-
       - name: Build
         run: npm run build
 
