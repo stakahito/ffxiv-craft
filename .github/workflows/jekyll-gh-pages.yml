@@ -39,9 +39,6 @@ jobs:
       - name: Run Python Script
         run: python scripts/xivapi_calls.py
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-
       - name: Commit Changes
         run: |
           git config --global user.name "Daazed McFarland"
@@ -49,6 +46,9 @@ jobs:
           git add .
           git diff --quiet && git diff --staged --quiet || git commit -m "Automatic update"
           git push
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
 
   deploy:
     environment:
