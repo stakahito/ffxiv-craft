@@ -116,9 +116,9 @@ def save_data_to_json(recipes):
     """
     Save recipes data to a .json file
     """
-    Path(f'{PARENT_DIR}/data').mkdir(parents=True, exist_ok=True)
+    Path(f'{PARENT_DIR}/data/recipedb/').mkdir(parents=True, exist_ok=True)
     for class_job, class_recipes in recipes.items():
-        with open(f"{PARENT_DIR}/data/{class_job}.json", mode="w", encoding="utf-8") as my_file:
+        with open(f"{PARENT_DIR}/data/recipedb/{class_job}.json", mode="w", encoding="utf-8") as my_file:
             json.dump(class_recipes, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
 
