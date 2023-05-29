@@ -4,7 +4,6 @@ import math
 import threading
 from pathlib import Path
 from collections import defaultdict
-from tqdm import tqdm
 
 # Buffs Endpoint
 BUFFS_API_URL = "https://xivapi.com/search"
