@@ -1,65 +1,27 @@
-name: Build and Deploy
+name: Update Website
 
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 12 * * *'
 
 jobs:
-  build-and-deploy:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Set up Python Environment
+      - name: Set up Python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.9'
-
-      - name: Install Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          python-version: '3.x'
 
       - name: Run Python Script
-        run: python ./scripts/xivapi_calls.py
+        run: python scripts/xivapi_calls.py
 
-      - name: Set up Jekyll Environment
-        uses: actions/setup-node@v2
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          node-version: '14'
-
-      - name: Install Jekyll and Dependencies
-        run: |
-          gem install --user-install bundler
-          echo 'export PATH="$HOME/.local/share/gem/ruby/3.0.0/bin:$PATH"' >> $GITHUB_ENV
-          $HOME/.local/share/gem/ruby/3.0.0/bin/bundle config set --local path 'vendor/bundle'
-          $HOME/.local/share/gem/ruby/3.0.0/bin/bundle install
-
-      - name: Build Jekyll Site
-        run: |
-          $HOME/.local/share/gem/ruby/3.0.0/bin/bundle exec jekyll build
-
-      - name: Fix File Permissions
-        run: |
-          chmod -c -R +rX ./_site | while read line; do
-            echo "::warning title=Invalid file permissions automatically fixed::$line"
-          done
-
-      - name: Create Artifact
-        run: |
-          tar --dereference --hard-dereference --directory "./_site" -cvf "$RUNNER_TEMP/artifact.tar" --exclude=.git --exclude=.github .
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: github-pages
-          path: "$RUNNER_TEMP/artifact.tar"
-          retention-days: 1
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./path/to/your/website
