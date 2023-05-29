@@ -38,8 +38,8 @@ jobs:
 
       - name: Install Jekyll and Dependencies
         run: |
-          gem install bundler
-          bundle install
+          gem install --user-install bundler
+          bundle install --path vendor/bundle
 
       - name: Build Jekyll Site
         run: |
