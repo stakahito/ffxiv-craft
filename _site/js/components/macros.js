@@ -119,7 +119,7 @@
       var macroIndex = 1;
 
 //      macroString += '/micon\n';
-      $scope.cls
+      macroString += @scope.cls
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
