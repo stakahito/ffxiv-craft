@@ -121,7 +121,7 @@
 
 //      macroString += '/micon\n';
       console.log($scope.cls);  // Okay so it looks like cls is a class object that gets updated with properties? Let's see if I can append the name to it in options.html
-      console.log($scope.recipe.cls);
+//      console.log($scope.recipe.cls);
       console.log($scope.options);
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
