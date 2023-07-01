@@ -118,16 +118,16 @@
       var macroTime = 0;
       var macroIndex = 1;
 
-      macroString += '/micon\n' + $scope.cls;
+      macroString += '/micon\n';
 
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
-
+      }
 //      if (options.includeMicon) {
 //        macroString += '/micon\n' + $scope.cls;
 //          macroLineCount++;
-      }
+
 
       for (var j = 0; j < lines.length; j++) {
         var line = lines[j];
