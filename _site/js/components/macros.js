@@ -119,7 +119,7 @@
       var macroIndex = 1;
 
 //      macroString += '/micon\n';
-      macroString += @scope.cls
+      console.log($scope.cls);  // I don't know how to pull the crafter name from the current recipe simulator
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
