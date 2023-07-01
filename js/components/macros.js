@@ -15,7 +15,6 @@
         sequence: '=',
         cls: '=',
         options: '=',
-        crafter: '='
       },
       controller: controller
     }
@@ -119,13 +118,15 @@
       var macroTime = 0;
       var macroIndex = 1;
 
+      macroString += '/micon\n' + $scope.cls;
+
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
 
-      if (options.includeMicon) {
-        macroString += '/micon\n' + $scope.cls;
-          macroLineCount++;
+//      if (options.includeMicon) {
+//        macroString += '/micon\n' + $scope.cls;
+//          macroLineCount++;
       }
 
       for (var j = 0; j < lines.length; j++) {
