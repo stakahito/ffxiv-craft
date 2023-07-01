@@ -121,8 +121,7 @@
 
 //      macroString += '/micon\n';
       console.log($scope.cls);  // Okay so it looks like cls is a class object that gets updated with properties? Let's see if I can append the name to it in options.html
-//      console.log($scope.recipe.cls);
-//      console.log($scope.options);
+      console.log($scope.cls.name);  // I think I was right in my initial assumption about cls being the place to check..... I hope it's not this simple
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
