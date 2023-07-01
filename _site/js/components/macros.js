@@ -14,7 +14,8 @@
       scope: {
         sequence: '=',
         cls: '=',
-        options: '='
+        options: '=',
+        crafter: '='
       },
       controller: controller
     }
@@ -120,6 +121,10 @@
 
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
+          macroLineCount++;
+
+      if (options.includeMicon) {
+        macroString += '/micon\n' + $scope.cls;
           macroLineCount++;
       }
 
