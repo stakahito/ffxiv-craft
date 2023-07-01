@@ -127,11 +127,12 @@
         macroString += '/macrolock\n';
           macroLineCount++;
       }
+//      Lets put this on pause until I get the correct output from the console log
 //      I don't know what the hell I am doing
-      if (options.includeMicon) {
-        macroString += '/micon\n' + $scope.cls;
-          macroLineCount++;
-        } // Obviously don't know what I'm doing!
+//      if (options.includeMicon) {
+//        macroString += '/micon\n' + $scope.cls;
+//          macroLineCount++;
+//        } // Obviously don't know what I'm doing!
 
       for (var j = 0; j < lines.length; j++) {
         var line = lines[j];
