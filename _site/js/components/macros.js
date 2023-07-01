@@ -128,7 +128,7 @@
 //      I don't know what the hell I am doing
 //      Maybe I did, but just didn't know I knew I what I was doing
       if (options.includeMicon) {
-        macroString += '/micon\n' + $scope.cls;
+        macroString += "/micon" + $scope.cls + "classjob/n";  // I know this should be a f-string but I am done if this works
           macroLineCount++;
         } // Obviously don't know what I'm doing!
 
