@@ -120,18 +120,17 @@
       var macroIndex = 1;
 
 //      macroString += '/micon\n';
-      console.log($scope.cls);  // Okay so it looks like cls is a class object that gets updated with properties? Let's see if I can append the name to it in options.html
-      console.log($scope.cls.name);  // I think I was right in my initial assumption about cls being the place to check..... I hope it's not this simple
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
       }
 //      Lets put this on pause until I get the correct output from the console log
 //      I don't know what the hell I am doing
-//      if (options.includeMicon) {
-//        macroString += '/micon\n' + $scope.cls;
-//          macroLineCount++;
-//        } // Obviously don't know what I'm doing!
+//      Maybe I did, but just didn't know I knew I what I was doing
+      if (options.includeMicon) {
+        macroString += '/micon\n' + $scope.cls;
+          macroLineCount++;
+        } // Obviously don't know what I'm doing!
 
       for (var j = 0; j < lines.length; j++) {
         var line = lines[j];
