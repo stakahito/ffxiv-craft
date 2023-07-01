@@ -15,6 +15,7 @@
         sequence: '=',
         cls: '=',
         options: '=',
+        recipe: '='
       },
       controller: controller
     }
@@ -119,14 +120,16 @@
       var macroIndex = 1;
 
 //      macroString += '/micon\n';
-      console.log($scope.cls);  // I don't know how to pull the crafter name from the current recipe simulator
+      console.log($scope.cls);  // Okay so it looks like cls is a class object that gets updated with properties? Let's see if I can append the name to it in options.html
+      console.log($scope.recipe.cls);
+      console.log($scope.options)
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
           macroLineCount++;
       }
-//      if (options.includeMicon) {
-//        macroString += '/micon\n' + $scope.cls;
-//          macroLineCount++;
+      if (options.includeMicon) {
+        macroString += '/micon\n' + $scope.cls;
+          macroLineCount++;
 
 
       for (var j = 0; j < lines.length; j++) {
