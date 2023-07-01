@@ -127,6 +127,7 @@
         macroString += '/macrolock\n';
           macroLineCount++;
       }
+//      I don't know what the hell I am doing
       if (options.includeMicon) {
         macroString += '/micon\n' + $scope.cls;
           macroLineCount++;

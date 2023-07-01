@@ -2216,6 +2216,101 @@
     "suggestedCraftsmanship": 325
   },
   {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "level": 5,
+    "maxQuality": 150,
+    "name": {
+      "de": "Krebsfleischball",
+      "en": "Crayfish Ball",
+      "fr": "Boulette d'écrevisse",
+      "ja": "ザリガニボール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 25,
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 45,
+    "durability": 60,
+    "level": 10,
+    "maxQuality": 250,
+    "name": {
+      "de": "Grundelball",
+      "en": "Goby Ball",
+      "fr": "Boulette de gobie",
+      "ja": "ゴビーボール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 29,
+    "suggestedCraftsmanship": 59
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "level": 20,
+    "maxQuality": 510,
+    "name": {
+      "de": "Krabbenfleischball",
+      "en": "Crab Ball",
+      "fr": "Boulette de crabe",
+      "ja": "クラブボール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "level": 20,
+    "maxQuality": 510,
+    "name": {
+      "de": "Gegrillte Warmblut-Forelle",
+      "en": "Grilled Warmwater Trout",
+      "fr": "Truite thermophile grillée",
+      "ja": "グリルドウォームトラウト"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "level": 25,
+    "maxQuality": 660,
+    "name": {
+      "de": "Barschball",
+      "en": "Bass Ball",
+      "fr": "Boulette de bar",
+      "ja": "バスボール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 46,
     "difficulty": 159,
     "durability": 80,
@@ -2347,101 +2442,6 @@
     "qualityModifier": 100,
     "suggestedControl": 88,
     "suggestedCraftsmanship": 176
-  },
-  {
-    "baseLevel": 5,
-    "difficulty": 33,
-    "durability": 60,
-    "level": 5,
-    "maxQuality": 150,
-    "name": {
-      "de": "Krebsfleischball",
-      "en": "Crayfish Ball",
-      "fr": "Boulette d'écrevisse",
-      "ja": "ザリガニボール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 25,
-    "suggestedCraftsmanship": 50
-  },
-  {
-    "baseLevel": 10,
-    "difficulty": 45,
-    "durability": 60,
-    "level": 10,
-    "maxQuality": 250,
-    "name": {
-      "de": "Grundelball",
-      "en": "Goby Ball",
-      "fr": "Boulette de gobie",
-      "ja": "ゴビーボール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 29,
-    "suggestedCraftsmanship": 59
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 70,
-    "level": 20,
-    "maxQuality": 510,
-    "name": {
-      "de": "Krabbenfleischball",
-      "en": "Crab Ball",
-      "fr": "Boulette de crabe",
-      "ja": "クラブボール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 70,
-    "level": 20,
-    "maxQuality": 510,
-    "name": {
-      "de": "Gegrillte Warmblut-Forelle",
-      "en": "Grilled Warmwater Trout",
-      "fr": "Truite thermophile grillée",
-      "ja": "グリルドウォームトラウト"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 25,
-    "difficulty": 89,
-    "durability": 70,
-    "level": 25,
-    "maxQuality": 660,
-    "name": {
-      "de": "Barschball",
-      "en": "Bass Ball",
-      "fr": "Boulette de bar",
-      "ja": "バスボール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
   },
   {
     "baseLevel": 50,
@@ -2598,356 +2598,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 70,
-    "level": 20,
-    "maxQuality": 255,
-    "name": {
-      "de": "Sternenlichtdodo",
-      "en": "Starlight Dodo",
-      "fr": "Dodo de la fête des étoiles",
-      "ja": "スターライト・ローストドードー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Sternenlichtkuchen",
-      "en": "Starlight Cake",
-      "fr": "Gâteau de la fête des étoiles",
-      "ja": "スターライト・レイヤーケーキ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Futter: Geschwindigkeit I",
-      "en": "Grade 1 Feed - Speed Blend",
-      "fr": "Fourrage spécial vitesse I",
-      "ja": "スピードフォダーG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Futter: Geschwindigkeit II",
-      "en": "Grade 2 Feed - Speed Blend",
-      "fr": "Fourrage spécial vitesse II",
-      "ja": "スピードフォダーG2"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Futter: Antritt I",
-      "en": "Grade 1 Feed - Acceleration Blend",
-      "fr": "Fourrage spécial accélération I",
-      "ja": "アクセルフォダーG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Futter: Antritt II",
-      "en": "Grade 2 Feed - Acceleration Blend",
-      "fr": "Fourrage spécial accélération II",
-      "ja": "アクセルフォダーG2"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Futter: Köpfchen I",
-      "en": "Grade 1 Feed - Balance Blend",
-      "fr": "Fourrage spécial agilité I",
-      "ja": "バランスフォダーG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Futter: Köpfchen II",
-      "en": "Grade 2 Feed - Balance Blend",
-      "fr": "Fourrage spécial agilité II",
-      "ja": "バランスフォダーG2"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Futter: Puste I",
-      "en": "Grade 1 Feed - Endurance Blend",
-      "fr": "Fourrage spécial vitalité I",
-      "ja": "エンデュランスフォダーG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Futter: Puste II",
-      "en": "Grade 2 Feed - Endurance Blend",
-      "fr": "Fourrage spécial vitalité II",
-      "ja": "エンデュランスフォダーG2"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Futter: Ausdauer I",
-      "en": "Grade 1 Feed - Stamina Blend",
-      "fr": "Fourrage spécial endurance I",
-      "ja": "スタミナフォダーG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Futter: Ausdauer II",
-      "en": "Grade 2 Feed - Stamina Blend",
-      "fr": "Fourrage spécial endurance II",
-      "ja": "スタミナフォダーG2"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 15,
-    "difficulty": 55,
-    "durability": 70,
-    "level": 15,
-    "maxQuality": 180,
-    "name": {
-      "de": "Wachsgemüse",
-      "en": "Wax Vegetables",
-      "fr": "Caisse de légumes",
-      "ja": "ベジタブルアソート"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 555,
-    "name": {
-      "de": "Waldtee-Set",
-      "en": "Glade Tea Set",
-      "fr": "Goûter sombrelinçois",
-      "ja": "シュラウド・ティーセット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 25,
-    "difficulty": 89,
-    "durability": 70,
-    "level": 25,
-    "maxQuality": 330,
-    "name": {
-      "de": "Riviera-Abendmahl-Set",
-      "en": "Riviera Supper",
-      "fr": "Dîner noscéen",
-      "ja": "ラノシアン・ディナーセット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Oasen-Frühstücks-Set",
-      "en": "Oasis Breakfast",
-      "fr": "Petit déjeuner thanalanais",
-      "ja": "ザナラーン・モーニングセット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Valentionkuchen",
-      "en": "Valentione's Cake",
-      "fr": "Gâteau des Valention",
-      "ja": "ヴァレンティオンケーキ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Grüntee-Set",
-      "en": "Green Tea Set",
-      "fr": "Collation de thé vert",
-      "ja": "グリーンティーセット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 27,
@@ -3423,6 +3073,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 1210,
+    "name": {
+      "de": "Riviera-Frühstücks-Set",
+      "en": "Riviera Breakfast",
+      "fr": "Omelette",
+      "ja": "オムレツプレート"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 65,
@@ -4282,6 +3951,234 @@
     "suggestedCraftsmanship": 150
   },
   {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "de": "Ockertoffel-Gratin",
+      "en": "Popotoes au Gratin",
+      "fr": "Gratin de popotos brunes",
+      "ja": "ラセットポポトグラタン"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 77,
+    "difficulty": 1570,
+    "durability": 80,
+    "level": 412,
+    "maxQuality": 4300,
+    "name": {
+      "de": "Masala-Tee",
+      "en": "Masala Chai",
+      "fr": "Thé masala",
+      "ja": "マサラチャイ"
+    },
+    "progressDivider": 107,
+    "progressModifier": 100,
+    "qualityDivider": 87,
+    "qualityModifier": 100,
+    "suggestedControl": 1502,
+    "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "de": "Risotto al nero",
+      "en": "Risotto al Nero",
+      "fr": "Risotto al nero",
+      "ja": "リゾット・ネーロ"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "de": "Sahne-Espresso",
+      "en": "Espresso con Panna",
+      "fr": "Espresso con panna",
+      "ja": "エスプレッソ・コン・パンナ"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 4400,
+    "name": {
+      "de": "Sautierter Dunstspinat",
+      "en": "Mist Spinach Saute",
+      "fr": "Sauté de jeunes épinards brume",
+      "ja": "ミストスピナッチソテー"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 1710,
+    "durability": 80,
+    "level": 418,
+    "maxQuality": 4500,
+    "name": {
+      "de": "Blut-Bouillabaisse",
+      "en": "Blood Bouillabaisse",
+      "fr": "Bouillabaisse sanguine",
+      "ja": "ブラッドブイヤベース"
+    },
+    "progressDivider": 109,
+    "progressModifier": 100,
+    "qualityDivider": 89,
+    "qualityModifier": 100,
+    "suggestedControl": 1579,
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 1710,
+    "durability": 80,
+    "level": 418,
+    "maxQuality": 4500,
+    "name": {
+      "de": "Paella",
+      "en": "Paella",
+      "fr": "Paella",
+      "ja": "パエリア"
+    },
+    "progressDivider": 109,
+    "progressModifier": 100,
+    "qualityDivider": 89,
+    "qualityModifier": 100,
+    "suggestedControl": 1579,
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 79,
+    "difficulty": 1710,
+    "durability": 80,
+    "level": 418,
+    "maxQuality": 4500,
+    "name": {
+      "de": "Kaffeekeks",
+      "en": "Coffee Biscuit",
+      "fr": "Biscuit au café",
+      "ja": "コーヒークッキー"
+    },
+    "progressDivider": 109,
+    "progressModifier": 100,
+    "qualityDivider": 89,
+    "qualityModifier": 100,
+    "suggestedControl": 1579,
+    "suggestedCraftsmanship": 1702
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Cordon bleu vom Ovim",
+      "en": "Ovim Cordon Bleu",
+      "fr": "Cordon bleu d'ovim",
+      "ja": "オヴィム・コルドンブルー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Limonade",
+      "en": "Lemonade",
+      "fr": "Limonade",
+      "ja": "レモネード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Harcot-Kompott",
+      "en": "Jellied Harcot",
+      "fr": "Gelée de rouge de Norvrandt",
+      "ja": "ハーコットゼリー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Feinschmecker-Auster",
+      "en": "Oysters on the Half Shell",
+      "fr": "Huître comestible crue",
+      "ja": "ローエディブルオイスター"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
     "baseLevel": 5,
     "difficulty": 33,
     "durability": 60,
@@ -5023,365 +4920,468 @@
     "suggestedCraftsmanship": 50
   },
   {
-    "baseLevel": 56,
-    "difficulty": 420,
+    "baseLevel": 20,
+    "difficulty": 74,
     "durability": 70,
-    "level": 139,
-    "maxQuality": 1210,
+    "level": 20,
+    "maxQuality": 255,
     "name": {
-      "de": "Riviera-Frühstücks-Set",
-      "en": "Riviera Breakfast",
-      "fr": "Omelette",
-      "ja": "オムレツプレート"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 77,
-    "difficulty": 1570,
-    "durability": 80,
-    "level": 412,
-    "maxQuality": 4300,
-    "name": {
-      "de": "Ockertoffel-Gratin",
-      "en": "Popotoes au Gratin",
-      "fr": "Gratin de popotos brunes",
-      "ja": "ラセットポポトグラタン"
-    },
-    "progressDivider": 107,
-    "progressModifier": 100,
-    "qualityDivider": 87,
-    "qualityModifier": 100,
-    "suggestedControl": 1502,
-    "suggestedCraftsmanship": 1621
-  },
-  {
-    "baseLevel": 77,
-    "difficulty": 1570,
-    "durability": 80,
-    "level": 412,
-    "maxQuality": 4300,
-    "name": {
-      "de": "Masala-Tee",
-      "en": "Masala Chai",
-      "fr": "Thé masala",
-      "ja": "マサラチャイ"
-    },
-    "progressDivider": 107,
-    "progressModifier": 100,
-    "qualityDivider": 87,
-    "qualityModifier": 100,
-    "suggestedControl": 1502,
-    "suggestedCraftsmanship": 1621
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 4400,
-    "name": {
-      "de": "Risotto al nero",
-      "en": "Risotto al Nero",
-      "fr": "Risotto al nero",
-      "ja": "リゾット・ネーロ"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 4400,
-    "name": {
-      "de": "Sahne-Espresso",
-      "en": "Espresso con Panna",
-      "fr": "Espresso con panna",
-      "ja": "エスプレッソ・コン・パンナ"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 4400,
-    "name": {
-      "de": "Sautierter Dunstspinat",
-      "en": "Mist Spinach Saute",
-      "fr": "Sauté de jeunes épinards brume",
-      "ja": "ミストスピナッチソテー"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "de": "Blut-Bouillabaisse",
-      "en": "Blood Bouillabaisse",
-      "fr": "Bouillabaisse sanguine",
-      "ja": "ブラッドブイヤベース"
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "de": "Paella",
-      "en": "Paella",
-      "fr": "Paella",
-      "ja": "パエリア"
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "de": "Kaffeekeks",
-      "en": "Coffee Biscuit",
-      "fr": "Biscuit au café",
-      "ja": "コーヒークッキー"
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Cordon bleu vom Ovim",
-      "en": "Ovim Cordon Bleu",
-      "fr": "Cordon bleu d'ovim",
-      "ja": "オヴィム・コルドンブルー"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Limonade",
-      "en": "Lemonade",
-      "fr": "Limonade",
-      "ja": "レモネード"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Harcot-Kompott",
-      "en": "Jellied Harcot",
-      "fr": "Gelée de rouge de Norvrandt",
-      "ja": "ハーコットゼリー"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Feinschmecker-Auster",
-      "en": "Oysters on the Half Shell",
-      "fr": "Huître comestible crue",
-      "ja": "ローエディブルオイスター"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 17,
-    "difficulty": 66,
-    "durability": 70,
-    "level": 17,
-    "maxQuality": 210,
-    "name": {
-      "de": "Korb voller Brotschnitten",
-      "en": "Sandwich Basket",
-      "fr": "Panier de sandwichs",
-      "ja": "サンドイッチバスケット"
+      "de": "Sternenlichtdodo",
+      "en": "Starlight Dodo",
+      "fr": "Dodo de la fête des étoiles",
+      "ja": "スターライト・ローストドードー"
     },
     "progressDivider": 50,
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
-    "suggestedCraftsmanship": 78
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
   },
   {
-    "baseLevel": 78,
-    "difficulty": 1640,
+    "baseLevel": 45,
+    "difficulty": 158,
     "durability": 80,
-    "level": 415,
-    "maxQuality": 2200,
+    "level": 45,
+    "maxQuality": 850,
     "name": {
-      "de": "Fernöstlicher Chawanmushi-Lunch",
-      "en": "Oriental Chawan-mushi Lunch",
-      "fr": "Déjeuner oriental: chawan-mushi",
-      "ja": "オリエンタル・ランチセット:茶碗蒸し"
+      "de": "Sternenlichtkuchen",
+      "en": "Starlight Cake",
+      "fr": "Gâteau de la fête des étoiles",
+      "ja": "スターライト・レイヤーケーキ"
     },
-    "progressDivider": 108,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 88,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
+    "suggestedControl": 75,
+    "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 2200,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Backwaren-Marktstand",
-      "en": "Baker's Stall",
-      "fr": "Étal de boulanger",
-      "ja": "パン職人の露店"
+      "de": "Futter: Geschwindigkeit I",
+      "en": "Grade 1 Feed - Speed Blend",
+      "fr": "Fourrage spécial vitesse I",
+      "ja": "スピードフォダーG1"
     },
-    "progressDivider": 108,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 88,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 78,
-    "difficulty": 1640,
+    "baseLevel": 50,
+    "difficulty": 125,
     "durability": 80,
-    "level": 415,
-    "maxQuality": 2200,
+    "level": 70,
+    "maxQuality": 2500,
     "name": {
-      "de": "Obst-Marktstand",
-      "en": "Fruiterer's Stall",
-      "fr": "Étal de primeur",
-      "ja": "果物商の露店"
+      "de": "Futter: Geschwindigkeit II",
+      "en": "Grade 2 Feed - Speed Blend",
+      "fr": "Fourrage spécial vitesse II",
+      "ja": "スピードフォダーG2"
     },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 78,
-    "difficulty": 1640,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 2200,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Gemüse-Marktstand",
-      "en": "Greengrocer's Stall",
-      "fr": "Étal de maraîcher",
-      "ja": "青果商の露店"
+      "de": "Futter: Antritt I",
+      "en": "Grade 1 Feed - Acceleration Blend",
+      "fr": "Fourrage spécial accélération I",
+      "ja": "アクセルフォダーG1"
     },
-    "progressDivider": 108,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 88,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 78,
-    "difficulty": 1640,
+    "baseLevel": 50,
+    "difficulty": 125,
     "durability": 80,
-    "level": 415,
-    "maxQuality": 2200,
+    "level": 70,
+    "maxQuality": 2500,
     "name": {
-      "de": "Wurstwaren-Marktstand",
-      "en": "Butcher's Stall",
-      "fr": "Étal de boucher",
-      "ja": "精肉商の露店"
+      "de": "Futter: Antritt II",
+      "en": "Grade 2 Feed - Acceleration Blend",
+      "fr": "Fourrage spécial accélération II",
+      "ja": "アクセルフォダーG2"
     },
-    "progressDivider": 108,
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Futter: Köpfchen I",
+      "en": "Grade 1 Feed - Balance Blend",
+      "fr": "Fourrage spécial agilité I",
+      "ja": "バランスフォダーG1"
+    },
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 88,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 125,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Futter: Köpfchen II",
+      "en": "Grade 2 Feed - Balance Blend",
+      "fr": "Fourrage spécial agilité II",
+      "ja": "バランスフォダーG2"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Futter: Puste I",
+      "en": "Grade 1 Feed - Endurance Blend",
+      "fr": "Fourrage spécial vitalité I",
+      "ja": "エンデュランスフォダーG1"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 125,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Futter: Puste II",
+      "en": "Grade 2 Feed - Endurance Blend",
+      "fr": "Fourrage spécial vitalité II",
+      "ja": "エンデュランスフォダーG2"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Futter: Ausdauer I",
+      "en": "Grade 1 Feed - Stamina Blend",
+      "fr": "Fourrage spécial endurance I",
+      "ja": "スタミナフォダーG1"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 125,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Futter: Ausdauer II",
+      "en": "Grade 2 Feed - Stamina Blend",
+      "fr": "Fourrage spécial endurance II",
+      "ja": "スタミナフォダーG2"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 15,
+    "difficulty": 55,
+    "durability": 70,
+    "level": 15,
+    "maxQuality": 180,
+    "name": {
+      "de": "Wachsgemüse",
+      "en": "Wax Vegetables",
+      "fr": "Caisse de légumes",
+      "ja": "ベジタブルアソート"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 33,
+    "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 35,
+    "difficulty": 123,
+    "durability": 80,
+    "level": 35,
+    "maxQuality": 555,
+    "name": {
+      "de": "Waldtee-Set",
+      "en": "Glade Tea Set",
+      "fr": "Goûter sombrelinçois",
+      "ja": "シュラウド・ティーセット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "level": 25,
+    "maxQuality": 330,
+    "name": {
+      "de": "Riviera-Abendmahl-Set",
+      "en": "Riviera Supper",
+      "fr": "Dîner noscéen",
+      "ja": "ラノシアン・ディナーセット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Oasen-Frühstücks-Set",
+      "en": "Oasis Breakfast",
+      "fr": "Petit déjeuner thanalanais",
+      "ja": "ザナラーン・モーニングセット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Valentionkuchen",
+      "en": "Valentione's Cake",
+      "fr": "Gâteau des Valention",
+      "ja": "ヴァレンティオンケーキ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Grüntee-Set",
+      "en": "Green Tea Set",
+      "fr": "Collation de thé vert",
+      "ja": "グリーンティーセット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Maisgelber Farbstoff",
+      "en": "Millioncorn Yellow Dye",
+      "fr": "Teinture jaune milli-maïs",
+      "ja": "カララント:ミリオンコーンイエロー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Waldgrüner Farbstoff",
+      "en": "Deepwood Green Dye",
+      "fr": "Teinture vert sapin",
+      "ja": "カララント:ディープウッドグリーン"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Mintgrüner Farbstoff",
+      "en": "Celeste Green Dye",
+      "fr": "Teinture vert céleste",
+      "ja": "カララント:セレストグリーン"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Indigoblauer Farbstoff",
+      "en": "Woad Blue Dye",
+      "fr": "Teinture bleu guède",
+      "ja": "カララント:ウォードブルー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Nichtsblauer Farbstoff",
+      "en": "Void Blue Dye",
+      "fr": "Teinture bleu du néant",
+      "ja": "カララント:ヴォイドブルー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Kolibrirosa Farbstoff",
+      "en": "Colibri Pink Dye",
+      "fr": "Teinture mauve colibri",
+      "ja": "カララント:コリブリピンク"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 30,
@@ -5504,10 +5504,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Maisgelber Farbstoff",
-      "en": "Millioncorn Yellow Dye",
-      "fr": "Teinture jaune milli-maïs",
-      "ja": "カララント:ミリオンコーンイエロー"
+      "de": "Dalamudroter Farbstoff",
+      "en": "Dalamud Red Dye",
+      "fr": "Teinture rouge Dalamud",
+      "ja": "カララント:ダラガブレッド"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5523,10 +5523,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Waldgrüner Farbstoff",
-      "en": "Deepwood Green Dye",
-      "fr": "Teinture vert sapin",
-      "ja": "カララント:ディープウッドグリーン"
+      "de": "Weinroter Farbstoff",
+      "en": "Wine Red Dye",
+      "fr": "Teinture lie-de-vin",
+      "ja": "カララント:ワインレッド"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5542,10 +5542,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Mintgrüner Farbstoff",
-      "en": "Celeste Green Dye",
-      "fr": "Teinture vert céleste",
-      "ja": "カララント:セレストグリーン"
+      "de": "Königsblauer Farbstoff",
+      "en": "Royal Blue Dye",
+      "fr": "Teinture bleu royal",
+      "ja": "カララント:ロイヤルブルー"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5561,10 +5561,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Indigoblauer Farbstoff",
-      "en": "Woad Blue Dye",
-      "fr": "Teinture bleu guède",
-      "ja": "カララント:ウォードブルー"
+      "de": "Tiefblauer Farbstoff",
+      "en": "Abyssal Blue Dye",
+      "fr": "Teinture bleu marine",
+      "ja": "カララント:アビサルブルー"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5580,10 +5580,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Nichtsblauer Farbstoff",
-      "en": "Void Blue Dye",
-      "fr": "Teinture bleu du néant",
-      "ja": "カララント:ヴォイドブルー"
+      "de": "Honiggelber Farbstoff",
+      "en": "Honey Yellow Dye",
+      "fr": "Teinture jaune miel",
+      "ja": "カララント:ハニーイエロー"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5599,10 +5599,10 @@
     "level": 30,
     "maxQuality": 850,
     "name": {
-      "de": "Kolibrirosa Farbstoff",
-      "en": "Colibri Pink Dye",
-      "fr": "Teinture mauve colibri",
-      "ja": "カララント:コリブリピンク"
+      "de": "Jägergrüner Farbstoff",
+      "en": "Hunter Green Dye",
+      "fr": "Teinture vert chasseur",
+      "ja": "カララント:ハンターグリーン"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -5612,213 +5612,237 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Frühstück à la Bismarck",
-      "en": "The Bismarck",
-      "fr": "Petit déjeuner du Bismarck",
-      "ja": "ビスマルク・モーニングセット"
+      "de": "Morbolgrüner Farbstoff",
+      "en": "Morbol Green Dye",
+      "fr": "Teinture vert morbol",
+      "ja": "カララント:モルボルグリーン"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Salat mit verteufelten Eiern",
-      "en": "Devil's Salad Bowl",
-      "fr": "Saladier d'œufs mimosa",
-      "ja": "デビルドエッグズ・サラダボウル"
+      "de": "Kürbisoranger Farbstoff",
+      "en": "Pumpkin Orange Dye",
+      "fr": "Teinture orange citrouille",
+      "ja": "カララント:パンプキンオレンジ"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Takoyaki-Grillplatte",
-      "en": "Tako-yaki Boat",
-      "fr": "Barquette de takoyaki",
-      "ja": "タコ焼き舟皿盛り"
+      "de": "Lehmbrauner Farbstoff",
+      "en": "Loam Brown Dye",
+      "fr": "Teinture brun argile",
+      "ja": "カララント:ロームブラウン"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Riesenburger-Set",
-      "en": "Giant Beaver Burger Set",
-      "fr": "Hamburger d'abeille géante",
-      "ja": "ジャイアントビーバーガー・セット"
+      "de": "Lotusrosa Farbstoff",
+      "en": "Lotus Pink Dye",
+      "fr": "Teinture mauve lotus",
+      "ja": "カララント:ロータスピンク"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Geschnittene Melone",
-      "en": "Sliced Watermelon",
-      "fr": "Tranches de pastèque",
-      "ja": "カットウォーターメロン"
+      "de": "Königsvioletter Farbstoff",
+      "en": "Regal Purple Dye",
+      "fr": "Teinture byzantium",
+      "ja": "カララント:リーガルパープル"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Tablett mit Keksen",
-      "en": "Homemade Cookie Set",
-      "fr": "Planche à biscuits maison",
-      "ja": "ハンドメイドクッキーボード"
+      "de": "Schneeweißer Farbstoff",
+      "en": "Snow White Dye",
+      "fr": "Teinture blanc neige",
+      "ja": "カララント:スノウホワイト"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "baseLevel": 30,
+    "difficulty": 51,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
     "name": {
-      "de": "Gebäck-Schaukasten",
-      "en": "Baked Goods Showcase",
-      "fr": "Vitrine de viennoiseries",
-      "ja": "ペストリーショーケース"
+      "de": "Rußschwarzer Farbstoff",
+      "en": "Soot Black Dye",
+      "fr": "Teinture noir suie",
+      "ja": "カララント:スートブラック"
     },
-    "progressDivider": 110,
+    "progressDivider": 50,
     "progressModifier": 100,
-    "qualityDivider": 90,
+    "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
+    "baseLevel": 50,
+    "difficulty": 420,
     "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "level": 90,
+    "maxQuality": 2750,
     "name": {
-      "de": "Aal-Set",
-      "en": "Grilled Eel Set",
-      "fr": "Unajû-gozen",
-      "ja": "うな重御膳"
+      "de": "Gedünsteter Katfisch",
+      "en": "Steamed Catfish",
+      "fr": "Poisson-chat vapeur",
+      "ja": "ナマズのワイン蒸"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
+    "baseLevel": 50,
+    "difficulty": 420,
     "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "level": 90,
+    "maxQuality": 2750,
     "name": {
-      "de": "Heiße Tomatenpfanne",
-      "en": "Shakshouka Pot",
-      "fr": "Poêle de chakchouka",
-      "ja": "鉄鍋シャクシュカ"
+      "de": "Toffelpuffer",
+      "en": "Popoto Pancakes",
+      "fr": "Crique",
+      "ja": "ポポトパンケーキ"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
+    "baseLevel": 50,
+    "difficulty": 420,
     "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "level": 90,
+    "maxQuality": 2750,
     "name": {
-      "de": "Gebäck-Schaufenster",
-      "en": "Baker's Show Window",
-      "fr": "Vitrine extérieure de viennoiseries",
-      "ja": "ペストリーショーウィンドウ"
+      "de": "Röstente",
+      "en": "Roast Canard",
+      "fr": "Canard à l'orange",
+      "ja": "ローストカナール"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
+    "baseLevel": 50,
+    "difficulty": 420,
     "durability": 80,
-    "level": 430,
-    "maxQuality": 2300,
+    "level": 90,
+    "maxQuality": 2750,
     "name": {
-      "de": "Büfett auf Rädern",
-      "en": "Grocery Counter Cart",
-      "fr": "Comptoir charriot",
-      "ja": "グロサリーカートカウンター"
+      "de": "Sachertorte",
+      "en": "Sachertorte",
+      "fr": "Sachertorte",
+      "ja": "ザッハトルテ"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Tomatenwürze",
+      "en": "Spicy Tomato Relish",
+      "fr": "Condiment épicé à la tomate",
+      "ja": "トマトケチャップ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 90,
@@ -5876,6 +5900,120 @@
     "qualityModifier": 80,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 17,
+    "difficulty": 66,
+    "durability": 70,
+    "level": 17,
+    "maxQuality": 210,
+    "name": {
+      "de": "Korb voller Brotschnitten",
+      "en": "Sandwich Basket",
+      "fr": "Panier de sandwichs",
+      "ja": "サンドイッチバスケット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 39,
+    "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Fernöstlicher Chawanmushi-Lunch",
+      "en": "Oriental Chawan-mushi Lunch",
+      "fr": "Déjeuner oriental: chawan-mushi",
+      "ja": "オリエンタル・ランチセット:茶碗蒸し"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Backwaren-Marktstand",
+      "en": "Baker's Stall",
+      "fr": "Étal de boulanger",
+      "ja": "パン職人の露店"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Obst-Marktstand",
+      "en": "Fruiterer's Stall",
+      "fr": "Étal de primeur",
+      "ja": "果物商の露店"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Gemüse-Marktstand",
+      "en": "Greengrocer's Stall",
+      "fr": "Étal de maraîcher",
+      "ja": "青果商の露店"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1640,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Wurstwaren-Marktstand",
+      "en": "Butcher's Stall",
+      "fr": "Étal de boucher",
+      "ja": "精肉商の露店"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 81,
@@ -6581,389 +6719,213 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 50,
-    "difficulty": 420,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Gedünsteter Katfisch",
-      "en": "Steamed Catfish",
-      "fr": "Poisson-chat vapeur",
-      "ja": "ナマズのワイン蒸"
+      "de": "Frühstück à la Bismarck",
+      "en": "The Bismarck",
+      "fr": "Petit déjeuner du Bismarck",
+      "ja": "ビスマルク・モーニングセット"
     },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 420,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Toffelpuffer",
-      "en": "Popoto Pancakes",
-      "fr": "Crique",
-      "ja": "ポポトパンケーキ"
+      "de": "Salat mit verteufelten Eiern",
+      "en": "Devil's Salad Bowl",
+      "fr": "Saladier d'œufs mimosa",
+      "ja": "デビルドエッグズ・サラダボウル"
     },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 420,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Röstente",
-      "en": "Roast Canard",
-      "fr": "Canard à l'orange",
-      "ja": "ローストカナール"
+      "de": "Takoyaki-Grillplatte",
+      "en": "Tako-yaki Boat",
+      "fr": "Barquette de takoyaki",
+      "ja": "タコ焼き舟皿盛り"
     },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 420,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Sachertorte",
-      "en": "Sachertorte",
-      "fr": "Sachertorte",
-      "ja": "ザッハトルテ"
+      "de": "Riesenburger-Set",
+      "en": "Giant Beaver Burger Set",
+      "fr": "Hamburger d'abeille géante",
+      "ja": "ジャイアントビーバーガー・セット"
     },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Tomatenwürze",
-      "en": "Spicy Tomato Relish",
-      "fr": "Condiment épicé à la tomate",
-      "ja": "トマトケチャップ"
+      "de": "Geschnittene Melone",
+      "en": "Sliced Watermelon",
+      "fr": "Tranches de pastèque",
+      "ja": "カットウォーターメロン"
     },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Dalamudroter Farbstoff",
-      "en": "Dalamud Red Dye",
-      "fr": "Teinture rouge Dalamud",
-      "ja": "カララント:ダラガブレッド"
-    },
-    "progressDivider": 50,
+    "progressDivider": 110,
     "progressModifier": 100,
-    "qualityDivider": 30,
+    "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Weinroter Farbstoff",
-      "en": "Wine Red Dye",
-      "fr": "Teinture lie-de-vin",
-      "ja": "カララント:ワインレッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Königsblauer Farbstoff",
-      "en": "Royal Blue Dye",
-      "fr": "Teinture bleu royal",
-      "ja": "カララント:ロイヤルブルー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Tiefblauer Farbstoff",
-      "en": "Abyssal Blue Dye",
-      "fr": "Teinture bleu marine",
-      "ja": "カララント:アビサルブルー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Honiggelber Farbstoff",
-      "en": "Honey Yellow Dye",
-      "fr": "Teinture jaune miel",
-      "ja": "カララント:ハニーイエロー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Jägergrüner Farbstoff",
-      "en": "Hunter Green Dye",
-      "fr": "Teinture vert chasseur",
-      "ja": "カララント:ハンターグリーン"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Morbolgrüner Farbstoff",
-      "en": "Morbol Green Dye",
-      "fr": "Teinture vert morbol",
-      "ja": "カララント:モルボルグリーン"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Kürbisoranger Farbstoff",
-      "en": "Pumpkin Orange Dye",
-      "fr": "Teinture orange citrouille",
-      "ja": "カララント:パンプキンオレンジ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Lehmbrauner Farbstoff",
-      "en": "Loam Brown Dye",
-      "fr": "Teinture brun argile",
-      "ja": "カララント:ロームブラウン"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Lotusrosa Farbstoff",
-      "en": "Lotus Pink Dye",
-      "fr": "Teinture mauve lotus",
-      "ja": "カララント:ロータスピンク"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Königsvioletter Farbstoff",
-      "en": "Regal Purple Dye",
-      "fr": "Teinture byzantium",
-      "ja": "カララント:リーガルパープル"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Schneeweißer Farbstoff",
-      "en": "Snow White Dye",
-      "fr": "Teinture blanc neige",
-      "ja": "カララント:スノウホワイト"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 51,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 850,
-    "name": {
-      "de": "Rußschwarzer Farbstoff",
-      "en": "Soot Black Dye",
-      "fr": "Teinture noir suie",
-      "ja": "カララント:スートブラック"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 86,
-    "difficulty": 3100,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 540,
-    "maxQuality": 6800,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Fluffige Pfannkuchen",
-      "en": "Fluffy Pancakes",
-      "fr": "Pancakes moelleux",
-      "ja": "ふわふわパンケーキ"
+      "de": "Tablett mit Keksen",
+      "en": "Homemade Cookie Set",
+      "fr": "Planche à biscuits maison",
+      "ja": "ハンドメイドクッキーボード"
     },
-    "progressDivider": 126,
+    "progressDivider": 110,
     "progressModifier": 100,
-    "qualityDivider": 110,
+    "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
-    "suggestedCraftsmanship": 2590
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 86,
-    "difficulty": 3100,
+    "baseLevel": 80,
+    "difficulty": 1780,
     "durability": 80,
-    "level": 540,
-    "maxQuality": 6800,
+    "level": 430,
+    "maxQuality": 2300,
     "name": {
-      "de": "Burrito-Lunchset der Neuen Welt",
-      "en": "New World Burrito Lunch",
-      "fr": "Déjeuner du nouveau continent: burritos",
-      "ja": "ニューワールド・ランチセット:ブリトー"
+      "de": "Gebäck-Schaukasten",
+      "en": "Baked Goods Showcase",
+      "fr": "Vitrine de viennoiseries",
+      "ja": "ペストリーショーケース"
     },
-    "progressDivider": 126,
+    "progressDivider": 110,
     "progressModifier": 100,
-    "qualityDivider": 110,
+    "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
-    "suggestedCraftsmanship": 2590
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 2300,
+    "name": {
+      "de": "Aal-Set",
+      "en": "Grilled Eel Set",
+      "fr": "Unajû-gozen",
+      "ja": "うな重御膳"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 2300,
+    "name": {
+      "de": "Heiße Tomatenpfanne",
+      "en": "Shakshouka Pot",
+      "fr": "Poêle de chakchouka",
+      "ja": "鉄鍋シャクシュカ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 2300,
+    "name": {
+      "de": "Gebäck-Schaufenster",
+      "en": "Baker's Show Window",
+      "fr": "Vitrine extérieure de viennoiseries",
+      "ja": "ペストリーショーウィンドウ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 2300,
+    "name": {
+      "de": "Büfett auf Rädern",
+      "en": "Grocery Counter Cart",
+      "fr": "Comptoir charriot",
+      "ja": "グロサリーカートカウンター"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
   },
   {
     "baseLevel": 90,
@@ -7040,6 +7002,44 @@
     "qualityModifier": 80,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 86,
+    "difficulty": 3100,
+    "durability": 80,
+    "level": 540,
+    "maxQuality": 6800,
+    "name": {
+      "de": "Fluffige Pfannkuchen",
+      "en": "Fluffy Pancakes",
+      "fr": "Pancakes moelleux",
+      "ja": "ふわふわパンケーキ"
+    },
+    "progressDivider": 126,
+    "progressModifier": 100,
+    "qualityDivider": 110,
+    "qualityModifier": 100,
+    "suggestedControl": 2451,
+    "suggestedCraftsmanship": 2590
+  },
+  {
+    "baseLevel": 86,
+    "difficulty": 3100,
+    "durability": 80,
+    "level": 540,
+    "maxQuality": 6800,
+    "name": {
+      "de": "Burrito-Lunchset der Neuen Welt",
+      "en": "New World Burrito Lunch",
+      "fr": "Déjeuner du nouveau continent: burritos",
+      "ja": "ニューワールド・ランチセット:ブリトー"
+    },
+    "progressDivider": 126,
+    "progressModifier": 100,
+    "qualityDivider": 110,
+    "qualityModifier": 100,
+    "suggestedControl": 2451,
+    "suggestedCraftsmanship": 2590
   },
   {
     "baseLevel": 80,
@@ -8068,6 +8068,274 @@
     "suggestedCraftsmanship": 67
   },
   {
+    "baseLevel": 57,
+    "difficulty": 230,
+    "durability": 60,
+    "level": 142,
+    "maxQuality": 996,
+    "name": {
+      "de": "Komponente einer nahöstlichen Antiquität",
+      "en": "Near Eastern Antique Component",
+      "fr": "Composant d'antiquité proche-orientale",
+      "ja": "近東風の収集品部材"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 60,
+    "level": 142,
+    "maxQuality": 1992,
+    "name": {
+      "de": "Nahöstliche Antiquität",
+      "en": "Near Eastern Antique",
+      "fr": "Antiquité proche-orientale",
+      "ja": "近東風の収集品"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 250,
+    "durability": 60,
+    "level": 145,
+    "maxQuality": 1024,
+    "name": {
+      "de": "Komponente eines coerthischen Souvenirs",
+      "en": "Coerthan Souvenir Component",
+      "fr": "Composant de souvenir du Coerthas",
+      "ja": "寒冷地の名産品部材"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 60,
+    "level": 145,
+    "maxQuality": 2048,
+    "name": {
+      "de": "Coerthisches Souvenir",
+      "en": "Coerthan Souvenir",
+      "fr": "Souvenir du Coerthas",
+      "ja": "寒冷地の名産品"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 270,
+    "durability": 60,
+    "level": 148,
+    "maxQuality": 1052,
+    "name": {
+      "de": "Komponente eines Stücks Mahlstrom-Ausrüstung",
+      "en": "Maelstrom Materiel Component",
+      "fr": "Composant d'équipement militaire du Maelstrom",
+      "ja": "黒渦団の軍需品部材"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 60,
+    "level": 148,
+    "maxQuality": 2104,
+    "name": {
+      "de": "Mahlstrom-Ausrüstung",
+      "en": "Maelstrom Materiel",
+      "fr": "Équipement militaire du Maelstrom",
+      "ja": "黒渦団の軍需品"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 290,
+    "durability": 60,
+    "level": 150,
+    "maxQuality": 1080,
+    "name": {
+      "de": "Komponente eines innigen Geschenks",
+      "en": "Heartfelt Gift Component",
+      "fr": "Composant de cadeau attentionné",
+      "ja": "心尽くしの贈答品部材"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "suggestedControl": 553,
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 580,
+    "durability": 60,
+    "level": 150,
+    "maxQuality": 2160,
+    "name": {
+      "de": "Inniges Geschenk",
+      "en": "Heartfelt Gift",
+      "fr": "Cadeau attentionné",
+      "ja": "心尽くしの贈答品"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "suggestedControl": 553,
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 330,
+    "durability": 60,
+    "level": 160,
+    "maxQuality": 1120,
+    "name": {
+      "de": "Komponente einer Waisenhaus-Spende",
+      "en": "Orphanage Donation Component",
+      "fr": "Composant d'article pour orphelinat",
+      "ja": "孤児院の日用品部材"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 589,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 660,
+    "durability": 60,
+    "level": 160,
+    "maxQuality": 2240,
+    "name": {
+      "de": "Waisenhaus-Spende",
+      "en": "Orphanage Donation",
+      "fr": "Article quotidien d'orphelinat",
+      "ja": "孤児院の日用品"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 589,
+    "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 511,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 1633,
+    "name": {
+      "de": "Domanische Onigiri",
+      "en": "Doman Rice Balls",
+      "fr": "Onigiri domiens",
+      "ja": "ドマ風おにぎり"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 581,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 1732,
+    "name": {
+      "de": "Udon-Suppe",
+      "en": "Doman Udon Broth",
+      "fr": "Bouillon oriental",
+      "ja": "ドマ風うどんつゆ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 686,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 1881,
+    "name": {
+      "de": "Sushi",
+      "en": "Nigiri-zushi",
+      "fr": "Nigirizushi",
+      "ja": "握り寿司"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 756,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 1980,
+    "name": {
+      "de": "Domanisches Sukiyaki",
+      "en": "Doman Sukiyaki",
+      "fr": "Sukiyaki domien",
+      "ja": "ドマ風すき焼き"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
     "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
@@ -8106,6 +8374,166 @@
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "de": "Würziger Apfelsaft",
+      "en": "Spiced Cider",
+      "fr": "Cidre aux épices",
+      "ja": "スパイスサイダー"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "de": "Apfelstrudel",
+      "en": "Apple Strudel",
+      "fr": "Strudel aux pommes",
+      "ja": "アップルシュトゥルーデル"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "de": "Peperoncino",
+      "en": "Peperoncino",
+      "fr": "Pâtes aux piments",
+      "ja": "ペペロンチーノ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "de": "Boscaiola",
+      "en": "Boscaiola",
+      "fr": "Pâtes à la forestière",
+      "ja": "ボスカイオーラ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 880,
+    "durability": 70,
+    "level": 210,
+    "maxQuality": 3300,
+    "name": {
+      "de": "Loaghtan-Steak",
+      "en": "Loaghtan Steak",
+      "fr": "Steak de loaghtan",
+      "ja": "ロフタンステーキ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 820,
+    "suggestedCraftsmanship": 850
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "de": "Austern-Confit",
+      "en": "Oyster Confit",
+      "fr": "Huîtres confites",
+      "ja": "オイスターコンフィ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "de": "Anglerfisch-Eintopf",
+      "en": "Angler Stew",
+      "fr": "Ragoût de lotte",
+      "ja": "アングラーシチュー"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 740,
+    "durability": 70,
+    "level": 180,
+    "maxQuality": 2900,
+    "name": {
+      "de": "Süßer Gnomenfisch",
+      "en": "Sweet Gnomefish",
+      "fr": "Poisson gnome sucré",
+      "ja": "ヌマムツの甘露煮"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 695,
+    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 15,
@@ -8494,454 +8922,6 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 57,
-    "difficulty": 230,
-    "durability": 60,
-    "level": 142,
-    "maxQuality": 996,
-    "name": {
-      "de": "Komponente einer nahöstlichen Antiquität",
-      "en": "Near Eastern Antique Component",
-      "fr": "Composant d'antiquité proche-orientale",
-      "ja": "近東風の収集品部材"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 60,
-    "level": 142,
-    "maxQuality": 1992,
-    "name": {
-      "de": "Nahöstliche Antiquität",
-      "en": "Near Eastern Antique",
-      "fr": "Antiquité proche-orientale",
-      "ja": "近東風の収集品"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 250,
-    "durability": 60,
-    "level": 145,
-    "maxQuality": 1024,
-    "name": {
-      "de": "Komponente eines coerthischen Souvenirs",
-      "en": "Coerthan Souvenir Component",
-      "fr": "Composant de souvenir du Coerthas",
-      "ja": "寒冷地の名産品部材"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 60,
-    "level": 145,
-    "maxQuality": 2048,
-    "name": {
-      "de": "Coerthisches Souvenir",
-      "en": "Coerthan Souvenir",
-      "fr": "Souvenir du Coerthas",
-      "ja": "寒冷地の名産品"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 270,
-    "durability": 60,
-    "level": 148,
-    "maxQuality": 1052,
-    "name": {
-      "de": "Komponente eines Stücks Mahlstrom-Ausrüstung",
-      "en": "Maelstrom Materiel Component",
-      "fr": "Composant d'équipement militaire du Maelstrom",
-      "ja": "黒渦団の軍需品部材"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 60,
-    "level": 148,
-    "maxQuality": 2104,
-    "name": {
-      "de": "Mahlstrom-Ausrüstung",
-      "en": "Maelstrom Materiel",
-      "fr": "Équipement militaire du Maelstrom",
-      "ja": "黒渦団の軍需品"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 290,
-    "durability": 60,
-    "level": 150,
-    "maxQuality": 1080,
-    "name": {
-      "de": "Komponente eines innigen Geschenks",
-      "en": "Heartfelt Gift Component",
-      "fr": "Composant de cadeau attentionné",
-      "ja": "心尽くしの贈答品部材"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "suggestedControl": 553,
-    "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 60,
-    "level": 150,
-    "maxQuality": 2160,
-    "name": {
-      "de": "Inniges Geschenk",
-      "en": "Heartfelt Gift",
-      "fr": "Cadeau attentionné",
-      "ja": "心尽くしの贈答品"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "suggestedControl": 553,
-    "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 330,
-    "durability": 60,
-    "level": 160,
-    "maxQuality": 1120,
-    "name": {
-      "de": "Komponente einer Waisenhaus-Spende",
-      "en": "Orphanage Donation Component",
-      "fr": "Composant d'article pour orphelinat",
-      "ja": "孤児院の日用品部材"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 589,
-    "suggestedCraftsmanship": 620
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 660,
-    "durability": 60,
-    "level": 160,
-    "maxQuality": 2240,
-    "name": {
-      "de": "Waisenhaus-Spende",
-      "en": "Orphanage Donation",
-      "fr": "Article quotidien d'orphelinat",
-      "ja": "孤児院の日用品"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 589,
-    "suggestedCraftsmanship": 620
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 511,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 1633,
-    "name": {
-      "de": "Domanische Onigiri",
-      "en": "Doman Rice Balls",
-      "fr": "Onigiri domiens",
-      "ja": "ドマ風おにぎり"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 581,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 1732,
-    "name": {
-      "de": "Udon-Suppe",
-      "en": "Doman Udon Broth",
-      "fr": "Bouillon oriental",
-      "ja": "ドマ風うどんつゆ"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 686,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 1881,
-    "name": {
-      "de": "Sushi",
-      "en": "Nigiri-zushi",
-      "fr": "Nigirizushi",
-      "ja": "握り寿司"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 756,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 1980,
-    "name": {
-      "de": "Domanisches Sukiyaki",
-      "en": "Doman Sukiyaki",
-      "fr": "Sukiyaki domien",
-      "ja": "ドマ風すき焼き"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "de": "Würziger Apfelsaft",
-      "en": "Spiced Cider",
-      "fr": "Cidre aux épices",
-      "ja": "スパイスサイダー"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "de": "Apfelstrudel",
-      "en": "Apple Strudel",
-      "fr": "Strudel aux pommes",
-      "ja": "アップルシュトゥルーデル"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "de": "Peperoncino",
-      "en": "Peperoncino",
-      "fr": "Pâtes aux piments",
-      "ja": "ペペロンチーノ"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "de": "Boscaiola",
-      "en": "Boscaiola",
-      "fr": "Pâtes à la forestière",
-      "ja": "ボスカイオーラ"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "de": "Loaghtan-Steak",
-      "en": "Loaghtan Steak",
-      "fr": "Steak de loaghtan",
-      "ja": "ロフタンステーキ"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "de": "Austern-Confit",
-      "en": "Oyster Confit",
-      "fr": "Huîtres confites",
-      "ja": "オイスターコンフィ"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "de": "Anglerfisch-Eintopf",
-      "en": "Angler Stew",
-      "fr": "Ragoût de lotte",
-      "ja": "アングラーシチュー"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "de": "Süßer Gnomenfisch",
-      "en": "Sweet Gnomefish",
-      "fr": "Poisson gnome sucré",
-      "ja": "ヌマムツの甘露煮"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
-      "de": "Fleischtomatenwürze",
-      "en": "Rich Tomato Relish",
-      "fr": "Condiment piquant à la tomate",
-      "ja": "濃厚トマトケチャップ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
     "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
@@ -9161,6 +9141,46 @@
   },
   {
     "baseLevel": 60,
+    "difficulty": 900,
+    "durability": 70,
+    "level": 220,
+    "maxQuality": 3390,
+    "name": {
+      "de": "Himmelseier-Suppe",
+      "en": "Heavensegg Soup",
+      "fr": "Soupe aux célestœufs",
+      "ja": "ヘヴンスエッグスープ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 835,
+    "suggestedCraftsmanship": 870
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 900,
+    "durability": 70,
+    "level": 220,
+    "maxQuality": 3390,
+    "name": {
+      "de": "Pasta Ortolano",
+      "en": "Pasta Ortolano",
+      "fr": "Pâtes à la maraîchère",
+      "ja": "オルトラーナ"
+    },
+    "progressDivider": 70,
+    "progressModifier": 80,
+    "qualityDivider": 50,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 835,
+    "suggestedCraftsmanship": 870
+  },
+  {
+    "baseLevel": 60,
     "difficulty": 1000,
     "durability": 70,
     "level": 250,
@@ -9320,44 +9340,24 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 60,
-    "difficulty": 900,
-    "durability": 70,
-    "level": 220,
-    "maxQuality": 3390,
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 2750,
     "name": {
-      "de": "Himmelseier-Suppe",
-      "en": "Heavensegg Soup",
-      "fr": "Soupe aux célestœufs",
-      "ja": "ヘヴンスエッグスープ"
+      "de": "Fleischtomatenwürze",
+      "en": "Rich Tomato Relish",
+      "fr": "Condiment piquant à la tomate",
+      "ja": "濃厚トマトケチャップ"
     },
-    "progressDivider": 70,
+    "progressDivider": 50,
     "progressModifier": 80,
-    "qualityDivider": 50,
+    "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 835,
-    "suggestedCraftsmanship": 870
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 900,
-    "durability": 70,
-    "level": 220,
-    "maxQuality": 3390,
-    "name": {
-      "de": "Pasta Ortolano",
-      "en": "Pasta Ortolano",
-      "fr": "Pâtes à la maraîchère",
-      "ja": "オルトラーナ"
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 835,
-    "suggestedCraftsmanship": 870
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 70,
@@ -9930,6 +9930,697 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "level": 20,
+    "maxQuality": 1198,
+    "name": {
+      "de": "Genist-Hanfmilch",
+      "en": "Grade 2 Skybuilders' Hemp Milk",
+      "fr": "Lait de chanvre de restauration (2e phase)",
+      "ja": "第二次復興用のヘンプミルク"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "level": 40,
+    "maxQuality": 3500,
+    "name": {
+      "de": "Genist-Brot",
+      "en": "Grade 2 Skybuilders' Bread",
+      "fr": "Pain de mie de restauration (2e phase)",
+      "ja": "第二次復興用のブレッド"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 580,
+    "durability": 60,
+    "level": 150,
+    "maxQuality": 6480,
+    "name": {
+      "de": "Genist-Schwarztee",
+      "en": "Grade 2 Skybuilders' Tea",
+      "fr": "Thé de restauration (2e phase)",
+      "ja": "第二次復興用の紅茶"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "suggestedControl": 553,
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 60,
+    "level": 290,
+    "maxQuality": 9900,
+    "name": {
+      "de": "Genist-Kräuterbad",
+      "en": "Grade 2 Skybuilders' All-purpose Infusion",
+      "fr": "Tisane de restauration (2e phase)",
+      "ja": "第二次復興用の薬湯"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 60,
+    "level": 430,
+    "maxQuality": 11960,
+    "name": {
+      "de": "Genist-Eintopf",
+      "en": "Grade 2 Skybuilders' Stew",
+      "fr": "Marmite de ragoût de restauration (2e phase)",
+      "ja": "第二次復興用のシチュー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 3856,
+    "durability": 60,
+    "level": 481,
+    "maxQuality": 12323,
+    "name": {
+      "de": "Sonderbestellte Genist-Torte",
+      "en": "Grade 2 Artisanal Skybuilders' Quiche",
+      "fr": "Repas sur commande de restauration (2e phase)",
+      "ja": "第二次復興用の特注料理"
+    },
+    "progressDivider": 140,
+    "progressModifier": 100,
+    "qualityDivider": 130,
+    "qualityModifier": 100,
+    "stars": 3,
+    "suggestedControl": 2206,
+    "suggestedCraftsmanship": 2484
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Werkstätten-Getreidesamenextrakt",
+      "en": "Oddly Specific Seed Extract",
+      "fr": "Huile de graines d'affinage",
+      "ja": "改良用の種子抽出液"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1845,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "de": "Werkstätten-Samenmehl",
+      "en": "Oddly Specific Seed Flour",
+      "fr": "Poudre de graines d'affinage",
+      "ja": "改良用の種子粉"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Krabbenküchlein",
+      "en": "Crab Cakes",
+      "fr": "Gâteau de crabe",
+      "ja": "クラブケーキ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Chili-Krabbengericht",
+      "en": "Chili Crab",
+      "fr": "Chili de crabe",
+      "ja": "チリクラブ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 60,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Komponenten für ein spezielles Sammlerwerkzeug",
+      "en": "Custom Gathering Tool Components",
+      "fr": "Outils de récolte pour dragon",
+      "ja": "ドラゴン用採集道具部材"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 60,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Komponenten für ein spezielles Weberwerkzeug",
+      "en": "Custom Weaving Components",
+      "fr": "Ustensiles de couture pour dragon",
+      "ja": "ドラゴン用裁縫用具"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1290,
+    "durability": 60,
+    "level": 400,
+    "maxQuality": 3120,
+    "name": {
+      "de": "Komponenten für ein spezielles Werkzeug",
+      "en": "Custom Crafting Tool Components",
+      "fr": "Outils d'artisanat pour dragon",
+      "ja": "ドラゴン用職人道具部材"
+    },
+    "progressDivider": 103,
+    "progressModifier": 100,
+    "qualityDivider": 83,
+    "qualityModifier": 100,
+    "suggestedControl": 1348,
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 1360,
+    "durability": 60,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Handverlesene kulinarische Köstlichkeiten",
+      "en": "Handpicked Culinary Essentials",
+      "fr": "Sandwichs pour dragon",
+      "ja": "ドラゴンおもてなし料理必需品"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1430,
+    "durability": 60,
+    "level": 406,
+    "maxQuality": 3280,
+    "name": {
+      "de": "Druckutensilien",
+      "en": "Printing Essentials",
+      "fr": "Lot d'imprimerie",
+      "ja": "印刷必需品"
+    },
+    "progressDivider": 105,
+    "progressModifier": 100,
+    "qualityDivider": 85,
+    "qualityModifier": 100,
+    "suggestedControl": 1425,
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "de": "Miserabelmuscheln al Ajillo",
+      "en": "Mejillones al Ajillo",
+      "fr": "Moules al ajillo",
+      "ja": "ムセルアヒージョ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "de": "Schwarze Paella",
+      "en": "Arros Negre",
+      "fr": "Arròs negre",
+      "ja": "アロス・ネグロ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 756,
+    "durability": 60,
+    "level": 290,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Flugblattdruck-Utensil",
+      "en": "Flyer Printing Set",
+      "fr": "Kit pour dépliants",
+      "ja": "チラシ製作必需品"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1140,
+    "durability": 60,
+    "level": 300,
+    "maxQuality": 2940,
+    "name": {
+      "de": "Menü-Komponenten",
+      "en": "Kholusian Cuisine Set",
+      "fr": "Composant pour nouveau menu",
+      "ja": "新メニュー必需品"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 1080,
+    "suggestedCraftsmanship": 1100
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 60,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Bühnenkostümteil",
+      "en": "Honeybee Trappings",
+      "fr": "Composant pour costume de scène",
+      "ja": "舞台衣装必需品"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 60,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Luftschiff-Komponente",
+      "en": "Airship Fittings",
+      "fr": "Élément pour rénovation d'aéronef",
+      "ja": "飛空艇改装必需品"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1290,
+    "durability": 60,
+    "level": 400,
+    "maxQuality": 3120,
+    "name": {
+      "de": "Lustspielhaus-Souvenir",
+      "en": "Beehive Souvenir",
+      "fr": "Souvenir du cabaret",
+      "ja": "キャバレー土産品"
+    },
+    "progressDivider": 103,
+    "progressModifier": 100,
+    "qualityDivider": 83,
+    "qualityModifier": 100,
+    "suggestedControl": 1348,
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "level": 20,
+    "maxQuality": 1198,
+    "name": {
+      "de": "Himmelsstadt-Hanfmilch",
+      "en": "Skybuilders' Hemp Milk",
+      "fr": "Lait de chanvre de restauration",
+      "ja": "復興用のヘンプミルク"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 207,
+    "durability": 60,
+    "level": 40,
+    "maxQuality": 3500,
+    "name": {
+      "de": "Himmelsstadt-Nudeln",
+      "en": "Skybuilders' Uncooked Pasta",
+      "fr": "Pâtes de restauration",
+      "ja": "復興用の乾麺"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 580,
+    "durability": 60,
+    "level": 150,
+    "maxQuality": 6480,
+    "name": {
+      "de": "Himmelsstadt-Schwarztee",
+      "en": "Skybuilders' Tea",
+      "fr": "Thé de restauration",
+      "ja": "復興用の紅茶"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "suggestedControl": 553,
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 60,
+    "level": 290,
+    "maxQuality": 9900,
+    "name": {
+      "de": "Himmelsstadt-Kräuterbad",
+      "en": "Skybuilders' All-purpose Infusion",
+      "fr": "Tisane de restauration",
+      "ja": "復興用の薬湯"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 60,
+    "level": 265,
+    "maxQuality": 1152,
+    "name": {
+      "de": "Komponente abanischer Medizin",
+      "en": "Gyr Abanian Remedy Components",
+      "fr": "Composants pour remèdes gyrabaniens",
+      "ja": "ギラバニア医薬品部材"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 60,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Phiolenset abanischer Medizin",
+      "en": "Gyr Abanian Remedies",
+      "fr": "Remèdes gyrabaniens",
+      "ja": "ギラバニア医薬品"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 60,
+    "level": 265,
+    "maxQuality": 1152,
+    "name": {
+      "de": "Komponente einer Haifischharpune",
+      "en": "Harpoon Components",
+      "fr": "Composants pour harpon anti-requin",
+      "ja": "サメ対策用品部材"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 60,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Haifischharpune",
+      "en": "Anti-shark Harpoon",
+      "fr": "Harpon anti-requin",
+      "ja": "サメ対策用品"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 365,
+    "durability": 60,
+    "level": 270,
+    "maxQuality": 1188,
+    "name": {
+      "de": "Komponente coerthischer Winterkleidung",
+      "en": "Cold-weather Gear Components",
+      "fr": "Composants pour vêtements chauds du Coerthas",
+      "ja": "クルザス防寒品部材"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 60,
+    "level": 270,
+    "maxQuality": 2376,
+    "name": {
+      "de": "Coerthischer Wintermantel",
+      "en": "Coerthan Cold-weather Gear",
+      "fr": "Vêtements chauds du Coerthas",
+      "ja": "クルザス防寒品"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 365,
+    "durability": 60,
+    "level": 270,
+    "maxQuality": 1188,
+    "name": {
+      "de": "Komponente einer Kostbarkeit aus Sui no Sato",
+      "en": "Sui-no-Sato Special Components",
+      "fr": "Composants pour spécialité de Sui-no-Sato",
+      "ja": "スイ特産品部材"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 60,
+    "level": 270,
+    "maxQuality": 2376,
+    "name": {
+      "de": "Kostbarkeit aus Sui no Sato",
+      "en": "Sui-no-Sato Special",
+      "fr": "Spécialité de Sui-no-Sato ",
+      "ja": "スイ特産品"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 60,
+    "level": 273,
+    "maxQuality": 1224,
+    "name": {
+      "de": "Komponente einer Wolkenmeerperle",
+      "en": "Cloud Pearl Components",
+      "fr": "Composants pour rareté de la Mer de nuages",
+      "ja": "雲海の珍宝部材"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 60,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Wolkenmeerperle",
+      "en": "Cloud Pearl",
+      "fr": "Rareté de la Mer de nuages",
+      "ja": "雲海の珍宝"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 58,
@@ -10730,218 +11421,6 @@
     "suggestedCraftsmanship": 1662
   },
   {
-    "baseLevel": 80,
-    "difficulty": 2050,
-    "durability": 70,
-    "level": 450,
-    "maxQuality": 7900,
-    "name": {
-      "de": "Miserabelmuscheln al Ajillo",
-      "en": "Mejillones al Ajillo",
-      "fr": "Moules al ajillo",
-      "ja": "ムセルアヒージョ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 1990,
-    "suggestedCraftsmanship": 2140
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2050,
-    "durability": 70,
-    "level": 450,
-    "maxQuality": 7900,
-    "name": {
-      "de": "Schwarze Paella",
-      "en": "Arros Negre",
-      "fr": "Arròs negre",
-      "ja": "アロス・ネグロ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 1990,
-    "suggestedCraftsmanship": 2140
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 756,
-    "durability": 60,
-    "level": 290,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Flugblattdruck-Utensil",
-      "en": "Flyer Printing Set",
-      "fr": "Kit pour dépliants",
-      "ja": "チラシ製作必需品"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1140,
-    "durability": 60,
-    "level": 300,
-    "maxQuality": 2940,
-    "name": {
-      "de": "Menü-Komponenten",
-      "en": "Kholusian Cuisine Set",
-      "fr": "Composant pour nouveau menu",
-      "ja": "新メニュー必需品"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 1080,
-    "suggestedCraftsmanship": 1100
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 60,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Bühnenkostümteil",
-      "en": "Honeybee Trappings",
-      "fr": "Composant pour costume de scène",
-      "ja": "舞台衣装必需品"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 60,
-    "level": 395,
-    "maxQuality": 3040,
-    "name": {
-      "de": "Luftschiff-Komponente",
-      "en": "Airship Fittings",
-      "fr": "Élément pour rénovation d'aéronef",
-      "ja": "飛空艇改装必需品"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 1290,
-    "durability": 60,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Lustspielhaus-Souvenir",
-      "en": "Beehive Souvenir",
-      "fr": "Souvenir du cabaret",
-      "ja": "キャバレー土産品"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 60,
-    "level": 20,
-    "maxQuality": 1198,
-    "name": {
-      "de": "Himmelsstadt-Hanfmilch",
-      "en": "Skybuilders' Hemp Milk",
-      "fr": "Lait de chanvre de restauration",
-      "ja": "復興用のヘンプミルク"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 207,
-    "durability": 60,
-    "level": 40,
-    "maxQuality": 3500,
-    "name": {
-      "de": "Himmelsstadt-Nudeln",
-      "en": "Skybuilders' Uncooked Pasta",
-      "fr": "Pâtes de restauration",
-      "ja": "復興用の乾麺"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 60,
-    "level": 150,
-    "maxQuality": 6480,
-    "name": {
-      "de": "Himmelsstadt-Schwarztee",
-      "en": "Skybuilders' Tea",
-      "fr": "Thé de restauration",
-      "ja": "復興用の紅茶"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "suggestedControl": 553,
-    "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 60,
-    "level": 290,
-    "maxQuality": 9900,
-    "name": {
-      "de": "Himmelsstadt-Kräuterbad",
-      "en": "Skybuilders' All-purpose Infusion",
-      "fr": "Tisane de restauration",
-      "ja": "復興用の薬湯"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1350,
     "durability": 70,
@@ -11082,6 +11561,120 @@
     "suggestedCraftsmanship": 1500
   },
   {
+    "baseLevel": 70,
+    "difficulty": 756,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 1980,
+    "name": {
+      "de": "Entgiftende Brühe",
+      "en": "Edible Antidote",
+      "fr": "Bouillon antidotique",
+      "ja": "解毒の薬餌"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 903,
+    "durability": 80,
+    "level": 400,
+    "maxQuality": 2145,
+    "name": {
+      "de": "Proteinreiche Suppe",
+      "en": "Nutrient-rich Porridge",
+      "fr": "Soupe tonifiante",
+      "ja": "低刺激の薬餌"
+    },
+    "progressDivider": 103,
+    "progressModifier": 100,
+    "qualityDivider": 83,
+    "qualityModifier": 100,
+    "suggestedControl": 1348,
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1001,
+    "durability": 80,
+    "level": 406,
+    "maxQuality": 2255,
+    "name": {
+      "de": "Stärkende Suppe",
+      "en": "Fortifying Soup",
+      "fr": "Potage fortifiant",
+      "ja": "回復期の薬餌"
+    },
+    "progressDivider": 105,
+    "progressModifier": 100,
+    "qualityDivider": 85,
+    "qualityModifier": 100,
+    "suggestedControl": 1425,
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 1148,
+    "durability": 80,
+    "level": 415,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Berube-Futterkohl",
+      "en": "Berube Feed",
+      "fr": "Crème au chou de Berube",
+      "ja": "ベルベ風の餌"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 75,
+    "difficulty": 1001,
+    "durability": 80,
+    "level": 406,
+    "maxQuality": 2255,
+    "name": {
+      "de": "Geschenk für die Pixies",
+      "en": "Offering of Sweets",
+      "fr": "Cadeau pour les Pixies",
+      "ja": "妖精への贈り物"
+    },
+    "progressDivider": 105,
+    "progressModifier": 100,
+    "qualityDivider": 85,
+    "qualityModifier": 100,
+    "suggestedControl": 1425,
+    "suggestedCraftsmanship": 1539
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1246,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 2530,
+    "name": {
+      "de": "Zun-Klöße",
+      "en": "Zun-style Amaro Feed",
+      "fr": "Salade de fruits à la zun",
+      "ja": "ズン族の草団子"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 60,
@@ -11099,6 +11692,206 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Ovim-Hackbällchen",
+      "en": "Ovim Meatballs",
+      "fr": "Spaghettis aux boulettes de viande d'ovim",
+      "ja": "オヴィムミートボール"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Mors",
+      "en": "Mors",
+      "fr": "Pichet de mors",
+      "ja": "モルス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Zitronenwaffel",
+      "en": "Lemon Waffle",
+      "fr": "Gaufre au citron",
+      "ja": "レモンワッフル"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Honighörnchen",
+      "en": "Honey Croissant",
+      "fr": "Croissant au miel",
+      "ja": "ハニークロワッサン"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Würstchen mit Sauerkraut",
+      "en": "Sausage and Sauerkraut",
+      "fr": "Choucroute garnie",
+      "ja": "ソーセージ・ザワークラウト"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Krautwickel nach Hochländer Art",
+      "en": "Stuffed Highland Cabbage",
+      "fr": "Choux des hautes terres farcis",
+      "ja": "高地風挽肉のキャベツ巻き"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Marinierter Hering",
+      "en": "Pickled Herring",
+      "fr": "Harengs marinés",
+      "ja": "ヘリングマリネ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Heringspastete",
+      "en": "Herring Pie",
+      "fr": "Tarte au hareng",
+      "ja": "ヘリングパイ"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Bauernfrühstück",
+      "en": "Farmer's Breakfast",
+      "fr": "Déjeuner rustique",
+      "ja": "ファーマーズブレックファスト"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2800,
+    "durability": 70,
+    "level": 480,
+    "maxQuality": 8500,
+    "name": {
+      "de": "Seidenpudding",
+      "en": "Silkie Pudding",
+      "fr": "Flan soyeux",
+      "ja": "シルキープディング"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 2195,
+    "suggestedCraftsmanship": 2480
   },
   {
     "baseLevel": 70,
@@ -11591,819 +12384,6 @@
     "suggestedCraftsmanship": 2140
   },
   {
-    "baseLevel": 70,
-    "difficulty": 756,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 1980,
-    "name": {
-      "de": "Entgiftende Brühe",
-      "en": "Edible Antidote",
-      "fr": "Bouillon antidotique",
-      "ja": "解毒の薬餌"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 903,
-    "durability": 80,
-    "level": 400,
-    "maxQuality": 2145,
-    "name": {
-      "de": "Proteinreiche Suppe",
-      "en": "Nutrient-rich Porridge",
-      "fr": "Soupe tonifiante",
-      "ja": "低刺激の薬餌"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1001,
-    "durability": 80,
-    "level": 406,
-    "maxQuality": 2255,
-    "name": {
-      "de": "Stärkende Suppe",
-      "en": "Fortifying Soup",
-      "fr": "Potage fortifiant",
-      "ja": "回復期の薬餌"
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 1148,
-    "durability": 80,
-    "level": 415,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Berube-Futterkohl",
-      "en": "Berube Feed",
-      "fr": "Crème au chou de Berube",
-      "ja": "ベルベ風の餌"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1001,
-    "durability": 80,
-    "level": 406,
-    "maxQuality": 2255,
-    "name": {
-      "de": "Geschenk für die Pixies",
-      "en": "Offering of Sweets",
-      "fr": "Cadeau pour les Pixies",
-      "ja": "妖精への贈り物"
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1246,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 2530,
-    "name": {
-      "de": "Zun-Klöße",
-      "en": "Zun-style Amaro Feed",
-      "fr": "Salade de fruits à la zun",
-      "ja": "ズン族の草団子"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 60,
-    "level": 20,
-    "maxQuality": 1198,
-    "name": {
-      "de": "Genist-Hanfmilch",
-      "en": "Grade 2 Skybuilders' Hemp Milk",
-      "fr": "Lait de chanvre de restauration (2e phase)",
-      "ja": "第二次復興用のヘンプミルク"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 60,
-    "level": 40,
-    "maxQuality": 3500,
-    "name": {
-      "de": "Genist-Brot",
-      "en": "Grade 2 Skybuilders' Bread",
-      "fr": "Pain de mie de restauration (2e phase)",
-      "ja": "第二次復興用のブレッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 60,
-    "level": 150,
-    "maxQuality": 6480,
-    "name": {
-      "de": "Genist-Schwarztee",
-      "en": "Grade 2 Skybuilders' Tea",
-      "fr": "Thé de restauration (2e phase)",
-      "ja": "第二次復興用の紅茶"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "suggestedControl": 553,
-    "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 60,
-    "level": 290,
-    "maxQuality": 9900,
-    "name": {
-      "de": "Genist-Kräuterbad",
-      "en": "Grade 2 Skybuilders' All-purpose Infusion",
-      "fr": "Tisane de restauration (2e phase)",
-      "ja": "第二次復興用の薬湯"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 60,
-    "level": 430,
-    "maxQuality": 11960,
-    "name": {
-      "de": "Genist-Eintopf",
-      "en": "Grade 2 Skybuilders' Stew",
-      "fr": "Marmite de ragoût de restauration (2e phase)",
-      "ja": "第二次復興用のシチュー"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 3856,
-    "durability": 60,
-    "level": 481,
-    "maxQuality": 12323,
-    "name": {
-      "de": "Sonderbestellte Genist-Torte",
-      "en": "Grade 2 Artisanal Skybuilders' Quiche",
-      "fr": "Repas sur commande de restauration (2e phase)",
-      "ja": "第二次復興用の特注料理"
-    },
-    "progressDivider": 140,
-    "progressModifier": 100,
-    "qualityDivider": 130,
-    "qualityModifier": 100,
-    "stars": 3,
-    "suggestedControl": 2206,
-    "suggestedCraftsmanship": 2484
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Werkstätten-Getreidesamenextrakt",
-      "en": "Oddly Specific Seed Extract",
-      "fr": "Huile de graines d'affinage",
-      "ja": "改良用の種子抽出液"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1845,
-    "durability": 70,
-    "level": 450,
-    "maxQuality": 7900,
-    "name": {
-      "de": "Werkstätten-Samenmehl",
-      "en": "Oddly Specific Seed Flour",
-      "fr": "Poudre de graines d'affinage",
-      "ja": "改良用の種子粉"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 1990,
-    "suggestedCraftsmanship": 2140
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 340,
-    "durability": 60,
-    "level": 265,
-    "maxQuality": 1152,
-    "name": {
-      "de": "Komponente abanischer Medizin",
-      "en": "Gyr Abanian Remedy Components",
-      "fr": "Composants pour remèdes gyrabaniens",
-      "ja": "ギラバニア医薬品部材"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 60,
-    "level": 265,
-    "maxQuality": 2304,
-    "name": {
-      "de": "Phiolenset abanischer Medizin",
-      "en": "Gyr Abanian Remedies",
-      "fr": "Remèdes gyrabaniens",
-      "ja": "ギラバニア医薬品"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 340,
-    "durability": 60,
-    "level": 265,
-    "maxQuality": 1152,
-    "name": {
-      "de": "Komponente einer Haifischharpune",
-      "en": "Harpoon Components",
-      "fr": "Composants pour harpon anti-requin",
-      "ja": "サメ対策用品部材"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 60,
-    "level": 265,
-    "maxQuality": 2304,
-    "name": {
-      "de": "Haifischharpune",
-      "en": "Anti-shark Harpoon",
-      "fr": "Harpon anti-requin",
-      "ja": "サメ対策用品"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 365,
-    "durability": 60,
-    "level": 270,
-    "maxQuality": 1188,
-    "name": {
-      "de": "Komponente coerthischer Winterkleidung",
-      "en": "Cold-weather Gear Components",
-      "fr": "Composants pour vêtements chauds du Coerthas",
-      "ja": "クルザス防寒品部材"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 60,
-    "level": 270,
-    "maxQuality": 2376,
-    "name": {
-      "de": "Coerthischer Wintermantel",
-      "en": "Coerthan Cold-weather Gear",
-      "fr": "Vêtements chauds du Coerthas",
-      "ja": "クルザス防寒品"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 365,
-    "durability": 60,
-    "level": 270,
-    "maxQuality": 1188,
-    "name": {
-      "de": "Komponente einer Kostbarkeit aus Sui no Sato",
-      "en": "Sui-no-Sato Special Components",
-      "fr": "Composants pour spécialité de Sui-no-Sato",
-      "ja": "スイ特産品部材"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 60,
-    "level": 270,
-    "maxQuality": 2376,
-    "name": {
-      "de": "Kostbarkeit aus Sui no Sato",
-      "en": "Sui-no-Sato Special",
-      "fr": "Spécialité de Sui-no-Sato ",
-      "ja": "スイ特産品"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 60,
-    "level": 273,
-    "maxQuality": 1224,
-    "name": {
-      "de": "Komponente einer Wolkenmeerperle",
-      "en": "Cloud Pearl Components",
-      "fr": "Composants pour rareté de la Mer de nuages",
-      "ja": "雲海の珍宝部材"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 60,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Wolkenmeerperle",
-      "en": "Cloud Pearl",
-      "fr": "Rareté de la Mer de nuages",
-      "ja": "雲海の珍宝"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Krabbenküchlein",
-      "en": "Crab Cakes",
-      "fr": "Gâteau de crabe",
-      "ja": "クラブケーキ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Chili-Krabbengericht",
-      "en": "Chili Crab",
-      "fr": "Chili de crabe",
-      "ja": "チリクラブ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 60,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Komponenten für ein spezielles Sammlerwerkzeug",
-      "en": "Custom Gathering Tool Components",
-      "fr": "Outils de récolte pour dragon",
-      "ja": "ドラゴン用採集道具部材"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 60,
-    "level": 395,
-    "maxQuality": 3040,
-    "name": {
-      "de": "Komponenten für ein spezielles Weberwerkzeug",
-      "en": "Custom Weaving Components",
-      "fr": "Ustensiles de couture pour dragon",
-      "ja": "ドラゴン用裁縫用具"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 1290,
-    "durability": 60,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Komponenten für ein spezielles Werkzeug",
-      "en": "Custom Crafting Tool Components",
-      "fr": "Outils d'artisanat pour dragon",
-      "ja": "ドラゴン用職人道具部材"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 74,
-    "difficulty": 1360,
-    "durability": 60,
-    "level": 403,
-    "maxQuality": 3200,
-    "name": {
-      "de": "Handverlesene kulinarische Köstlichkeiten",
-      "en": "Handpicked Culinary Essentials",
-      "fr": "Sandwichs pour dragon",
-      "ja": "ドラゴンおもてなし料理必需品"
-    },
-    "progressDivider": 104,
-    "progressModifier": 100,
-    "qualityDivider": 84,
-    "qualityModifier": 100,
-    "suggestedControl": 1387,
-    "suggestedCraftsmanship": 1498
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1430,
-    "durability": 60,
-    "level": 406,
-    "maxQuality": 3280,
-    "name": {
-      "de": "Druckutensilien",
-      "en": "Printing Essentials",
-      "fr": "Lot d'imprimerie",
-      "ja": "印刷必需品"
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "de": "Konpeito",
-      "en": "Konpeito",
-      "fr": "Konpeitô",
-      "ja": "金平糖"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "de": "Banh Xeo",
-      "en": "Banh Xeo",
-      "fr": "Banh xeo",
-      "ja": "バインセオ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "de": "Matcha-Tee",
-      "en": "Matcha",
-      "fr": "Matcha",
-      "ja": "抹茶"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "de": "Ema Datshi",
-      "en": "Ema Datshi",
-      "fr": "Ema datshi",
-      "ja": "エマダツィ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Rooibos-Tee",
-      "en": "Rooibos Tea",
-      "fr": "Thé rooibos",
-      "ja": "ルイボスティー"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Ingwersalat",
-      "en": "Ginger Salad",
-      "fr": "Salade au gingembre",
-      "ja": "ジンジャーサラダ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Laghman",
-      "en": "Laghman",
-      "fr": "Laghman",
-      "ja": "ラグマン"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Patlican Imam Bayildi",
-      "en": "Imam Bayildi",
-      "fr": "Patlican imam bayildi",
-      "ja": "パトゥルジャン・イマム・バユルドゥ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Papanasi",
-      "en": "Papanasi",
-      "fr": "Papanasi",
-      "ja": "パパナッシュ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Lachs-Muffin",
-      "en": "Salmon Muffin",
-      "fr": "Muffin au saumon",
-      "ja": "サーモンマフィン"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "de": "Shakshouka",
-      "en": "Shakshouka",
-      "fr": "Chakchouka",
-      "ja": "シャクシュカ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
     "baseLevel": 60,
     "difficulty": 290,
     "durability": 60,
@@ -12596,224 +12576,224 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 80,
-    "difficulty": 2800,
+    "baseLevel": 70,
+    "difficulty": 1500,
     "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
+    "level": 380,
+    "maxQuality": 6100,
     "name": {
-      "de": "Ovim-Hackbällchen",
-      "en": "Ovim Meatballs",
-      "fr": "Spaghettis aux boulettes de viande d'ovim",
-      "ja": "オヴィムミートボール"
+      "de": "Rooibos-Tee",
+      "en": "Rooibos Tea",
+      "fr": "Thé rooibos",
+      "ja": "ルイボスティー"
     },
-    "progressDivider": 110,
+    "progressDivider": 90,
     "progressModifier": 80,
-    "qualityDivider": 90,
+    "qualityDivider": 70,
     "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Mors",
-      "en": "Mors",
-      "fr": "Pichet de mors",
-      "ja": "モルス"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Zitronenwaffel",
-      "en": "Lemon Waffle",
-      "fr": "Gaufre au citron",
-      "ja": "レモンワッフル"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Honighörnchen",
-      "en": "Honey Croissant",
-      "fr": "Croissant au miel",
-      "ja": "ハニークロワッサン"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Würstchen mit Sauerkraut",
-      "en": "Sausage and Sauerkraut",
-      "fr": "Choucroute garnie",
-      "ja": "ソーセージ・ザワークラウト"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Krautwickel nach Hochländer Art",
-      "en": "Stuffed Highland Cabbage",
-      "fr": "Choux des hautes terres farcis",
-      "ja": "高地風挽肉のキャベツ巻き"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Marinierter Hering",
-      "en": "Pickled Herring",
-      "fr": "Harengs marinés",
-      "ja": "ヘリングマリネ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Heringspastete",
-      "en": "Herring Pie",
-      "fr": "Tarte au hareng",
-      "ja": "ヘリングパイ"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Bauernfrühstück",
-      "en": "Farmer's Breakfast",
-      "fr": "Déjeuner rustique",
-      "ja": "ファーマーズブレックファスト"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "de": "Seidenpudding",
-      "en": "Silkie Pudding",
-      "fr": "Flan soyeux",
-      "ja": "シルキープディング"
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 8800,
-    "durability": 60,
-    "level": 641,
-    "maxQuality": 18040,
-    "name": {
-      "de": "Gymnastikutter-Kunstharz",
-      "en": "Uncharted Course Resin",
-      "fr": "Résine synthétique pour l'accrobranche insulaire",
-      "ja": "アスレチックシップの建築用合成樹脂"
-    },
-    "progressDivider": 180,
-    "progressModifier": 100,
-    "qualityDivider": 180,
-    "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 3280,
-    "suggestedCraftsmanship": 3700
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Ingwersalat",
+      "en": "Ginger Salad",
+      "fr": "Salade au gingembre",
+      "ja": "ジンジャーサラダ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Laghman",
+      "en": "Laghman",
+      "fr": "Laghman",
+      "ja": "ラグマン"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Patlican Imam Bayildi",
+      "en": "Imam Bayildi",
+      "fr": "Patlican imam bayildi",
+      "ja": "パトゥルジャン・イマム・バユルドゥ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Papanasi",
+      "en": "Papanasi",
+      "fr": "Papanasi",
+      "ja": "パパナッシュ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Lachs-Muffin",
+      "en": "Salmon Muffin",
+      "fr": "Muffin au saumon",
+      "ja": "サーモンマフィン"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1500,
+    "durability": 70,
+    "level": 380,
+    "maxQuality": 6100,
+    "name": {
+      "de": "Shakshouka",
+      "en": "Shakshouka",
+      "fr": "Chakchouka",
+      "ja": "シャクシュカ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 1600,
+    "suggestedCraftsmanship": 1650
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "de": "Konpeito",
+      "en": "Konpeito",
+      "fr": "Konpeitô",
+      "ja": "金平糖"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "de": "Banh Xeo",
+      "en": "Banh Xeo",
+      "fr": "Banh xeo",
+      "ja": "バインセオ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "de": "Matcha-Tee",
+      "en": "Matcha",
+      "fr": "Matcha",
+      "ja": "抹茶"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1350,
+    "durability": 70,
+    "level": 350,
+    "maxQuality": 5200,
+    "name": {
+      "de": "Ema Datshi",
+      "en": "Ema Datshi",
+      "fr": "Ema datshi",
+      "ja": "エマダツィ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 80,
+    "qualityDivider": 70,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 1350,
+    "suggestedCraftsmanship": 1500
   },
   {
     "baseLevel": 80,
@@ -13388,6 +13368,26 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 8800,
+    "durability": 60,
+    "level": 641,
+    "maxQuality": 18040,
+    "name": {
+      "de": "Gymnastikutter-Kunstharz",
+      "en": "Uncharted Course Resin",
+      "fr": "Résine synthétique pour l'accrobranche insulaire",
+      "ja": "アスレチックシップの建築用合成樹脂"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 5060,
     "durability": 70,
     "level": 610,
@@ -13761,6 +13761,179 @@
     "stars": 2,
     "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 60,
+    "level": 430,
+    "maxQuality": 11960,
+    "name": {
+      "de": "Federfall-Eintopf",
+      "en": "Grade 3 Skybuilders' Stew",
+      "fr": "Marmite de ragoût de restauration (3e phase)",
+      "ja": "第三次復興用のシチュー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 4672,
+    "durability": 50,
+    "level": 511,
+    "maxQuality": 15656,
+    "name": {
+      "de": "Sonderbestellter Federfall-Speiseteller",
+      "en": "Grade 3 Artisanal Skybuilders' Luncheon",
+      "fr": "Assiette-repas sur commande de restauration (3e phase)",
+      "ja": "第三次復興用の特注定食プレート"
+    },
+    "progressDivider": 140,
+    "progressModifier": 100,
+    "qualityDivider": 130,
+    "qualityModifier": 100,
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 80,
+    "level": 430,
+    "maxQuality": 4600,
+    "name": {
+      "de": "Limonade (Sammlerstück)",
+      "en": "Rarefied Lemonade",
+      "fr": "Limonade collectionnable",
+      "ja": "収集用のレモネード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 60,
+    "level": 20,
+    "maxQuality": 1198,
+    "name": {
+      "de": "Himmelsang-Hanfmilch",
+      "en": "Grade 4 Skybuilders' Hemp Milk",
+      "fr": "Lait de chanvre de restauration (4e phase)",
+      "ja": "第四次復興用のヘンプミルク"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 60,
+    "level": 40,
+    "maxQuality": 3500,
+    "name": {
+      "de": "Himmelsang-Sesamkeks",
+      "en": "Grade 4 Skybuilders' Sesame Cookie",
+      "fr": "Biscuit au sésame de restauration (4e phase)",
+      "ja": "第四次復興用のセサミクッキー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 60,
+    "difficulty": 580,
+    "durability": 60,
+    "level": 150,
+    "maxQuality": 6480,
+    "name": {
+      "de": "Himmelsang-Schwarztee",
+      "en": "Grade 4 Skybuilders' Tea",
+      "fr": "Thé de restauration (4e phase)",
+      "ja": "第四次復興用の紅茶"
+    },
+    "progressDivider": 70,
+    "progressModifier": 100,
+    "qualityDivider": 50,
+    "qualityModifier": 100,
+    "suggestedControl": 553,
+    "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 60,
+    "level": 290,
+    "maxQuality": 9900,
+    "name": {
+      "de": "Himmelsang-Kräuterbad",
+      "en": "Grade 4 Skybuilders' All-purpose Infusion",
+      "fr": "Tisane de restauration (4e phase)",
+      "ja": "第四次復興用の薬湯"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 60,
+    "level": 430,
+    "maxQuality": 11960,
+    "name": {
+      "de": "Himmelsang-Eintopf",
+      "en": "Grade 4 Skybuilders' Stew",
+      "fr": "Marmite de ragoût de restauration (4e phase)",
+      "ja": "第四次復興用のシチュー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 5059,
+    "durability": 55,
+    "level": 513,
+    "maxQuality": 15474,
+    "name": {
+      "de": "Sonderbestelltes Himmelsang-Sorbet",
+      "en": "Grade 4 Artisanal Skybuilders' Sorbet",
+      "fr": "Sorbet sur commande de restauration (4e phase)",
+      "ja": "第四次復興用の特注ソルベ"
+    },
+    "progressDivider": 140,
+    "progressModifier": 100,
+    "qualityDivider": 130,
+    "qualityModifier": 100,
+    "stars": 4,
+    "suggestedControl": 2540,
+    "suggestedCraftsmanship": 2620
   },
   {
     "baseLevel": 80,
@@ -14347,177 +14520,223 @@
     "suggestedCraftsmanship": 2620
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 60,
-    "level": 430,
-    "maxQuality": 11960,
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
     "name": {
-      "de": "Federfall-Eintopf",
-      "en": "Grade 3 Skybuilders' Stew",
-      "fr": "Marmite de ragoût de restauration (3e phase)",
-      "ja": "第三次復興用のシチュー"
+      "de": "Exegetenburger",
+      "en": "Archon Burger",
+      "fr": "Sageburger",
+      "ja": "賢人バーガー"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 80,
-    "difficulty": 4672,
-    "durability": 50,
-    "level": 511,
-    "maxQuality": 15656,
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
     "name": {
-      "de": "Sonderbestellter Federfall-Speiseteller",
-      "en": "Grade 3 Artisanal Skybuilders' Luncheon",
-      "fr": "Assiette-repas sur commande de restauration (3e phase)",
-      "ja": "第三次復興用の特注定食プレート"
+      "de": "Bœuf Stroganoff",
+      "en": "Beef Stroganoff",
+      "fr": "Bœuf Stroganov",
+      "ja": "ビーフストロガノフ"
     },
-    "progressDivider": 140,
-    "progressModifier": 100,
-    "qualityDivider": 130,
-    "qualityModifier": 100,
-    "stars": 4,
-    "suggestedControl": 2540,
-    "suggestedCraftsmanship": 2620
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
-    "baseLevel": 80,
-    "difficulty": 1780,
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Kürbis-Ratatouille",
+      "en": "Pumpkin Ratatouille",
+      "fr": "Ratatouille à la citrouille",
+      "ja": "パンプキンラタトゥイユ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Kürbissuppe",
+      "en": "Pumpkin Potage",
+      "fr": "Potage à la citrouille",
+      "ja": "パンプキンポタージュ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Pfirsichsaft",
+      "en": "Peach Juice",
+      "fr": "Jus de pêche",
+      "ja": "ピーチジュース"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Pfirsichtörtchen",
+      "en": "Peach Tart",
+      "fr": "Tarte à la pêche",
+      "ja": "ピーチタルト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Lykon-Keks",
+      "en": "Sykon Cookie",
+      "fr": "Biscuit au sycon",
+      "ja": "シューコンクッキー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Tee nach thavnairischer Art",
+      "en": "Thavnairian Chai",
+      "fr": "Chai thavnairois",
+      "ja": "サベネアンチャイ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Muschelsalat",
+      "en": "Scallop Salad",
+      "fr": "Coquilles Saint-Jacques",
+      "ja": "スカロップサラダ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "de": "Meeresfrüchtecurry",
+      "en": "Scallop Curry",
+      "fr": "Curry aux coquilles Saint-Jacques",
+      "ja": "スカロップカレー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
     "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
+    "level": 560,
+    "maxQuality": 7200,
     "name": {
-      "de": "Limonade (Sammlerstück)",
-      "en": "Rarefied Lemonade",
-      "fr": "Limonade collectionnable",
-      "ja": "収集用のレモネード"
+      "de": "Lykon à la Barvarois (Sammlerstück)",
+      "en": "Rarefied Sykon Bavarois",
+      "fr": "Bavarois aux sycon collectionnable",
+      "ja": "収集用のババロア・オ・シューコン"
     },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 60,
-    "level": 20,
-    "maxQuality": 1198,
-    "name": {
-      "de": "Himmelsang-Hanfmilch",
-      "en": "Grade 4 Skybuilders' Hemp Milk",
-      "fr": "Lait de chanvre de restauration (4e phase)",
-      "ja": "第四次復興用のヘンプミルク"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 60,
-    "level": 40,
-    "maxQuality": 3500,
-    "name": {
-      "de": "Himmelsang-Sesamkeks",
-      "en": "Grade 4 Skybuilders' Sesame Cookie",
-      "fr": "Biscuit au sésame de restauration (4e phase)",
-      "ja": "第四次復興用のセサミクッキー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 580,
-    "durability": 60,
-    "level": 150,
-    "maxQuality": 6480,
-    "name": {
-      "de": "Himmelsang-Schwarztee",
-      "en": "Grade 4 Skybuilders' Tea",
-      "fr": "Thé de restauration (4e phase)",
-      "ja": "第四次復興用の紅茶"
-    },
-    "progressDivider": 70,
-    "progressModifier": 100,
-    "qualityDivider": 50,
-    "qualityModifier": 100,
-    "suggestedControl": 553,
-    "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 60,
-    "level": 290,
-    "maxQuality": 9900,
-    "name": {
-      "de": "Himmelsang-Kräuterbad",
-      "en": "Grade 4 Skybuilders' All-purpose Infusion",
-      "fr": "Tisane de restauration (4e phase)",
-      "ja": "第四次復興用の薬湯"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 60,
-    "level": 430,
-    "maxQuality": 11960,
-    "name": {
-      "de": "Himmelsang-Eintopf",
-      "en": "Grade 4 Skybuilders' Stew",
-      "fr": "Marmite de ragoût de restauration (4e phase)",
-      "ja": "第四次復興用のシチュー"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 5059,
-    "durability": 55,
-    "level": 513,
-    "maxQuality": 15474,
-    "name": {
-      "de": "Sonderbestelltes Himmelsang-Sorbet",
-      "en": "Grade 4 Artisanal Skybuilders' Sorbet",
-      "fr": "Sorbet sur commande de restauration (4e phase)",
-      "ja": "第四次復興用の特注ソルベ"
-    },
-    "progressDivider": 140,
-    "progressModifier": 100,
-    "qualityDivider": 130,
-    "qualityModifier": 100,
-    "stars": 4,
-    "suggestedControl": 2540,
-    "suggestedCraftsmanship": 2620
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
   },
   {
     "baseLevel": 90,
@@ -14798,224 +15017,5 @@
     "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Exegetenburger",
-      "en": "Archon Burger",
-      "fr": "Sageburger",
-      "ja": "賢人バーガー"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Bœuf Stroganoff",
-      "en": "Beef Stroganoff",
-      "fr": "Bœuf Stroganov",
-      "ja": "ビーフストロガノフ"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Kürbis-Ratatouille",
-      "en": "Pumpkin Ratatouille",
-      "fr": "Ratatouille à la citrouille",
-      "ja": "パンプキンラタトゥイユ"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Kürbissuppe",
-      "en": "Pumpkin Potage",
-      "fr": "Potage à la citrouille",
-      "ja": "パンプキンポタージュ"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Pfirsichsaft",
-      "en": "Peach Juice",
-      "fr": "Jus de pêche",
-      "ja": "ピーチジュース"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Pfirsichtörtchen",
-      "en": "Peach Tart",
-      "fr": "Tarte à la pêche",
-      "ja": "ピーチタルト"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Lykon-Keks",
-      "en": "Sykon Cookie",
-      "fr": "Biscuit au sycon",
-      "ja": "シューコンクッキー"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Tee nach thavnairischer Art",
-      "en": "Thavnairian Chai",
-      "fr": "Chai thavnairois",
-      "ja": "サベネアンチャイ"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Muschelsalat",
-      "en": "Scallop Salad",
-      "fr": "Coquilles Saint-Jacques",
-      "ja": "スカロップサラダ"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3900,
-    "durability": 70,
-    "level": 580,
-    "maxQuality": 10920,
-    "name": {
-      "de": "Meeresfrüchtecurry",
-      "en": "Scallop Curry",
-      "fr": "Curry aux coquilles Saint-Jacques",
-      "ja": "スカロップカレー"
-    },
-    "progressDivider": 130,
-    "progressModifier": 80,
-    "qualityDivider": 115,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 3080,
-    "suggestedCraftsmanship": 3180
-  },
-  {
-    "baseLevel": 90,
-    "difficulty": 3500,
-    "durability": 80,
-    "level": 560,
-    "maxQuality": 7200,
-    "name": {
-      "de": "Lykon à la Barvarois (Sammlerstück)",
-      "en": "Rarefied Sykon Bavarois",
-      "fr": "Bavarois aux sycon collectionnable",
-      "ja": "収集用のババロア・オ・シューコン"
-    },
-    "progressDivider": 130,
-    "progressModifier": 90,
-    "qualityDivider": 115,
-    "qualityModifier": 80,
-    "suggestedControl": 2635,
-    "suggestedCraftsmanship": 2805
   }
 ]
