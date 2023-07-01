@@ -131,7 +131,7 @@
       if (options.includeMicon) {
         macroString += '/micon\n' + $scope.cls;
           macroLineCount++;
-
+        } // Obviously don't know what I'm doing!
 
       for (var j = 0; j < lines.length; j++) {
         var line = lines[j];
