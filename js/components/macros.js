@@ -124,7 +124,7 @@
         macroString += '/macrolock\n';
           macroLineCount++;
       }
-      console.log($translate.scope.cls)
+      console.log($translate.scope.cls);
       if (options.includeMicon) {
         macroString += "/micon " + $scope.cls + " classjob\n";
           macroLineCount++;
