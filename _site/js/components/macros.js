@@ -100,7 +100,7 @@
             line += buffWaitString;
             time = options.buffWaitTime;
           }
-          if (j != infoList.length -1) {
+          if (j !== infoList.length -1) {
             line += waitString;
             time = options.waitTime
           }
