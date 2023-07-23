@@ -97,6 +97,7 @@
           var line = '/ac "' + actionName + '" ';
           var time;
           if (buffs[actionFromList]) {
+            console.log(infoList.length)
             line += buffWaitString;
             time = options.buffWaitTime;
           }
