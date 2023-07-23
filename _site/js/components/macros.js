@@ -102,7 +102,7 @@
           }
           if (j != infoList.length -1) {
             line += waitString;
-            time = options.waitTime
+            time = options.waitTime;
           }
           lines.push({text: line, time: time});
         }
