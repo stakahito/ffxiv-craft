@@ -100,7 +100,8 @@
             line += buffWaitString;
             time = options.buffWaitTime;
           }
-          if (j !== infoList.length -1) {
+          console.log(j != infoList.length - 1)
+          else {
             line += waitString;
             time = options.waitTime
           }
