@@ -43,6 +43,10 @@ Access to `ffxiv-craft` is straightforward and doesn't require local setup. You 
 
 - **Webhook Integration:** Intend to run a webhook that will monitor for future updates. The webhook will check `xivapi` for these updates and trigger a build when new data is available.
 
+- **Reorder non-English translations:** Address [this issues](https://github.com/NotRanged/NotRanged.github.io/issues/76) and any other languages that have a similiar issue.
+
+- **Remove last wait.num:** [The last wait is not needed](https://github.com/NotRanged/NotRanged.github.io/issues/78) Add option to remove or set the default behavior to remove.
+
 ## Contributing
 
 We always welcome community contributions and feedback! If you have a feature request, want to report a bug, or have developed a new feature that would benefit the community, feel free to open an issue or submit a pull request. Please ensure that you read through the existing issues and pull requests to avoid duplicate entries.
