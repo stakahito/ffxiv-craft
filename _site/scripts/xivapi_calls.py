@@ -16,22 +16,6 @@ RECIPE_API_URL = 'https://xivapi.com/Recipe'
 PARENT_DIR = Path(__file__).parents[1]
 
 
-class Buffs:
-    def __init__(self, cp_percent, cp_value, craft_percent, craft_value, control_percent, control_value, hq, name, name_de, name_fr, name_ja):
-        self.cp_percent = cp_percent
-        self.cp_value = cp_value
-        self.craftsmanship_percent = craft_percent
-        self.craftsmanship_value = craft_value
-        self.control_percent = control_percent
-        self.control_value = control_value
-        self.hq = hq
-        self.name = {
-            "en": name,
-            "de": name_de,
-            "fr": name_fr,
-            "ja": name_ja,
-        }
-
 def construct_recipe_json(original_recipe):
     """
     Returns a recipe dictionary in the format desired by the FFXIV crafting solver.
@@ -118,6 +102,10 @@ def save_data_to_json(recipes):
     """
     Path(f'{PARENT_DIR}/data/recipedb/').mkdir(parents=True, exist_ok=True)
     for class_job, class_recipes in recipes.items():
+        # Sort the recipes, to ensure that for the same set
+        # of recipes, we always generate a byte-identical
+        # file.
+        class_recipes.sort(key=lambda class_recipe: class_recipe["name"]["en"])
         with open(f"{PARENT_DIR}/data/recipedb/{class_job}.json", mode="w", encoding="utf-8") as my_file:
             json.dump(class_recipes, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
@@ -153,21 +141,32 @@ def extract_buff_data(buff_name):
 
     buffs = []
     for item in request.json()["Results"]:
+        bonuses = item.get("Bonuses")
+        if bonuses is None:
+            # Skip items that do not have any bonuses.
+            # This should not be possible (as the query should only return
+            # results that have at least one bonus), but we check anyway to
+            # simplify the code below.
+            continue
         # Extract both HQ and NQ buff data
-        for hq in [False, True]:
-            new_item = vars(Buffs(
-                item.get("Bonuses", {}).get("CP", {}).get("Value"),
-                item.get("Bonuses", {}).get("CP", {}).get("Max"),
-                item.get("Bonuses", {}).get("Craftsmanship", {}).get("Value"),
-                item.get("Bonuses", {}).get("Craftsmanship", {}).get("Max"),
-                item.get("Bonuses", {}).get("Control", {}).get("Value"),
-                item.get("Bonuses", {}).get("Control", {}).get("Max"),
-                hq,
-                item.get("Name"),
-                item.get("Name_de"),
-                item.get("Name_fr"),
-                item.get("Name_ja")
-            ))
+        for hq, attr_suffix in ((False, ""), (True, "HQ")):
+            def _get(stat_name, attribute):
+                return bonuses.get(stat_name, {}).get(attribute + attr_suffix)
+            new_item = {
+                "cp_percent": _get("CP", "Value"),
+                "cp_value": _get("CP", "Max"),
+                "craftsmanship_percent": _get("Craftsmanship", "Value"),
+                "craftsmanship_value": _get("Craftsmanship", "Max"),
+                "control_percent": _get("Control", "Value"),
+                "control_value": _get("Control", "Max"),
+                "hq": hq,
+                "name": {
+                    "en": item.get("Name"),
+                    "de": item.get("Name_de"),
+                    "fr": item.get("Name_fr"),
+                    "ja": item.get("Name_ja"),
+                },
+            }
 
             # Remove None values from previous step
             new_item = {k: v for k, v in new_item.items() if v is not None}
@@ -180,6 +179,9 @@ def save_buffs_to_file(buffs, buff_name):
     Save buffs data to a .json file
     """
     Path(f'{PARENT_DIR}/data/buffs').mkdir(parents=True, exist_ok=True)
+    # Sort the buffs (by english name, then NQ/HQ), to ensure that for the same
+    # set of buff, we always generate a byte-identical file.
+    buffs.sort(key=lambda buff: (buff["name"]["en"], buff["hq"]))
     with open(f"{PARENT_DIR}/data/buffs/{buff_name}.json", mode="w", encoding="utf-8") as my_file:
         json.dump(buffs, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
