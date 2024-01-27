@@ -102,6 +102,10 @@ def save_data_to_json(recipes):
     """
     Path(f'{PARENT_DIR}/data/recipedb/').mkdir(parents=True, exist_ok=True)
     for class_job, class_recipes in recipes.items():
+        # Sort the recipes, to ensure that for the same set
+        # of recipes, we always generate a byte-identical
+        # file.
+        class_recipes.sort(key=lambda class_recipe: class_recipe["name"]["en"])
         with open(f"{PARENT_DIR}/data/recipedb/{class_job}.json", mode="w", encoding="utf-8") as my_file:
             json.dump(class_recipes, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
@@ -175,6 +179,9 @@ def save_buffs_to_file(buffs, buff_name):
     Save buffs data to a .json file
     """
     Path(f'{PARENT_DIR}/data/buffs').mkdir(parents=True, exist_ok=True)
+    # Sort the buffs (by english name, then NQ/HQ), to ensure that for the same
+    # set of buff, we always generate a byte-identical file.
+    buffs.sort(key=lambda buff: (buff["name"]["en"], buff["hq"]))
     with open(f"{PARENT_DIR}/data/buffs/{buff_name}.json", mode="w", encoding="utf-8") as my_file:
         json.dump(buffs, my_file, indent=2, sort_keys=True, ensure_ascii=False)
 
