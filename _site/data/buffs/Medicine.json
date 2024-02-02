@@ -11,8 +11,8 @@
     }
   },
   {
-    "control_percent": 2,
-    "control_value": 40,
+    "control_percent": 3,
+    "control_value": 50,
     "hq": true,
     "name": {
       "de": "Fachkenntnis-Kräuterwein",
@@ -33,8 +33,8 @@
     }
   },
   {
-    "control_percent": 2,
-    "control_value": 34,
+    "control_percent": 3,
+    "control_value": 42,
     "hq": true,
     "name": {
       "de": "Artisanentrank der Fachkenntnis",
@@ -55,8 +55,8 @@
     }
   },
   {
-    "control_percent": 2,
-    "control_value": 20,
+    "control_percent": 3,
+    "control_value": 25,
     "hq": true,
     "name": {
       "de": "Handwerkerlegenden-Tee",
@@ -77,8 +77,8 @@
     }
   },
   {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 40,
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 50,
     "hq": true,
     "name": {
       "de": "Facharbeiter-Kräuterwein",
@@ -99,8 +99,8 @@
     }
   },
   {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 33,
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 41,
     "hq": true,
     "name": {
       "de": "Artisanentrank der Effizienz",
@@ -121,8 +121,8 @@
     }
   },
   {
-    "craftsmanship_percent": 2,
-    "craftsmanship_value": 20,
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 25,
     "hq": true,
     "name": {
       "de": "Handwerkermeister-Tee",
@@ -143,8 +143,8 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 17,
+    "cp_percent": 6,
+    "cp_value": 21,
     "hq": true,
     "name": {
       "de": "Fachwissen-Kräuterwein",
@@ -165,8 +165,8 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 13,
+    "cp_percent": 6,
+    "cp_value": 16,
     "hq": true,
     "name": {
       "de": "Artisanentrank des Fachwissens",
@@ -187,8 +187,8 @@
     }
   },
   {
-    "cp_percent": 4,
-    "cp_value": 10,
+    "cp_percent": 5,
+    "cp_value": 13,
     "hq": true,
     "name": {
       "de": "Handwerkerkoryphäen-Tee",
