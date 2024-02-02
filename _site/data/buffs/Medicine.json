@@ -13,10 +13,10 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 48,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 28,
+    "cp_percent": 10,
+    "cp_value": 38,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 22,
     "hq": true,
     "name": {
       "de": "Überbackene Zwiebelsuppe",
@@ -37,8 +37,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 17,
+    "control_percent": 8,
+    "control_value": 14,
     "hq": true,
     "name": {
       "de": "Gebratene Seezunge",
@@ -61,10 +61,10 @@
     }
   },
   {
-    "control_percent": 12,
-    "control_value": 68,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 29,
+    "control_percent": 10,
+    "control_value": 54,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 23,
     "hq": true,
     "name": {
       "de": "Purpurrote Bete-Suppe",
@@ -85,8 +85,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 48,
+    "control_percent": 8,
+    "control_value": 38,
     "hq": true,
     "name": {
       "de": "Königskuchen",
@@ -109,10 +109,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 64,
-    "cp_percent": 26,
-    "cp_value": 66,
+    "control_percent": 4,
+    "control_value": 51,
+    "cp_percent": 21,
+    "cp_value": 53,
     "hq": true,
     "name": {
       "de": "Blut-Bouillabaisse",
@@ -135,10 +135,10 @@
     }
   },
   {
-    "cp_percent": 10,
-    "cp_value": 27,
-    "craftsmanship_percent": 9,
-    "craftsmanship_value": 153,
+    "cp_percent": 8,
+    "cp_value": 22,
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 122,
     "hq": true,
     "name": {
       "de": "Bluttomatensalat",
@@ -159,8 +159,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 15,
+    "control_percent": 8,
+    "control_value": 12,
     "hq": true,
     "name": {
       "de": "Gekochte Brasse",
@@ -181,8 +181,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 43,
+    "cp_percent": 10,
+    "cp_value": 34,
     "hq": true,
     "name": {
       "de": "Bouillabaisse",
@@ -205,10 +205,10 @@
     }
   },
   {
-    "cp_percent": 26,
-    "cp_value": 82,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 120,
+    "cp_percent": 21,
+    "cp_value": 66,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 96,
     "hq": true,
     "name": {
       "de": "Calamari Ripieni",
@@ -229,8 +229,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 30,
+    "cp_percent": 10,
+    "cp_value": 24,
     "hq": true,
     "name": {
       "de": "Cawl Cennin",
@@ -251,8 +251,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 20,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 16,
     "hq": true,
     "name": {
       "de": "Käserisotto",
@@ -273,8 +273,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 25,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 20,
     "hq": true,
     "name": {
       "de": "Käseauflauf",
@@ -297,10 +297,10 @@
     }
   },
   {
-    "control_percent": 6,
-    "control_value": 70,
-    "cp_percent": 26,
-    "cp_value": 72,
+    "control_percent": 5,
+    "control_value": 56,
+    "cp_percent": 21,
+    "cp_value": 57,
     "hq": true,
     "name": {
       "de": "Chili-Krabbengericht",
@@ -323,10 +323,10 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 17,
-    "craftsmanship_percent": 12,
-    "craftsmanship_value": 47,
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 38,
     "hq": true,
     "name": {
       "de": "Kalte Toffelsuppe",
@@ -349,10 +349,10 @@
     }
   },
   {
-    "control_percent": 12,
-    "control_value": 73,
-    "cp_percent": 5,
-    "cp_value": 19,
+    "control_percent": 10,
+    "control_value": 58,
+    "cp_percent": 4,
+    "cp_value": 15,
     "hq": true,
     "name": {
       "de": "Muschelsuppe",
@@ -373,8 +373,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 27,
+    "control_percent": 8,
+    "control_value": 22,
     "hq": true,
     "name": {
       "de": "Dolchfisch-Suppe",
@@ -397,10 +397,10 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 19,
-    "craftsmanship_percent": 12,
-    "craftsmanship_value": 75,
+    "cp_percent": 4,
+    "cp_value": 15,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 60,
     "hq": true,
     "name": {
       "de": "Emeraldgrüne Bohnensuppe",
@@ -421,8 +421,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 33,
+    "cp_percent": 10,
+    "cp_value": 26,
     "hq": true,
     "name": {
       "de": "Fischsuppe",
@@ -443,8 +443,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 12,
+    "cp_percent": 10,
+    "cp_value": 10,
     "hq": true,
     "name": {
       "de": "Frumenty",
@@ -467,10 +467,10 @@
     }
   },
   {
-    "control_percent": 9,
-    "control_value": 165,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 77,
+    "control_percent": 7,
+    "control_value": 132,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 62,
     "hq": true,
     "name": {
       "de": "Riesentaramosalata",
@@ -493,10 +493,10 @@
     }
   },
   {
-    "cp_percent": 10,
-    "cp_value": 32,
-    "craftsmanship_percent": 9,
-    "craftsmanship_value": 183,
+    "cp_percent": 8,
+    "cp_value": 26,
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 146,
     "hq": true,
     "name": {
       "de": "Glückskarottensaft",
@@ -521,12 +521,12 @@
     }
   },
   {
-    "control_percent": 9,
-    "control_value": 77,
-    "cp_percent": 4,
-    "cp_value": 10,
-    "craftsmanship_percent": 6,
-    "craftsmanship_value": 53,
+    "control_percent": 7,
+    "control_value": 62,
+    "cp_percent": 3,
+    "cp_value": 8,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 42,
     "hq": true,
     "name": {
       "de": "Himmelseier-Suppe",
@@ -549,10 +549,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 90,
-    "cp_percent": 26,
-    "cp_value": 86,
+    "control_percent": 4,
+    "control_value": 72,
+    "cp_percent": 21,
+    "cp_value": 69,
     "hq": true,
     "name": {
       "de": "Zingarnelen-Biryani",
@@ -573,8 +573,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 15,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 12,
     "hq": true,
     "name": {
       "de": "Toffelbrei",
@@ -597,10 +597,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 61,
-    "cp_percent": 15,
-    "cp_value": 56,
+    "control_percent": 4,
+    "control_value": 49,
+    "cp_percent": 12,
+    "cp_value": 45,
     "hq": true,
     "name": {
       "de": "Matcha-Tee",
@@ -623,10 +623,10 @@
     }
   },
   {
-    "cp_percent": 26,
-    "cp_value": 70,
-    "craftsmanship_percent": 6,
-    "craftsmanship_value": 105,
+    "cp_percent": 21,
+    "cp_value": 56,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 84,
     "hq": true,
     "name": {
       "de": "Miserabelmuscheln al Ajillo",
@@ -647,8 +647,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 10,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 8,
     "hq": true,
     "name": {
       "de": "Minz-Lassi",
@@ -671,10 +671,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 49,
-    "craftsmanship_percent": 12,
-    "craftsmanship_value": 130,
+    "control_percent": 4,
+    "control_value": 39,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 104,
     "hq": true,
     "name": {
       "de": "Miso-Suppe mit Tofu",
@@ -697,10 +697,10 @@
     }
   },
   {
-    "control_percent": 12,
-    "control_value": 88,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 37,
+    "control_percent": 10,
+    "control_value": 70,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 30,
     "hq": true,
     "name": {
       "de": "Austern-Confit",
@@ -721,8 +721,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 31,
+    "control_percent": 8,
+    "control_value": 25,
     "hq": true,
     "name": {
       "de": "Gebratener Mahi-Mahi",
@@ -743,8 +743,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 26,
+    "cp_percent": 10,
+    "cp_value": 21,
     "hq": true,
     "name": {
       "de": "Erbsensuppe",
@@ -767,10 +767,10 @@
     }
   },
   {
-    "control_percent": 9,
-    "control_value": 147,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 66,
+    "control_percent": 7,
+    "control_value": 118,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 53,
     "hq": true,
     "name": {
       "de": "Ockertoffel-Gratin",
@@ -791,8 +791,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 10,
+    "control_percent": 8,
+    "control_value": 8,
     "hq": true,
     "name": {
       "de": "Rohe Auster",
@@ -813,8 +813,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 40,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 32,
     "hq": true,
     "name": {
       "de": "Rolanbeeren-Käsekuchen",
@@ -835,8 +835,8 @@
     }
   },
   {
-    "craftsmanship_percent": 15,
-    "craftsmanship_value": 30,
+    "craftsmanship_percent": 12,
+    "craftsmanship_value": 24,
     "hq": true,
     "name": {
       "de": "Rolanbeeren-Lassi",
@@ -857,8 +857,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 5,
+    "control_percent": 8,
+    "control_value": 4,
     "hq": true,
     "name": {
       "de": "Salzdorsch",
@@ -879,8 +879,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 23,
+    "control_percent": 8,
+    "control_value": 18,
     "hq": true,
     "name": {
       "de": "Dorsch im Schlafrock",
@@ -903,10 +903,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 31,
-    "cp_percent": 15,
-    "cp_value": 50,
+    "control_percent": 4,
+    "control_value": 25,
+    "cp_percent": 12,
+    "cp_value": 40,
     "hq": true,
     "name": {
       "de": "Ishgarder Fischtopf",
@@ -929,10 +929,10 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 18,
-    "craftsmanship_percent": 12,
-    "craftsmanship_value": 61,
+    "cp_percent": 4,
+    "cp_value": 14,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 49,
     "hq": true,
     "name": {
       "de": "Haifischflossensuppe",
@@ -955,10 +955,10 @@
     }
   },
   {
-    "cp_percent": 5,
-    "cp_value": 20,
-    "craftsmanship_percent": 12,
-    "craftsmanship_value": 136,
+    "cp_percent": 4,
+    "cp_value": 16,
+    "craftsmanship_percent": 10,
+    "craftsmanship_value": 109,
     "hq": true,
     "name": {
       "de": "Gedünsteter Zackenbarsch",
@@ -979,8 +979,8 @@
     }
   },
   {
-    "cp_percent": 13,
-    "cp_value": 21,
+    "cp_percent": 10,
+    "cp_value": 17,
     "hq": true,
     "name": {
       "de": "Steinsuppe",
@@ -1003,10 +1003,10 @@
     }
   },
   {
-    "cp_percent": 15,
-    "cp_value": 54,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 53,
+    "cp_percent": 12,
+    "cp_value": 43,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 42,
     "hq": true,
     "name": {
       "de": "Tempura-Platte",
@@ -1029,10 +1029,10 @@
     }
   },
   {
-    "control_percent": 5,
-    "control_value": 76,
-    "cp_percent": 26,
-    "cp_value": 78,
+    "control_percent": 4,
+    "control_value": 61,
+    "cp_percent": 21,
+    "cp_value": 62,
     "hq": true,
     "name": {
       "de": "Tsai Tou Vounou",
@@ -1053,8 +1053,8 @@
     }
   },
   {
-    "control_percent": 10,
-    "control_value": 20,
+    "control_percent": 8,
+    "control_value": 16,
     "hq": true,
     "name": {
       "de": "Thunfisch-Miqo'Kebab",
@@ -1077,10 +1077,10 @@
     }
   },
   {
-    "control_percent": 12,
-    "control_value": 124,
-    "craftsmanship_percent": 5,
-    "craftsmanship_value": 53,
+    "control_percent": 10,
+    "control_value": 99,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 42,
     "hq": true,
     "name": {
       "de": "Kriegereintopf",
