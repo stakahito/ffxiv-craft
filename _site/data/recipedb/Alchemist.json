@@ -427,44 +427,6 @@
     "suggestedCraftsmanship": 50
   },
   {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Archaeoleder-Kodex",
-      "en": "Archaeoskin Codex",
-      "fr": "Codex en cuir d'archéornis",
-      "ja": "アルケオーニスコーデックス"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Archaeoleder-Grimoire",
-      "en": "Archaeoskin Grimoire",
-      "fr": "Grimoire en cuir d'archéornis",
-      "ja": "アルケオーニスグリモア"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 60,
@@ -1081,25 +1043,6 @@
     "suggestedCraftsmanship": 59
   },
   {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 40,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Käferleim",
-      "en": "Beetle Glue",
-      "fr": "Glu de scarabée",
-      "ja": "カブトにかわ"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
     "baseLevel": 78,
     "difficulty": 1148,
     "durability": 80,
@@ -1138,25 +1081,6 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 26,
-    "difficulty": 90,
-    "durability": 70,
-    "level": 26,
-    "maxQuality": 345,
-    "name": {
-      "de": "Biskuit-Boden",
-      "en": "Bisque Flooring",
-      "fr": "Carrelage rose-orangé",
-      "ja": "ビスクタイルフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
     "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
@@ -1174,25 +1098,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Graue Lilien-Haarspange",
-      "en": "Black Brightlily Corsage",
-      "fr": "Barrette lys noirs",
-      "ja": "リリーオーナメント:ブラック"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 74,
@@ -1326,44 +1231,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Graue Gänseblümchen-Haarspange",
-      "en": "Black Daisy Corsage",
-      "fr": "Barrette marguerites noires",
-      "ja": "マーガレットオーナメント:ブラック"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 32,
-    "difficulty": 55,
-    "durability": 40,
-    "level": 32,
-    "maxQuality": 760,
-    "name": {
-      "de": "Schwarzer Feuersand",
-      "en": "Black Firesand",
-      "fr": "Sable noir incandescent",
-      "ja": "黒色火薬"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
   },
   {
     "baseLevel": 73,
@@ -1709,25 +1576,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Blaue Lilien-Haarspange",
-      "en": "Blue Brightlily Corsage",
-      "fr": "Barrette lys bleus",
-      "ja": "リリーオーナメント:ブルー"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -1878,25 +1726,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Blaue Gänseblümchen-Haarspange",
-      "en": "Blue Daisy Corsage",
-      "fr": "Barrette marguerites bleues",
-      "ja": "マーガレットオーナメント:ブルー"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -2146,25 +1975,6 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "de": "Königsgold-Grimoire",
-      "en": "Book of Aurum Regis",
-      "fr": "Livre en aurum regis",
-      "ja": "ブック・オブ・オーラムレギス"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 45,
     "difficulty": 158,
     "durability": 80,
@@ -2277,25 +2087,6 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 425,
-    "name": {
-      "de": "Botaniker-Garten",
-      "en": "Botanist's Garden",
-      "fr": "Potager de botaniste",
-      "ja": "園芸師の菜園"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 58,
@@ -3239,25 +3030,6 @@
     "suggestedCraftsmanship": 2626
   },
   {
-    "baseLevel": 77,
-    "difficulty": 1570,
-    "durability": 80,
-    "level": 412,
-    "maxQuality": 4300,
-    "name": {
-      "de": "Artisanentrank der Fachkenntnis",
-      "en": "Commanding Craftsman's Syrup",
-      "fr": "Potion de maîtrise",
-      "ja": "巨匠の水薬"
-    },
-    "progressDivider": 107,
-    "progressModifier": 100,
-    "qualityDivider": 87,
-    "qualityModifier": 100,
-    "suggestedControl": 1502,
-    "suggestedCraftsmanship": 1621
-  },
-  {
     "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
@@ -3294,25 +3066,6 @@
     "qualityModifier": 100,
     "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1430,
-    "durability": 80,
-    "level": 406,
-    "maxQuality": 4100,
-    "name": {
-      "de": "Artisanentrank der Effizienz",
-      "en": "Competent Craftsman's Syrup",
-      "fr": "Potion de virtuosité",
-      "ja": "名匠の水薬"
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
   },
   {
     "baseLevel": 64,
@@ -3609,44 +3362,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 180,
-    "durability": 80,
-    "level": 50,
-    "maxQuality": 1000,
-    "name": {
-      "de": "Landhaus-Marmorboden",
-      "en": "Country Flooring",
-      "fr": "Parquet rustique",
-      "ja": "カントリーフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 88,
-    "suggestedCraftsmanship": 176
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 180,
-    "durability": 80,
-    "level": 50,
-    "maxQuality": 1000,
-    "name": {
-      "de": "Landhaus-Innenwand",
-      "en": "Country Interior Wall",
-      "fr": "Revêtement mural rustique",
-      "ja": "カントリーインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 88,
-    "suggestedCraftsmanship": 176
-  },
-  {
     "baseLevel": 26,
     "difficulty": 45,
     "durability": 40,
@@ -3705,25 +3420,6 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Roter Feuersand",
-      "en": "Crimson Firesand",
-      "fr": "Sable noir pourpré",
-      "ja": "赤色火薬"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1188,
     "durability": 70,
@@ -3741,26 +3437,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 40,
-    "level": 70,
-    "maxQuality": 2000,
-    "name": {
-      "de": "Kristallglas",
-      "en": "Crystal Glass",
-      "fr": "Verre en cristal",
-      "ja": "クリスタルガラス"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 80,
@@ -3838,25 +3514,6 @@
     "qualityModifier": 100,
     "suggestedControl": 2589,
     "suggestedCraftsmanship": 2748
-  },
-  {
-    "baseLevel": 77,
-    "difficulty": 1570,
-    "durability": 80,
-    "level": 412,
-    "maxQuality": 4300,
-    "name": {
-      "de": "Artisanentrank des Fachwissens",
-      "en": "Cunning Craftsman's Syrup",
-      "fr": "Potion de capacité",
-      "ja": "魔匠の水薬"
-    },
-    "progressDivider": 107,
-    "progressModifier": 100,
-    "qualityDivider": 87,
-    "qualityModifier": 100,
-    "suggestedControl": 1502,
-    "suggestedCraftsmanship": 1621
   },
   {
     "baseLevel": 67,
@@ -4263,44 +3920,6 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Dhalmelleder-Kodex",
-      "en": "Dhalmelskin Codex",
-      "fr": "Codex en cuir de dhalmel",
-      "ja": "ダルメルコーデックス"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Dhalmelleder-Grimoire",
-      "en": "Dhalmelskin Grimoire",
-      "fr": "Grimoire en cuir de dhalmel",
-      "ja": "ダルメルグリモア"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
     "baseLevel": 90,
     "difficulty": 6600,
     "durability": 70,
@@ -4589,44 +4208,6 @@
     "qualityModifier": 100,
     "suggestedControl": 88,
     "suggestedCraftsmanship": 176
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
-      "de": "Drachenleder-Kodex",
-      "en": "Dragonskin Codex",
-      "fr": "Codex en cuir de dragon",
-      "ja": "ドラゴンレザーコーデックス"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
-      "de": "Drachenleder-Grimoire",
-      "en": "Dragonskin Grimoire",
-      "fr": "Grimoire en cuir de dragon",
-      "ja": "ドラゴンレザーグリモア"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
   },
   {
     "baseLevel": 60,
@@ -5088,25 +4669,6 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 58,
-    "difficulty": 250,
-    "durability": 35,
-    "level": 145,
-    "maxQuality": 2048,
-    "name": {
-      "de": "Königsgold-Zaubertinte",
-      "en": "Enchanted Aurum Regis Ink",
-      "fr": "Encre d'aurum regis enchantée",
-      "ja": "オーラムレギス・エンチャントインク"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 4,
     "difficulty": 10,
     "durability": 40,
@@ -5124,44 +4686,6 @@
     "qualityModifier": 100,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 820,
-    "durability": 40,
-    "level": 415,
-    "maxQuality": 3520,
-    "name": {
-      "de": "Magische Edelmithril-Tinte",
-      "en": "Enchanted Dimythrite Ink",
-      "fr": "Encre de mithril sombre enchantée",
-      "ja": "ダークミスリルエンチャントインク"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 40,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Durium-Zaubertinte",
-      "en": "Enchanted Durium Ink",
-      "fr": "Encre de durium enchantée",
-      "ja": "ダリウムエンチャントインク"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 43,
@@ -5203,25 +4727,6 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Hartsilber-Zaubertinte",
-      "en": "Enchanted Hardsilver Ink",
-      "fr": "Encre de durargent enchantée",
-      "ja": "ハードシルバー・エンチャントインク"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
     "baseLevel": 81,
     "difficulty": 1000,
     "durability": 40,
@@ -5260,44 +4765,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 61,
-    "difficulty": 315,
-    "durability": 40,
-    "level": 255,
-    "maxQuality": 2232,
-    "name": {
-      "de": "Kupfernickel-Zaubertinte",
-      "en": "Enchanted Koppranickel Ink",
-      "fr": "Encre de cupronickel enchantée",
-      "ja": "キュプロエンチャントインク"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 74,
-    "difficulty": 680,
-    "durability": 40,
-    "level": 403,
-    "maxQuality": 3200,
-    "name": {
-      "de": "Magische Manasilber-Tinte",
-      "en": "Enchanted Manasilver Ink",
-      "fr": "Encre de mana-argent enchantée",
-      "ja": "マナシルバーエンチャントインク"
-    },
-    "progressDivider": 104,
-    "progressModifier": 100,
-    "qualityDivider": 84,
-    "qualityModifier": 100,
-    "suggestedControl": 1387,
-    "suggestedCraftsmanship": 1498
-  },
-  {
     "baseLevel": 87,
     "difficulty": 1600,
     "durability": 40,
@@ -5334,44 +4801,6 @@
     "qualityModifier": 100,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Mythrit-Zaubertinte",
-      "en": "Enchanted Mythrite Ink",
-      "fr": "Encre de mithrite enchantée",
-      "ja": "ミスライトエンチャントインク"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 490,
-    "durability": 40,
-    "level": 285,
-    "maxQuality": 2736,
-    "name": {
-      "de": "Palladium-Zaubertinte",
-      "en": "Enchanted Palladium Ink",
-      "fr": "Encre de palladium enchantée",
-      "ja": "パラースエンチャントインク"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 50,
@@ -5451,25 +4880,6 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Magische Steingold-Tinte",
-      "en": "Enchanted Truegold Ink",
-      "fr": "Encre d'or pétré enchantée",
-      "ja": "ストーンゴールドエンチャントインク"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
   },
   {
     "baseLevel": 78,
@@ -6789,44 +6199,6 @@
     "suggestedCraftsmanship": 176
   },
   {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Gazellenleder-Kodex",
-      "en": "Gazelleskin Codex",
-      "fr": "Codex en cuir de gazelle",
-      "ja": "ガゼルコーデックス"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Gazellenleder-Grimoire",
-      "en": "Gazelleskin Grimoire",
-      "fr": "Grimoire en cuir de gazelle",
-      "ja": "ガゼルグリモア"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
     "baseLevel": 60,
     "difficulty": 870,
     "durability": 70,
@@ -7142,26 +6514,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Waldpflanzenzaun",
-      "en": "Glade Hedgewall",
-      "fr": "Haie sombrelinçoise",
-      "ja": "シュラウド・ヘッジウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
@@ -7392,120 +6744,6 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 73,
-    "difficulty": 645,
-    "durability": 40,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Visionslösung der Geschicklichkeit I",
-      "en": "Grade 1 Dexterity Alkahest",
-      "fr": "Eau chimérique de dextérité I",
-      "ja": "眼力の幻水G1"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 150,
-    "durability": 40,
-    "level": 130,
-    "maxQuality": 1768,
-    "name": {
-      "de": "Geschicklichkeit-Lösungsmittel I",
-      "en": "Grade 1 Dexterity Dissolvent",
-      "fr": "Dissolvant de dextérité I",
-      "ja": "眼力の錬金溶剤G1"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 645,
-    "durability": 40,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Visionslösung der Intelligenz I",
-      "en": "Grade 1 Intelligence Alkahest",
-      "fr": "Eau chimérique d'intelligence I",
-      "ja": "知力の幻水G1"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Intelligenz-Lösungsmittel I",
-      "en": "Grade 1 Intelligence Dissolvent",
-      "fr": "Dissolvant d'intelligence I",
-      "ja": "知力の錬金溶剤G1"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 645,
-    "durability": 40,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Visionslösung der Willenskraft I",
-      "en": "Grade 1 Mind Alkahest",
-      "fr": "Eau chimérique d'esprit I",
-      "ja": "心力の幻水G1"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Willenskraft-Lösungsmittel I",
-      "en": "Grade 1 Mind Dissolvent",
-      "fr": "Dissolvant d'esprit I",
-      "ja": "心力の錬金溶剤G1"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
     "baseLevel": 63,
     "difficulty": 365,
     "durability": 40,
@@ -7599,422 +6837,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 645,
-    "durability": 40,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Visionslösung der Stärke I",
-      "en": "Grade 1 Strength Alkahest",
-      "fr": "Eau chimérique de force I",
-      "ja": "剛力の幻水G1"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 150,
-    "durability": 40,
-    "level": 130,
-    "maxQuality": 1768,
-    "name": {
-      "de": "Stärke-Lösungsmittel I",
-      "en": "Grade 1 Strength Dissolvent",
-      "fr": "Dissolvant de force I",
-      "ja": "剛力の錬金溶剤G1"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 73,
-    "difficulty": 645,
-    "durability": 40,
-    "level": 400,
-    "maxQuality": 3120,
-    "name": {
-      "de": "Visionslösung der Konstitution I",
-      "en": "Grade 1 Vitality Alkahest",
-      "fr": "Eau chimérique de vitalité I",
-      "ja": "活力の幻水G1"
-    },
-    "progressDivider": 103,
-    "progressModifier": 100,
-    "qualityDivider": 83,
-    "qualityModifier": 100,
-    "suggestedControl": 1348,
-    "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Konstitution-Lösungsmittel I",
-      "en": "Grade 1 Vitality Dissolvent",
-      "fr": "Dissolvant de vitalité I",
-      "ja": "活力の錬金溶剤G1"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Kapazität I",
-      "en": "Grade 1 Wheel of Capacity",
-      "fr": "Tour de l'adresse I",
-      "ja": "達識のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Gesellschaft I",
-      "en": "Grade 1 Wheel of Company",
-      "fr": "Tour du mérite I",
-      "ja": "軍功のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Konfrontation I",
-      "en": "Grade 1 Wheel of Confrontation",
-      "fr": "Tour de l'entraînement I",
-      "ja": "教練のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Hingabe I",
-      "en": "Grade 1 Wheel of Dedication",
-      "fr": "Tour de l'attachement I",
-      "ja": "錬精のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Effizienz I",
-      "en": "Grade 1 Wheel of Efficiency",
-      "fr": "Tour de l'efficacité I",
-      "ja": "名匠のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Industrie I",
-      "en": "Grade 1 Wheel of Industry",
-      "fr": "Tour de l'apprentissage I",
-      "ja": "鍛錬のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Einführung I",
-      "en": "Grade 1 Wheel of Initiation",
-      "fr": "Tour de l'initiation I",
-      "ja": "新兵のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad des Longierens I",
-      "en": "Grade 1 Wheel of Longeing",
-      "fr": "Tour de la complicité I",
-      "ja": "特訓のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Nährmittel I",
-      "en": "Grade 1 Wheel of Nutriment",
-      "fr": "Tour de la satiété I",
-      "ja": "食通のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Beobachtung I",
-      "en": "Grade 1 Wheel of Observation",
-      "fr": "Tour de la clairvoyance I",
-      "ja": "博識のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Beständigkeit I",
-      "en": "Grade 1 Wheel of Permanence",
-      "fr": "Tour de la rémanence I",
-      "ja": "耐久のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Pilgerfahrt I",
-      "en": "Grade 1 Wheel of Pilgrimage",
-      "fr": "Tour de la mobilité I",
-      "ja": "旅人のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Präzision I",
-      "en": "Grade 1 Wheel of Precision",
-      "fr": "Tour de l'expertise I",
-      "ja": "巨匠のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Produktivität I",
-      "en": "Grade 1 Wheel of Productivity",
-      "fr": "Tour du perfectionnement I",
-      "ja": "修練のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Erholung I",
-      "en": "Grade 1 Wheel of Recreation",
-      "fr": "Tour du divertissement I",
-      "ja": "遊戯のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad der Rivalität I",
-      "en": "Grade 1 Wheel of Rivalry",
-      "fr": "Tour de l'altercation I",
-      "ja": "戦績のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Rad des Wirbelwinds I",
-      "en": "Grade 1 Wheel of Swiftness",
-      "fr": "Tour de la vélocité I",
-      "ja": "疾風のエーテリアルホイールG1"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 80,
@@ -10471,25 +9293,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Grüne Lilien-Haarspange",
-      "en": "Green Brightlily Corsage",
-      "fr": "Barrette lys verts",
-      "ja": "リリーオーナメント:グリーン"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -10621,25 +9424,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Grüne Gänseblümchen-Haarspange",
-      "en": "Green Daisy Corsage",
-      "fr": "Barrette marguerites vertes",
-      "ja": "マーガレットオーナメント:グリーン"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -10969,44 +9753,6 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Wachstumsformel Epsilon",
-      "en": "Growth Formula Epsilon",
-      "fr": "Formule de croissance epsilon",
-      "ja": "グロースフォーミュラ・イプシロン"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 315,
-    "durability": 40,
-    "level": 255,
-    "maxQuality": 2232,
-    "name": {
-      "de": "Wachstumsformel Eta",
-      "en": "Growth Formula Eta",
-      "fr": "Formule de croissance êta",
-      "ja": "グロースフォーミュラ・エータ"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 40,
@@ -11024,82 +9770,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Wachstumsformel Iota",
-      "en": "Growth Formula Iota",
-      "fr": "Formule de croissance iota",
-      "ja": "グロースフォーミュラ・イオタ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 76,
-    "difficulty": 750,
-    "durability": 40,
-    "level": 409,
-    "maxQuality": 3360,
-    "name": {
-      "de": "Wachstumsformel Kappa",
-      "en": "Growth Formula Kappa",
-      "fr": "Formule de croissance kappa",
-      "ja": "グロースフォーミュラ・カッパ"
-    },
-    "progressDivider": 106,
-    "progressModifier": 100,
-    "qualityDivider": 86,
-    "qualityModifier": 100,
-    "suggestedControl": 1464,
-    "suggestedCraftsmanship": 1580
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 440,
-    "durability": 40,
-    "level": 279,
-    "maxQuality": 2592,
-    "name": {
-      "de": "Wachstumsformel Theta",
-      "en": "Growth Formula Theta",
-      "fr": "Formule de croissance thêta",
-      "ja": "グロースフォーミュラ・テータ"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 250,
-    "durability": 35,
-    "level": 145,
-    "maxQuality": 2048,
-    "name": {
-      "de": "Wachstumsformel Zeta",
-      "en": "Growth Formula Zeta",
-      "fr": "Formule de croissance zêta",
-      "ja": "グロースフォーミュラ・ゼータ"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 62,
@@ -11197,44 +9867,6 @@
     "suggestedCraftsmanship": 22
   },
   {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Gyukileder-Kodex",
-      "en": "Gyuki Leather Codex",
-      "fr": "Codex en cuir de gyuki",
-      "ja": "ギュウキコーデックス"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Gyukileder-Grimoire",
-      "en": "Gyuki Leather Grimoire",
-      "fr": "Grimoire en cuir de gyuki",
-      "ja": "ギュウキグリモア"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -11271,44 +9903,6 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Kastanienzweig",
-      "en": "Hallowed Chestnut Wand",
-      "fr": "Baguette en châtaignier sanctifié",
-      "ja": "ハロードチェスナットワンド"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 210,
-    "durability": 35,
-    "level": 139,
-    "maxQuality": 1936,
-    "name": {
-      "de": "Geheiligtes Wasser",
-      "en": "Hallowed Water",
-      "fr": "Eau sanctifiée",
-      "ja": "祝聖水"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 74,
@@ -12058,44 +10652,6 @@
     "qualityModifier": 100,
     "suggestedControl": 462,
     "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 130,
-    "durability": 40,
-    "level": 125,
-    "maxQuality": 1712,
-    "name": {
-      "de": "Heiliges Wasser",
-      "en": "Holy Water",
-      "fr": "Eau sacrée",
-      "ja": "聖水"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 12,
-    "difficulty": 53,
-    "durability": 60,
-    "level": 12,
-    "maxQuality": 145,
-    "name": {
-      "de": "Honigtopf",
-      "en": "Honey Pot",
-      "fr": "Pot de miel décoratif",
-      "ja": "ハニーポット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
   },
   {
     "baseLevel": 30,
@@ -13233,25 +11789,6 @@
     "suggestedCraftsmanship": 59
   },
   {
-    "baseLevel": 50,
-    "difficulty": 180,
-    "durability": 80,
-    "level": 50,
-    "maxQuality": 1000,
-    "name": {
-      "de": "Große Pflanzkiste",
-      "en": "Large Planter Box",
-      "fr": "Grand bac à fleurs",
-      "ja": "ラージボックスプランター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 88,
-    "suggestedCraftsmanship": 176
-  },
-  {
     "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
@@ -13654,25 +12191,6 @@
     "suggestedCraftsmanship": 2336
   },
   {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 1175,
-    "name": {
-      "de": "Lupinen-Beet",
-      "en": "Lupin Plot",
-      "fr": "Lupins",
-      "ja": "ルピナスガーデン"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
     "baseLevel": 62,
     "difficulty": 680,
     "durability": 60,
@@ -13728,25 +12246,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 1110,
-    "name": {
-      "de": "Wahndolche",
-      "en": "Maddening Daggers",
-      "fr": "Dagues enrageantes",
-      "ja": "フレンジーダガー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 50,
@@ -13922,44 +12421,6 @@
     "qualityModifier": 100,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Maridenleder-Kodex",
-      "en": "Marid Leather Codex",
-      "fr": "Codex en cuir de marid",
-      "ja": "マーリドコーデックス"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Maridenleder-Grimoire",
-      "en": "Marid Leather Grimoire",
-      "fr": "Grimoire en cuir de marid",
-      "ja": "マーリドグリモア"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 60,
@@ -14772,25 +13233,6 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "de": "Königsgold-Picatrix",
-      "en": "Noble's Picatrix",
-      "fr": "Picatrix en aurum regis",
-      "ja": "ピカトリクス・オブ・オーラムレギス"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 50,
     "difficulty": 480,
     "durability": 80,
@@ -14828,25 +13270,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 34,
-    "difficulty": 115,
-    "durability": 80,
-    "level": 34,
-    "maxQuality": 525,
-    "name": {
-      "de": "Eichen-Blumenkübel",
-      "en": "Oak Low Barrel Planter",
-      "fr": "Jardinière bas-tonneau en chêne",
-      "ja": "オーク・ロウバレルプランター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 23,
@@ -15178,25 +13601,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Orange Lilien-Haarspange",
-      "en": "Orange Brightlily Corsage",
-      "fr": "Barrette lys orange",
-      "ja": "リリーオーナメント:オレンジ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -15328,25 +13732,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Orange Gänseblümchen-Haarspange",
-      "en": "Orange Daisy Corsage",
-      "fr": "Barrette marguerites orange",
-      "ja": "マーガレットオーナメント:オレンジ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -15828,25 +14213,6 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 66,
-    "difficulty": 440,
-    "durability": 40,
-    "level": 279,
-    "maxQuality": 2592,
-    "name": {
-      "de": "Kaki-Tannin",
-      "en": "Persimmon Tannin",
-      "fr": "Concentré de tanin de plaqueminier",
-      "ja": "柿渋"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 53,
     "difficulty": 300,
     "durability": 80,
@@ -15864,44 +14230,6 @@
     "qualityModifier": 100,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Pflanzkiste",
-      "en": "Planter Box",
-      "fr": "Bac à fleurs",
-      "ja": "ボックスプランター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 39,
-    "difficulty": 137,
-    "durability": 80,
-    "level": 39,
-    "maxQuality": 670,
-    "name": {
-      "de": "Pflanzen-Raumteiler",
-      "en": "Planter Partition",
-      "fr": "Cloison verdoyante",
-      "ja": "プランターパーティション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
   },
   {
     "baseLevel": 90,
@@ -16304,26 +14632,6 @@
     "suggestedCraftsmanship": 121
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Eingetopfter Drachenbaum",
-      "en": "Potted Dragon Tree",
-      "fr": "Pot de dragonnier",
-      "ja": "ドラセナの鉢植"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 22,
     "difficulty": 75,
     "durability": 70,
@@ -16343,26 +14651,6 @@
     "suggestedCraftsmanship": 94
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Topf-Alokasie",
-      "en": "Potted Oliphant's Ear",
-      "fr": "Pot d'alocasias",
-      "ja": "アロカシアの鉢植"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 33,
     "difficulty": 111,
     "durability": 80,
@@ -16380,26 +14668,6 @@
     "qualityModifier": 100,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Eingetopfte Schirmfeige",
-      "en": "Potted Umbrella Fig",
-      "fr": "Pot de figuier parasol",
-      "ja": "アンブレラフィグの鉢植"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 60,
@@ -16557,25 +14825,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Violette Lilien-Haarspange",
-      "en": "Purple Brightlily Corsage",
-      "fr": "Barrette lys violets",
-      "ja": "リリーオーナメント:パープル"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -16707,25 +14956,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Violette Gänseblümchen-Haarspange",
-      "en": "Purple Daisy Corsage",
-      "fr": "Barrette marguerites violettes",
-      "ja": "マーガレットオーナメント:パープル"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -16994,25 +15224,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Mehrfarbige Lilien-Haarspange",
-      "en": "Rainbow Brightlily Corsage",
-      "fr": "Barrette lys multicolores",
-      "ja": "リリーオーナメント:ブレンド"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -17125,25 +15336,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Mehrfarbige Gänseblümchen-Haarspange",
-      "en": "Rainbow Daisy Corsage",
-      "fr": "Barrette marguerites multicolores",
-      "ja": "マーガレットオーナメント:ブレンド"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -17851,25 +16043,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Rosa Lilien-Haarspange",
-      "en": "Red Brightlily Corsage",
-      "fr": "Barrette lys rouges",
-      "ja": "リリーオーナメント:レッド"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -18001,25 +16174,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Rote Gänseblümchen-Haarspange",
-      "en": "Red Daisy Corsage",
-      "fr": "Barrette marguerites rouges",
-      "ja": "マーガレットオーナメント:レッド"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -18229,25 +16383,6 @@
     "qualityModifier": 100,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
-  },
-  {
-    "baseLevel": 76,
-    "difficulty": 750,
-    "durability": 40,
-    "level": 409,
-    "maxQuality": 3360,
-    "name": {
-      "de": "Natron-Konzentrat",
-      "en": "Refined Natron",
-      "fr": "Natron dense",
-      "ja": "強重曹"
-    },
-    "progressDivider": 106,
-    "progressModifier": 100,
-    "qualityDivider": 86,
-    "qualityModifier": 100,
-    "suggestedControl": 1464,
-    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 30,
@@ -18949,25 +17084,6 @@
     "suggestedCraftsmanship": 2507
   },
   {
-    "baseLevel": 59,
-    "difficulty": 270,
-    "durability": 35,
-    "level": 148,
-    "maxQuality": 2104,
-    "name": {
-      "de": "Supersekundenleim",
-      "en": "Scale Glue",
-      "fr": "Ultra glu",
-      "ja": "瞬間強力にかわ"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
     "baseLevel": 50,
     "difficulty": 210,
     "durability": 40,
@@ -19610,44 +17726,6 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Smilodonleder-Kodex",
-      "en": "Smilodonskin Codex",
-      "fr": "Codex en cuir de smilodon",
-      "ja": "スミロドンコーデックス"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Smilodonleder-Grimoire",
-      "en": "Smilodonskin Grimoire",
-      "fr": "Grimoire en cuir de smilodon",
-      "ja": "スミロドングリモア"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
     "baseLevel": 70,
     "difficulty": 720,
     "durability": 70,
@@ -19959,25 +18037,6 @@
     "suggestedCraftsmanship": 59
   },
   {
-    "baseLevel": 75,
-    "difficulty": 715,
-    "durability": 40,
-    "level": 406,
-    "maxQuality": 3280,
-    "name": {
-      "de": "Pflanzenleim",
-      "en": "Starch Glue",
-      "fr": "Glu végétale",
-      "ja": "植物性にかわ"
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -20073,44 +18132,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 425,
-    "name": {
-      "de": "Steinboden",
-      "en": "Stone Flooring",
-      "fr": "Parquet en pierre",
-      "ja": "ストーンフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 425,
-    "name": {
-      "de": "Stein-Innenwand",
-      "en": "Stone Interior Wall",
-      "fr": "Revêtement mural en pierre",
-      "ja": "ストーンインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
     "baseLevel": 50,
     "difficulty": 216,
     "durability": 80,
@@ -20166,46 +18187,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Präparierter Mazlaya-Marlin",
-      "en": "Stuffed Mazlaya Marlin",
-      "fr": "Marlin de Mazlaya empaillé",
-      "ja": "マズラヤマーリンの剥製"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Präparierter Takitaro",
-      "en": "Stuffed Takitaro",
-      "fr": "Takitaro empaillé",
-      "ja": "タキタロの剥製"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 59,
@@ -20438,25 +18419,6 @@
     "stars": 1,
     "suggestedControl": 589,
     "suggestedCraftsmanship": 620
-  },
-  {
-    "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 80,
-    "level": 395,
-    "maxQuality": 3800,
-    "name": {
-      "de": "Hochpotenter Bindungstrunk",
-      "en": "Superior Spiritbond Potion",
-      "fr": "Essence de symbiose extrême",
-      "ja": "極錬精薬"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
   },
   {
     "baseLevel": 60,
@@ -21230,44 +19192,6 @@
     "suggestedCraftsmanship": 451
   },
   {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Tigerleder-Kodex",
-      "en": "Tigerskin Codex",
-      "fr": "Codex en cuir de tigre",
-      "ja": "タイガーコーデックス"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Tigerleder-Grimoire",
-      "en": "Tigerskin Grimoire",
-      "fr": "Grimoire en cuir de tigre",
-      "ja": "タイガーグリモア"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
     "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
@@ -21285,101 +19209,6 @@
     "qualityModifier": 80,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Visionsremedium der Geschicklichkeit",
-      "en": "Tincture of Dexterity",
-      "fr": "Philtre chimérique de dextérité",
-      "ja": "眼力の幻薬"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Visionsremedium der Intelligenz",
-      "en": "Tincture of Intelligence",
-      "fr": "Philtre chimérique d'intelligence",
-      "ja": "知力の幻薬"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "de": "Visionsremedium der Willenskraft",
-      "en": "Tincture of Mind",
-      "fr": "Philtre chimérique d'esprit",
-      "ja": "心力の幻薬"
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 1780,
-    "durability": 80,
-    "level": 430,
-    "maxQuality": 4600,
-    "name": {
-      "de": "Visionsremedium der Stärke",
-      "en": "Tincture of Strength",
-      "fr": "Philtre chimérique de force",
-      "ja": "剛力の幻薬"
-    },
-    "progressDivider": 110,
-    "progressModifier": 100,
-    "qualityDivider": 90,
-    "qualityModifier": 100,
-    "suggestedControl": 1733,
-    "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "de": "Visionsremedium der Konstitution",
-      "en": "Tincture of Vitality",
-      "fr": "Philtre chimérique de vitalité",
-      "ja": "活力の幻薬"
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
   },
   {
     "baseLevel": 50,
@@ -21471,25 +19300,6 @@
       "en": "Topiary Chocobo",
       "fr": "Topiaire de bébé chocobo",
       "ja": "チョコボトピアリー"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 1175,
-    "name": {
-      "de": "Mogry-Busch",
-      "en": "Topiary Moogle",
-      "fr": "Topiaire de Mog",
-      "ja": "モーグリトピアリー"
     },
     "progressDivider": 65,
     "progressModifier": 100,
@@ -22147,26 +19957,6 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2200,
-    "name": {
-      "de": "Flickermesser",
-      "en": "Vamper's Knives",
-      "fr": "Couteaux de spoliateur",
-      "ja": "ヴァンパーナイフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 41,
     "difficulty": 71,
     "durability": 40,
@@ -22282,25 +20072,6 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Schwarzleim",
-      "en": "Void Glue",
-      "fr": "Glu d'entité",
-      "ja": "黒にかわ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
     "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
@@ -22319,25 +20090,6 @@
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
-  },
-  {
-    "baseLevel": 27,
-    "difficulty": 91,
-    "durability": 70,
-    "level": 27,
-    "maxQuality": 360,
-    "name": {
-      "de": "Wandblumentopf",
-      "en": "Wall Planter",
-      "fr": "Jardinière murale",
-      "ja": "ウォールプランター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
   },
   {
     "baseLevel": 50,
@@ -22528,25 +20280,6 @@
     "qualityModifier": 100,
     "suggestedControl": 88,
     "suggestedCraftsmanship": 176
-  },
-  {
-    "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
-    "level": 41,
-    "maxQuality": 730,
-    "name": {
-      "de": "Eingetopfte Wasserlilie",
-      "en": "Water Lilies",
-      "fr": "Nénuphar en pot",
-      "ja": "睡蓮の水鉢"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
   },
   {
     "baseLevel": 90,
@@ -22858,25 +20591,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Weiße Lilien-Haarspange",
-      "en": "White Brightlily Corsage",
-      "fr": "Barrette lys blancs",
-      "ja": "リリーオーナメント:ホワイト"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 74,
     "difficulty": 1360,
     "durability": 80,
@@ -23008,25 +20722,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Weiße Gänseblümchen-Haarspange",
-      "en": "White Daisy Corsage",
-      "fr": "Barrette marguerites blanches",
-      "ja": "マーガレットオーナメント:ホワイト"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,
@@ -23220,26 +20915,6 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Wilder Bananenbaum",
-      "en": "Wild Banana Tree",
-      "fr": "Bananier sauvage",
-      "ja": "ワイルドバナナツリー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
     "level": 90,
@@ -23373,25 +21048,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 190,
-    "durability": 35,
-    "level": 136,
-    "maxQuality": 1880,
-    "name": {
-      "de": "Sekundenleim",
-      "en": "Wing Glue",
-      "fr": "Super glu",
-      "ja": "瞬間にかわ"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
   },
   {
     "baseLevel": 90,
@@ -23591,44 +21247,6 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "de": "Wyvernleder-Kodex",
-      "en": "Wyvernskin Codex",
-      "fr": "Codex en cuir de wyverne",
-      "ja": "ワイバーンコーデックス"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "de": "Wyvernleder-Grimoire",
-      "en": "Wyvernskin Grimoire",
-      "fr": "Grimoire en cuir de wyverne",
-      "ja": "ワイバーングリモア"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
     "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
@@ -23715,26 +21333,6 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "de": "Gigatrank der Willenskraft",
-      "en": "X-Potion of Mind",
-      "fr": "Concentré d'esprit",
-      "ja": "心力の霊薬"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
       "de": "Gigatrank der Stärke",
       "en": "X-Potion of Strength",
       "fr": "Concentré de force",
@@ -23786,25 +21384,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Gelbe Lilien-Haarspange",
-      "en": "Yellow Brightlily Corsage",
-      "fr": "Barrette lys jaunes",
-      "ja": "リリーオーナメント:イエロー"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 74,
@@ -23938,25 +21517,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Gelbe Gänseblümchen-Haarspange",
-      "en": "Yellow Daisy Corsage",
-      "fr": "Barrette marguerites jaunes",
-      "ja": "マーガレットオーナメント:イエロー"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 73,

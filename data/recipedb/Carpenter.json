@@ -19,25 +19,6 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "de": "Adamantit-Speer",
-      "en": "Adamantite Spear",
-      "fr": "Hast en adamantium",
-      "ja": "アダマンスピア"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -409,25 +390,6 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Almandin-Schleifrad",
-      "en": "Almandine Grinding Wheel",
-      "fr": "Meule en almandin",
-      "ja": "アルマンディングラインディングホイール"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
     "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
@@ -464,26 +426,6 @@
     "qualityModifier": 100,
     "suggestedControl": 502,
     "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Gebirgs-Holzpuppe",
-      "en": "Alps Striking Dummy",
-      "fr": "Mannequin d'entraînement coerthien",
-      "ja": "クルザスダミー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 59,
@@ -658,44 +600,6 @@
     "suggestedCraftsmanship": 1457
   },
   {
-    "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 80,
-    "level": 395,
-    "maxQuality": 3800,
-    "name": {
-      "de": "Wunderapfel-Langbogen",
-      "en": "Applewood Longbow",
-      "fr": "Arc long en pommier miracle",
-      "ja": "ミラクルアップル・ロングボウ"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
-    "baseLevel": 72,
-    "difficulty": 1220,
-    "durability": 80,
-    "level": 395,
-    "maxQuality": 3800,
-    "name": {
-      "de": "Wunderapfel-Speer",
-      "en": "Applewood Spear",
-      "fr": "Hast en pommier miracle",
-      "ja": "ミラクルアップルスピア"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
     "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
@@ -713,25 +617,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
-  },
-  {
-    "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 425,
-    "name": {
-      "de": "Blätterranken-Wandvertäfelung",
-      "en": "Arbor Interior Wall",
-      "fr": "Revêtement mural sylvestre",
-      "ja": "フォレストインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 68,
@@ -789,26 +674,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Kostbarkeitenkabinett",
-      "en": "Armoire",
-      "fr": "Bahut personnel",
-      "ja": "愛蔵品キャビネット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
   },
   {
     "baseLevel": 77,
@@ -1642,63 +1507,6 @@
   },
   {
     "baseLevel": 61,
-    "difficulty": 315,
-    "durability": 40,
-    "level": 255,
-    "maxQuality": 2232,
-    "name": {
-      "de": "Buchen-Bauholz",
-      "en": "Beech Lumber",
-      "fr": "Madrier de hêtre",
-      "ja": "ビーチ材"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Buchenmaske der Magie",
-      "en": "Beech Mask of Casting",
-      "fr": "Masque d'incantateur en hêtre",
-      "ja": "ビーチキャスターマスク"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Buchenmaske der Heilung",
-      "en": "Beech Mask of Healing",
-      "fr": "Masque de soigneur en hêtre",
-      "ja": "ビーチヒーラーマスク"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
     "level": 255,
@@ -2266,25 +2074,6 @@
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Schwarz-weiße Dekowand",
-      "en": "Black-and-white Interior Wall",
-      "fr": "Revêtement mural à larges rayures horizontales",
-      "ja": "ボーダーインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 1,
@@ -3361,25 +3150,6 @@
     "suggestedCraftsmanship": 468
   },
   {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Zedern-Bauholz",
-      "en": "Cedar Lumber",
-      "fr": "Madrier de cèdre",
-      "ja": "シーダー材"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -3474,26 +3244,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Chocobo-Säulen",
-      "en": "Chocobo Pillar",
-      "fr": "Pilier chocobo",
-      "ja": "チョコボピラー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 70,
@@ -4333,25 +4083,6 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 46,
-    "difficulty": 159,
-    "durability": 80,
-    "level": 46,
-    "maxQuality": 880,
-    "name": {
-      "de": "Ecktresen",
-      "en": "Corner Counter",
-      "fr": "Comptoir d'angle",
-      "ja": "コーナーカウンター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -4523,26 +4254,6 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Gebogenes Trittbrett",
-      "en": "Curved Stepping Stumps",
-      "fr": "Dalles en bois en angle",
-      "ja": "カーブ・ステップウッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 81,
@@ -5166,25 +4877,6 @@
     "suggestedCraftsmanship": 1027
   },
   {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Domaeisen-Lanze",
-      "en": "Doman Iron Lance",
-      "fr": "Lance en fer domien",
-      "ja": "ドマアイアンランス"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
@@ -5202,25 +4894,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Domastahl-Hellebarde",
-      "en": "Doman Steel Halberd",
-      "fr": "Hallebarde en acier domien",
-      "ja": "ドマスチールハルバード"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 50,
@@ -5299,25 +4972,6 @@
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 555,
-    "name": {
-      "de": "Trockener Brunnen",
-      "en": "Dried Well",
-      "fr": "Puits sombrelinçois",
-      "ja": "シュラウド・オールドウェル"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 60,
@@ -6868,25 +6522,6 @@
     "suggestedCraftsmanship": 176
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Gazellenhorn-Angelrute",
-      "en": "Gazelle Horn Fishing Rod",
-      "fr": "Canne à pêche en corne de gazelle",
-      "ja": "ガゼルホーン・フィッシングロッド"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
@@ -7020,26 +6655,6 @@
     "qualityModifier": 100,
     "suggestedControl": 75,
     "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Wald-Himmelbett",
-      "en": "Glade Canopy Bed",
-      "fr": "Lit à baldaquin sombrelinçois",
-      "ja": "シュラウド・キャノピーベッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
   },
   {
     "baseLevel": 23,
@@ -7327,25 +6942,6 @@
     "suggestedCraftsmanship": 121
   },
   {
-    "baseLevel": 34,
-    "difficulty": 115,
-    "durability": 80,
-    "level": 34,
-    "maxQuality": 525,
-    "name": {
-      "de": "Wald-Laternenmast",
-      "en": "Glade Lamppost",
-      "fr": "Lampadaire sombrelinçois",
-      "ja": "シュラウド・ランプポスト"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
     "baseLevel": 26,
     "difficulty": 90,
     "durability": 70,
@@ -7443,26 +7039,6 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Offenes Wald-Bücherregal",
-      "en": "Glade Open-shelf Bookcase",
-      "fr": "Étagère à livres sombrelinçoise",
-      "ja": "シュラウド・オープンシェルフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 31,
     "difficulty": 106,
     "durability": 80,
@@ -7492,26 +7068,6 @@
       "en": "Glade Partition Door",
       "fr": "Cloison à porte sombrelinçoise",
       "ja": "シュラウド・パーティションドア"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Wald-Straßenlaterne",
-      "en": "Glade Path Light",
-      "fr": "Éclairage au sol sombrelinçois",
-      "ja": "シュラウド・フットランプ"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -7653,25 +7209,6 @@
     "qualityModifier": 100,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Wald-Hocker",
-      "en": "Glade Stool",
-      "fr": "Tabouret sombrelinçois",
-      "ja": "シュラウド・スツール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 37,
@@ -8250,26 +7787,6 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Freibrieftresen",
-      "en": "Guildleve Counter",
-      "fr": "Comptoir de mandant",
-      "ja": "ギルドリーヴカウンター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
     "baseLevel": 62,
     "difficulty": 680,
     "durability": 60,
@@ -8614,25 +8131,6 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 33,
-    "difficulty": 111,
-    "durability": 80,
-    "level": 33,
-    "maxQuality": 500,
-    "name": {
-      "de": "Wandregal mit hängenden Topfpflanzen",
-      "en": "Hanging Planter Shelf",
-      "fr": "Guirlande de plantes suspendues",
-      "ja": "プランターウォールシェルフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
     "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
@@ -8899,25 +8397,6 @@
     "stars": 4,
     "suggestedControl": 407,
     "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Edelstahl-Kriegsgabel",
-      "en": "High Steel Fork",
-      "fr": "Fourche en acier noble",
-      "ja": "ハイスチールフォーク"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 61,
@@ -9263,44 +8742,6 @@
     "suggestedCraftsmanship": 995
   },
   {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 1395,
-    "name": {
-      "de": "Hinganische Mokuzo-Hüttenmauer",
-      "en": "Hingan Cottage Wall (Mokuzo)",
-      "fr": "Mur de maisonnette hingashienne (mokuzo)",
-      "ja": "白銀木造平屋壁"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 1395,
-    "name": {
-      "de": "Hinganische Nanpu-Hüttenmauer",
-      "en": "Hingan Cottage Wall (Nanpu)",
-      "fr": "Mur de maisonnette hingashienne (nanpu)",
-      "ja": "白銀南風平屋壁"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
     "baseLevel": 66,
     "difficulty": 880,
     "durability": 80,
@@ -9337,44 +8778,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 1395,
-    "name": {
-      "de": "Hinganische Mokuzo-Tür",
-      "en": "Hingan Door (Mokuzo)",
-      "fr": "Porte hingashienne (mokuzo)",
-      "ja": "白銀木造扉"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 1485,
-    "name": {
-      "de": "Hinganische Nanpu-Tür",
-      "en": "Hingan Door (Nanpu)",
-      "fr": "Porte hingashienne (nanpu)",
-      "ja": "白銀南風扉"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
   },
   {
     "baseLevel": 66,
@@ -9490,120 +8893,6 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 1620,
-    "name": {
-      "de": "Hinganische Mokuzo-Hausmauer",
-      "en": "Hingan House Wall (Mokuzo)",
-      "fr": "Mur de pavillon hingashien (mokuzo)",
-      "ja": "白銀木造屋敷壁"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 1620,
-    "name": {
-      "de": "Hinganische Nanpu-Hausmauer",
-      "en": "Hingan House Wall (Nanpu)",
-      "fr": "Mur de pavillon hingashien (nanpu)",
-      "ja": "白銀南風屋敷壁"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 1620,
-    "name": {
-      "de": "Hinganisches Tempelglockenfenster",
-      "en": "Hingan Lancet Window",
-      "fr": "Fenêtre à lancette hingashienne",
-      "ja": "白銀鐘形窓"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 1710,
-    "name": {
-      "de": "Hinganische Mokuzo-Residenzmauer",
-      "en": "Hingan Mansion Wall (Mokuzo)",
-      "fr": "Mur de villa hingashienne (mokuzo)",
-      "ja": "白銀木造御殿壁"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 1710,
-    "name": {
-      "de": "Hinganische Nanpu-Residenzmauer",
-      "en": "Hingan Mansion Wall (Nanpu)",
-      "fr": "Mur de villa hingashienne (nanpu)",
-      "ja": "白銀南風御殿壁"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 1395,
-    "name": {
-      "de": "Hinganisches Viereckfenster",
-      "en": "Hingan Oblong Window",
-      "fr": "Fenêtre oblongue hingashienne",
-      "ja": "白銀方形窓"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
   },
   {
     "baseLevel": 68,
@@ -11659,26 +10948,6 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Kotatsu-Tisch",
-      "en": "Kotatsu Table",
-      "fr": "Kotatsu",
-      "ja": "コタツテーブル"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
@@ -11888,25 +11157,6 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Lärchen-Kompositbogen",
-      "en": "Larch Composite Bow",
-      "fr": "Arc composite en mélèze",
-      "ja": "ラーチコンポジットボウ"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -11924,25 +11174,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 340,
-    "durability": 40,
-    "level": 265,
-    "maxQuality": 2304,
-    "name": {
-      "de": "Lärchen-Bauholz",
-      "en": "Larch Lumber",
-      "fr": "Madrier de mélèze",
-      "ja": "ラーチ材"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 63,
@@ -11981,63 +11212,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Lärchen-Spinnrad",
-      "en": "Larch Spinning Wheel",
-      "fr": "Rouet en mélèze",
-      "ja": "ラーチスピニングホイール"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Lärchenzweig",
-      "en": "Larch Wand",
-      "fr": "Baguette en mélèze",
-      "ja": "ラーチワンド"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Pflanzgitter",
-      "en": "Lattice Planter",
-      "fr": "Jardinière à treillage",
-      "ja": "ラティスプランター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 20,
@@ -12193,25 +11367,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 78,
-    "difficulty": 820,
-    "durability": 40,
-    "level": 415,
-    "maxQuality": 3520,
-    "name": {
-      "de": "Guajak-Bauholz",
-      "en": "Lignum Vitae Lumber",
-      "fr": "Madrier de gaïac",
-      "ja": "リグナムバイタ材"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
     "baseLevel": 79,
     "difficulty": 1710,
     "durability": 80,
@@ -12325,26 +11480,6 @@
     "stars": 1,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Großer Stand-Chronometer",
-      "en": "Longcase Chronometer",
-      "fr": "Grande pendule",
-      "ja": "ラージクロノメーター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 50,
@@ -12691,26 +11826,6 @@
     "stars": 1,
     "suggestedControl": 1860,
     "suggestedCraftsmanship": 2000
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 125,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "de": "Zauberbesen",
-      "en": "Magicked Stable Broom",
-      "fr": "Balai magique",
-      "ja": "マジックブルーム"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 50,
@@ -13624,25 +12739,6 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 72,
-    "difficulty": 610,
-    "durability": 40,
-    "level": 395,
-    "maxQuality": 3040,
-    "name": {
-      "de": "Wunderapfel-Bauholz",
-      "en": "Miracle Apple Lumber",
-      "fr": "Madrier de pommier miracle",
-      "ja": "ミラクルアップル材"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -13681,25 +12777,6 @@
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 43,
-    "difficulty": 155,
-    "durability": 80,
-    "level": 43,
-    "maxQuality": 790,
-    "name": {
-      "de": "Sternenglobus-Modell",
-      "en": "Model Star Globe",
-      "fr": "Sphère céleste",
-      "ja": "天球儀"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 80,
@@ -13757,25 +12834,6 @@
     "qualityModifier": 100,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Molybdän-Dreizack",
-      "en": "Molybdenum Trident",
-      "fr": "Trident en molybdène",
-      "ja": "モリブデントライデント"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 50,
@@ -13988,25 +13046,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Muhtsuhorn-Angelrute",
-      "en": "Muudhorn Fishing Rod",
-      "fr": "Canne à pêche en corne de moudsoud",
-      "ja": "ムードスードホーン・フィッシングロッド"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
     "baseLevel": 36,
     "difficulty": 124,
     "durability": 80,
@@ -14043,44 +13082,6 @@
     "qualityModifier": 100,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "de": "Mythrit-Kampfstab",
-      "en": "Mythrite Pugil Stick",
-      "fr": "Canne de combat en mithrite",
-      "ja": "ミスライトパジルスティック"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Mythrit-Dreizack",
-      "en": "Mythrite Trident",
-      "fr": "Trident en mithrite",
-      "ja": "ミスライトトライデント"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
   },
   {
     "baseLevel": 90,
@@ -14494,26 +13495,6 @@
     "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Oasen-Himmelbett",
-      "en": "Oasis Canopy Bed",
-      "fr": "Lit à baldaquin thanalanais",
-      "ja": "ザナラーン・キャノピーベッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
     "baseLevel": 31,
     "difficulty": 106,
     "durability": 80,
@@ -14764,26 +13745,6 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Offenes Oasen-Bücherregal",
-      "en": "Oasis Open-shelf Bookcase",
-      "fr": "Étagère à livres thanalanaise",
-      "ja": "ザナラーン・オープンシェルフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
     "level": 90,
@@ -14820,25 +13781,6 @@
     "qualityModifier": 100,
     "suggestedControl": 68,
     "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 46,
-    "difficulty": 159,
-    "durability": 80,
-    "level": 46,
-    "maxQuality": 880,
-    "name": {
-      "de": "Oasen-Hocker",
-      "en": "Oasis Stool",
-      "fr": "Tabouret thanalanais",
-      "ja": "ザナラーン・スツール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 47,
@@ -15154,26 +14096,6 @@
     "suggestedCraftsmanship": 718
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Offene Feuerstelle",
-      "en": "Open Hearth",
-      "fr": "Foyer ouvert",
-      "ja": "オープンハース"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
@@ -15192,66 +14114,6 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Rednerpult des Ordens von Nald'thal",
-      "en": "Order of Nald'thal Lectern",
-      "fr": "Tribune de Nald'thal",
-      "ja": "ナルザルオーダー・ポディウム"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Fernöstlicher Altar",
-      "en": "Oriental Altar",
-      "fr": "Autel mural oriental",
-      "ja": "オリエンタルアルター"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Fernöstliches Badebecken",
-      "en": "Oriental Bathtub",
-      "fr": "Baignoire orientale",
-      "ja": "オリエンタル・バスタブ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 50,
@@ -15329,26 +14191,6 @@
     "qualityModifier": 100,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Fernöstliche Holzpuppe",
-      "en": "Oriental Striking Dummy",
-      "fr": "Mannequin d'entraînement oriental",
-      "ja": "オリエンタルダミー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 60,
@@ -16024,25 +14866,6 @@
     "suggestedCraftsmanship": 391
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Kaki-Bogen",
-      "en": "Persimmon Bow",
-      "fr": "Arc en plaqueminier",
-      "ja": "パーシモンボウ"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
@@ -16062,25 +14885,6 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Kaki-Hirtenstock",
-      "en": "Persimmon Cane",
-      "fr": "Canne en plaqueminier",
-      "ja": "パーシモンケーン"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
@@ -16098,25 +14902,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 440,
-    "durability": 40,
-    "level": 279,
-    "maxQuality": 2592,
-    "name": {
-      "de": "Kaki-Bauholz",
-      "en": "Persimmon Lumber",
-      "fr": "Madrier de plaqueminier",
-      "ja": "パーシモン材"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 67,
@@ -16148,25 +14933,6 @@
       "en": "Persimmon Ring",
       "fr": "Bague en plaqueminier",
       "ja": "パーシモンリング"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Kaki-Spinnrad",
-      "en": "Persimmon Spinning Wheel",
-      "fr": "Rouet en plaqueminier",
-      "ja": "パーシモンスピニングホイール"
     },
     "progressDivider": 87,
     "progressModifier": 100,
@@ -16256,101 +15022,6 @@
     "suggestedCraftsmanship": 850
   },
   {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kiefernstock",
-      "en": "Pine Cane",
-      "fr": "Canne en pin",
-      "ja": "パインケーン"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kiefern-Kompositbogen",
-      "en": "Pine Composite Bow",
-      "fr": "Arc composite en pin",
-      "ja": "パインコンポジットボウ"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kiefern-Angelrute",
-      "en": "Pine Fishing Rod",
-      "fr": "Canne à pêche en pin",
-      "ja": "パインフィッシングロッド"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 40,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Kiefern-Bauholz",
-      "en": "Pine Lumber",
-      "fr": "Madrier de pin",
-      "ja": "パイン材"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kiefern-Spinnrad",
-      "en": "Pine Spinning Wheel",
-      "fr": "Rouet en pin",
-      "ja": "パインスピニングホイール"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -16425,25 +15096,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Poliertes Schiefer-Schleifrad",
-      "en": "Polished Slate Grinding Wheel",
-      "fr": "Meule en ardoise renforcée",
-      "ja": "スレートグラインディングホイールDX"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 80,
@@ -17756,25 +16408,6 @@
     "suggestedCraftsmanship": 1866
   },
   {
-    "baseLevel": 31,
-    "difficulty": 106,
-    "durability": 80,
-    "level": 31,
-    "maxQuality": 450,
-    "name": {
-      "de": "Gehilfenkommode",
-      "en": "Retainer Cartonnier",
-      "fr": "Cartonnier de servant",
-      "ja": "リテイナーカルトニエ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
     "baseLevel": 3,
     "difficulty": 36,
     "durability": 60,
@@ -18111,26 +16744,6 @@
     "suggestedCraftsmanship": 78
   },
   {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 1450,
-    "name": {
-      "de": "Riviera-Himmelbett",
-      "en": "Riviera Canopy Bed",
-      "fr": "Lit à baldaquin noscéen",
-      "ja": "ラノシアン・キャノピーベッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
     "baseLevel": 19,
     "difficulty": 68,
     "durability": 70,
@@ -18224,44 +16837,6 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 46,
-    "difficulty": 159,
-    "durability": 80,
-    "level": 46,
-    "maxQuality": 880,
-    "name": {
-      "de": "Riviera-Gartentisch-Set",
-      "en": "Riviera Garden Table Set",
-      "fr": "Ensemble de jardin noscéen",
-      "ja": "ラノシアン・ガーデンテーブルセット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 20,
-    "difficulty": 74,
-    "durability": 70,
-    "level": 20,
-    "maxQuality": 255,
-    "name": {
-      "de": "Halbhoher Riviera-Raumteiler",
-      "en": "Riviera Half Partition",
-      "fr": "Demi-cloison noscéenne",
-      "ja": "ラノシアン・ハーフパーティション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
   },
   {
     "baseLevel": 35,
@@ -18400,26 +16975,6 @@
     "suggestedCraftsmanship": 325
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Offenes Riviera-Bücherregal",
-      "en": "Riviera Open-shelf Bookcase",
-      "fr": "Étagère à livres noscéenne",
-      "ja": "ラノシアン・オープンシェルフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
@@ -18456,44 +17011,6 @@
     "qualityModifier": 100,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 44,
-    "difficulty": 156,
-    "durability": 80,
-    "level": 44,
-    "maxQuality": 820,
-    "name": {
-      "de": "Riviera-Hocker",
-      "en": "Riviera Stool",
-      "fr": "Tabouret noscéen",
-      "ja": "ラノシアン・スツール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 46,
-    "difficulty": 159,
-    "durability": 80,
-    "level": 46,
-    "maxQuality": 880,
-    "name": {
-      "de": "Riviera-Wandregal",
-      "en": "Riviera Wall Shelf",
-      "fr": "Étagère murale noscéenne",
-      "ja": "ラノシアン・ウォールシェルフ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 28,
@@ -18685,25 +17202,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 43,
-    "difficulty": 155,
-    "durability": 80,
-    "level": 43,
-    "maxQuality": 790,
-    "name": {
-      "de": "Königlicher Raumteiler",
-      "en": "Royal Partition",
-      "fr": "Cloison royale",
-      "ja": "ロイヤルパーティション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 57,
@@ -18968,25 +17466,6 @@
       "en": "Sandteak Longbow",
       "fr": "Arc long en teck des sables",
       "ja": "サンドチーク・ロングボウ"
-    },
-    "progressDivider": 106,
-    "progressModifier": 100,
-    "qualityDivider": 86,
-    "qualityModifier": 100,
-    "suggestedControl": 1464,
-    "suggestedCraftsmanship": 1580
-  },
-  {
-    "baseLevel": 76,
-    "difficulty": 750,
-    "durability": 40,
-    "level": 409,
-    "maxQuality": 3360,
-    "name": {
-      "de": "Sandteak-Bauholz",
-      "en": "Sandteak Lumber",
-      "fr": "Madrier de teck des sables",
-      "ja": "サンドチーク材"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -19268,25 +17747,6 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 27,
-    "difficulty": 91,
-    "durability": 70,
-    "level": 27,
-    "maxQuality": 360,
-    "name": {
-      "de": "Transportkiste",
-      "en": "Shipping Crate",
-      "fr": "Caisse de transport maritime",
-      "ja": "交易商人の木箱"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
   },
   {
     "baseLevel": 60,
@@ -19595,25 +18055,6 @@
     "stars": 2,
     "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Schiefer-Schleifrad",
-      "en": "Slate Grinding Wheel",
-      "fr": "Meule en ardoise",
-      "ja": "スレートグラインディングホイール"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
   },
   {
     "baseLevel": 32,
@@ -20194,25 +18635,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 30,
-    "difficulty": 102,
-    "durability": 70,
-    "level": 30,
-    "maxQuality": 425,
-    "name": {
-      "de": "Stehleiter",
-      "en": "Stepladder",
-      "fr": "Escabeau",
-      "ja": "ステップラダー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
     "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
@@ -20230,25 +18652,6 @@
     "qualityModifier": 100,
     "suggestedControl": 502,
     "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Quarzit-Schleifrad",
-      "en": "Stiperstone Grinding Wheel",
-      "fr": "Meule de quartzite",
-      "ja": "スタイパーストーン・グラインディングホイール"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 50,
@@ -20287,26 +18690,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Gerades Trittbrett",
-      "en": "Straight Stepping Stumps",
-      "fr": "Dalles en bois en ligne",
-      "ja": "ステップウッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 60,
@@ -21153,44 +19536,6 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Titan-Kriegsgabel",
-      "en": "Titanium Fork",
-      "fr": "Fourche en titane",
-      "ja": "チタンフォーク"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Titan-Lanze",
-      "en": "Titanium Lance",
-      "fr": "Lance en titane",
-      "ja": "チタンランス"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 50,
@@ -22627,25 +20972,6 @@
     "suggestedCraftsmanship": 1498
   },
   {
-    "baseLevel": 74,
-    "difficulty": 680,
-    "durability": 40,
-    "level": 403,
-    "maxQuality": 3200,
-    "name": {
-      "de": "Weißeschen-Bauholz",
-      "en": "White Ash Lumber",
-      "fr": "Madrier de frêne blanc",
-      "ja": "ホワイトアッシュ材"
-    },
-    "progressDivider": 104,
-    "progressModifier": 100,
-    "qualityDivider": 84,
-    "qualityModifier": 100,
-    "suggestedControl": 1387,
-    "suggestedCraftsmanship": 1498
-  },
-  {
     "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
@@ -22728,44 +21054,6 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Weißeichen-Stock",
-      "en": "White Oak Cane",
-      "fr": "Canne en chêne blanc",
-      "ja": "ホワイトオークケーン"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißeichen-Kompositbogen",
-      "en": "White Oak Composite Bow",
-      "fr": "Arc composite en chêne blanc",
-      "ja": "ホワイトオーク・コンポジットボウ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
       "de": "Weißeichen-Ohrring",
       "en": "White Oak Earrings",
       "fr": "Boucles d'oreilles en chêne blanc",
@@ -22818,25 +21106,6 @@
   },
   {
     "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Weißeichen-Bauholz",
-      "en": "White Oak Lumber",
-      "fr": "Madrier de chêne blanc",
-      "ja": "ホワイトオーク材"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
     "level": 390,
@@ -22861,48 +21130,10 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Weißeichen-Partisane",
-      "en": "White Oak Partisan",
-      "fr": "Pertuisane en chêne blanc",
-      "ja": "ホワイトオークパルチザン"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
       "de": "Weißeichen-Ring",
       "en": "White Oak Ring",
       "fr": "Bague en chêne blanc",
       "ja": "ホワイトオークリング"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißeichen-Stab",
-      "en": "White Oak Rod",
-      "fr": "Sceptre en chêne blanc",
-      "ja": "ホワイトオークロッド"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -22967,25 +21198,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 555,
-    "name": {
-      "de": "Weinfass",
-      "en": "Wine Barrel",
-      "fr": "Tonneau en bois",
-      "ja": "ワインバレル"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 30,
@@ -23658,25 +21870,6 @@
     "suggestedCraftsmanship": 1075
   },
   {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Zelkoven-Rute",
-      "en": "Zelkova Cane",
-      "fr": "Canne en zelkova",
-      "ja": "ゼルコバケーン"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
     "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
@@ -23694,63 +21887,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Zelkoven-Angelrute",
-      "en": "Zelkova Fishing Rod",
-      "fr": "Canne à pêche en zelkova",
-      "ja": "ゼルコバフィッシングロッド"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Zelkoven-Langbogen",
-      "en": "Zelkova Longbow",
-      "fr": "Arc long en zelkova",
-      "ja": "ゼルコバロングボウ"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 490,
-    "durability": 40,
-    "level": 285,
-    "maxQuality": 2736,
-    "name": {
-      "de": "Zelkoven-Bauholz",
-      "en": "Zelkova Lumber",
-      "fr": "Madrier de zelkova",
-      "ja": "ゼルコバ材"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 69,
@@ -23789,25 +21925,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Zelkoven-Spinnrad",
-      "en": "Zelkova Spinning Wheel",
-      "fr": "Rouet en zelkova",
-      "ja": "ゼルコバスピニングホイール"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
   },
   {
     "baseLevel": 80,

@@ -2815,177 +2815,6 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "de": "Rothanf-Brustwickel der Magie",
-      "en": "Bloodhempen Chestwrap of Casting",
-      "fr": "Cache-poitrine d'incantateur en akaso",
-      "ja": "レッドヘンプ・キャスターチェストラップ"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Brustwickel der Heilung",
-      "en": "Bloodhempen Chestwrap of Healing",
-      "fr": "Cache-poitrine de soigneur en akaso",
-      "ja": "レッドヘンプ・ヒーラーチェストラップ"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 315,
-    "durability": 40,
-    "level": 255,
-    "maxQuality": 2232,
-    "name": {
-      "de": "Rothanfstoff",
-      "en": "Bloodhempen Cloth",
-      "fr": "Étoffe d'akaso",
-      "ja": "赤麻布"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Kniebundhose der Magie",
-      "en": "Bloodhempen Culottes of Casting",
-      "fr": "Culotte d'incantateur en akaso",
-      "ja": "レッドヘンプ・キャスターキュロット"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Kniebundhose der Heilung",
-      "en": "Bloodhempen Culottes of Healing",
-      "fr": "Culotte de soigneur en akaso",
-      "ja": "レッドヘンプ・ヒーラーキュロット"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Weste des Handwerks",
-      "en": "Bloodhempen Doublet of Crafting",
-      "fr": "Doublet des créations en akaso",
-      "ja": "レッドヘンプ・クラフターダブレット"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Rock",
-      "en": "Bloodhempen Skirt",
-      "fr": "Jupe en akaso",
-      "ja": "レッドヘンプスカート"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Hose des Eifers",
-      "en": "Bloodhempen Trousers of Gathering",
-      "fr": "Pantalon des ressources en akaso",
-      "ja": "レッドヘンプ・ギャザラートラウザー"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "de": "Rothanf-Turban des Handwerks",
-      "en": "Bloodhempen Turban of Crafting",
-      "fr": "Turban des créations en akaso",
-      "ja": "レッドヘンプ・クラフターターバン"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
       "de": "Rothanf-Weste des Spähens",
       "en": "Bloodhempen Vest of Scouting",
       "fr": "Gilet d'éclaireur en akaso",
@@ -3009,25 +2838,6 @@
       "en": "Bloodhempen Vest of Striking",
       "fr": "Gilet d'agresseur en akaso",
       "ja": "レッドヘンプ・ストライカーベスト"
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 315,
-    "durability": 40,
-    "level": 255,
-    "maxQuality": 2232,
-    "name": {
-      "de": "Rothanfgarn",
-      "en": "Bloodhempen Yarn",
-      "fr": "Fil d'akaso",
-      "ja": "赤麻糸"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -3314,63 +3124,6 @@
   },
   {
     "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Kreideleinen",
-      "en": "Bright Linen Cloth",
-      "fr": "Étoffe de lin blanc",
-      "ja": "白亜麻布"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 597,
-    "durability": 40,
-    "level": 390,
-    "maxQuality": 3010,
-    "name": {
-      "de": "Kreideleinengarn",
-      "en": "Bright Linen Yarn",
-      "fr": "Fil de lin blanc",
-      "ja": "白亜麻糸"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Beinlinge des Zielens",
-      "en": "Brightlinen Bottoms of Aiming",
-      "fr": "Bas-de-corps de pisteur en lin blanc",
-      "ja": "ホワイトヘンプ・レンジャーボトム"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
     "level": 390,
@@ -3414,63 +3167,6 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Weißhanf-Hose des Schlagens",
-      "en": "Brightlinen Bottoms of Striking",
-      "fr": "Bas-de-corps d'agresseur en lin blanc",
-      "ja": "ホワイトヘンプ・ストライカーボトム"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Kappe der Magie",
-      "en": "Brightlinen Cap of Casting",
-      "fr": "Chapeau d'incantateur en lin blanc",
-      "ja": "ホワイトヘンプ・キャスターキャップ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Kappe der Heilung",
-      "en": "Brightlinen Cap of Healing",
-      "fr": "Chapeau de soigneur en lin blanc",
-      "ja": "ホワイトヘンプ・ヒーラーキャップ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
       "de": "Weißhanf-Mantel des Eifers",
       "en": "Brightlinen Coat of Gathering",
       "fr": "Manteau des ressources en lin blanc",
@@ -3490,257 +3186,10 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "de": "Weißhanf-Cyclas der Magie",
-      "en": "Brightlinen Cyclas of Casting",
-      "fr": "Cyclas d'incantateur en lin blanc",
-      "ja": "ホワイトヘンプ・キャスターシクラス"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Cyclas der Heilung",
-      "en": "Brightlinen Cyclas of Healing",
-      "fr": "Cyclas de soigneur en lin blanc",
-      "ja": "ホワイトヘンプ・ヒーラーシクラス"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
       "de": "Weißhanf-Wams des Handwerks",
       "en": "Brightlinen Doublet Vest of Crafting",
       "fr": "Doublet des créations en lin blanc",
       "ja": "ホワイトヘンプ・クラフターダブレット"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Gambeson des Spähens",
-      "en": "Brightlinen Gambison of Scouting",
-      "fr": "Gambison d'éclaireur en lin blanc",
-      "ja": "ホワイトヘンプ・スカウトガンビスン"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Mantel des Zielens",
-      "en": "Brightlinen Himation of Aiming",
-      "fr": "Himation de pisteur en lin blanc",
-      "ja": "ホワイトヘンプ・レンジャーヒマティオン"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Himation des Schlagens",
-      "en": "Brightlinen Himation of Striking",
-      "fr": "Himation d'agresseur en lin blanc",
-      "ja": "ホワイトヘンプ・ストライカーヒマティオン"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Augenklappe des Zielens",
-      "en": "Brightlinen Hood of Aiming",
-      "fr": "Capuche de pisteur en lin blanc",
-      "ja": "ホワイトヘンプ・レンジャーフード"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Haube des Schlagens",
-      "en": "Brightlinen Hood of Striking",
-      "fr": "Capuche d'agresseur en lin blanc",
-      "ja": "ホワイトヘンプ・ストライカーフード"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Hose der Magie",
-      "en": "Brightlinen Hose of Casting",
-      "fr": "Fuseau d'incantateur en lin blanc",
-      "ja": "ホワイトヘンプ・キャスターホーズ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Hose der Heilung",
-      "en": "Brightlinen Hose of Healing",
-      "fr": "Fuseau de soigneur en lin blanc",
-      "ja": "ホワイトヘンプ・ヒーラーホーズ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Hose des Spähens",
-      "en": "Brightlinen Hose of Scouting",
-      "fr": "Fuseau d'éclaireur en lin blanc",
-      "ja": "ホワイトヘンプ・スカウトホーズ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Handschuhe des Zielens",
-      "en": "Brightlinen Long Gloves of Aiming",
-      "fr": "Passe-coudes de pisteur en lin blanc",
-      "ja": "ホワイトヘンプ・レンジャーロンググローブ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißhanf-Armstulpen des Schlagens",
-      "en": "Brightlinen Long Gloves of Striking",
-      "fr": "Passe-coudes d'agresseur en lin blanc",
-      "ja": "ホワイトヘンプ・ストライカーロンググローブ"
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "de": "Weißeichen-Waffenrock des Verstümmelns",
-      "en": "Brightlinen Tabard of Maiming",
-      "fr": "Tabard d'abatteur en lin blanc",
-      "ja": "ホワイトヘンプ・スレイヤータバード"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -4617,63 +4066,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 58,
-    "difficulty": 250,
-    "durability": 35,
-    "level": 145,
-    "maxQuality": 2048,
-    "name": {
-      "de": "Chimärenfilz",
-      "en": "Chimerical Felt",
-      "fr": "Étoffe de feutre chimérique",
-      "ja": "キマイラフェルト"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "de": "Chimärenfilz-Gewand der Heilung",
-      "en": "Chimerical Felt Alb of Healing",
-      "fr": "Aube de soigneur en feutre chimérique",
-      "ja": "キマイラフェルト・ヒーラーアルバ"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "de": "Chimärenfilz-Reiterhose der Magie",
-      "en": "Chimerical Felt Breeches of Casting",
-      "fr": "Braies d'incantateur en feutre chimérique",
-      "ja": "キマイラフェルト・キャスターブリーチ"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -4767,25 +4159,6 @@
     "qualityModifier": 100,
     "suggestedControl": 535,
     "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "de": "Chimärenfilz-Chausses der Heilung",
-      "en": "Chimerical Felt Chausses of Healing",
-      "fr": "Chausses de soigneur en feutre chimérique",
-      "ja": "キマイラフェルト・ヒーラーショース"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -4940,25 +4313,6 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "de": "Chimärenfilz-Handschuhe der Heilung",
-      "en": "Chimerical Felt Gloves of Healing",
-      "fr": "Gants de soigneur en feutre chimérique",
-      "ja": "キマイラフェルト・ヒーラーグローブ"
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -5052,25 +4406,6 @@
     "qualityModifier": 100,
     "suggestedControl": 535,
     "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "de": "Chimärenfilz-Robe der Magie",
-      "en": "Chimerical Felt Robe of Casting",
-      "fr": "Robe d'incantateur en feutre chimérique",
-      "ja": "キマイラフェルト・キャスターローブ"
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -5265,44 +4600,6 @@
     "suggestedCraftsmanship": 620
   },
   {
-    "baseLevel": 48,
-    "difficulty": 172,
-    "durability": 80,
-    "level": 48,
-    "maxQuality": 940,
-    "name": {
-      "de": "Chocobo-Boden",
-      "en": "Chocobo Flooring",
-      "fr": "Parquet chocobo",
-      "ja": "チョコボフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 80,
-    "suggestedCraftsmanship": 161
-  },
-  {
-    "baseLevel": 48,
-    "difficulty": 172,
-    "durability": 80,
-    "level": 48,
-    "maxQuality": 940,
-    "name": {
-      "de": "Chocobo-Tapete",
-      "en": "Chocobo Interior Wall",
-      "fr": "Revêtement mural chocobo",
-      "ja": "チョコボインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 80,
-    "suggestedCraftsmanship": 161
-  },
-  {
     "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
@@ -5361,26 +4658,6 @@
     "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Klassische Innenwand",
-      "en": "Classic Interior Wall",
-      "fr": "Revêtement mural classique",
-      "ja": "クラシックインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 83,
@@ -6870,25 +6147,6 @@
     "suggestedCraftsmanship": 22
   },
   {
-    "baseLevel": 57,
-    "difficulty": 230,
-    "durability": 35,
-    "level": 142,
-    "maxQuality": 1992,
-    "name": {
-      "de": "Kriecher-Seidengarn",
-      "en": "Crawler Silk",
-      "fr": "Fil de soie de chenille",
-      "ja": "クロウラーの絹糸"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
@@ -7046,25 +6304,6 @@
     "stars": 1,
     "suggestedControl": 1860,
     "suggestedCraftsmanship": 2000
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Gekürzte Doppelseiden-Beinlinge",
-      "en": "Cropped Twinsilk Slops",
-      "fr": "Pantalon court en doublesoie",
-      "ja": "ツインシルク・クロップドパンツ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
   },
   {
     "baseLevel": 45,
@@ -8058,26 +7297,6 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Doppelfederbett",
-      "en": "Double Feather Bed",
-      "fr": "Lit de plume double",
-      "ja": "ダブルフェザーベッド"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 432,
     "durability": 80,
     "level": 50,
@@ -8133,25 +7352,6 @@
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 820,
-    "durability": 40,
-    "level": 415,
-    "maxQuality": 3520,
-    "name": {
-      "de": "Zwergenwollstoff",
-      "en": "Dwarven Cotton",
-      "fr": "Étoffe de coton nain",
-      "ja": "ドワーフ綿布"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 80,
@@ -8392,25 +7592,6 @@
       "en": "Dwarven Cotton Petasos of Healing",
       "fr": "Pétase de soigneur en coton nain",
       "ja": "ドワーフコットン・ヒーラーペタソス"
-    },
-    "progressDivider": 108,
-    "progressModifier": 100,
-    "qualityDivider": 88,
-    "qualityModifier": 100,
-    "suggestedControl": 1541,
-    "suggestedCraftsmanship": 1662
-  },
-  {
-    "baseLevel": 78,
-    "difficulty": 820,
-    "durability": 40,
-    "level": 415,
-    "maxQuality": 3520,
-    "name": {
-      "de": "Zwergenwollgarn",
-      "en": "Dwarven Cotton Thread",
-      "fr": "Fil de coton nain",
-      "ja": "ドワーフ綿糸"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -9976,25 +9157,6 @@
     "suggestedCraftsmanship": 2590
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 1620,
-    "name": {
-      "de": "Dicke-Katze-Sofa",
-      "en": "Fat Cat Sofa",
-      "fr": "Fauteuil gros minou",
-      "ja": "ファットキャットソファー"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 82,
     "difficulty": 2300,
     "durability": 60,
@@ -11155,64 +10317,6 @@
     "suggestedCraftsmanship": 78
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Wald-Kissen",
-      "en": "Glade Cushion",
-      "fr": "Coussin sombrelinçois",
-      "ja": "シュラウド・クッション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 42,
-    "difficulty": 144,
-    "durability": 80,
-    "level": 42,
-    "maxQuality": 760,
-    "name": {
-      "de": "Wald-Fußmatte",
-      "en": "Glade Doormat",
-      "fr": "Paillasson sombrelinçois",
-      "ja": "シュラウド・ドアマット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
-    "level": 41,
-    "maxQuality": 730,
-    "name": {
-      "de": "Wald-Blättertapete",
-      "en": "Glade Flora Interior Wall",
-      "fr": "Revêtement mural floral sombrelinçois",
-      "ja": "シュラウド・リーフインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
@@ -11981,25 +11085,6 @@
     "suggestedCraftsmanship": 22
   },
   {
-    "baseLevel": 56,
-    "difficulty": 210,
-    "durability": 35,
-    "level": 139,
-    "maxQuality": 1936,
-    "name": {
-      "de": "Geheiligter Ramienstoff",
-      "en": "Hallowed Ramie Cloth",
-      "fr": "Étoffe de ramie sacrée",
-      "ja": "聖麻布"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
     "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
@@ -12025,86 +11110,10 @@
     "level": 142,
     "maxQuality": 2490,
     "name": {
-      "de": "Geheiligte Ramien-Weste der Magie",
-      "en": "Hallowed Ramie Doublet of Casting",
-      "fr": "Doublet d'incantateur en ramie sanctifié",
-      "ja": "ハロードラミー・キャスターダブレット"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
-      "de": "Geheiligte Ramien-Weste der Heilung",
-      "en": "Hallowed Ramie Doublet of Healing",
-      "fr": "Doublet de soigneur en ramie sanctifiée",
-      "ja": "ハロードラミー・ヒーラーダブレット"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
       "de": "Geheiligter Ramien-Gaskin des Zielens",
       "en": "Hallowed Ramie Gaskins of Aiming",
       "fr": "Grègues de pisteur en ramie sanctifiée",
       "ja": "ハロードラミー・レンジャーガスキン"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
-      "de": "Geheiligter Ramien-Gaskin der Magie",
-      "en": "Hallowed Ramie Gaskins of Casting",
-      "fr": "Grègues d'incantateur en ramie sanctifiée",
-      "ja": "ハロードラミー・キャスターガスキン"
-    },
-    "progressDivider": 67,
-    "progressModifier": 100,
-    "qualityDivider": 47,
-    "qualityModifier": 100,
-    "suggestedControl": 524,
-    "suggestedCraftsmanship": 560
-  },
-  {
-    "baseLevel": 57,
-    "difficulty": 460,
-    "durability": 70,
-    "level": 142,
-    "maxQuality": 2490,
-    "name": {
-      "de": "Geheiligter Ramien-Gaskin der Heilung",
-      "en": "Hallowed Ramie Gaskins of Healing",
-      "fr": "Grègues de soigneur en ramie sanctifiée",
-      "ja": "ハロードラミー・ヒーラーガスキン"
     },
     "progressDivider": 67,
     "progressModifier": 100,
@@ -13204,101 +12213,6 @@
     "suggestedCraftsmanship": 1056
   },
   {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Heilige Regenbogen-Hose",
-      "en": "Holy Rainbow Bottoms",
-      "fr": "Bas-de-corps en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボーボトム"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 130,
-    "durability": 40,
-    "level": 125,
-    "maxQuality": 1712,
-    "name": {
-      "de": "Heiliger Regenbogenstoff",
-      "en": "Holy Rainbow Cloth",
-      "fr": "Étoffe arc-en-ciel sacrée",
-      "ja": "聖虹布"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Heiliger Regenbogen-Spenzer",
-      "en": "Holy Rainbow Coatee",
-      "fr": "Boléro en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボーコーティー"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Heilige Regenbogen-Handschuhe",
-      "en": "Holy Rainbow Gloves",
-      "fr": "Gants d'apparat en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ドレスグローブ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Heiliger Regenbogen-Strohhut",
-      "en": "Holy Rainbow Hat",
-      "fr": "Chapeau en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ストローハット"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
     "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
@@ -13362,48 +12276,10 @@
     "level": 125,
     "maxQuality": 2140,
     "name": {
-      "de": "Heilige Regenbogen-Sarouel der Magie",
-      "en": "Holy Rainbow Sarouel of Casting",
-      "fr": "Saroual d'incantateur en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・キャスターサルエル"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
       "de": "Heilige Regenbogen-Sarouel der Verteidigung",
       "en": "Holy Rainbow Sarouel of Fending",
       "fr": "Saroual de protecteur en étoffe arc-en-ciel sacrée",
       "ja": "ホーリーレインボー・ディフェンダーサルエル"
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "de": "Heilige Regenbogen-Sarouel der Heilung",
-      "en": "Holy Rainbow Sarouel of Healing",
-      "fr": "Saroual de soigneur en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ヒーラーサルエル"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -13514,25 +12390,6 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
-      "de": "Heiliges Regenbogen-Hemd der Magie",
-      "en": "Holy Rainbow Shirt of Casting",
-      "fr": "Chemise d'incantateur en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・キャスターシャツ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
       "de": "Heiliges Regenbogen-Hemd der Verteidigung",
       "en": "Holy Rainbow Shirt of Fending",
       "fr": "Chemise de protecteur en étoffe arc-en-ciel sacrée",
@@ -13613,63 +12470,6 @@
       "en": "Holy Rainbow Shirt of Striking",
       "fr": "Chemise d'agresseur en étoffe arc-en-ciel sacrée",
       "ja": "ホーリーレインボー・ストライカーシャツ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Heilige Regenbogen-Schuhe",
-      "en": "Holy Rainbow Shoes",
-      "fr": "Chaussures d'apparat en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ドレスシューズ"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Heiliges Regenbogen-Schiffchen",
-      "en": "Holy Rainbow Wedge Cap",
-      "fr": "Calot en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ウェッジキャップ"
-    },
-    "progressDivider": 63,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "suggestedControl": 480,
-    "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 53,
-    "difficulty": 300,
-    "durability": 80,
-    "level": 130,
-    "maxQuality": 2210,
-    "name": {
-      "de": "Heilige Regenbogen-Arbeitshandschuhe",
-      "en": "Holy Rainbow Work Gloves",
-      "fr": "Gants de travail en étoffe arc-en-ciel sacrée",
-      "ja": "ホーリーレインボー・ワークグローブ"
     },
     "progressDivider": 63,
     "progressModifier": 100,
@@ -14474,44 +13274,6 @@
     "suggestedCraftsmanship": 1388
   },
   {
-    "baseLevel": 72,
-    "difficulty": 610,
-    "durability": 40,
-    "level": 395,
-    "maxQuality": 3040,
-    "name": {
-      "de": "Spektralseide",
-      "en": "Iridescent Silk",
-      "fr": "Étoffe de soie iridescente",
-      "ja": "虹繭布"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
-    "baseLevel": 72,
-    "difficulty": 610,
-    "durability": 40,
-    "level": 395,
-    "maxQuality": 3040,
-    "name": {
-      "de": "Spektralseidengarn",
-      "en": "Iridescent Silk Thread",
-      "fr": "Fil de soie iridescente",
-      "ja": "虹繭糸"
-    },
-    "progressDivider": 102,
-    "progressModifier": 100,
-    "qualityDivider": 82,
-    "qualityModifier": 100,
-    "suggestedControl": 1284,
-    "suggestedCraftsmanship": 1388
-  },
-  {
     "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
@@ -14862,405 +13624,6 @@
     "suggestedCraftsmanship": 587
   },
   {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Kappe des Handwerks",
-      "en": "Kudzu Cap of Crafting",
-      "fr": "Bonnet des créations en kudzu",
-      "ja": "クズクロス・クラフターキャップ"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 40,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Kudzustoff",
-      "en": "Kudzu Cloth",
-      "fr": "Étoffe de kudzu",
-      "ja": "葛布"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Mantel des Eifers",
-      "en": "Kudzu Coat of Gathering",
-      "fr": "Manteau des ressources en kudzu",
-      "ja": "クズクロス・ギャザラーコート"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Kniebundhose des Handwerks",
-      "en": "Kudzu Culottes of Crafting",
-      "fr": "Culotte des créations en kudzu",
-      "ja": "クズクロス・クラフターキュロット"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Kniebundhose des Eifers",
-      "en": "Kudzu Culottes of Gathering",
-      "fr": "Culotte des ressources en kudzu",
-      "ja": "クズクロス・ギャザラーキュロット"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Hut der Magie",
-      "en": "Kudzu Hat of Casting",
-      "fr": "Chapeau d'incantateur en kudzu",
-      "ja": "クズクロス・キャスターハット"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Hut der Heilung",
-      "en": "Kudzu Hat of Healing",
-      "fr": "Chapeau de soigneur en kudzu",
-      "ja": "クズクロス・ヒーラーハット"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Rock der Magie",
-      "en": "Kudzu Longkilt of Casting",
-      "fr": "Jupe portefeuille d'incantateur en kudzu",
-      "ja": "クズクロス・キャスターロングキルト"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Rock der Verteidigung",
-      "en": "Kudzu Longkilt of Fending",
-      "fr": "Jupe portefeuille de protecteur en kudzu",
-      "ja": "クズクロス・ディフェンダーロングキルト"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Rock der Heilung",
-      "en": "Kudzu Longkilt of Healing",
-      "fr": "Jupe portefeuille de soigneur en kudzu",
-      "ja": "クズクロス・ヒーラーロングキルト"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Rock des Verstümmelns",
-      "en": "Kudzu Longkilt of Maiming",
-      "fr": "Jupe portefeuille d'abatteur en kudzu",
-      "ja": "クズクロス・スレイヤーロングキルト"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Robe der Magie",
-      "en": "Kudzu Robe of Casting",
-      "fr": "Robe d'incantateur en kudzu",
-      "ja": "クズクロス・キャスターローブ"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Robe des Handwerks",
-      "en": "Kudzu Robe of Crafting",
-      "fr": "Robe des créations en kudzu",
-      "ja": "クズクロス・クラフターローブ"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Robe der Heilung",
-      "en": "Kudzu Robe of Healing",
-      "fr": "Robe de soigneur en kudzu",
-      "ja": "クズクロス・ヒーラーローブ"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 390,
-    "durability": 40,
-    "level": 273,
-    "maxQuality": 2448,
-    "name": {
-      "de": "Kudzufaden",
-      "en": "Kudzu Thread",
-      "fr": "Fibre de kudzu",
-      "ja": "葛苧"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Hose des Zielens",
-      "en": "Kudzu Trousers of Aiming",
-      "fr": "Pantalon de pisteur en kudzu",
-      "ja": "クズクロス・レンジャートラウザー"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "de": "Kudzu-Hose des Spähens",
-      "en": "Kudzu Trousers of Scouting",
-      "fr": "Pantalon d'éclaireur en kudzu",
-      "ja": "クズクロス・スカウトトラウザー"
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Hose des Schlagens",
-      "en": "Kudzu Trousers of Striking",
-      "fr": "Pantalon d'agresseur en kudzu",
-      "ja": "クズクロス・ストライカートラウザー"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Tunika des Zielens",
-      "en": "Kudzu Tunic of Aiming",
-      "fr": "Tunique de pisteur en kudzu",
-      "ja": "クズクロス・レンジャーチュニック"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Tunika des Spähens",
-      "en": "Kudzu Tunic of Scouting",
-      "fr": "Tunique d'éclaireur en kudzu",
-      "ja": "クズクロス・スカウトチュニック"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 65,
-    "difficulty": 830,
-    "durability": 80,
-    "level": 276,
-    "maxQuality": 3150,
-    "name": {
-      "de": "Kudzu-Tunika des Schlagens",
-      "en": "Kudzu Tunic of Striking",
-      "fr": "Tunique d'agresseur en kudzu",
-      "ja": "クズクロス・ストライカーチュニック"
-    },
-    "progressDivider": 85,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1020,
-    "suggestedCraftsmanship": 1050
-  },
-  {
     "baseLevel": 15,
     "difficulty": 27,
     "durability": 40,
@@ -15354,26 +13717,6 @@
     "qualityModifier": 100,
     "suggestedControl": 29,
     "suggestedCraftsmanship": 59
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 1375,
-    "name": {
-      "de": "Große Fußmatte",
-      "en": "Large Woven Rug",
-      "fr": "Grand paillasson",
-      "ja": "ラージマット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 90,
@@ -16724,46 +15067,6 @@
   },
   {
     "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Mogry-Boden",
-      "en": "Moogle Flooring",
-      "fr": "Parquet mog",
-      "ja": "モーグリフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Mogry-Tapete",
-      "en": "Moogle Interior Wall",
-      "fr": "Revêtement mural mog",
-      "ja": "モーグリインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
     "difficulty": 216,
     "durability": 80,
     "level": 50,
@@ -16995,26 +15298,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 240,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
-      "de": "Nana-Stoffbär",
-      "en": "Nana Bear",
-      "fr": "Ourson de Nanakko",
-      "ja": "ナナッコ・ベアー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
   },
   {
     "baseLevel": 57,
@@ -17587,64 +15870,6 @@
     "suggestedCraftsmanship": 161
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Oasen-Kissen",
-      "en": "Oasis Cushion",
-      "fr": "Coussin thanalanais",
-      "ja": "ザナラーン・クッション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Oasen-Fußmatte",
-      "en": "Oasis Doormat",
-      "fr": "Paillasson thanalanais",
-      "ja": "ザナラーン・ドアマット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
-    "level": 41,
-    "maxQuality": 730,
-    "name": {
-      "de": "Oasen-Blättertapete",
-      "en": "Oasis Flora Interior Wall",
-      "fr": "Revêtement mural floral thanalanais",
-      "ja": "ザナラーン・リーフインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
     "baseLevel": 32,
     "difficulty": 110,
     "durability": 80,
@@ -17956,25 +16181,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 76,
-    "difficulty": 750,
-    "durability": 40,
-    "level": 409,
-    "maxQuality": 3360,
-    "name": {
-      "de": "Bockwollstoff",
-      "en": "Ovim Wool",
-      "fr": "Étoffe de laine d'ovim",
-      "ja": "山羊毛布"
-    },
-    "progressDivider": 106,
-    "progressModifier": 100,
-    "qualityDivider": 86,
-    "qualityModifier": 100,
-    "suggestedControl": 1464,
-    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 76,
@@ -18355,25 +16561,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
-  },
-  {
-    "baseLevel": 76,
-    "difficulty": 750,
-    "durability": 40,
-    "level": 409,
-    "maxQuality": 3360,
-    "name": {
-      "de": "Bockwollgarn",
-      "en": "Ovim Wool Yarn",
-      "fr": "Fil de laine d'ovim",
-      "ja": "山羊毛糸"
-    },
-    "progressDivider": 106,
-    "progressModifier": 100,
-    "qualityDivider": 86,
-    "qualityModifier": 100,
-    "suggestedControl": 1464,
-    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 90,
@@ -18821,25 +17008,6 @@
     "suggestedCraftsmanship": 1320
   },
   {
-    "baseLevel": 74,
-    "difficulty": 680,
-    "durability": 40,
-    "level": 403,
-    "maxQuality": 3200,
-    "name": {
-      "de": "Pixiebaumwollstoff",
-      "en": "Pixie Cotton",
-      "fr": "Étoffe de coton pixie",
-      "ja": "妖綿布"
-    },
-    "progressDivider": 104,
-    "progressModifier": 100,
-    "qualityDivider": 84,
-    "qualityModifier": 100,
-    "suggestedControl": 1387,
-    "suggestedCraftsmanship": 1498
-  },
-  {
     "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
@@ -19125,45 +17293,6 @@
     "suggestedCraftsmanship": 1539
   },
   {
-    "baseLevel": 74,
-    "difficulty": 680,
-    "durability": 40,
-    "level": 403,
-    "maxQuality": 3200,
-    "name": {
-      "de": "Pixiebaumwollgarn",
-      "en": "Pixie Floss",
-      "fr": "Fil de coton pixie",
-      "ja": "妖綿糸"
-    },
-    "progressDivider": 104,
-    "progressModifier": 100,
-    "qualityDivider": 84,
-    "qualityModifier": 100,
-    "suggestedControl": 1387,
-    "suggestedCraftsmanship": 1498
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
-      "de": "Langer Rock",
-      "en": "Plain Long Skirt",
-      "fr": "Jupe longue",
-      "ja": "ロングスカート"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
     "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
@@ -19299,25 +17428,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
-  },
-  {
-    "baseLevel": 36,
-    "difficulty": 124,
-    "durability": 80,
-    "level": 36,
-    "maxQuality": 580,
-    "name": {
-      "de": "Prismen-Beutel",
-      "en": "Prism Pouch",
-      "fr": "Pochette à prismes magiques",
-      "ja": "マジックプリズムポーチ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 60,
@@ -19598,48 +17708,10 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "de": "Regenbogen-Kappe der Magie",
-      "en": "Rainbow Cap of Casting",
-      "fr": "Bonnet-tricorne d'incantateur en étoffe arc-en-ciel",
-      "ja": "レインボークロス・キャスターキャップ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
       "de": "Regenbogen-Kappe der Heilung",
       "en": "Rainbow Cap of Healing",
       "fr": "Bonnet-tricorne de soigneur en étoffe arc-en-ciel",
       "ja": "レインボークロス・ヒーラーキャップ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Regenbogenstoff",
-      "en": "Rainbow Cloth",
-      "fr": "Étoffe arc-en-ciel",
-      "ja": "虹布"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -19731,124 +17803,10 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "de": "Regenbogen-Schleife des Zielens",
-      "en": "Rainbow Ribbon of Aiming",
-      "fr": "Ruban de pisteur en étoffe arc-en-ciel",
-      "ja": "レインボークロスリボン・オブ・レンジ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Schleife der Magie",
-      "en": "Rainbow Ribbon of Casting",
-      "fr": "Ruban d'incantateur en étoffe arc-en-ciel",
-      "ja": "レインボークロスリボン・オブ・キャスト"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Schleife der Verteidigung",
-      "en": "Rainbow Ribbon of Fending",
-      "fr": "Ruban de protecteur en étoffe arc-en-ciel",
-      "ja": "レインボークロスリボン・オブ・ディフェンス"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Schleife der Heilung",
-      "en": "Rainbow Ribbon of Healing",
-      "fr": "Ruban de soigneur en étoffe arc-en-ciel",
-      "ja": "レインボークロスリボン・オブ・ヒール"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Schleife des Schlachtens",
-      "en": "Rainbow Ribbon of Slaying",
-      "fr": "Ruban d'attaquant en étoffe arc-en-ciel",
-      "ja": "レインボークロスリボン・オブ・アタック"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
       "de": "Regenbogen-Robe des Zielens",
       "en": "Rainbow Robe of Aiming",
       "fr": "Robe de pisteur en étoffe arc-en-ciel",
       "ja": "レインボークロス・レンジャーローブ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Robe der Magie",
-      "en": "Rainbow Robe of Casting",
-      "fr": "Robe d'incantateur en étoffe arc-en-ciel",
-      "ja": "レインボークロス・キャスターローブ"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -19925,63 +17883,6 @@
       "en": "Rainbow Slops of Aiming",
       "fr": "Trousses de pisteur en étoffe arc-en-ciel",
       "ja": "レインボークロス・レンジャースロップ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Beinlinge der Magie",
-      "en": "Rainbow Slops of Casting",
-      "fr": "Trousses d'incantateur en étoffe arc-en-ciel",
-      "ja": "レインボークロス・キャスタースロップ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "de": "Regenbogen-Beinlinge der Heilung",
-      "en": "Rainbow Slops of Healing",
-      "fr": "Trousses de soigneur en étoffe arc-en-ciel ",
-      "ja": "レインボークロス・ヒーラースロップ"
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 110,
-    "durability": 40,
-    "level": 115,
-    "maxQuality": 1656,
-    "name": {
-      "de": "Regenbogenfaden",
-      "en": "Rainbow Thread",
-      "fr": "Fil arc-en-ciel",
-      "ja": "虹糸"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -20329,82 +18230,6 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Ramienstoff",
-      "en": "Ramie Cloth",
-      "fr": "Étoffe de ramie",
-      "ja": "青麻布"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Ramien-Wams des Handwerks",
-      "en": "Ramie Doublet of Crafting",
-      "fr": "Doublet des créations en ramie",
-      "ja": "ラミークラフターダブレット"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Kurzfingerhandschuhe der Magie",
-      "en": "Ramie Halfgloves of Casting",
-      "fr": "Mitaines d'incantateur en ramie",
-      "ja": "ラミー・キャスターハーフグローブ"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Kurzfingerhandschuhe der Heilung",
-      "en": "Ramie Halfgloves of Healing",
-      "fr": "Mitaines de soigneur en ramie",
-      "ja": "ラミー・ヒーラーハーフグローブ"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
     "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
@@ -20481,139 +18306,6 @@
     "suggestedCraftsmanship": 539
   },
   {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Schleife des Zielens",
-      "en": "Ramie Ribbon of Aiming",
-      "fr": "Ruban de pisteur en ramie",
-      "ja": "ラミーリボン・オブ・レンジ"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Schleife der Magie",
-      "en": "Ramie Ribbon of Casting",
-      "fr": "Ruban d'incantateur en ramie",
-      "ja": "ラミーリボン・オブ・キャスト"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Schleife der Verteidigung",
-      "en": "Ramie Ribbon of Fending",
-      "fr": "Ruban de protecteur en ramie",
-      "ja": "ラミーリボン・オブ・ディフェンス"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Schleife der Heilung",
-      "en": "Ramie Ribbon of Healing",
-      "fr": "Ruban de soigneur en ramie",
-      "ja": "ラミーリボン・オブ・ヒール"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "de": "Ramien-Schleife des Schlachtens",
-      "en": "Ramie Ribbon of Slaying",
-      "fr": "Ruban d'attaquant en ramie",
-      "ja": "ラミーリボン・オブ・アタック"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Ramien-Robe der Magie",
-      "en": "Ramie Robe of Casting",
-      "fr": "Robe d'incantateur en ramie",
-      "ja": "ラミーキャスターローブ"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Ramien-Robe der Heilung",
-      "en": "Ramie Robe of Healing",
-      "fr": "Robe de soigneur en ramie",
-      "ja": "ラミーヒーラーローブ"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
     "baseLevel": 56,
     "difficulty": 420,
     "durability": 70,
@@ -20624,25 +18316,6 @@
       "en": "Ramie Shirt",
       "fr": "Chemise en ramie",
       "ja": "ラミーシャツ"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Ramien-Rock",
-      "en": "Ramie Skirt",
-      "fr": "Jupe en ramie",
-      "ja": "ラミースカート"
     },
     "progressDivider": 66,
     "progressModifier": 100,
@@ -20690,63 +18363,6 @@
     "suggestedCraftsmanship": 539
   },
   {
-    "baseLevel": 54,
-    "difficulty": 170,
-    "durability": 40,
-    "level": 133,
-    "maxQuality": 1824,
-    "name": {
-      "de": "Ramienfaden",
-      "en": "Ramie Thread",
-      "fr": "Fil de ramie",
-      "ja": "青麻糸"
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Ramien-Tonban der Magie",
-      "en": "Ramie Tonban of Casting",
-      "fr": "Tomban d'incantateur en ramie",
-      "ja": "ラミーキャスタートンバン"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Ramien-Tonban der Heilung",
-      "en": "Ramie Tonban of Healing",
-      "fr": "Tomban de soigneur en ramie",
-      "ja": "ラミーヒーラートンバン"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
     "baseLevel": 55,
     "difficulty": 380,
     "durability": 70,
@@ -20764,25 +18380,6 @@
     "qualityModifier": 100,
     "suggestedControl": 502,
     "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "de": "Ramien-Hose des Eifers",
-      "en": "Ramie Trousers of Gathering",
-      "fr": "Pantalon des ressources en ramie",
-      "ja": "ラミーギャザラートラウザー"
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 55,
@@ -20814,25 +18411,6 @@
       "en": "Ramie Trousers of Striking",
       "fr": "Pantalon d'agresseur en ramie",
       "ja": "ラミーストライカートラウザー"
-    },
-    "progressDivider": 65,
-    "progressModifier": 100,
-    "qualityDivider": 45,
-    "qualityModifier": 100,
-    "suggestedControl": 502,
-    "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 55,
-    "difficulty": 380,
-    "durability": 70,
-    "level": 136,
-    "maxQuality": 2350,
-    "name": {
-      "de": "Ramien-Turban des Handwerks",
-      "en": "Ramie Turban of Crafting",
-      "fr": "Turban des créations en ramie",
-      "ja": "ラミークラフターターバン"
     },
     "progressDivider": 65,
     "progressModifier": 100,
@@ -21328,25 +18906,6 @@
       "en": "Red Beret",
       "fr": "Béret rouge",
       "ja": "レッドベレー"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 39,
-    "difficulty": 137,
-    "durability": 80,
-    "level": 39,
-    "maxQuality": 670,
-    "name": {
-      "de": "Roter Teppich",
-      "en": "Red Carpet",
-      "fr": "Tapis rouge",
-      "ja": "レッドカーペット"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -22645,64 +20204,6 @@
     "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Riviera-Kissen",
-      "en": "Riviera Cushion",
-      "fr": "Coussin noscéen",
-      "ja": "ラノシアン・クッション"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
-    "level": 40,
-    "maxQuality": 700,
-    "name": {
-      "de": "Riviera-Fußmatte",
-      "en": "Riviera Doormat",
-      "fr": "Paillasson noscéen",
-      "ja": "ラノシアン・ドアマット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
-    "level": 41,
-    "maxQuality": 730,
-    "name": {
-      "de": "Riviera-Blättertapete",
-      "en": "Riviera Flora Interior Wall",
-      "fr": "Revêtement mural floral noscéen",
-      "ja": "ラノシアン・リーフインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
@@ -22739,367 +20240,6 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Rubinbaumwoll-Bandana des Spähens",
-      "en": "Ruby Cotton Bandana of Scouting",
-      "fr": "Bandana d'éclaireur en rubicoton",
-      "ja": "ルビーコットン・スカウトバンダナ"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Rubinbaumwoll-Bandana des Schlagens",
-      "en": "Ruby Cotton Bandana of Striking",
-      "fr": "Bandana d'agresseur en rubicoton",
-      "ja": "ルビーコットン・ストライカーバンダナ"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Hose",
-      "en": "Ruby Cotton Bottoms",
-      "fr": "Bas-de-corps en rubicoton",
-      "ja": "ルビーコットンボトム"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Kappe",
-      "en": "Ruby Cotton Cap",
-      "fr": "Bonnet en rubicoton",
-      "ja": "ルビーコットンキャップ"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Gewand der Heilung",
-      "en": "Ruby Cotton Chasuble",
-      "fr": "Chasuble en rubicoton",
-      "ja": "ルビーコットンシャブル"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 340,
-    "durability": 40,
-    "level": 265,
-    "maxQuality": 2304,
-    "name": {
-      "de": "Rubinbaumwoll-Stoff",
-      "en": "Ruby Cotton Cloth",
-      "fr": "Étoffe de rubicoton",
-      "ja": "紅玉綿布"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Spenzer",
-      "en": "Ruby Cotton Coatee",
-      "fr": "Boléro en rubicoton",
-      "ja": "ルビーコットンコーティー"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Rubinbaumwoll-Fingerlinge der Magie",
-      "en": "Ruby Cotton Fingerless Gloves of Casting",
-      "fr": "Gants sans doigts d'incantateur en rubicoton",
-      "ja": "ルビーコットン・キャスターフィンガレスグローブ"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Gambeson des Zielens",
-      "en": "Ruby Cotton Gambison",
-      "fr": "Gambison en rubicoton",
-      "ja": "ルビーコットンガンビスン"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Hose des Spähens",
-      "en": "Ruby Cotton Gaskins of Scouting",
-      "fr": "Grègues d'éclaireur en rubicoton",
-      "ja": "ルビーコットン・スカウトガスキン"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Gaskin des Schlagens",
-      "en": "Ruby Cotton Gaskins of Striking",
-      "fr": "Grègues d'agresseur en rubicoton",
-      "ja": "ルビーコットン・ストライカーガスキン"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Strickjacke des Spähens",
-      "en": "Ruby Cotton Gilet of Scouting",
-      "fr": "Gilet sans manches d'éclaireur en rubicoton",
-      "ja": "ルビーコットン・スカウトジレ"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Strickjacke des Schlagens",
-      "en": "Ruby Cotton Gilet of Striking",
-      "fr": "Gilet sans manches d'agresseur en rubicoton",
-      "ja": "ルビーコットン・ストライカージレ"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "de": "Rubinbaumwoll-Hut der Magie",
-      "en": "Ruby Cotton Hat of Casting",
-      "fr": "Chapeau d'incantateur en rubicoton",
-      "ja": "ルビーコットン・キャスターハット"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Rock der Magie",
-      "en": "Ruby Cotton Longkilt",
-      "fr": "Jupe portefeuille en rubicoton",
-      "ja": "ルビーコットン・ロングキルト"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Robe der Magie",
-      "en": "Ruby Cotton Robe of Casting",
-      "fr": "Robe d'incantateur en rubicoton",
-      "ja": "ルビーコットン・キャスターローブ"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Sarouel des Zielens",
-      "en": "Ruby Cotton Sarouel",
-      "fr": "Saroual en rubicoton",
-      "ja": "ルビーコットンサルエル"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 63,
-    "difficulty": 730,
-    "durability": 80,
-    "level": 270,
-    "maxQuality": 2970,
-    "name": {
-      "de": "Rubinbaumwoll-Hose der Heilung",
-      "en": "Ruby Cotton Smalls",
-      "fr": "Gaine en rubicoton",
-      "ja": "ルビーコットンスモール"
-    },
-    "progressDivider": 83,
-    "progressModifier": 100,
-    "qualityDivider": 64,
-    "qualityModifier": 100,
-    "suggestedControl": 1005,
-    "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 340,
-    "durability": 40,
-    "level": 265,
-    "maxQuality": 2304,
-    "name": {
-      "de": "Rubinbaumwoll-Garn",
-      "en": "Ruby Cotton Yarn",
-      "fr": "Fil de rubicoton",
-      "ja": "紅玉綿糸"
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 80,
@@ -23683,120 +20823,6 @@
     "suggestedCraftsmanship": 1650
   },
   {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Gambeson des Zielens",
-      "en": "Serge Gambison of Aiming",
-      "fr": "Gambison de pisteur en serge",
-      "ja": "サージレンジャーガンビスン"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Gambeson der Magie",
-      "en": "Serge Gambison of Casting",
-      "fr": "Gambison d'incantateur en serge",
-      "ja": "サージキャスターガンビスン"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Gambeson der Heilung",
-      "en": "Serge Gambison of Healing",
-      "fr": "Gambison de soigneur en serge",
-      "ja": "サージヒーラーガンビスン"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Sergen-Hut des Zielens",
-      "en": "Serge Hat of Aiming",
-      "fr": "Chapeau de pisteur en serge",
-      "ja": "サージレンジャーハット"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Sergen-Hut der Magie",
-      "en": "Serge Hat of Casting",
-      "fr": "Chapeau d'incantateur en serge",
-      "ja": "サージキャスターハット"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "de": "Sergen-Hut der Heilung",
-      "en": "Serge Hat of Healing",
-      "fr": "Chapeau de soigneur en serge",
-      "ja": "サージヒーラーハット"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
@@ -23807,82 +20833,6 @@
       "en": "Serge Hood",
       "fr": "Capuche en serge",
       "ja": "サージフード"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Hose des Zielens",
-      "en": "Serge Hose of Aiming",
-      "fr": "Fuseau de pisteur en serge",
-      "ja": "サージレンジャーホーズ"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Hose der Magie",
-      "en": "Serge Hose of Casting",
-      "fr": "Fuseau d'incantateur en serge",
-      "ja": "サージキャスターホーズ"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Hose der Heilung",
-      "en": "Serge Hose of Healing",
-      "fr": "Fuseau de soigneur en serge",
-      "ja": "サージヒーラーホーズ"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Sergen-Strickmütze",
-      "en": "Serge Knit Cap",
-      "fr": "Bonnet tricoté en serge",
-      "ja": "サージニットキャップ"
     },
     "progressDivider": 90,
     "progressModifier": 100,
@@ -23909,82 +20859,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Sarouel des Handwerks",
-      "en": "Serge Sarouel of Crafting",
-      "fr": "Saroual des créations en serge",
-      "ja": "サージクラフターサルエル"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Sarouel des Eifers",
-      "en": "Serge Sarouel of Gathering",
-      "fr": "Saroual des ressources en serge",
-      "ja": "サージギャザラーサルエル"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Turban des Handwerks",
-      "en": "Serge Turban of Crafting",
-      "fr": "Turban des créations en serge",
-      "ja": "サージクラフターターバン"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 67,
-    "difficulty": 930,
-    "durability": 80,
-    "level": 282,
-    "maxQuality": 3330,
-    "name": {
-      "de": "Sergen-Turban des Eifers",
-      "en": "Serge Turban of Gathering",
-      "fr": "Turban des ressources en serge",
-      "ja": "サージギャザラーターバン"
-    },
-    "progressDivider": 87,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1035,
-    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 70,
@@ -25054,46 +21928,6 @@
     "suggestedCraftsmanship": 106
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Südsee-Sofa",
-      "en": "South Seas Armchair",
-      "fr": "Fauteuil des mers du sud",
-      "ja": "サザンソファ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Südsee-Couch",
-      "en": "South Seas Couch",
-      "fr": "Canapé des mers du sud",
-      "ja": "サザンカウチ"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 80,
     "difficulty": 2800,
     "durability": 70,
@@ -25190,25 +22024,6 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 555,
-    "name": {
-      "de": "Gefleckte Tapete",
-      "en": "Spotted Interior Wall",
-      "fr": "Papier peint pastel à motifs ronds",
-      "ja": "ポルカドット・インナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
   },
   {
     "baseLevel": 50,
@@ -25798,25 +22613,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 66,
-    "difficulty": 440,
-    "durability": 40,
-    "level": 279,
-    "maxQuality": 2592,
-    "name": {
-      "de": "Steppen-Serge",
-      "en": "Steppe Serge",
-      "fr": "Étoffe de serge des steppes",
-      "ja": "ステップサージ"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 50,
     "difficulty": 216,
     "durability": 80,
@@ -25931,25 +22727,6 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Gestreifte Innenwand",
-      "en": "Striped Interior Wall",
-      "fr": "Revêtement mural à rayures",
-      "ja": "ストライプインナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 25,
@@ -26539,26 +23316,6 @@
     "suggestedCraftsmanship": 1100
   },
   {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 1250,
-    "name": {
-      "de": "Tatami-Fußboden",
-      "en": "Tatami Flooring",
-      "fr": "Sol en tatami",
-      "ja": "タタミフローリング"
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 90,
     "difficulty": 3500,
     "durability": 80,
@@ -26578,26 +23335,6 @@
     "suggestedCraftsmanship": 2805
   },
   {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 1100,
-    "name": {
-      "de": "Tatami-Matte",
-      "en": "Tatami Mat",
-      "fr": "Tatami",
-      "ja": "タタミマット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 70,
@@ -26615,25 +23352,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 850,
-    "name": {
-      "de": "Blaugrüner Teppich",
-      "en": "Teal Blue Carpeting",
-      "fr": "Moquette bleu perle",
-      "ja": "パールブルーカーペット"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 70,
@@ -27487,177 +24205,6 @@
     "suggestedCraftsmanship": 1500
   },
   {
-    "baseLevel": 68,
-    "difficulty": 490,
-    "durability": 40,
-    "level": 285,
-    "maxQuality": 2736,
-    "name": {
-      "de": "Doppelseide",
-      "en": "Twinsilk",
-      "fr": "Étoffe de doublesoie",
-      "ja": "玉糸紬"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Gazellenleder-Mantel der Magie",
-      "en": "Twinsilk Coat of Casting",
-      "fr": "Robe d'incantateur en doublesoie",
-      "ja": "ツインシルク・キャスターローブ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Doppelseiden-Haube der Magie",
-      "en": "Twinsilk Hood of Casting",
-      "fr": "Capuche d'incantateur en doublesoie",
-      "ja": "ツインシルク・キャスターフード"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Doppelseiden-Haube der Heilung",
-      "en": "Twinsilk Hood of Healing",
-      "fr": "Capuche de soigneur en doublesoie",
-      "ja": "ツインシルク・ヒーラーフード"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Doppelseiden-Haube des Schlagens",
-      "en": "Twinsilk Hood of Striking",
-      "fr": "Capuche d'agresseur en doublesoie",
-      "ja": "ツインシルク・ストライカーフード"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Gazellenleder-Robe des Zielens",
-      "en": "Twinsilk Robe of Aiming",
-      "fr": "Robe de pisteur en doublesoie",
-      "ja": "ツインシルク・レンジャーローブ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Gazellenleder-Beinlinge des Zielens",
-      "en": "Twinsilk Slops of Aiming",
-      "fr": "Trousses de pisteur en doublesoie",
-      "ja": "ツインシルク・レンジャースロップ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Doppelseiden-Beinlinge der Magie",
-      "en": "Twinsilk Slops of Casting",
-      "fr": "Trousses d'incantateur en doublesoie",
-      "ja": "ツインシルク・キャスタースロップ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Doppelseiden-Beinlinge der Verteidigung",
-      "en": "Twinsilk Slops of Fending",
-      "fr": "Trousses de protecteur en doublesoie",
-      "ja": "ツインシルク・ディフェンダースロップ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
@@ -27675,101 +24222,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "de": "Doppelseiden-Beinlinge der Heilung",
-      "en": "Twinsilk Slops of Healing",
-      "fr": "Trousses de soigneur en doublesoie",
-      "ja": "ツインシルク・ヒーラースロップ"
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "de": "Doppelseiden-Hemd mit Hosenträgern",
-      "en": "Twinsilk Suspenders",
-      "fr": "Chemise à bretelles en doublesoie",
-      "ja": "ツインシルク・サスペンダーシャツ"
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Doppelseiden-Turban des Zielens",
-      "en": "Twinsilk Turban of Aiming",
-      "fr": "Turban de pisteur en doublesoie",
-      "ja": "ツインシルク・レンジャーターバン"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "de": "Doppelseiden-Turban des Spähens",
-      "en": "Twinsilk Turban of Scouting",
-      "fr": "Turban d'éclaireur en doublesoie",
-      "ja": "ツインシルク・スカウトターバン"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 490,
-    "durability": 40,
-    "level": 285,
-    "maxQuality": 2736,
-    "name": {
-      "de": "Doppelfaden",
-      "en": "Twinthread",
-      "fr": "Fil de doublesoie",
-      "ja": "玉糸"
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 58,
@@ -29200,25 +25652,6 @@
     "suggestedCraftsmanship": 3700
   },
   {
-    "baseLevel": 46,
-    "difficulty": 159,
-    "durability": 80,
-    "level": 46,
-    "maxQuality": 880,
-    "name": {
-      "de": "Wellen-Tapete",
-      "en": "Wavy Interior Wall",
-      "fr": "Revêtement mural à vagues",
-      "ja": "ウェーブパターン・インナーウォール"
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
     "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
@@ -30553,25 +26986,6 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 440,
-    "durability": 40,
-    "level": 279,
-    "maxQuality": 2592,
-    "name": {
-      "de": "Kammgarn",
-      "en": "Worsted Yarn",
-      "fr": "Laine peignée",
-      "ja": "梳毛糸"
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 85,
