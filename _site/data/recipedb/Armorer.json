@@ -58,6 +58,44 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Körperpanzer der Verteidigung",
+      "en": "Adamantite Armor of Fending",
+      "fr": "Armure de protecteur en adamantium",
+      "ja": "アダマンディフェンダーアーマー"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Körperpanzer des Verstümmelns",
+      "en": "Adamantite Armor of Maiming",
+      "fr": "Armure d'abatteur en adamantium",
+      "ja": "アダマンスレイヤーアーマー"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
     "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
@@ -104,6 +142,44 @@
     "level": 148,
     "maxQuality": 2630,
     "name": {
+      "de": "Adamantit-Beinkleid der Verteidigung",
+      "en": "Adamantite Chain Hose of Fending",
+      "fr": "Fuseau de mailles de protecteur en adamantium",
+      "ja": "アダマン・ディフェンダーチェーンホーズ"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Beinkleid des Verstümmelns",
+      "en": "Adamantite Chain Hose of Maiming",
+      "fr": "Fuseau de mailles d'abatteur en adamantium",
+      "ja": "アダマン・スレイヤーチェーンホーズ"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
       "de": "Adamantit-Stirnreif der Verteidigung",
       "en": "Adamantite Circlet of Fending",
       "fr": "Diadème de protecteur en adamantium",
@@ -136,6 +212,44 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Panzerhandschuhe der Verteidigung",
+      "en": "Adamantite Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en adamantium",
+      "ja": "アダマンディフェンダーガントレット"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Panzerhandschuhe des Verstümmelns",
+      "en": "Adamantite Gauntlets of Maiming",
+      "fr": "Gantelets d'abatteur en adamantium",
+      "ja": "アダマンスレイヤーガントレット"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -153,6 +267,44 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Helm der Verteidigung",
+      "en": "Adamantite Helm of Fending",
+      "fr": "Casque de protecteur en adamantium",
+      "ja": "アダマンディフェンダーヘルム"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Helm des Verstümmelns",
+      "en": "Adamantite Helm of Maiming",
+      "fr": "Casque d'abatteur en adamantium",
+      "ja": "アダマンスレイヤーヘルム"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 60,
@@ -327,6 +479,63 @@
     "qualityModifier": 100,
     "suggestedControl": 535,
     "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Bärlatschen der Verteidigung",
+      "en": "Adamantite Sabatons of Fending",
+      "fr": "Sabatons de protecteur en adamantium",
+      "ja": "アダマンディフェンダーサバトン"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Adamantit-Bärlatschen des Verstümmelns",
+      "en": "Adamantite Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur en adamantium",
+      "ja": "アダマンスレイヤーサバトン"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Turmschild",
+      "en": "Adamantite Scutum",
+      "fr": "Scutum en adamantium",
+      "ja": "アダマンスクトゥム"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -2039,6 +2248,25 @@
     "suggestedCraftsmanship": 1498
   },
   {
+    "baseLevel": 74,
+    "difficulty": 680,
+    "durability": 40,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Seelenazurit-Barren",
+      "en": "Bluespirit Tile",
+      "fr": "Barre d'azuresprit",
+      "ja": "霊青材"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
+  },
+  {
     "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
@@ -2666,6 +2894,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 425,
+    "name": {
+      "de": "Gusseiserner Kochtopf",
+      "en": "Cast-iron Cookpot",
+      "fr": "Marmite suspendue",
+      "ja": "クッキングポット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 59,
@@ -5092,6 +5339,26 @@
     "suggestedCraftsmanship": 325
   },
   {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Truhe eines Toten",
+      "en": "Dead Man's Chest",
+      "fr": "Coffre du mort",
+      "ja": "デッドマンズチェスト"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
     "baseLevel": 3,
     "difficulty": 30,
     "durability": 60,
@@ -5244,6 +5511,44 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Kürass der Verteidigung",
+      "en": "Deepgold Cuirass of Fending",
+      "fr": "Cuirasse de protecteur en or incarnat",
+      "ja": "ディープゴールド・ディフェンダーキュイラス"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Panzerhandschuhe der Verteidigung",
+      "en": "Deepgold Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en or incarnat",
+      "ja": "ディープゴールド・ディフェンダーガントレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 72,
     "difficulty": 1220,
     "durability": 80,
@@ -5282,6 +5587,63 @@
     "suggestedCraftsmanship": 1388
   },
   {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Helm der Verteidigung",
+      "en": "Deepgold Helm of Fending",
+      "fr": "Casque de protecteur en or incarnat",
+      "ja": "ディープゴールド・ディフェンダーヘルム"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 610,
+    "durability": 40,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Dunkelgold-Barren",
+      "en": "Deepgold Ingot",
+      "fr": "Lingot d'or incarnat",
+      "ja": "ディープゴールドインゴット"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Drachenschild",
+      "en": "Deepgold Kite Shield",
+      "fr": "Écu mandorle en or incarnat",
+      "ja": "ディープゴールド・カイトシールド"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
@@ -5299,6 +5661,44 @@
     "qualityModifier": 100,
     "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Maske des Spähens",
+      "en": "Deepgold Mask of Scouting",
+      "fr": "Masque d'éclaireur en or incarnat",
+      "ja": "ディープゴールド・スカウトマスク"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Dunkelgold-Nugget",
+      "en": "Deepgold Nugget",
+      "fr": "Pépite d'or incarnat",
+      "ja": "ディープゴールドナゲット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
   },
   {
     "baseLevel": 71,
@@ -5337,6 +5737,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Sollerets der Verteidigung",
+      "en": "Deepgold Sollerets of Fending",
+      "fr": "Solerets de protecteur en or incarnat",
+      "ja": "ディープゴールド・ディフェンダーソルレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
   },
   {
     "baseLevel": 72,
@@ -5753,6 +6172,424 @@
     "suggestedCraftsmanship": 67
   },
   {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Destillierkolben",
+      "en": "Doman Iron Alembic",
+      "fr": "Alambic en fer domien",
+      "ja": "ドマアイアンアレンビック"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Bratpfanne",
+      "en": "Doman Iron Frypan",
+      "fr": "Poêle à frire en fer domien",
+      "ja": "ドマアイアンフライパン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Panzerhandschuhe der Verteidigung",
+      "en": "Doman Iron Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en fer domien",
+      "ja": "ドマアイアン・ディフェンダーガントレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Panzerhandschuhe des Verstümmelns",
+      "en": "Doman Iron Gauntlets of Maiming",
+      "fr": "Gantelets d'abatteur en fer domien",
+      "ja": "ドマアイアン・スレイヤーガントレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Beinschienen der Verteidigung",
+      "en": "Doman Iron Greaves of Fending",
+      "fr": "Jambards de protecteur en fer domien",
+      "ja": "ドマアイアン・ディフェンダーグリーヴ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Beinschienen des Verstümmelns",
+      "en": "Doman Iron Greaves of Maiming",
+      "fr": "Jambards d'abatteur en fer domien",
+      "ja": "ドマアイアン・スレイヤーグリーヴ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Drachenschild",
+      "en": "Doman Iron Kite Shield",
+      "fr": "Écu mandorle en fer domien",
+      "ja": "ドマアイアン・カイトシールド"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Destillierkolben",
+      "en": "Doman Steel Alembic",
+      "fr": "Alambic en acier domien",
+      "ja": "ドマスチールアレンビック"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Armet der Verteidigung",
+      "en": "Doman Steel Armet of Fending",
+      "fr": "Armet de protecteur en acier domien",
+      "ja": "ドマスチール・ディフェンダーアーメット"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Armet des Verstümmelns",
+      "en": "Doman Steel Armet of Maiming",
+      "fr": "Armet d'abatteur en acier domien",
+      "ja": "ドマスチール・スレイヤーアーメット"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Bratpfanne",
+      "en": "Doman Steel Frypan Caliente",
+      "fr": "Poêle à frire pampa en acier domien",
+      "ja": "ドマスチール・サボテンダーフライパン"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Panzerhandschuhe der Verteidigung",
+      "en": "Doman Steel Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en acier domien",
+      "ja": "ドマスチール・ディフェンダーガントレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Panzerhandschuhe des Verstümmelns",
+      "en": "Doman Steel Gauntlets of Maiming",
+      "fr": "Gantelets d'abatteur en acier domien",
+      "ja": "ドマスチール・スレイヤーガントレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Panzerhandschuhe des Spähens",
+      "en": "Doman Steel Gauntlets of Scouting",
+      "fr": "Gantelets d'éclaireur en acier domien",
+      "ja": "ドマスチール・スカウトガントレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Panzerhandschuhe des Schlagens",
+      "en": "Doman Steel Gauntlets of Striking",
+      "fr": "Gantelets d'agresseur en acier domien",
+      "ja": "ドマスチール・ストライカーガントレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Beinschienen der Verteidigung",
+      "en": "Doman Steel Greaves of Fending",
+      "fr": "Jambards de protecteur en acier domien",
+      "ja": "ドマスチール・ディフェンダーグリーヴ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Beinschienen des Verstümmelns",
+      "en": "Doman Steel Greaves of Maiming",
+      "fr": "Jambards d'abatteur en acier domien",
+      "ja": "ドマスチール・スレイヤーグリーヴ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Beinschienen des Spähens",
+      "en": "Doman Steel Greaves of Scouting",
+      "fr": "Jambards d'éclaireur en acier domien",
+      "ja": "ドマスチール・スカウトグリーヴ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Beinschienen des Schlagens",
+      "en": "Doman Steel Greaves of Striking",
+      "fr": "Jambards d'agresseur en acier domien",
+      "ja": "ドマスチール・ストライカーグリーヴ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Schild",
+      "en": "Doman Steel Shield",
+      "fr": "Bouclier en acier domien",
+      "ja": "ドマスチールシールド"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Wappenrock der Verteidigung",
+      "en": "Doman Steel Tabard of Fending",
+      "fr": "Tabard de protecteur en acier domien",
+      "ja": "ドマスチール・ディフェンダータバード"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Wappenrock des Verstümmelns",
+      "en": "Doman Steel Tabard of Maiming",
+      "fr": "Tabard d'abatteur en acier domien",
+      "ja": "ドマスチール・スレイヤータバード"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
     "baseLevel": 80,
     "difficulty": 2050,
     "durability": 70,
@@ -5994,6 +6831,25 @@
       "en": "Dwarven Mythril Helm of Striking",
       "fr": "Casque d'agresseur en mithril noble",
       "ja": "ハイミスリル・ストライカーヘルム"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 820,
+    "durability": 40,
+    "level": 415,
+    "maxQuality": 3520,
+    "name": {
+      "de": "Edelmithril-Barren",
+      "en": "Dwarven Mythril Ingot",
+      "fr": "Lingot de mithril noble",
+      "ja": "ハイミスリルインゴット"
     },
     "progressDivider": 108,
     "progressModifier": 100,
@@ -7205,6 +8061,25 @@
     "suggestedCraftsmanship": 176
   },
   {
+    "baseLevel": 52,
+    "difficulty": 260,
+    "durability": 80,
+    "level": 125,
+    "maxQuality": 2140,
+    "name": {
+      "de": "Kaktor-Bratpfanne",
+      "en": "Frypan Caliente",
+      "fr": "Poêle à frire pampa",
+      "ja": "サボテンダーフライパン"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1335,
     "durability": 35,
@@ -8200,6 +9075,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Hartsilber-Destillierkolben",
+      "en": "Hardsilver Alembic",
+      "fr": "Alambic en durargent",
+      "ja": "ハードシルバーアレンビック"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 62,
@@ -9425,6 +10319,101 @@
     "suggestedCraftsmanship": 1006
   },
   {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Barbuta der Verteidigung",
+      "en": "High Steel Barbut of Fending",
+      "fr": "Barbute de protecteur en acier noble",
+      "ja": "ハイスチール・ディフェンダーバルビュート"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Barbuta des Verstümmelns",
+      "en": "High Steel Barbut of Maiming",
+      "fr": "Barbute d'abatteur en acier noble",
+      "ja": "ハイスチール・スレイヤーバルビュート"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Bombenbratpfanne",
+      "en": "High Steel Bomb Frypan",
+      "fr": "Poêle à frire bombo en acier noble",
+      "ja": "ハイスチール・ボムフライパン"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Panzerhandschuhe der Verteidigung",
+      "en": "High Steel Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en acier noble",
+      "ja": "ハイスチール・ディフェンダーガントレット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Panzerhandschuhe des Verstümmelns",
+      "en": "High Steel Gauntlets of Maiming",
+      "fr": "Gantelets d'abatteur en acier noble",
+      "ja": "ハイスチール・スレイヤーガントレット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
@@ -9482,6 +10471,82 @@
     "suggestedCraftsmanship": 1006
   },
   {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 40,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Edelstahl-Barren",
+      "en": "High Steel Ingot",
+      "fr": "Lingot d'acier noble",
+      "ja": "ハイスチールインゴット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Rüstung der Verteidigung",
+      "en": "High Steel Mail of Fending",
+      "fr": "Cotte de mailles de protecteur en acier noble",
+      "ja": "ハイスチール・ディフェンダーメイル"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Rüstung des Verstümmelns",
+      "en": "High Steel Mail of Maiming",
+      "fr": "Cotte de mailles d'abatteur en acier noble",
+      "ja": "ハイスチール・スレイヤーメイル"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Edelstahl-Nugget",
+      "en": "High Steel Nugget",
+      "fr": "Pépite d'acier noble",
+      "ja": "ハイスチールナゲット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
     "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
@@ -9511,6 +10576,82 @@
       "en": "High Steel Scale Mail of Maiming",
       "fr": "Armure d'écailles d'abatteur en acier noble",
       "ja": "ハイスチール・スレイヤースケイルメイル"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Turmschild",
+      "en": "High Steel Scutum",
+      "fr": "Scutum en acier noble",
+      "ja": "ハイスチールスクトゥム"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Sollerets der Verteidigung",
+      "en": "High Steel Sollerets of Fending",
+      "fr": "Solerets de protecteur en acier noble",
+      "ja": "ハイスチール・ディフェンダーソルレット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Sollerets des Verstümmelns",
+      "en": "High Steel Sollerets of Maiming",
+      "fr": "Solerets d'abatteur en acier noble",
+      "ja": "ハイスチール・スレイヤーソルレット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Destillierkolben",
+      "en": "High Steel Thermal Alembic",
+      "fr": "Alambic thermique en acier noble",
+      "ja": "ハイスチール・サーマルアレンビック"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -9748,6 +10889,44 @@
     "suggestedCraftsmanship": 1056
   },
   {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 1395,
+    "name": {
+      "de": "Hinganisches Kurazukuri-Hüttendach",
+      "en": "Hingan Cottage Roof (Kura-zukuri)",
+      "fr": "Toit de maisonnette hingashienne (kura-zukuri)",
+      "ja": "白銀蔵造平屋屋根"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 1395,
+    "name": {
+      "de": "Hinganische Kurazukuri-Hüttenmauer",
+      "en": "Hingan Cottage Wall (Kura-zukuri)",
+      "fr": "Mur de maisonnette hingashienne (kura-zukuri)",
+      "ja": "白銀蔵造平屋壁"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -9765,6 +10944,82 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 1530,
+    "name": {
+      "de": "Hinganisches Kurazukuri-Hausdach",
+      "en": "Hingan House Roof (Kura-zukuri)",
+      "fr": "Toit de pavillon hingashien (kura-zukuri)",
+      "ja": "白銀蔵造屋敷屋根"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 1620,
+    "name": {
+      "de": "Hinganische Kurazukuri-Hausmauer",
+      "en": "Hingan House Wall (Kura-zukuri)",
+      "fr": "Mur de pavillon hingashien (kura-zukuri)",
+      "ja": "白銀蔵造屋敷壁"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 1710,
+    "name": {
+      "de": "Hinganisches Kurazukuri-Residenzdach",
+      "en": "Hingan Mansion Roof (Kura-zukuri)",
+      "fr": "Toit de villa hingashienne (kura-zukuri)",
+      "ja": "白銀蔵造御殿屋根"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 1710,
+    "name": {
+      "de": "Hinganische Kurazukuri-Residenzmauer",
+      "en": "Hingan Mansion Wall (Kura-zukuri)",
+      "fr": "Mur de villa hingashienne (kura-zukuri)",
+      "ja": "白銀蔵造御殿壁"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 66,
@@ -9822,6 +11077,25 @@
     "qualityModifier": 100,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 1485,
+    "name": {
+      "de": "Hinganisches Bogenfenster",
+      "en": "Hingan Squinch Window",
+      "fr": "Fenêtre en arche hingashienne",
+      "ja": "白銀迫持窓"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
   },
   {
     "baseLevel": 60,
@@ -10128,6 +11402,26 @@
     "qualityModifier": 80,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Duftspender",
+      "en": "Incensory",
+      "fr": "Encensoir",
+      "ja": "アロマポット"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 90,
@@ -10631,6 +11925,25 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 29,
+    "difficulty": 101,
+    "durability": 70,
+    "level": 29,
+    "maxQuality": 400,
+    "name": {
+      "de": "Eisenboden",
+      "en": "Iron Plate Flooring",
+      "fr": "Carrelage en plaques d'acier",
+      "ja": "アイアンプレートフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 15,
@@ -11554,6 +12867,25 @@
     "suggestedCraftsmanship": 176
   },
   {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Mandragora-Bratpfanne",
+      "en": "Mandragoras Frypan",
+      "fr": "Poêle à frire mandragores",
+      "ja": "マンドラーズフライパン"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
     "baseLevel": 87,
     "difficulty": 3200,
     "durability": 80,
@@ -12030,6 +13362,25 @@
     "suggestedCraftsmanship": 2438
   },
   {
+    "baseLevel": 46,
+    "difficulty": 159,
+    "durability": 80,
+    "level": 46,
+    "maxQuality": 880,
+    "name": {
+      "de": "Metallboden",
+      "en": "Metal Flooring",
+      "fr": "Parquet métallique",
+      "ja": "メタルフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 75,
+    "suggestedCraftsmanship": 150
+  },
+  {
     "baseLevel": 70,
     "difficulty": 756,
     "durability": 80,
@@ -12047,6 +13398,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 46,
+    "difficulty": 159,
+    "durability": 80,
+    "level": 46,
+    "maxQuality": 880,
+    "name": {
+      "de": "Metall-Wandverkleidung",
+      "en": "Metal Interior Wall",
+      "fr": "Revêtement mural métallique",
+      "ja": "メタルインナーウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 75,
+    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 90,
@@ -12300,6 +13670,196 @@
     "qualityModifier": 100,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Destillierkolben",
+      "en": "Molybdenum Alembic",
+      "fr": "Alambic en molybdène",
+      "ja": "モリブデンアレンビック"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Armschützer des Verstümmelns",
+      "en": "Molybdenum Armguards of Maiming",
+      "fr": "Garde-bras d'abatteur en molybdène",
+      "ja": "モリブデン・スレイヤーアームガード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Armschützer des Spähens",
+      "en": "Molybdenum Armguards of Scouting",
+      "fr": "Garde-bras d'éclaireur en molybdène",
+      "ja": "モリブデン・スカウトアームガード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Armschützer des Schlagens",
+      "en": "Molybdenum Armguards of Striking",
+      "fr": "Garde-bras d'agresseur en molybdène",
+      "ja": "モリブデン・ストライカーアームガード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Bratpfanne",
+      "en": "Molybdenum Frypan",
+      "fr": "Poêle à frire en molybdène",
+      "ja": "モリブデンフライパン"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Beinschienen der Verteidigung",
+      "en": "Molybdenum Greaves of Fending",
+      "fr": "Jambards de protecteur en molybdène",
+      "ja": "モリブデンディフェンダーグリーヴ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Kopfbedeckung der Verteidigung",
+      "en": "Molybdenum Headgear of Fending",
+      "fr": "Protège-tête de protecteur en molybdène",
+      "ja": "モリブデン・ディフェンダーヘッドギア"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Kopfbedeckung des Verstümmelns",
+      "en": "Molybdenum Headgear of Maiming",
+      "fr": "Protège-tête d'abatteur en molybdène",
+      "ja": "モリブデン・スレイヤーヘッドギア"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 490,
+    "durability": 40,
+    "level": 285,
+    "maxQuality": 2736,
+    "name": {
+      "de": "Molybdän-Barren",
+      "en": "Molybdenum Ingot",
+      "fr": "Lingot de molybdène",
+      "ja": "モリブデンインゴット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Drachenschild",
+      "en": "Molybdenum Kite Shield",
+      "fr": "Écu mandorle en molybdène",
+      "ja": "モリブデンカイトシールド"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 45,
@@ -12835,6 +14395,120 @@
   },
   {
     "baseLevel": 52,
+    "difficulty": 260,
+    "durability": 80,
+    "level": 125,
+    "maxQuality": 2140,
+    "name": {
+      "de": "Mythrit-Destillierkolben",
+      "en": "Mythrite Alembic",
+      "fr": "Alambic en mithrite",
+      "ja": "ミスライトアレンビック"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Laternenschild",
+      "en": "Mythrite Bladed Lantern Shield",
+      "fr": "Bouclier lanterne en mithrite",
+      "ja": "ミスライトブレードシールド"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Panzerhandschuhe der Verteidigung",
+      "en": "Mythrite Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en mithrite",
+      "ja": "ミスライトディフェンダーガントレット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Panzerhandschuhe des Verstümmelns",
+      "en": "Mythrite Gauntlets of Maiming",
+      "fr": "Gantelets d'abatteur en mithrite",
+      "ja": "ミスライトスレイヤーガントレット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Kettenpanzer der Verteidigung",
+      "en": "Mythrite Hauberk of Fending",
+      "fr": "Haubert de protecteur en mithrite",
+      "ja": "ミスライトディフェンダーホーバーク"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Kettenpanzer des Verstümmelns",
+      "en": "Mythrite Hauberk of Maiming",
+      "fr": "Haubert d'abatteur en mithrite",
+      "ja": "ミスライトスレイヤーホーバーク"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 52,
     "difficulty": 130,
     "durability": 40,
     "level": 125,
@@ -12882,6 +14556,101 @@
       "en": "Mythrite Rivets",
       "fr": "Rivets en mithrite",
       "ja": "ミスライトリベット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Bärlatschen der Verteidigung",
+      "en": "Mythrite Sabatons of Fending",
+      "fr": "Sabatons de protecteur en mithrite",
+      "ja": "ミスライトディフェンダーサバトン"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Bärlatschen des Verstümmelns",
+      "en": "Mythrite Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur en mithrite",
+      "ja": "ミスライトスレイヤーサバトン"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Schaller der Verteidigung",
+      "en": "Mythrite Sallet of Fending",
+      "fr": "Sallet de protecteur en mithrite",
+      "ja": "ミスライトディフェンダーサレット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Schaller des Verstümmelns",
+      "en": "Mythrite Sallet of Maiming",
+      "fr": "Sallet d'abatteur en mithrite",
+      "ja": "ミスライトスレイヤーサレット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Turmschild",
+      "en": "Mythrite Scutum",
+      "fr": "Scutum en mithrite",
+      "ja": "ミスライトスクトゥム"
     },
     "progressDivider": 61,
     "progressModifier": 100,
@@ -13658,6 +15427,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 40,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Oroshigane-Barren",
+      "en": "Oroshigane Ingot",
+      "fr": "Lingot d'oroshigane",
+      "ja": "卸し鉄"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 60,
@@ -18329,6 +20117,25 @@
     "suggestedCraftsmanship": 176
   },
   {
+    "baseLevel": 66,
+    "difficulty": 440,
+    "durability": 40,
+    "level": 279,
+    "maxQuality": 2592,
+    "name": {
+      "de": "Tama-hagane-Barren",
+      "en": "Tama-hagane Ingot",
+      "fr": "Lingot de tamahagane",
+      "ja": "玉鋼"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 70,
@@ -18506,6 +20313,44 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Mantel der Verteidigung",
+      "en": "Tigerskin Coat of Fending",
+      "fr": "Manteau de protecteur en cuir de tigre",
+      "ja": "タイガーディフェンダーコート"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Mantel des Verstümmelns",
+      "en": "Tigerskin Coat of Maiming",
+      "fr": "Manteau d'abatteur en cuir de tigre",
+      "ja": "タイガースレイヤーコート"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
     "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
@@ -18535,6 +20380,25 @@
       "en": "Titanbronze Headband of Scouting",
       "fr": "Bandeau d'éclaireur en bronze titané",
       "ja": "チタンブロンズ・スカウトヘッドバンド"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Titanbronze-Barren",
+      "en": "Titanbronze Ingot",
+      "fr": "Lingot de bronze titané",
+      "ja": "チタンブロンズインゴット"
     },
     "progressDivider": 106,
     "progressModifier": 100,
@@ -18602,6 +20466,25 @@
     "suggestedCraftsmanship": 2000
   },
   {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Destillierkolben",
+      "en": "Titanium Alembic",
+      "fr": "Alambic en titane",
+      "ja": "チタンアレンビック"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
     "baseLevel": 60,
     "difficulty": 660,
     "durability": 70,
@@ -18620,6 +20503,158 @@
     "stars": 1,
     "suggestedControl": 589,
     "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Kürass der Verteidigung",
+      "en": "Titanium Cuirass of Fending",
+      "fr": "Cuirasse de protecteur en titane",
+      "ja": "チタンディフェンダーキュイラス"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Kürass des Verstümmelns",
+      "en": "Titanium Cuirass of Maiming",
+      "fr": "Cuirasse d'abatteur en titane",
+      "ja": "チタンスレイヤーキュイラス"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Bratpfanne",
+      "en": "Titanium Frypan",
+      "fr": "Poêle à frire en titane",
+      "ja": "チタンフライパン"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Panzerhandschuhe der Verteidigung",
+      "en": "Titanium Gauntlets of Fending",
+      "fr": "Gantelets de protecteur en titane",
+      "ja": "チタンディフェンダーガントレット"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Kopfbedeckung des Spähens",
+      "en": "Titanium Headgear of Scouting",
+      "fr": "Protège-tête d'éclaireur en titane",
+      "ja": "チタンスカウトヘッドギア"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Kopfbedeckung des Schlagens",
+      "en": "Titanium Headgear of Striking",
+      "fr": "Protège-tête d'agresseur en titane",
+      "ja": "チタンストライカーヘッドギア"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Helm der Verteidigung",
+      "en": "Titanium Helm of Fending",
+      "fr": "Casque de protecteur en titane",
+      "ja": "チタンディフェンダーヘルム"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Aspis",
+      "en": "Titanium Hoplon",
+      "fr": "Hoplon en titane",
+      "ja": "チタンホプロン"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
   },
   {
     "baseLevel": 56,
@@ -18641,6 +20676,25 @@
     "suggestedCraftsmanship": 550
   },
   {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Drachenschild",
+      "en": "Titanium Kite Shield",
+      "fr": "Écu mandorle en titane",
+      "ja": "チタンカイトシールド"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
     "baseLevel": 65,
     "difficulty": 581,
     "durability": 80,
@@ -18658,6 +20712,196 @@
     "qualityModifier": 100,
     "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Rüstung der Verteidigung",
+      "en": "Titanium Mail of Fending",
+      "fr": "Cotte de mailles de protecteur en titane",
+      "ja": "チタンディフェンダーメイル"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Rüstung des Verstümmelns",
+      "en": "Titanium Mail of Maiming",
+      "fr": "Cotte de mailles d'abatteur en titane",
+      "ja": "チタンスレイヤーメイル"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Rüstung des Spähens",
+      "en": "Titanium Mail of Scouting",
+      "fr": "Cotte de mailles d'éclaireur en titane",
+      "ja": "チタンスカウトメイル"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Rüstung des Schlagens",
+      "en": "Titanium Mail of Striking",
+      "fr": "Cotte de mailles d'agresseur en titane",
+      "ja": "チタンストライカーメイル"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Maske des Zielens",
+      "en": "Titanium Mask of Aiming",
+      "fr": "Masque de pisteur en titane",
+      "ja": "チタンレンジャーマスク"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Maske der Verteidigung",
+      "en": "Titanium Mask of Fending",
+      "fr": "Masque de protecteur en titane",
+      "ja": "チタンディフェンダーマスク"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Maske des Verstümmelns",
+      "en": "Titanium Mask of Maiming",
+      "fr": "Masque d'abatteur en titane",
+      "ja": "チタンスレイヤーマスク"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Maske des Spähens",
+      "en": "Titanium Mask of Scouting",
+      "fr": "Masque d'éclaireur en titane",
+      "ja": "チタンスカウトマスク"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Maske des Schlagens",
+      "en": "Titanium Mask of Striking",
+      "fr": "Masque d'agresseur en titane",
+      "ja": "チタンストライカーマスク"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Panzerfäustlinge des Verstümmelns",
+      "en": "Titanium Mitt Gauntlets of Maiming",
+      "fr": "Gantelets-mitons d'abatteur en titane",
+      "ja": "チタン・スレイヤーミトンガントレット"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
   },
   {
     "baseLevel": 54,
@@ -18696,6 +20940,215 @@
     "qualityModifier": 100,
     "suggestedControl": 491,
     "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Bärlatschen der Verteidigung",
+      "en": "Titanium Sabatons of Fending",
+      "fr": "Sabatons de protecteur en titane",
+      "ja": "チタンディフェンダーサバトン"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Bärlatschen des Verstümmelns",
+      "en": "Titanium Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur en titane",
+      "ja": "チタンスレイヤーサバトン"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Bärlatschen des Spähens",
+      "en": "Titanium Sabatons of Scouting",
+      "fr": "Sabatons d'éclaireur en titane",
+      "ja": "チタンスカウトサバトン"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Bärlatschen des Schlagens",
+      "en": "Titanium Sabatons of Striking",
+      "fr": "Sabatons d'agresseur en titane",
+      "ja": "チタンストライカーサバトン"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Titan-Schaller des Verstümmelns",
+      "en": "Titanium Sallet of Maiming",
+      "fr": "Sallet d'abatteur en titane",
+      "ja": "チタンスレイヤーサレット"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Sollerets der Verteidigung",
+      "en": "Titanium Sollerets of Fending",
+      "fr": "Solerets de protecteur en titane",
+      "ja": "チタンディフェンダーソルレット"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Sollerets des Verstümmelns",
+      "en": "Titanium Sollerets of Maiming",
+      "fr": "Solerets d'abatteur en titane",
+      "ja": "チタンスレイヤーソルレット"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Unterarmschienen der Verteidigung",
+      "en": "Titanium Vambraces of Fending",
+      "fr": "Canons d'avant-bras de protecteur en titane",
+      "ja": "チタンディフェンダーヴァンブレイス"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Unterarmschienen des Verstümmelns",
+      "en": "Titanium Vambraces of Maiming",
+      "fr": "Canons d'avant-bras d'abatteur en titane",
+      "ja": "チタンスレイヤーヴァンブレイス"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Unterarmschienen des Spähens",
+      "en": "Titanium Vambraces of Scouting",
+      "fr": "Canons d'avant-bras d'éclaireur en titane",
+      "ja": "チタンスカウトヴァンブレイス"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Unterarmschienen des Schlagens",
+      "en": "Titanium Vambraces of Striking",
+      "fr": "Canons d'avant-bras d'agresseur en titane",
+      "ja": "チタンストライカーヴァンブレイス"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 45,

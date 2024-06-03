@@ -2405,6 +2405,25 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Königsgold-Rapier",
+      "en": "Aurum Regis Rapier",
+      "fr": "Rapière en aurum regis",
+      "ja": "オーラムレギスレイピア"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -2536,6 +2555,405 @@
     "qualityModifier": 100,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 440,
+    "durability": 40,
+    "level": 279,
+    "maxQuality": 2592,
+    "name": {
+      "de": "Azurit",
+      "en": "Azurite",
+      "fr": "Azurite",
+      "ja": "アズライト"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Armreif des Zielens",
+      "en": "Azurite Bracelet of Aiming",
+      "fr": "Bracelet de pisteur en azurite",
+      "ja": "アズライトレンジャーブレスレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Armreif der Magie",
+      "en": "Azurite Bracelet of Casting",
+      "fr": "Bracelet d'incantateur en azurite",
+      "ja": "アズライトキャスターブレスレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Armreif der Verteidigung",
+      "en": "Azurite Bracelet of Fending",
+      "fr": "Bracelet de protecteur en azurite",
+      "ja": "アズライトディフェンダーブレスレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Armreif der Heilung",
+      "en": "Azurite Bracelet of Healing",
+      "fr": "Bracelet de soigneur en azurite",
+      "ja": "アズライトヒーラーブレスレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Armreif des Schlachtens",
+      "en": "Azurite Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant en azurite",
+      "ja": "アズライトアタッカーブレスレット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Halsberge des Zielens",
+      "en": "Azurite Choker of Aiming",
+      "fr": "Ras de cou de pisteur en azurite",
+      "ja": "アズライトレンジャーチョーカー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Halsberge der Magie",
+      "en": "Azurite Choker of Casting",
+      "fr": "Ras de cou d'incantateur en azurite",
+      "ja": "アズライトキャスターチョーカー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Halsberge der Verteidigung",
+      "en": "Azurite Choker of Fending",
+      "fr": "Ras de cou de protecteur en azurite",
+      "ja": "アズライトディフェンダーチョーカー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Halsberge der Heilung",
+      "en": "Azurite Choker of Healing",
+      "fr": "Ras de cou de soigneur en azurite",
+      "ja": "アズライトヒーラーチョーカー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Halsberge des Schlachtens",
+      "en": "Azurite Choker of Slaying",
+      "fr": "Ras de cou d'attaquant en azurite",
+      "ja": "アズライトアタッカーチョーカー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Ohrringe des Zielens",
+      "en": "Azurite Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur en azurite",
+      "ja": "アズライトレンジャーイヤリング"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Ohrringe der Magie",
+      "en": "Azurite Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur en azurite",
+      "ja": "アズライトキャスターイヤリング"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Ohrringe der Verteidigung",
+      "en": "Azurite Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur en azurite",
+      "ja": "アズライトディフェンダーイヤリング"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Ohrringe der Heilung",
+      "en": "Azurite Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur en azurite",
+      "ja": "アズライトヒーラーイヤリング"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Azurit-Ohrringe des Schlachtens",
+      "en": "Azurite Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant en azurite",
+      "ja": "アズライトアタッカーイヤリング"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Ring des Zielens",
+      "en": "Azurite Ring of Aiming",
+      "fr": "Bague de pisteur en azurite",
+      "ja": "アズライトレンジャーリング"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Ring der Magie",
+      "en": "Azurite Ring of Casting",
+      "fr": "Bague d'incantateur en azurite",
+      "ja": "アズライトキャスターリング"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Ring der Verteidigung",
+      "en": "Azurite Ring of Fending",
+      "fr": "Bague de protecteur en azurite",
+      "ja": "アズライトディフェンダーリング"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Ring der Heilung",
+      "en": "Azurite Ring of Healing",
+      "fr": "Bague de soigneur en azurite",
+      "ja": "アズライトヒーラーリング"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Azurit-Ring des Schlachtens",
+      "en": "Azurite Ring of Slaying",
+      "fr": "Bague d'attaquant en azurite",
+      "ja": "アズライトアタッカーリング"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 6,
@@ -3414,6 +3832,25 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Igelbomber-Nadel",
+      "en": "Bombfish Needle",
+      "fr": "Aiguille poisson-bombo",
+      "ja": "ボムフィッシュニードル"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
   },
   {
     "baseLevel": 10,
@@ -4437,6 +4874,25 @@
     "suggestedCraftsmanship": 529
   },
   {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "level": 25,
+    "maxQuality": 330,
+    "name": {
+      "de": "Kachelboden",
+      "en": "Ceramic Tile Flooring",
+      "fr": "Carrelage en céramique",
+      "ja": "セラミックフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 60,
     "difficulty": 835,
     "durability": 70,
@@ -4473,6 +4929,25 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 180,
+    "durability": 80,
+    "level": 50,
+    "maxQuality": 1000,
+    "name": {
+      "de": "Karoboden",
+      "en": "Checkered Flooring",
+      "fr": "Carrelage en mosaïque",
+      "ja": "モザイクフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 88,
+    "suggestedCraftsmanship": 176
   },
   {
     "baseLevel": 81,
@@ -5025,6 +5500,25 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "level": 40,
+    "maxQuality": 1400,
+    "name": {
+      "de": "Klassische Brille",
+      "en": "Classic Spectacles",
+      "fr": "Lunettes classiques",
+      "ja": "クラシックグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
   },
   {
     "baseLevel": 83,
@@ -5633,6 +6127,26 @@
     "suggestedCraftsmanship": 570
   },
   {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Coeurl-Brille",
+      "en": "Coeurl Eyeglasses",
+      "fr": "Lunettes œil-de-coeurl",
+      "ja": "クァールアイグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1335,
     "durability": 35,
@@ -5827,6 +6341,25 @@
     "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 23,
+    "difficulty": 79,
+    "durability": 70,
+    "level": 23,
+    "maxQuality": 600,
+    "name": {
+      "de": "Zeitgemäßer Zwicker",
+      "en": "Contemporary Pince-nez",
+      "fr": "Pince-nez moderne",
+      "ja": "モダンパンスネ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
   },
   {
     "baseLevel": 80,
@@ -6363,6 +6896,25 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 33,
+    "difficulty": 111,
+    "durability": 80,
+    "level": 33,
+    "maxQuality": 500,
+    "name": {
+      "de": "Gebogener Trittstein",
+      "en": "Curved Stepping Stones",
+      "fr": "Dalles en pierre en angle",
+      "ja": "カーブ・ステップストーン"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
   },
   {
     "baseLevel": 81,
@@ -7148,6 +7700,26 @@
   },
   {
     "baseLevel": 50,
+    "difficulty": 480,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 1450,
+    "name": {
+      "de": "Diamantleuchter",
+      "en": "Diamond Chandelier",
+      "fr": "Lustre de la Furie des neiges",
+      "ja": "氷神シヴァのシャンデリア"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
     "level": 90,
@@ -7205,6 +7777,25 @@
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 610,
+    "durability": 40,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Diaspor",
+      "en": "Diaspore",
+      "fr": "Diaspore",
+      "ja": "ダイアスポア"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
   },
   {
     "baseLevel": 73,
@@ -7761,6 +8352,234 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Doppelt beschichtete Durium-Planisphäre",
+      "en": "Dual-plated Durium Planisphere",
+      "fr": "Planisphère en durium",
+      "ja": "ダリウムプラニスフィア"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Doppelt beschichtete Kupfernickel-Planisphäre",
+      "en": "Dual-plated Koppranickel Planisphere",
+      "fr": "Planisphère en cupronickel renforcé",
+      "ja": "キュプロプラニスフィアDX"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Astrometer",
+      "en": "Durium Astrometer",
+      "fr": "Astromètre en durium",
+      "ja": "ダリウムアストロメーター"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Ringbänder",
+      "en": "Durium Chaplets",
+      "fr": "Chapelets en durium",
+      "ja": "ダリウムチャプレット"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Durium-Florett",
+      "en": "Durium Foil",
+      "fr": "Fleuret en durium",
+      "ja": "ダリウムフルーレ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Haarnadel der Verteidigung",
+      "en": "Durium Hairpin of Fending",
+      "fr": "Barrette de protecteur en durium",
+      "ja": "ダリウムディフェンダーヘアピン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Haarnadel des Verstümmelns",
+      "en": "Durium Hairpin of Maiming",
+      "fr": "Barrette d'abatteur en durium",
+      "ja": "ダリウムスレイヤーヘアピン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 440,
+    "durability": 40,
+    "level": 279,
+    "maxQuality": 2592,
+    "name": {
+      "de": "Durium-Barren",
+      "en": "Durium Ingot",
+      "fr": "Lingot de durium",
+      "ja": "ダリウムインゴット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 40,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Durium-Nugget",
+      "en": "Durium Nugget",
+      "fr": "Pépite de durium",
+      "ja": "ダリウムナゲット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Durium-Rute",
+      "en": "Durium Rod",
+      "fr": "Sceptre en durium",
+      "ja": "ダリウムロッド"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Rapier",
+      "en": "Durium Smallsword",
+      "fr": "Petite épée en durium",
+      "ja": "ダリウムスモールソード"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Durium-Stab",
+      "en": "Durium Staff",
+      "fr": "Bâton en durium",
+      "ja": "ダリウムスタッフ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 80,
@@ -7857,6 +8676,25 @@
   },
   {
     "baseLevel": 78,
+    "difficulty": 820,
+    "durability": 40,
+    "level": 415,
+    "maxQuality": 3520,
+    "name": {
+      "de": "Edelmithril-Nugget",
+      "en": "Dwarven Mythril Nugget",
+      "fr": "Pépite de mithril noble",
+      "ja": "ハイミスリルナゲット"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
+  },
+  {
+    "baseLevel": 78,
     "difficulty": 1640,
     "durability": 80,
     "level": 415,
@@ -7892,6 +8730,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Dzohorn-Nadel",
+      "en": "Dzo Horn Needle",
+      "fr": "Aiguille en corne de hainag",
+      "ja": "ブルホーンニードル"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
   },
   {
     "baseLevel": 60,
@@ -8739,6 +9596,26 @@
       "en": "Emerald Ring",
       "fr": "Bague en émeraude",
       "ja": "エメラルドリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Kaiserthron",
+      "en": "Emperor's Throne",
+      "fr": "Trône du premier empereur",
+      "ja": "始皇帝の玉座"
     },
     "progressDivider": 50,
     "progressModifier": 80,
@@ -10257,6 +11134,25 @@
     "suggestedCraftsmanship": 129
   },
   {
+    "baseLevel": 25,
+    "difficulty": 89,
+    "durability": 70,
+    "level": 25,
+    "maxQuality": 660,
+    "name": {
+      "de": "Tadelloser Ring",
+      "en": "Flawless Band",
+      "fr": "Bague de vertu",
+      "ja": "清純の指輪"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 22,
     "difficulty": 75,
     "durability": 70,
@@ -10489,6 +11385,26 @@
   },
   {
     "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Gartenteich",
+      "en": "Garden Pond",
+      "fr": "Bassin de jardin",
+      "ja": "ガーデンポンド"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
     "level": 70,
@@ -10620,6 +11536,25 @@
     "qualityModifier": 100,
     "suggestedControl": 88,
     "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Gazellenhorn-Nadel",
+      "en": "Gazelle Horn Needle",
+      "fr": "Aiguille en corne de gazelle",
+      "ja": "ガゼルホーンニードル"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 60,
@@ -11906,6 +12841,25 @@
     "suggestedCraftsmanship": 570
   },
   {
+    "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Mergelwetzstein",
+      "en": "Hard Mudstone Whetstone",
+      "fr": "Pierre à aiguiser en mudstone solide",
+      "ja": "硬泥岩砥石"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 67,
     "difficulty": 930,
     "durability": 60,
@@ -12135,6 +13089,25 @@
   },
   {
     "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Hartsilber-Florett",
+      "en": "Hardsilver Foil",
+      "fr": "Fleuret en durargent",
+      "ja": "ハードシルバーフルーレ"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
     "difficulty": 210,
     "durability": 35,
     "level": 139,
@@ -12265,6 +13238,25 @@
     "qualityModifier": 100,
     "suggestedControl": 524,
     "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Hartsilber-Rapier",
+      "en": "Hardsilver Rapier",
+      "fr": "Rapière en durargent",
+      "ja": "ハードシルバーレイピア"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 54,
@@ -12551,6 +13543,215 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Rauchquarz",
+      "en": "Hematite",
+      "fr": "Hématite",
+      "ja": "ヘマタイト"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Halsberge des Zielens",
+      "en": "Hematite Choker of Aiming",
+      "fr": "Ras de cou de pisteur en hématite",
+      "ja": "ヘマタイトレンジャーチョーカー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Halsberge der Magie",
+      "en": "Hematite Choker of Casting",
+      "fr": "Ras de cou d'incantateur en hématite",
+      "ja": "ヘマタイトキャスターチョーカー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Halsberge der Verteidigung",
+      "en": "Hematite Choker of Fending",
+      "fr": "Ras de cou de protecteur en hématite",
+      "ja": "ヘマタイトディフェンダーチョーカー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Halsberge der Heilung",
+      "en": "Hematite Choker of Healing",
+      "fr": "Ras de cou de soigneur en hématite",
+      "ja": "ヘマタイトヒーラーチョーカー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Halsberge des Schlachtens",
+      "en": "Hematite Choker of Slaying",
+      "fr": "Ras de cou d'attaquant en hématite",
+      "ja": "ヘマタイトアタッカーチョーカー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Ohrringe des Zielens",
+      "en": "Hematite Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur en hématite",
+      "ja": "ヘマタイトレンジャーイヤリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Ohrringe der Magie",
+      "en": "Hematite Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur en hématite",
+      "ja": "ヘマタイトキャスターイヤリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Ohrringe der Verteidigung",
+      "en": "Hematite Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur en hématite",
+      "ja": "ヘマタイトディフェンダーイヤリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Ohrringe der Heilung",
+      "en": "Hematite Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur en hématite",
+      "ja": "ヘマタイトヒーラーイヤリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Hämatit-Ohrringe des Schlachtens",
+      "en": "Hematite Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant en hématite",
+      "ja": "ヘマタイトアタッカーイヤリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
   },
   {
     "baseLevel": 50,
@@ -12864,6 +14065,25 @@
     "level": 255,
     "maxQuality": 1395,
     "name": {
+      "de": "Hinganisches Nanpu-Hüttendach",
+      "en": "Hingan Cottage Roof (Nanpu)",
+      "fr": "Toit de maisonnette hingashienne (nanpu)",
+      "ja": "白銀南風平屋屋根"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 1395,
+    "name": {
       "de": "Hinganische Bonbori-Hängelampe",
       "en": "Hingan Hanging Bonbori Lamp",
       "fr": "Lampe hingashienne suspendue (bonbori)",
@@ -12875,6 +14095,44 @@
     "qualityModifier": 100,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 1530,
+    "name": {
+      "de": "Hinganisches Nanpu-Hausdach",
+      "en": "Hingan House Roof (Nanpu)",
+      "fr": "Toit de pavillon hingashien (nanpu)",
+      "ja": "白銀南風屋敷屋根"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 1710,
+    "name": {
+      "de": "Hinganisches Nanpu-Residenzdach",
+      "en": "Hingan Mansion Roof (Nanpu)",
+      "fr": "Toit de villa hingashienne (nanpu)",
+      "ja": "白銀南風御殿屋根"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 59,
@@ -13183,6 +14441,26 @@
     "suggestedCraftsmanship": 99
   },
   {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Eisleuchter",
+      "en": "Ice Chandelier",
+      "fr": "Lustre de Shiva",
+      "ja": "シヴァのシャンデリア"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
     "baseLevel": 86,
     "difficulty": 3100,
     "durability": 80,
@@ -13298,6 +14576,405 @@
     "qualityModifier": 80,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 490,
+    "durability": 40,
+    "level": 285,
+    "maxQuality": 2736,
+    "name": {
+      "de": "Kaiserjade",
+      "en": "Imperial Jade",
+      "fr": "Jade impérial",
+      "ja": "インペリアルジェード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleische Jade-Armillae des Zielens",
+      "en": "Imperial Jade Armillae of Aiming",
+      "fr": "Armilles de pisteur en jade impérial",
+      "ja": "インペリアルジェード・レンジャーアルミラ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleische Jade-Armillae der Magie",
+      "en": "Imperial Jade Armillae of Casting",
+      "fr": "Armilles d'incantateur en jade impérial",
+      "ja": "インペリアルジェード・キャスターアルミラ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleische Jade-Armillae der Verteidigung",
+      "en": "Imperial Jade Armillae of Fending",
+      "fr": "Armilles de protecteur en jade impérial",
+      "ja": "インペリアルジェード・ディフェンダーアルミラ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleische Jade-Armillae der Heilung",
+      "en": "Imperial Jade Armillae of Healing",
+      "fr": "Armilles de soigneur en jade impérial",
+      "ja": "インペリアルジェード・ヒーラーアルミラ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleische Jade-Armillae des Schlachtens",
+      "en": "Imperial Jade Armillae of Slaying",
+      "fr": "Armilles d'attaquant en jade impérial",
+      "ja": "インペリアルジェード・アタッカーアルミラ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleische Jade-Ohrringe des Zielens",
+      "en": "Imperial Jade Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur en jade impérial",
+      "ja": "インペリアルジェード・レンジャーイヤリング"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleische Jade-Ohrringe der Magie",
+      "en": "Imperial Jade Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur en jade impérial",
+      "ja": "インペリアルジェード・キャスターイヤリング"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleische Jade-Ohrringe der Verteidigung",
+      "en": "Imperial Jade Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur en jade impérial",
+      "ja": "インペリアルジェード・ディフェンダーイヤリング"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleische Jade-Ohrringe der Heilung",
+      "en": "Imperial Jade Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur en jade impérial",
+      "ja": "インペリアルジェード・ヒーラーイヤリング"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleische Jade-Ohrringe des Schlachtens",
+      "en": "Imperial Jade Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant en jade impérial",
+      "ja": "インペリアルジェード・アタッカーイヤリング"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleisches Jade-Halsband des Zielens",
+      "en": "Imperial Jade Necklace of Aiming",
+      "fr": "Collier de pisteur en jade impérial",
+      "ja": "インペリアルジェード・レンジャーネックレス"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleisches Jade-Halsband der Magie",
+      "en": "Imperial Jade Necklace of Casting",
+      "fr": "Collier d'incantateur en jade impérial",
+      "ja": "インペリアルジェード・キャスターネックレス"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleisches Jade-Halsband der Verteidigung",
+      "en": "Imperial Jade Necklace of Fending",
+      "fr": "Collier de protecteur en jade impérial",
+      "ja": "インペリアルジェード・ディフェンダーネックレス"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleisches Jade-Halsband der Heilung",
+      "en": "Imperial Jade Necklace of Healing",
+      "fr": "Collier de soigneur en jade impérial",
+      "ja": "インペリアルジェード・ヒーラーネックレス"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Garleisches Jade-Halsband des Schlachtens",
+      "en": "Imperial Jade Necklace of Slaying",
+      "fr": "Collier d'attaquant en jade impérial",
+      "ja": "インペリアルジェード・アタッカーネックレス"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleischer Jade-Ring des Zielens",
+      "en": "Imperial Jade Ring of Aiming",
+      "fr": "Bague de pisteur en jade impérial",
+      "ja": "インペリアルジェード・レンジャーリング"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleischer Jade-Ring der Magie",
+      "en": "Imperial Jade Ring of Casting",
+      "fr": "Bague d'incantateur en jade impérial",
+      "ja": "インペリアルジェード・キャスターリング"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleischer Jade-Ring der Verteidigung",
+      "en": "Imperial Jade Ring of Fending",
+      "fr": "Bague de protecteur en jade impérial",
+      "ja": "インペリアルジェード・ディフェンダーリング"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleischer Jade-Ring der Heilung",
+      "en": "Imperial Jade Ring of Healing",
+      "fr": "Bague de soigneur en jade impérial",
+      "ja": "インペリアルジェード・ヒーラーリング"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Garleischer Jade-Ring des Schlachtens",
+      "en": "Imperial Jade Ring of Slaying",
+      "fr": "Bague d'attaquant en jade impérial",
+      "ja": "インペリアルジェード・アタッカーリング"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 50,
@@ -13832,6 +15509,196 @@
     "suggestedCraftsmanship": 3180
   },
   {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Armreif des Zielens",
+      "en": "Islewolf Bracelet of Aiming",
+      "fr": "Bracelet de pisteur de loup insulaire",
+      "ja": "アイランドウルフ・レンジャーブレスレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Armreif der Magie",
+      "en": "Islewolf Bracelet of Casting",
+      "fr": "Bracelet d'incantateur de loup insulaire",
+      "ja": "アイランドウルフ・キャスターブレスレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Armreif der Verteidigung",
+      "en": "Islewolf Bracelet of Fending",
+      "fr": "Bracelet de protecteur de loup insulaire",
+      "ja": "アイランドウルフ・ディフェンダーブレスレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Armreif der Heilung",
+      "en": "Islewolf Bracelet of Healing",
+      "fr": "Bracelet de soigneur de loup insulaire",
+      "ja": "アイランドウルフ・ヒーラーブレスレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Armreif des Schlachtens",
+      "en": "Islewolf Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant de loup insulaire",
+      "ja": "アイランドウルフ・アタッカーブレスレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Ring des Zielens",
+      "en": "Islewolf Ring of Aiming",
+      "fr": "Bague de pisteur de loup insulaire",
+      "ja": "アイランドウルフ・レンジャーリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Ring der Magie",
+      "en": "Islewolf Ring of Casting",
+      "fr": "Bague d'incantateur de loup insulaire",
+      "ja": "アイランドウルフ・キャスターリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Ring der Verteidigung",
+      "en": "Islewolf Ring of Fending",
+      "fr": "Bague de protecteur de loup insulaire",
+      "ja": "アイランドウルフ・ディフェンダーリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Ring der Heilung",
+      "en": "Islewolf Ring of Healing",
+      "fr": "Bague de soigneur de loup insulaire",
+      "ja": "アイランドウルフ・ヒーラーリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Inselwolf-Ring des Schlachtens",
+      "en": "Islewolf Ring of Slaying",
+      "fr": "Bague d'attaquant de loup insulaire",
+      "ja": "アイランドウルフ・アタッカーリング"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 16,
     "difficulty": 63,
     "durability": 70,
@@ -14030,10 +15897,371 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
+      "de": "Kupfernickel-Armreife der Magie",
+      "en": "Koppranickel Armlets of Casting",
+      "fr": "Brassards d'incantateur en cupronickel",
+      "ja": "キュプロキャスターアームレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Kupfernickel-Armreife der Heilung",
+      "en": "Koppranickel Armlets of Healing",
+      "fr": "Brassards de soigneur en cupronickel",
+      "ja": "キュプロヒーラーアームレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Kupfernickel-Armband des Zielens",
+      "en": "Koppranickel Bracelet of Aiming",
+      "fr": "Bracelet de pisteur en cupronickel",
+      "ja": "キュプロレンジャーブレスレット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Kupfernickel-Armband der Magie",
+      "en": "Koppranickel Bracelet of Casting",
+      "fr": "Bracelet d'incantateur en cupronickel",
+      "ja": "キュプロキャスターブレスレット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Kupfernickel-Armband der Verteidigung",
+      "en": "Koppranickel Bracelet of Fending",
+      "fr": "Bracelet de protecteur en cupronickel",
+      "ja": "キュプロディフェンダーブレスレット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Kupfernickel-Armband der Heilung",
+      "en": "Koppranickel Bracelet of Healing",
+      "fr": "Bracelet de soigneur en cupronickel",
+      "ja": "キュプロヒーラーブレスレット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Kupfernickel-Armband des Schlachtens",
+      "en": "Koppranickel Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant en cupronickel",
+      "ja": "キュプロアタッカーブレスレット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Ohrringe des Zielens",
+      "en": "Koppranickel Earrings of Aiming",
+      "fr": "Pendants d'oreilles de pisteur en cupronickel",
+      "ja": "キュプロレンジャーピアス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Ohrringe der Magie",
+      "en": "Koppranickel Earrings of Casting",
+      "fr": "Pendants d'oreilles d'incantateur en cupronickel",
+      "ja": "キュプロキャスターピアス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Ohrringe der Verteidigung",
+      "en": "Koppranickel Earrings of Fending",
+      "fr": "Pendants d'oreilles de protecteur en cupronickel",
+      "ja": "キュプロディフェンダーピアス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Ohrringe der Heilung",
+      "en": "Koppranickel Earrings of Healing",
+      "fr": "Pendants d'oreilles de soigneur en cupronickel",
+      "ja": "キュプロヒーラーピアス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Ohrringe des Schlachtens",
+      "en": "Koppranickel Earrings of Slaying",
+      "fr": "Pendants d'oreilles d'attaquant en cupronickel",
+      "ja": "キュプロアタッカーピアス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
       "de": "Kupfernickel-Florett",
       "en": "Koppranickel Foil",
       "fr": "Fleuret en cupronickel",
       "ja": "キュプロフルーレ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 40,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Kupfernickel-Barren",
+      "en": "Koppranickel Ingot",
+      "fr": "Lingot de cupronickel",
+      "ja": "キュプロインゴット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Halsband des Zielens",
+      "en": "Koppranickel Necklace of Aiming",
+      "fr": "Collier de pisteur en cupronickel",
+      "ja": "キュプロレンジャーネックレス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Halsband der Magie",
+      "en": "Koppranickel Necklace of Casting",
+      "fr": "Collier d'incantateur en cupronickel",
+      "ja": "キュプロキャスターネックレス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Halsband der Verteidigung",
+      "en": "Koppranickel Necklace of Fending",
+      "fr": "Collier de protecteur en cupronickel",
+      "ja": "キュプロディフェンダーネックレス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Halsband der Heilung",
+      "en": "Koppranickel Necklace of Healing",
+      "fr": "Collier de soigneur en cupronickel",
+      "ja": "キュプロヒーラーネックレス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Halsband des Schlachtens",
+      "en": "Koppranickel Necklace of Slaying",
+      "fr": "Collier d'attaquant en cupronickel",
+      "ja": "キュプロアタッカーネックレス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Kupfernickel-Nugget",
+      "en": "Koppranickel Nugget",
+      "fr": "Pépite de cupronickel",
+      "ja": "キュプロナゲット"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -14062,6 +16290,44 @@
     "suggestedCraftsmanship": 1006
   },
   {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Stecken",
+      "en": "Koppranickel Pole",
+      "fr": "Perche en cupronickel",
+      "ja": "キュプロポール"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Rapier",
+      "en": "Koppranickel Rapier",
+      "fr": "Rapière en cupronickel",
+      "ja": "キュプロレイピア"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
@@ -14079,6 +16345,25 @@
     "qualityModifier": 100,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Kupfernickel-Tempelkette der Heilung",
+      "en": "Koppranickel Temple Chain",
+      "fr": "Chaîne monastique en cupronickel",
+      "ja": "キュプロテンプルチェーン"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
   },
   {
     "baseLevel": 61,
@@ -14136,6 +16421,25 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 40,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Kyanit",
+      "en": "Kyanite",
+      "fr": "Disthène",
+      "ja": "カイヤナイト"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 70,
@@ -14385,6 +16689,25 @@
     "qualityModifier": 100,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 680,
+    "durability": 40,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Lasurit",
+      "en": "Lazurite",
+      "fr": "Lazurite",
+      "ja": "ラズライト"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
   },
   {
     "baseLevel": 75,
@@ -15074,6 +17397,25 @@
     "suggestedCraftsmanship": 1539
   },
   {
+    "baseLevel": 74,
+    "difficulty": 680,
+    "durability": 40,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Manasilber-Nugget",
+      "en": "Manasilver Nugget",
+      "fr": "Pépite de mana-argent",
+      "ja": "マナシルバーナゲット"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
+  },
+  {
     "baseLevel": 75,
     "difficulty": 1430,
     "durability": 80,
@@ -15265,6 +17607,102 @@
     "suggestedCraftsmanship": 1866
   },
   {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 1250,
+    "name": {
+      "de": "Marmorboden",
+      "en": "Marble Flooring",
+      "fr": "Carrelage en marbre",
+      "ja": "マーブルフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 1175,
+    "name": {
+      "de": "Algenkugellampe",
+      "en": "Marimo Lamp",
+      "fr": "Lampe marimo lanterne",
+      "ja": "ランプマリモランタン"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 106,
+    "durability": 80,
+    "level": 31,
+    "maxQuality": 450,
+    "name": {
+      "de": "Steinerner Boden",
+      "en": "Masonwork Flooring",
+      "fr": "Carrelage en maçonnerie",
+      "ja": "メイソンリーフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 31,
+    "difficulty": 106,
+    "durability": 80,
+    "level": 31,
+    "maxQuality": 450,
+    "name": {
+      "de": "Steinerne Wand",
+      "en": "Masonwork Interior Wall",
+      "fr": "Revêtement mural en maçonnerie",
+      "ja": "メイソンリーインナーウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 32,
+    "difficulty": 110,
+    "durability": 80,
+    "level": 32,
+    "maxQuality": 475,
+    "name": {
+      "de": "Steinofen",
+      "en": "Masonwork Stove",
+      "fr": "Foyer en maçonnerie",
+      "ja": "ストーンストーブ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
+  },
+  {
     "baseLevel": 72,
     "difficulty": 1220,
     "durability": 60,
@@ -15282,6 +17720,26 @@
     "qualityModifier": 100,
     "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 1250,
+    "name": {
+      "de": "Megalodon-Kiefer",
+      "en": "Megalodon Jaws",
+      "fr": "Mâchoire de mégalodon",
+      "ja": "メガロドン・ジョー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 70,
@@ -15558,6 +18016,26 @@
     "suggestedCraftsmanship": 850
   },
   {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Minnesänger-Brille",
+      "en": "Minstrel's Spectacles",
+      "fr": "Lunettes de ménestrel",
+      "ja": "ミンストレルグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
@@ -15632,6 +18110,121 @@
     "qualityModifier": 100,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Ohrring des Zielens",
+      "en": "Molybdenum Earring of Aiming",
+      "fr": "Boucle d'oreille de pisteur en molybdène",
+      "ja": "モリブデンレンジャーイヤリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Ohrring der Magie",
+      "en": "Molybdenum Earring of Casting",
+      "fr": "Boucle d'oreille d'incantateur en molybdène",
+      "ja": "モリブデンキャスターイヤリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Ohrring der Verteidigung",
+      "en": "Molybdenum Earring of Fending",
+      "fr": "Boucle d'oreille de protecteur en molybdène",
+      "ja": "モリブデンディフェンダーイヤリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Ohrring der Heilung",
+      "en": "Molybdenum Earring of Healing",
+      "fr": "Boucle d'oreille de soigneur en molybdène",
+      "ja": "モリブデンヒーラーイヤリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Ohrring des Schlachtens",
+      "en": "Molybdenum Earring of Slaying",
+      "fr": "Boucle d'oreille d'attaquant en molybdène",
+      "ja": "モリブデンアタッカーイヤリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 1250,
+    "name": {
+      "de": "Schwarz-weißer Fußboden",
+      "en": "Monochrome Flooring",
+      "fr": "Carrelage noir et blanc",
+      "ja": "モノクロームフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 60,
@@ -15884,6 +18477,25 @@
     "suggestedCraftsmanship": 529
   },
   {
+    "baseLevel": 34,
+    "difficulty": 115,
+    "durability": 80,
+    "level": 34,
+    "maxQuality": 525,
+    "name": {
+      "de": "Mosaik-Innenwand",
+      "en": "Mosaic Interior Wall",
+      "fr": "Revêtement mural en mosaïque",
+      "ja": "モザイクインナーウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
     "baseLevel": 50,
     "difficulty": 210,
     "durability": 80,
@@ -15997,6 +18609,101 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Muhtsuhorn-Ring des Zielens",
+      "en": "Muudhorn Ring of Aiming",
+      "fr": "Bague de pisteur en corne de moudsoud",
+      "ja": "ムードスードホーン・レンジャーリング"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Muhtsuhorn-Ring der Magie",
+      "en": "Muudhorn Ring of Casting",
+      "fr": "Bague d'incantateur en corne de moudsoud",
+      "ja": "ムードスードホーン・キャスターリング"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Muhtsuhorn-Ring der Verteidigung",
+      "en": "Muudhorn Ring of Fending",
+      "fr": "Bague de protecteur en corne de moudsoud",
+      "ja": "ムードスードホーン・ディフェンダーリング"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Muhtsuhorn-Ring der Heilung",
+      "en": "Muudhorn Ring of Healing",
+      "fr": "Bague de soigneur en corne de moudsoud",
+      "ja": "ムードスードホーン・ヒーラーリング"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Muhtsuhorn-Ring des Schlachtens",
+      "en": "Muudhorn Ring of Slaying",
+      "fr": "Bague d'attaquant en corne de moudsoud",
+      "ja": "ムードスードホーン・アタッカーリング"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 41,
@@ -16835,6 +19542,25 @@
     "suggestedCraftsmanship": 468
   },
   {
+    "baseLevel": 52,
+    "difficulty": 260,
+    "durability": 80,
+    "level": 125,
+    "maxQuality": 2140,
+    "name": {
+      "de": "Mythrit-Florett",
+      "en": "Mythrite Foil",
+      "fr": "Fleuret en mithrite",
+      "ja": "ミスライトフルーレ"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -17042,6 +19768,25 @@
     "qualityModifier": 100,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Rapier",
+      "en": "Mythrite Rapier",
+      "fr": "Rapière en mithrite",
+      "ja": "ミスライトレイピア"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
   },
   {
     "baseLevel": 51,
@@ -17457,6 +20202,25 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "level": 40,
+    "maxQuality": 700,
+    "name": {
+      "de": "Oasen-Steinfußboden",
+      "en": "Oasis Cobble Flooring",
+      "fr": "Revêtement style pavé thanalanais",
+      "ja": "ザナラーン・ストリートフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
     "baseLevel": 21,
     "difficulty": 75,
     "durability": 70,
@@ -17531,6 +20295,26 @@
     "qualityModifier": 100,
     "suggestedControl": 47,
     "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Oasen-Mauer",
+      "en": "Oasis Fence",
+      "fr": "Muretin orné thanalanais",
+      "ja": "ザナラーン・オーネイトストーンウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 46,
@@ -18115,6 +20899,25 @@
     "suggestedCraftsmanship": 1866
   },
   {
+    "baseLevel": 80,
+    "difficulty": 890,
+    "durability": 40,
+    "level": 430,
+    "maxQuality": 3680,
+    "name": {
+      "de": "Onyx",
+      "en": "Onyx",
+      "fr": "Onyx",
+      "ja": "オニキス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
     "baseLevel": 56,
     "difficulty": 210,
     "durability": 35,
@@ -18611,6 +21414,44 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 40,
+    "difficulty": 138,
+    "durability": 80,
+    "level": 40,
+    "maxQuality": 1400,
+    "name": {
+      "de": "Ovale Lesebrille",
+      "en": "Oval Reading Glasses",
+      "fr": "Lunettes de lecture ovales",
+      "ja": "オーバルリーディンググラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 23,
+    "difficulty": 79,
+    "durability": 70,
+    "level": 23,
+    "maxQuality": 600,
+    "name": {
+      "de": "Ovale Brille",
+      "en": "Oval Spectacles",
+      "fr": "Lunettes ovales",
+      "ja": "オーバルグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 90,
     "difficulty": 4300,
     "durability": 70,
@@ -18767,6 +21608,196 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Armreif des Zielens",
+      "en": "Palladium Bracelet of Aiming",
+      "fr": "Bracelet de pisteur en palladium",
+      "ja": "パラースレンジャーブレスレット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Armreif der Magie",
+      "en": "Palladium Bracelet of Casting",
+      "fr": "Bracelet d'incantateur en palladium",
+      "ja": "パラースキャスターブレスレット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Armreif der Verteidigung",
+      "en": "Palladium Bracelet of Fending",
+      "fr": "Bracelet de protecteur en palladium",
+      "ja": "パラースディフェンダーブレスレット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Armreif der Heilung",
+      "en": "Palladium Bracelet of Healing",
+      "fr": "Bracelet de soigneur en palladium",
+      "ja": "パラースヒーラーブレスレット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Armreif des Schlachtens",
+      "en": "Palladium Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant en palladium",
+      "ja": "パラースアタッカーブレスレット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Halsberge des Zielens",
+      "en": "Palladium Choker of Aiming",
+      "fr": "Ras de cou de pisteur en palladium",
+      "ja": "パラースレンジャーチョーカー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Halsberge der Magie",
+      "en": "Palladium Choker of Casting",
+      "fr": "Ras de cou d'incantateur en palladium",
+      "ja": "パラースキャスターチョーカー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Halsberge der Verteidigung",
+      "en": "Palladium Choker of Fending",
+      "fr": "Ras de cou de protecteur en palladium",
+      "ja": "パラースディフェンダーチョーカー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Halsberge der Heilung",
+      "en": "Palladium Choker of Healing",
+      "fr": "Ras de cou de soigneur en palladium",
+      "ja": "パラースヒーラーチョーカー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Halsberge des Schlachtens",
+      "en": "Palladium Choker of Slaying",
+      "fr": "Ras de cou d'attaquant en palladium",
+      "ja": "パラースアタッカーチョーカー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 70,
@@ -18949,6 +21980,44 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Palladium-Nadel",
+      "en": "Palladium Needle",
+      "fr": "Aiguille en palladium",
+      "ja": "パラースニードル"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 490,
+    "durability": 40,
+    "level": 285,
+    "maxQuality": 2736,
+    "name": {
+      "de": "Palladium-Nugget",
+      "en": "Palladium Nugget",
+      "fr": "Pépite de palladium",
+      "ja": "パラースナゲット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -18967,6 +22036,25 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Palladium-Planisphäre",
+      "en": "Palladium Planisphere",
+      "fr": "Planisphère en palladium",
+      "ja": "パラースプラニスフィア"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 70,
@@ -18989,6 +22077,120 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Ring des Zielens",
+      "en": "Palladium Ring of Aiming",
+      "fr": "Bague-armure de pisteur en palladium",
+      "ja": "パラース・レンジャーアーマーリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Ring der Magie",
+      "en": "Palladium Ring of Casting",
+      "fr": "Bague-armure d'incantateur en palladium",
+      "ja": "パラース・キャスターアーマーリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Ring der Verteidigung",
+      "en": "Palladium Ring of Fending",
+      "fr": "Bague-armure de protecteur en palladium",
+      "ja": "パラース・ディフェンダーアーマーリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Ring der Heilung",
+      "en": "Palladium Ring of Healing",
+      "fr": "Bague-armure de soigneur en palladium",
+      "ja": "パラース・ヒーラーアーマーリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Palladium-Ring des Schlachtens",
+      "en": "Palladium Ring of Slaying",
+      "fr": "Bague-armure d'attaquant en palladium",
+      "ja": "パラース・アタッカーアーマーリング"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Palladium-Stab",
+      "en": "Palladium Rod",
+      "fr": "Sceptre en palladium",
+      "ja": "パラースロッド"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -19007,6 +22209,25 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Palladium-Estoc",
+      "en": "Palladium Tuck",
+      "fr": "Estoc en palladium",
+      "ja": "パラースタック"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 80,
@@ -19255,6 +22476,45 @@
     "qualityModifier": 100,
     "suggestedControl": 68,
     "suggestedCraftsmanship": 136
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Persönliches Astroskop",
+      "en": "Personal Astroscope",
+      "fr": "Astroscope personnel",
+      "ja": "パーソナル・アストロスコープ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 820,
+    "durability": 40,
+    "level": 415,
+    "maxQuality": 3520,
+    "name": {
+      "de": "Petalit",
+      "en": "Petalite",
+      "fr": "Pétalite",
+      "ja": "ペタライト"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 79,
@@ -22808,6 +26068,25 @@
     "suggestedCraftsmanship": 3180
   },
   {
+    "baseLevel": 70,
+    "difficulty": 540,
+    "durability": 40,
+    "level": 290,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Rhodonit",
+      "en": "Rhodonite",
+      "fr": "Rhodonite",
+      "ja": "ロードナイト"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
     "baseLevel": 3,
     "difficulty": 36,
     "durability": 60,
@@ -22825,6 +26104,26 @@
     "qualityModifier": 100,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Randlose Brille",
+      "en": "Rimless Glasses",
+      "fr": "Lunettes à monture percée",
+      "ja": "リムレスグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 90,
@@ -24820,6 +28119,26 @@
   },
   {
     "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 2200,
+    "name": {
+      "de": "Getönte Brille",
+      "en": "Shaded Spectacles",
+      "fr": "Lunettes teintées",
+      "ja": "シェイデッドグラス"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
     "difficulty": 250,
     "durability": 80,
     "level": 70,
@@ -26161,6 +29480,25 @@
     "suggestedCraftsmanship": 1079
   },
   {
+    "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Schiefer-Wetzstein",
+      "en": "Slate Whetstone",
+      "fr": "Pierre à aiguiser en ardoise",
+      "ja": "粘板岩砥石"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
     "baseLevel": 90,
     "difficulty": 4400,
     "durability": 70,
@@ -26820,6 +30158,26 @@
     "suggestedCraftsmanship": 519
   },
   {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Sternen-Kronleuchter",
+      "en": "Star Chandelier",
+      "fr": "Lustre stellaire",
+      "ja": "スターシャンデリア"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
     "baseLevel": 88,
     "difficulty": 1650,
     "durability": 40,
@@ -27295,6 +30653,405 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 40,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Sternspinell",
+      "en": "Star Spinel",
+      "fr": "Spinelle étoilé",
+      "ja": "スタースピネル"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Armreif des Zielens",
+      "en": "Star Spinel Bracelet of Aiming",
+      "fr": "Bracelet de pisteur de spinelles étoilés",
+      "ja": "スタースピネル・レンジャーブレスレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Armreif der Magie",
+      "en": "Star Spinel Bracelet of Casting",
+      "fr": "Bracelet d'incantateur de spinelles étoilés",
+      "ja": "スタースピネル・キャスターブレスレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Armreif der Verteidigung",
+      "en": "Star Spinel Bracelet of Fending",
+      "fr": "Bracelet de protecteur de spinelles étoilés",
+      "ja": "スタースピネル・ディフェンダーブレスレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Armreif der Heilung",
+      "en": "Star Spinel Bracelet of Healing",
+      "fr": "Bracelet de soigneur de spinelles étoilés",
+      "ja": "スタースピネル・ヒーラーブレスレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Armreif des Schlachtens",
+      "en": "Star Spinel Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant de spinelles étoilés",
+      "ja": "スタースピネル・アタッカーブレスレット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Halsberge des Zielens",
+      "en": "Star Spinel Choker of Aiming",
+      "fr": "Ras de cou de pisteur en spinelle étoilé",
+      "ja": "スタースピネル・レンジャーチョーカー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Halsberge der Magie",
+      "en": "Star Spinel Choker of Casting",
+      "fr": "Ras de cou d'incantateur en spinelle étoilé",
+      "ja": "スタースピネル・キャスターチョーカー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Halsberge der Verteidigung",
+      "en": "Star Spinel Choker of Fending",
+      "fr": "Ras de cou de protecteur en spinelle étoilé",
+      "ja": "スタースピネル・ディフェンダーチョーカー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Halsberge der Heilung",
+      "en": "Star Spinel Choker of Healing",
+      "fr": "Ras de cou de soigneur en spinelle étoilé",
+      "ja": "スタースピネル・ヒーラーチョーカー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Halsberge des Schlachtens",
+      "en": "Star Spinel Choker of Slaying",
+      "fr": "Ras de cou d'attaquant en spinelle étoilé",
+      "ja": "スタースピネル・アタッカーチョーカー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Ohrringe des Zielens",
+      "en": "Star Spinel Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur de spinelles étoilés",
+      "ja": "スタースピネル・レンジャーイヤリング"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Ohrringe der Magie",
+      "en": "Star Spinel Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur de spinelles étoilés",
+      "ja": "スタースピネル・キャスターイヤリング"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Ohrringe der Verteidigung",
+      "en": "Star Spinel Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur de spinelles étoilés",
+      "ja": "スタースピネル・ディフェンダーイヤリング"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Ohrringe der Heilung",
+      "en": "Star Spinel Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur de spinelles étoilés",
+      "ja": "スタースピネル・ヒーラーイヤリング"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Sternspinell-Ohrringe des Schlachtens",
+      "en": "Star Spinel Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant de spinelles étoilés",
+      "ja": "スタースピネル・アタッカーイヤリング"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Ring des Zielens",
+      "en": "Star Spinel Ring of Aiming",
+      "fr": "Bague de pisteur en spinelle étoilé",
+      "ja": "スタースピネル・レンジャーリング"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Ring der Magie",
+      "en": "Star Spinel Ring of Casting",
+      "fr": "Bague d'incantateur en spinelle étoilé",
+      "ja": "スタースピネル・キャスターリング"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Ring der Verteidigung",
+      "en": "Star Spinel Ring of Fending",
+      "fr": "Bague de protecteur en spinelle étoilé",
+      "ja": "スタースピネル・ディフェンダーリング"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Ring der Heilung",
+      "en": "Star Spinel Ring of Healing",
+      "fr": "Bague de soigneur en spinelle étoilé",
+      "ja": "スタースピネル・ヒーラーリング"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Sternspinell-Ring des Schlachtens",
+      "en": "Star Spinel Ring of Slaying",
+      "fr": "Bague d'attaquant en spinelle étoilé",
+      "ja": "スタースピネル・アタッカーリング"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
     "baseLevel": 60,
     "difficulty": 880,
     "durability": 70,
@@ -27532,6 +31289,82 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
+      "de": "Steingold-Astrometer",
+      "en": "Stonegold Astrometer",
+      "fr": "Planisphère en or pétré",
+      "ja": "ストーンゴールド・アストロメーター"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Steingold-Stirnreif des Verstümmelns",
+      "en": "Stonegold Circlet of Maiming",
+      "fr": "Diadème d'abatteur en or pétré",
+      "ja": "ストーンゴールド・スレイヤーサークレット"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Steingold-Degen",
+      "en": "Stonegold Degen",
+      "fr": "Alfange en or pétré",
+      "ja": "ストーンゴールドデーゲン"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 610,
+    "durability": 40,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Steingold-Barren",
+      "en": "Stonegold Ingot",
+      "fr": "Lingot d'or pétré",
+      "ja": "ストーンゴールドインゴット"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
       "de": "Steingold-Hascherlite",
       "en": "Stonegold Milpreves",
       "fr": "Mein gwrac'h en or pétré",
@@ -27555,6 +31388,25 @@
       "en": "Stonegold Needle",
       "fr": "Aiguille en or pétré",
       "ja": "ストーンゴールドニードル"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Steingold-Nugget",
+      "en": "Stonegold Nugget",
+      "fr": "Pépite d'or pétré",
+      "ja": "ストーンゴールドナゲット"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -27657,6 +31509,25 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 33,
+    "difficulty": 111,
+    "durability": 80,
+    "level": 33,
+    "maxQuality": 500,
+    "name": {
+      "de": "Gerader Trittstein",
+      "en": "Straight Stepping Stones",
+      "fr": "Dalles en pierre en ligne",
+      "ja": "ステップストーン"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
   },
   {
     "baseLevel": 48,
@@ -28199,6 +32070,26 @@
     "suggestedCraftsmanship": 150
   },
   {
+    "baseLevel": 50,
+    "difficulty": 480,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 1450,
+    "name": {
+      "de": "Syrcus-Turm",
+      "en": "Syrcus Tower",
+      "fr": "Trophée de Syrcus",
+      "ja": "シルクストロフィー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
     "baseLevel": 46,
     "difficulty": 159,
     "durability": 80,
@@ -28413,6 +32304,44 @@
     "suggestedCraftsmanship": 468
   },
   {
+    "baseLevel": 50,
+    "difficulty": 180,
+    "durability": 80,
+    "level": 50,
+    "maxQuality": 1000,
+    "name": {
+      "de": "Azurblauer Fliesenboden",
+      "en": "Tiled Flooring",
+      "fr": "Parquet teinté",
+      "ja": "タイルフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 88,
+    "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 180,
+    "durability": 80,
+    "level": 50,
+    "maxQuality": 1000,
+    "name": {
+      "de": "Azurblaue Fliesenwand",
+      "en": "Tiled Interior Wall",
+      "fr": "Revêtement mural carrelé",
+      "ja": "タイルインナーウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 88,
+    "suggestedCraftsmanship": 176
+  },
+  {
     "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
@@ -28468,6 +32397,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Titanbronze-Nugget",
+      "en": "Titanbronze Nugget",
+      "fr": "Pépite de bronze titané",
+      "ja": "チタンブロンズナゲット"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 76,
@@ -29010,6 +32958,424 @@
     "suggestedCraftsmanship": 570
   },
   {
+    "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Triphan",
+      "en": "Triphane",
+      "fr": "Triphane",
+      "ja": "トリフェーン"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Armreif des Zielens",
+      "en": "Triphane Bracelet of Aiming",
+      "fr": "Bracelet de pisteur en triphane",
+      "ja": "トリフェーンレンジャーブレスレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Armreif der Magie",
+      "en": "Triphane Bracelet of Casting",
+      "fr": "Bracelet d'incantateur en triphane",
+      "ja": "トリフェーンキャスターブレスレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Armreif der Verteidigung",
+      "en": "Triphane Bracelet of Fending",
+      "fr": "Bracelet de protecteur en triphane",
+      "ja": "トリフェーンディフェンダーブレスレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Armreif der Heilung",
+      "en": "Triphane Bracelet of Healing",
+      "fr": "Bracelet de soigneur en triphane",
+      "ja": "トリフェーンヒーラーブレスレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Armreif des Schlachtens",
+      "en": "Triphane Bracelet of Slaying",
+      "fr": "Bracelet d'attaquant en triphane",
+      "ja": "トリフェーンアタッカーブレスレット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Halsberge des Zielens",
+      "en": "Triphane Choker of Aiming",
+      "fr": "Ras de cou de pisteur en triphane",
+      "ja": "トリフェーンレンジャーチョーカー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Halsberge der Magie",
+      "en": "Triphane Choker of Casting",
+      "fr": "Ras de cou d'incantateur en triphane",
+      "ja": "トリフェーンキャスターチョーカー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Halsberge der Verteidigung",
+      "en": "Triphane Choker of Fending",
+      "fr": "Ras de cou de protecteur en triphane",
+      "ja": "トリフェーンディフェンダーチョーカー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Halsberge der Heilung",
+      "en": "Triphane Choker of Healing",
+      "fr": "Ras de cou de soigneur en triphane",
+      "ja": "トリフェーンヒーラーチョーカー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Halsberge des Schlachtens",
+      "en": "Triphane Choker of Slaying",
+      "fr": "Ras de cou d'attaquant en triphane",
+      "ja": "トリフェーンアタッカーチョーカー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ohrringe des Zielens",
+      "en": "Triphane Earrings of Aiming",
+      "fr": "Boucles d'oreilles de pisteur en triphane",
+      "ja": "トリフェーンレンジャーイヤリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ohrringe der Magie",
+      "en": "Triphane Earrings of Casting",
+      "fr": "Boucles d'oreilles d'incantateur en triphane",
+      "ja": "トリフェーンキャスターイヤリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ohrringe der Verteidigung",
+      "en": "Triphane Earrings of Fending",
+      "fr": "Boucles d'oreilles de protecteur en triphane",
+      "ja": "トリフェーンディフェンダーイヤリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ohrringe der Heilung",
+      "en": "Triphane Earrings of Healing",
+      "fr": "Boucles d'oreilles de soigneur en triphane",
+      "ja": "トリフェーンヒーラーイヤリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ohrringe des Schlachtens",
+      "en": "Triphane Earrings of Slaying",
+      "fr": "Boucles d'oreilles d'attaquant en triphane",
+      "ja": "トリフェーンアタッカーイヤリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ring des Zielens",
+      "en": "Triphane Ring of Aiming",
+      "fr": "Bague de pisteur en triphane",
+      "ja": "トリフェーンレンジャーリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ring der Magie",
+      "en": "Triphane Ring of Casting",
+      "fr": "Bague d'incantateur en triphane",
+      "ja": "トリフェーンキャスターリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ring der Verteidigung",
+      "en": "Triphane Ring of Fending",
+      "fr": "Bague de protecteur en triphane",
+      "ja": "トリフェーンディフェンダーリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ring der Heilung",
+      "en": "Triphane Ring of Healing",
+      "fr": "Bague de soigneur en triphane",
+      "ja": "トリフェーンヒーラーリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Triphan-Ring des Schlachtens",
+      "en": "Triphane Ring of Slaying",
+      "fr": "Bague d'attaquant en triphane",
+      "ja": "トリフェーンアタッカーリング"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Triphylin",
+      "en": "Triplite",
+      "fr": "Triphylite",
+      "ja": "トリプライト"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
+  },
+  {
     "baseLevel": 77,
     "difficulty": 1570,
     "durability": 80,
@@ -29428,6 +33794,25 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Tuffwetzstein",
+      "en": "Tuff Whetstone",
+      "fr": "Pierre à aiguiser en tuf volcanique",
+      "ja": "凝灰岩砥石"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 41,
@@ -29909,6 +34294,25 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 425,
+    "name": {
+      "de": "Weißer Raumtrenner",
+      "en": "White Rectangular Partition",
+      "fr": "Partition extra-blanche",
+      "ja": "ピュアホワイトパーティション"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 36,

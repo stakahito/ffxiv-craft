@@ -39,6 +39,25 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Ahle",
+      "en": "Adamantite Awl",
+      "fr": "Alêne en adamantium",
+      "ja": "アダマンアウル"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -96,6 +115,25 @@
     "suggestedCraftsmanship": 570
   },
   {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Klauenhammer",
+      "en": "Adamantite Claw Hammer",
+      "fr": "Marteau arrache-clou en adamantium",
+      "ja": "アダマンクローハンマー"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -115,6 +153,25 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Küchenmesser",
+      "en": "Adamantite Culinary Knife",
+      "fr": "Couteau de cuisine en adamantium",
+      "ja": "アダマンクリナリーナイフ"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -132,6 +189,25 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Feile",
+      "en": "Adamantite File",
+      "fr": "Lime en adamantium",
+      "ja": "アダマンファイル"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -307,6 +383,63 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Mörser",
+      "en": "Adamantite Mortar",
+      "fr": "Mortier en adamantium",
+      "ja": "アダマンモーター"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 250,
+    "durability": 35,
+    "level": 145,
+    "maxQuality": 2048,
+    "name": {
+      "de": "Adamantit-Nugget",
+      "en": "Adamantite Nugget",
+      "fr": "Pépite d'adamant",
+      "ja": "アダマンナゲット"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantitzange",
+      "en": "Adamantite Pliers",
+      "fr": "Tenailles en adamantium",
+      "ja": "アダマンプライヤー"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
     "baseLevel": 58,
     "difficulty": 500,
     "durability": 70,
@@ -317,6 +450,25 @@
       "en": "Adamantite Revolver",
       "fr": "Revolver en adamantium",
       "ja": "アダマンリボルバー"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 250,
+    "durability": 35,
+    "level": 145,
+    "maxQuality": 2048,
+    "name": {
+      "de": "Adamantit-Nieten",
+      "en": "Adamantite Rivets",
+      "fr": "Rivets en adamantium",
+      "ja": "アダマンリベット"
     },
     "progressDivider": 68,
     "progressModifier": 100,
@@ -343,6 +495,63 @@
     "qualityModifier": 100,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Sense",
+      "en": "Adamantite Scythe",
+      "fr": "Faux en adamantium",
+      "ja": "アダマンサイズ"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 59,
+    "difficulty": 540,
+    "durability": 70,
+    "level": 148,
+    "maxQuality": 2630,
+    "name": {
+      "de": "Adamantit-Vorschlaghammer",
+      "en": "Adamantite Sledgehammer",
+      "fr": "Maillet en adamantium",
+      "ja": "アダマンモール"
+    },
+    "progressDivider": 69,
+    "progressModifier": 100,
+    "qualityDivider": 49,
+    "qualityModifier": 100,
+    "suggestedControl": 546,
+    "suggestedCraftsmanship": 580
+  },
+  {
+    "baseLevel": 58,
+    "difficulty": 500,
+    "durability": 70,
+    "level": 145,
+    "maxQuality": 2560,
+    "name": {
+      "de": "Königsgold-Uchigatana",
+      "en": "Adamantite Uchigatana",
+      "fr": "Uchigatana en adamantium",
+      "ja": "金剛打刀"
+    },
+    "progressDivider": 68,
+    "progressModifier": 100,
+    "qualityDivider": 48,
+    "qualityModifier": 100,
+    "suggestedControl": 535,
+    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 60,
@@ -3460,6 +3669,25 @@
     "suggestedCraftsmanship": 1498
   },
   {
+    "baseLevel": 74,
+    "difficulty": 680,
+    "durability": 40,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Seelenazurit-Barren",
+      "en": "Bluespirit Tile",
+      "fr": "Barre d'azuresprit",
+      "ja": "霊青材"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1200,
     "durability": 70,
@@ -3499,6 +3727,25 @@
     "suggestedCraftsmanship": 78
   },
   {
+    "baseLevel": 14,
+    "difficulty": 54,
+    "durability": 60,
+    "level": 14,
+    "maxQuality": 330,
+    "name": {
+      "de": "Messingdolche",
+      "en": "Brass Daggers",
+      "fr": "Dagues en laiton",
+      "ja": "ブラスダガー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 33,
+    "suggestedCraftsmanship": 67
+  },
+  {
     "baseLevel": 24,
     "difficulty": 127,
     "durability": 70,
@@ -3535,6 +3782,25 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 16,
+    "difficulty": 63,
+    "durability": 70,
+    "level": 16,
+    "maxQuality": 390,
+    "name": {
+      "de": "Messingmesser",
+      "en": "Brass Knives",
+      "fr": "Couteaux en laiton",
+      "ja": "ブラスナイフ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 39,
+    "suggestedCraftsmanship": 78
   },
   {
     "baseLevel": 16,
@@ -3630,6 +3896,25 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 10,
+    "difficulty": 45,
+    "durability": 60,
+    "level": 10,
+    "maxQuality": 250,
+    "name": {
+      "de": "Bronze-Baselarden",
+      "en": "Bronze Baselards",
+      "fr": "Baselards en bronze",
+      "ja": "バゼラード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 29,
+    "suggestedCraftsmanship": 59
   },
   {
     "baseLevel": 2,
@@ -3733,6 +4018,25 @@
     "level": 5,
     "maxQuality": 150,
     "name": {
+      "de": "Bronzedolche",
+      "en": "Bronze Daggers",
+      "fr": "Dagues en bronze",
+      "ja": "ダガー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 25,
+    "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 5,
+    "difficulty": 33,
+    "durability": 60,
+    "level": 5,
+    "maxQuality": 150,
+    "name": {
       "de": "Bronze-Flachhammer",
       "en": "Bronze Doming Hammer",
       "fr": "Marteau à emboutir",
@@ -3820,6 +4124,25 @@
     "qualityModifier": 100,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 8,
+    "difficulty": 41,
+    "durability": 60,
+    "level": 8,
+    "maxQuality": 210,
+    "name": {
+      "de": "Bronzemesser",
+      "en": "Bronze Knives",
+      "fr": "Couteaux en bronze",
+      "ja": "ナイフ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 29,
+    "suggestedCraftsmanship": 59
   },
   {
     "baseLevel": 13,
@@ -5620,6 +5943,25 @@
     "suggestedCraftsmanship": 150
   },
   {
+    "baseLevel": 49,
+    "difficulty": 174,
+    "durability": 80,
+    "level": 49,
+    "maxQuality": 1940,
+    "name": {
+      "de": "Koboldeisen-Baselarden",
+      "en": "Cobalt Baselards",
+      "fr": "Baselards en cobalt",
+      "ja": "コバルトバゼラード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 80,
+    "suggestedCraftsmanship": 161
+  },
+  {
     "baseLevel": 44,
     "difficulty": 156,
     "durability": 80,
@@ -7014,10 +7356,86 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
+      "de": "Dunkelgold-Breitklinge",
+      "en": "Deepgold Anelace",
+      "fr": "Anelace en or incarnat",
+      "ja": "ディープゴールドアネラス"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1290,
+    "durability": 80,
+    "level": 400,
+    "maxQuality": 3900,
+    "name": {
+      "de": "Dunkelgold-Hakenbüchse",
+      "en": "Deepgold Arquebus",
+      "fr": "Arquebuse en or incarnat",
+      "ja": "ディープゴールドアークウィバス"
+    },
+    "progressDivider": 103,
+    "progressModifier": 100,
+    "qualityDivider": 83,
+    "qualityModifier": 100,
+    "suggestedControl": 1348,
+    "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
       "de": "Dunkelgold-Ahle",
       "en": "Deepgold Awl",
       "fr": "Alêne en or incarnat",
       "ja": "ディープゴールドアウル"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 80,
+    "level": 395,
+    "maxQuality": 3800,
+    "name": {
+      "de": "Dunkelgold-Axt",
+      "en": "Deepgold Axe",
+      "fr": "Hache en or incarnat",
+      "ja": "ディープゴールドアクス"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Kriegsaxt",
+      "en": "Deepgold Battleaxe",
+      "fr": "Hache de combat en or incarnat",
+      "ja": "ディープゴールドバトルアクス"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -7046,6 +7464,25 @@
     "suggestedCraftsmanship": 1457
   },
   {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Klinge",
+      "en": "Deepgold Blade",
+      "fr": "Lame en or incarnat",
+      "ja": "ディープゴールドブレード"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
     "baseLevel": 73,
     "difficulty": 1290,
     "durability": 80,
@@ -7071,10 +7508,48 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
+      "de": "Dunkelgold-Cinquedeas",
+      "en": "Deepgold Cinquedeas",
+      "fr": "Cinquedea en or incarnat",
+      "ja": "ディープゴールドチンクエディア"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
       "de": "Dunkelgold-Klauenhammer",
       "en": "Deepgold Claw Hammer",
       "fr": "Marteau arrache-clou en or incarnat",
       "ja": "ディープゴールド・クローハンマー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Claymore",
+      "en": "Deepgold Claymore",
+      "fr": "Claymore en or incarnat",
+      "ja": "ディープゴールドクレイモア"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -7122,6 +7597,25 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 80,
+    "level": 395,
+    "maxQuality": 3800,
+    "name": {
+      "de": "Dunkelgold-Dolche",
+      "en": "Deepgold Daggers",
+      "fr": "Dagues en or incarnat",
+      "ja": "ディープゴールドダガー"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
     "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
@@ -7132,6 +7626,44 @@
       "en": "Deepgold File",
       "fr": "Lime en or incarnat",
       "ja": "ディープゴールドファイル"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 80,
+    "level": 395,
+    "maxQuality": 3800,
+    "name": {
+      "de": "Dunkelgold-Großschwert",
+      "en": "Deepgold Greatsword",
+      "fr": "Grande épée en or incarnat",
+      "ja": "ディープゴールド・グレートソード"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Revolverklinge",
+      "en": "Deepgold Gunblade",
+      "fr": "Pistolame en or incarnat",
+      "ja": "ディープゴールド・ガンブレード"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -7179,6 +7711,63 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 72,
+    "difficulty": 610,
+    "durability": 40,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Dunkelgold-Barren",
+      "en": "Deepgold Ingot",
+      "fr": "Lingot d'or incarnat",
+      "ja": "ディープゴールドインゴット"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Katare",
+      "en": "Deepgold Katars",
+      "fr": "Katar en or incarnat",
+      "ja": "ディープゴールドカタール"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 73,
+    "difficulty": 1290,
+    "durability": 80,
+    "level": 400,
+    "maxQuality": 3900,
+    "name": {
+      "de": "Dunkelgold-Schlagringe",
+      "en": "Deepgold Knuckles",
+      "fr": "Poings en or incarnat",
+      "ja": "ディープゴールドナックル"
+    },
+    "progressDivider": 103,
+    "progressModifier": 100,
+    "qualityDivider": 83,
+    "qualityModifier": 100,
+    "suggestedControl": 1348,
+    "suggestedCraftsmanship": 1457
+  },
+  {
     "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
@@ -7208,6 +7797,25 @@
       "en": "Deepgold Mortar",
       "fr": "Mortier en or incarnat",
       "ja": "ディープゴールドモーター"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Dunkelgold-Nugget",
+      "en": "Deepgold Nugget",
+      "fr": "Pépite d'or incarnat",
+      "ja": "ディープゴールドナゲット"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -7265,6 +7873,25 @@
       "en": "Deepgold Raising Hammer",
       "fr": "Marteau de batteur en or incarnat",
       "ja": "ディープゴールド・レイジングハンマー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Revolver",
+      "en": "Deepgold Revolver",
+      "fr": "Revolver en or incarnat",
+      "ja": "ディープゴールドリボルバー"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -7356,6 +7983,25 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
+      "de": "Dunkelgold-Schwert",
+      "en": "Deepgold Sword",
+      "fr": "Épée en or incarnat",
+      "ja": "ディープゴールドソード"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 72,
+    "difficulty": 1220,
+    "durability": 80,
+    "level": 395,
+    "maxQuality": 3800,
+    "name": {
       "de": "Steingold-Katana",
       "en": "Deepgold Uchigatana",
       "fr": "Uchigatana en or pétré",
@@ -7367,6 +8013,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Dunkelgold-Wurfringe",
+      "en": "Deepgold War Quoits",
+      "fr": "Quoits de guerre en or incarnat",
+      "ja": "ディープゴールド・ウォーコイト"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
   },
   {
     "baseLevel": 71,
@@ -7683,6 +8348,139 @@
     "suggestedCraftsmanship": 67
   },
   {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Ahle",
+      "en": "Doman Iron Awl",
+      "fr": "Poinçon en fer domien",
+      "ja": "ドマアイアンアウル"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Klauenhammer",
+      "en": "Doman Iron Claw Hammer",
+      "fr": "Marteau arrache-clou en fer domien",
+      "ja": "ドマアイアン・クローハンマー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Klauen",
+      "en": "Doman Iron Claws",
+      "fr": "Griffes en fer domien",
+      "ja": "ドマアイアンクロー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Küchenmesser",
+      "en": "Doman Iron Culinary Knife",
+      "fr": "Couteau de cuisine en fer domien",
+      "ja": "ドマアイアン・クリナリーナイフ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Kalverine",
+      "en": "Doman Iron Culverin",
+      "fr": "Couleuvrine en fer domien",
+      "ja": "ドマアイアンカルバリン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Dolche",
+      "en": "Doman Iron Daggers",
+      "fr": "Dagues en fer domien",
+      "ja": "ドマアイアンダガー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Feile",
+      "en": "Doman Iron File",
+      "fr": "Lime en fer domien",
+      "ja": "ドマアイアンファイル"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
     "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
@@ -7702,6 +8500,25 @@
     "suggestedCraftsmanship": 1044
   },
   {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Großschwert",
+      "en": "Doman Iron Greatsword",
+      "fr": "Grande épée en fer domien",
+      "ja": "ドマアイアン・グレートソード"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
     "baseLevel": 64,
     "difficulty": 780,
     "durability": 80,
@@ -7719,6 +8536,386 @@
     "qualityModifier": 100,
     "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Rundsäge",
+      "en": "Doman Iron Halfheart Saw",
+      "fr": "Scie ronde en fer domien",
+      "ja": "ドマアイアン・ラウンドソー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Handbeil",
+      "en": "Doman Iron Hatchet",
+      "fr": "Hachette en fer domien",
+      "ja": "ドマアイアンハチェット"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Sattlermesser",
+      "en": "Doman Iron Head Knife",
+      "fr": "Couteau à pied en fer domien",
+      "ja": "ドマアイアン・ヘッドナイフ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Langschwert",
+      "en": "Doman Iron Longsword",
+      "fr": "Épée longue en fer domien",
+      "ja": "ドマアイアン・ロングソード"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Schlägel",
+      "en": "Doman Iron Lump Hammer",
+      "fr": "Massette en fer domien",
+      "ja": "ドマアイアン・ランプハンマー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Mörser",
+      "en": "Doman Iron Mortar",
+      "fr": "Mortier en fer domien",
+      "ja": "ドマアイアンモーター"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Spitzhacke",
+      "en": "Doman Iron Pickaxe",
+      "fr": "Pioche en fer domien",
+      "ja": "ドマアイアンピック"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Zange",
+      "en": "Doman Iron Pliers",
+      "fr": "Tenailles en fer domien",
+      "ja": "ドマアイアンプライヤー"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Flachhammer",
+      "en": "Doman Iron Raising Hammer",
+      "fr": "Marteau de batteur en fer domien",
+      "ja": "ドマアイアン・レイジングハンマー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Sense",
+      "en": "Doman Iron Scythe",
+      "fr": "Faux en fer domien",
+      "ja": "ドマアイアンサイズ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Vorschlaghammer",
+      "en": "Doman Iron Sledgehammer",
+      "fr": "Maillet en fer domien",
+      "ja": "ドマアイアンモール"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Domaeisen-Uchigatana",
+      "en": "Doman Iron Uchigatana",
+      "fr": "Uchigatana en fer domien",
+      "ja": "卸金打刀"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Domaeisen-Kriegsaxt",
+      "en": "Doman Iron War Axe",
+      "fr": "Hache de guerre en fer domien",
+      "ja": "ドマアイアン・ウォーアクス"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Ahle",
+      "en": "Doman Steel Awl",
+      "fr": "Poinçon en acier domien",
+      "ja": "ドマスチールアウル"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Kriegsaxt",
+      "en": "Doman Steel Battleaxe",
+      "fr": "Hache de combat en acier domien",
+      "ja": "ドマスチール・バトルアクス"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Klauenhammer",
+      "en": "Doman Steel Claw Hammer",
+      "fr": "Marteau arrache-clou en acier domien",
+      "ja": "ドマスチール・クローハンマー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Kreuzschlaghammer",
+      "en": "Doman Steel Cross-pein Hammer",
+      "fr": "Marteau à panne croisée en acier domien",
+      "ja": "ドマスチール・クロスペインハンマー"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Küchenmesser",
+      "en": "Doman Steel Culinary Knife",
+      "fr": "Couteau de cuisine en acier domien",
+      "ja": "ドマスチール・クリナリーナイフ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Feile",
+      "en": "Doman Steel File",
+      "fr": "Lime en acier domien",
+      "ja": "ドマスチールファイル"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Großschwert",
+      "en": "Doman Steel Greatsword",
+      "fr": "Grande épée en acier domien",
+      "ja": "ドマスチール・グレートソード"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 66,
@@ -7746,6 +8943,234 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
+      "de": "Domastahl-Handbeil",
+      "en": "Doman Steel Hatchet",
+      "fr": "Hachette en acier domien",
+      "ja": "ドマスチールハチェット"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Langschwert",
+      "en": "Doman Steel Longsword",
+      "fr": "Épée longue en acier domien",
+      "ja": "ドマスチール・ロングソード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Parierdolche",
+      "en": "Doman Steel Main Gauches",
+      "fr": "Mains-gauches en acier domien",
+      "ja": "ドマスチールマインゴーシュ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Mörser",
+      "en": "Doman Steel Mortar",
+      "fr": "Mortier en acier domien",
+      "ja": "ドマスチールモーター"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Pata",
+      "en": "Doman Steel Patas",
+      "fr": "Patas en acier domien",
+      "ja": "ドマスチールパタ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Zange",
+      "en": "Doman Steel Pliers",
+      "fr": "Tenailles en acier domien",
+      "ja": "ドマスチールプライヤー"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Schlichthammer",
+      "en": "Doman Steel Raising Hammer",
+      "fr": "Marteau de batteur en acier domien",
+      "ja": "ドマスチール・レイジングハンマー"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Rundmesser",
+      "en": "Doman Steel Round Knife",
+      "fr": "Couteau arrondi en acier domien",
+      "ja": "ドマスチール・ラウンドナイフ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Domastahl-Säge",
+      "en": "Doman Steel Saw",
+      "fr": "Scie en acier domien",
+      "ja": "ドマスチールソー"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Sense",
+      "en": "Doman Steel Scythe",
+      "fr": "Faux en acier domien",
+      "ja": "ドマスチールサイズ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Vorschlaghammer",
+      "en": "Doman Steel Sledgehammer",
+      "fr": "Maillet en acier domien",
+      "ja": "ドマスチールモール"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Tachi",
+      "en": "Doman Steel Tachi",
+      "fr": "Tachi en acier domien",
+      "ja": "玉鋼太刀"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
       "de": "Domastahl-Wurfringe",
       "en": "Doman Steel War Quoits",
       "fr": "Quoits de guerre en acier domien",
@@ -7757,6 +9182,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Domastahl-Muskete",
+      "en": "Doman Steel-barreled Musketoon",
+      "fr": "Mousqueton en acier domien",
+      "ja": "ドマスチールマスケトン"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 60,
@@ -7835,6 +9279,44 @@
     "stars": 4,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Durium-Juwelierhammer",
+      "en": "Durium Lapidary Hammer",
+      "fr": "Marteau de lapidaire en durium",
+      "ja": "ダリウム・ラピダリーハンマー"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Durium-Stockhammer",
+      "en": "Durium Texture Hammer",
+      "fr": "Marteau d'orfèvre en durium",
+      "ja": "ダリウム・ゴールドスミスハンマー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 79,
@@ -8006,6 +9488,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 820,
+    "durability": 40,
+    "level": 415,
+    "maxQuality": 3520,
+    "name": {
+      "de": "Edelmithril-Barren",
+      "en": "Dwarven Mythril Ingot",
+      "fr": "Lingot de mithril noble",
+      "ja": "ハイミスリルインゴット"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 78,
@@ -9896,6 +11397,44 @@
     "suggestedCraftsmanship": 1079
   },
   {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gefaltetes Edelstahl-Großschwert",
+      "en": "Folded High Steel Greatsword",
+      "fr": "Grande épée en acier noble",
+      "ja": "ハイスチール・グレートソード"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gefaltete Edelstahl-Schlagringe",
+      "en": "Folded High Steel Knuckles",
+      "fr": "Poings en acier noble renforcés",
+      "ja": "ハイスチールナックルDX"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 50,
     "difficulty": 420,
     "durability": 80,
@@ -11012,6 +12551,44 @@
     "suggestedCraftsmanship": 1063
   },
   {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Hartsilber-Dolabra",
+      "en": "Hardsilver Dolabra",
+      "fr": "Dolabre en durargent",
+      "ja": "ハードシルバードラブラ"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Hartsilber-Handbeil",
+      "en": "Hardsilver Hatchet",
+      "fr": "Hachette en durargent",
+      "ja": "ハードシルバーハチェット"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
     "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
@@ -11105,6 +12682,26 @@
     "qualityModifier": 100,
     "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 480,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 1450,
+    "name": {
+      "de": "Drachengott-Kopf",
+      "en": "Head of the Dreadwyrm",
+      "fr": "Trophée du Dragon-dieu",
+      "ja": "バハムートトロフィー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
   },
   {
     "baseLevel": 60,
@@ -12443,6 +14040,44 @@
     "suggestedCraftsmanship": 870
   },
   {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Ahle",
+      "en": "High Steel Awl",
+      "fr": "Poinçon en acier noble",
+      "ja": "ハイスチールアウル"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Kriegsaxt",
+      "en": "High Steel Battleaxe",
+      "fr": "Hache de combat en acier noble",
+      "ja": "ハイスチール・バトルアクス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -12481,6 +14116,63 @@
     "suggestedCraftsmanship": 1006
   },
   {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Klauenhammer",
+      "en": "High Steel Claw Hammer",
+      "fr": "Marteau arrache-clou en acier noble",
+      "ja": "ハイスチール・クローハンマー"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Kreuzschlaghammer",
+      "en": "High Steel Cross-pein Hammer",
+      "fr": "Marteau à panne croisée en acier noble",
+      "ja": "ハイスチール・クロスペインハンマー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Küchenmesser",
+      "en": "High Steel Culinary Knife",
+      "fr": "Couteau de cuisine en acier noble",
+      "ja": "ハイスチール・クリナリーナイフ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
     "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
@@ -12498,6 +14190,63 @@
     "qualityModifier": 100,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Dolabra",
+      "en": "High Steel Dolabra",
+      "fr": "Dolabre en acier noble",
+      "ja": "ハイスチールドラブラ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Flachhammer",
+      "en": "High Steel Doming Hammer",
+      "fr": "Marteau à emboutir en acier noble",
+      "ja": "ハイスチール・ドーミングハンマー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Feile",
+      "en": "High Steel File",
+      "fr": "Lime en acier noble",
+      "ja": "ハイスチールファイル"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 61,
@@ -12544,6 +14293,44 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
+      "de": "Edelstahl-Handbeil",
+      "en": "High Steel Hatchet",
+      "fr": "Hachette en acier noble",
+      "ja": "ハイスチールハチェット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Sattlermesser",
+      "en": "High Steel Head Knife",
+      "fr": "Couteau à pied en acier noble",
+      "ja": "ハイスチール・ヘッドナイフ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
       "de": "Edelstahl-Axt",
       "en": "High Steel Headsman's Axe",
       "fr": "Hache de bourreau en acier noble",
@@ -12555,6 +14342,25 @@
     "qualityModifier": 100,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 40,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Edelstahl-Barren",
+      "en": "High Steel Ingot",
+      "fr": "Lingot d'acier noble",
+      "ja": "ハイスチールインゴット"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 61,
@@ -12595,6 +14401,44 @@
     "suggestedCraftsmanship": 1006
   },
   {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Krise",
+      "en": "High Steel Kris",
+      "fr": "Kriss en acier noble",
+      "ja": "ハイスチールクリス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Langschwert",
+      "en": "High Steel Longsword",
+      "fr": "Épée longue en acier noble",
+      "ja": "ハイスチール・ロングソード"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
@@ -12612,6 +14456,120 @@
     "qualityModifier": 100,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Mörser",
+      "en": "High Steel Mortar",
+      "fr": "Mortier en acier noble",
+      "ja": "ハイスチールモーター"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Edelstahl-Nugget",
+      "en": "High Steel Nugget",
+      "fr": "Pépite d'acier noble",
+      "ja": "ハイスチールナゲット"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Zange",
+      "en": "High Steel Pliers",
+      "fr": "Tenailles en acier noble",
+      "ja": "ハイスチールプライヤー"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Edelstahl-Säge",
+      "en": "High Steel Saw",
+      "fr": "Scie en acier noble",
+      "ja": "ハイスチールソー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Sense",
+      "en": "High Steel Scythe",
+      "fr": "Faux en acier noble",
+      "ja": "ハイスチールサイズ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Edelstahl-Vorschlaghammer",
+      "en": "High Steel Sledgehammer",
+      "fr": "Maillet en acier noble",
+      "ja": "ハイスチールモール"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 61,
@@ -12639,10 +14597,48 @@
     "level": 270,
     "maxQuality": 2970,
     "name": {
+      "de": "Edelstahl-Uchigatana",
+      "en": "High Steel Uchigatana",
+      "fr": "Uchigatana en acier noble",
+      "ja": "不変鋼打刀"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
       "de": "Edelstahl-Wurfringe",
       "en": "High Steel War Quoits",
       "fr": "Quoits de guerre en acier noble",
       "ja": "ハイスチール・ウォーコイト"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Edelstahl-Pistole",
+      "en": "High Steel-barreled Snaphance",
+      "fr": "Fusil à silex en acier noble",
+      "ja": "ハイスチールスナップハンス"
     },
     "progressDivider": 83,
     "progressModifier": 100,
@@ -12785,6 +14781,25 @@
     "suggestedCraftsmanship": 587
   },
   {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 1395,
+    "name": {
+      "de": "Hinganisches Mokuzo-Hüttendach",
+      "en": "Hingan Cottage Roof (Mokuzo)",
+      "fr": "Toit de maisonnette hingashienne (mokuzo)",
+      "ja": "白銀木造平屋屋根"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
     "baseLevel": 62,
     "difficulty": 680,
     "durability": 80,
@@ -12802,6 +14817,44 @@
     "qualityModifier": 100,
     "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 1530,
+    "name": {
+      "de": "Hinganisches Mokuzo-Hausdach",
+      "en": "Hingan House Roof (Mokuzo)",
+      "fr": "Toit de pavillon hingashien (mokuzo)",
+      "ja": "白銀木造屋敷屋根"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 1710,
+    "name": {
+      "de": "Hinganisches Mokuzo-Residenzdach",
+      "en": "Hingan Mansion Roof (Mokuzo)",
+      "fr": "Toit de villa hingashienne (mokuzo)",
+      "ja": "白銀木造御殿屋根"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 59,
@@ -13988,6 +16041,25 @@
     "suggestedCraftsmanship": 94
   },
   {
+    "baseLevel": 20,
+    "difficulty": 74,
+    "durability": 70,
+    "level": 20,
+    "maxQuality": 510,
+    "name": {
+      "de": "Eisendolche",
+      "en": "Iron Daggers",
+      "fr": "Dagues en fer",
+      "ja": "アイアンダガー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
     "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
@@ -14207,6 +16279,25 @@
       "en": "Iron Pliers",
       "fr": "Tenailles en fer",
       "ja": "アイアンプライヤー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 47,
+    "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 22,
+    "difficulty": 75,
+    "durability": 70,
+    "level": 22,
+    "maxQuality": 570,
+    "name": {
+      "de": "Pugiones",
+      "en": "Iron Pugiones",
+      "fr": "Pugiones en fer",
+      "ja": "プジオ"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -14699,6 +16790,25 @@
     "suggestedCraftsmanship": 106
   },
   {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Kupfernickel-Ornamenthammer",
+      "en": "Koppranickel Ornamental Hammer",
+      "fr": "Marteau ornementé en cupronickel",
+      "ja": "キュプロオーナメンタルハンマー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
     "baseLevel": 60,
     "difficulty": 835,
     "durability": 70,
@@ -14925,6 +17035,26 @@
     "qualityModifier": 100,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Blitzkugel",
+      "en": "Lord of Levin Lamp",
+      "fr": "Lampe à plasma du Patriarche fulgurant",
+      "ja": "雷神ラムウのプラズマランプ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 30,
@@ -16340,6 +18470,66 @@
   },
   {
     "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Misericordia-Klingen",
+      "en": "Misericorde Blades",
+      "fr": "Lames de Miséricorde",
+      "ja": "ミセリコルデブレード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 2500,
+    "name": {
+      "de": "Misericordiae",
+      "en": "Misericordes",
+      "fr": "Miséricorde",
+      "ja": "ミセリコルデ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 240,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 2900,
+    "name": {
+      "de": "Aufzieh-Magitek-Drohne",
+      "en": "Model Magitek Bit",
+      "fr": "Micro-drone magitek",
+      "ja": "魔導ビット自律型"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 50,
     "difficulty": 324,
     "durability": 80,
     "level": 50,
@@ -16377,6 +18567,44 @@
     "suggestedCraftsmanship": 580
   },
   {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Ahle",
+      "en": "Molybdenum Awl",
+      "fr": "Poinçon en molybdène",
+      "ja": "モリブデンアウル"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Schlosserhammer",
+      "en": "Molybdenum Ball-pein Hammer",
+      "fr": "Marteau à panne ronde en molybdène",
+      "ja": "モリブデンアーモラーハンマー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
@@ -16396,6 +18624,101 @@
     "suggestedCraftsmanship": 1069
   },
   {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Klauenhammer",
+      "en": "Molybdenum Claw Hammer",
+      "fr": "Marteau arrache-clou en molybdène",
+      "ja": "モリブデンクローハンマー"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Rillmesser",
+      "en": "Molybdenum Creasing Knife",
+      "fr": "Couteau de tanneur en molybdène",
+      "ja": "モリブデン・レザーワーカーナイフ"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Küchenmesser",
+      "en": "Molybdenum Culinary Knife",
+      "fr": "Couteau de cuisine en molybdène",
+      "ja": "モリブデンクリナリーナイフ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Dolche",
+      "en": "Molybdenum Daggers",
+      "fr": "Dagues en molybdène",
+      "ja": "モリブデンダガー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Feile",
+      "en": "Molybdenum File",
+      "fr": "Lime en molybdène",
+      "ja": "モリブデンファイル"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
     "baseLevel": 68,
     "difficulty": 980,
     "durability": 80,
@@ -16406,6 +18729,291 @@
       "en": "Molybdenum Gunblade",
       "fr": "Pistolame en molybdène",
       "ja": "モリブデンガンブレード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Rundsäge",
+      "en": "Molybdenum Halfheart Saw",
+      "fr": "Scie ronde en molybdène",
+      "ja": "モリブデンラウンドソー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Handbeil",
+      "en": "Molybdenum Hatchet",
+      "fr": "Hachette en molybdène",
+      "ja": "モリブデンハチェット"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 490,
+    "durability": 40,
+    "level": 285,
+    "maxQuality": 2736,
+    "name": {
+      "de": "Molybdän-Barren",
+      "en": "Molybdenum Ingot",
+      "fr": "Lingot de molybdène",
+      "ja": "モリブデンインゴット"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Schlagringe",
+      "en": "Molybdenum Knuckles",
+      "fr": "Poings en molybdène",
+      "ja": "モリブデンナックル"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Klinge",
+      "en": "Molybdenum Longblade",
+      "fr": "Lame en molybdène",
+      "ja": "モリブデンブレード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Langschwert",
+      "en": "Molybdenum Longsword",
+      "fr": "Épée longue en molybdène",
+      "ja": "モリブデンロングソード"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Schlägel",
+      "en": "Molybdenum Lump Hammer",
+      "fr": "Massette en molybdène",
+      "ja": "モリブデンランプハンマー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Mörser",
+      "en": "Molybdenum Mortar",
+      "fr": "Mortier en molybdène",
+      "ja": "モリブデンモーター"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Spitzhacke",
+      "en": "Molybdenum Pickaxe",
+      "fr": "Pioche en molybdène",
+      "ja": "モリブデンピック"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Zange",
+      "en": "Molybdenum Pliers",
+      "fr": "Tenailles en molybdène",
+      "ja": "モリブデンプライヤー"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Karabiner",
+      "en": "Molybdenum Rimfire",
+      "fr": "Carabine en molybdène",
+      "ja": "モリブデンリムファイア"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Sense",
+      "en": "Molybdenum Scythe",
+      "fr": "Faux en molybdène",
+      "ja": "モリブデンサイズ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Molybdän-Vorschlaghammer",
+      "en": "Molybdenum Sledgehammer",
+      "fr": "Maillet en molybdène",
+      "ja": "モリブデンモール"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Uchigatana",
+      "en": "Molybdenum Uchigatana",
+      "fr": "Uchigatana en molybdène",
+      "ja": "水鉛鋼打刀"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Kriegsaxt",
+      "en": "Molybdenum War Axe",
+      "fr": "Hache de guerre en molybdène",
+      "ja": "モリブデンウォーアクス"
     },
     "progressDivider": 88,
     "progressModifier": 100,
@@ -16648,6 +19256,25 @@
     "suggestedCraftsmanship": 136
   },
   {
+    "baseLevel": 41,
+    "difficulty": 143,
+    "durability": 80,
+    "level": 41,
+    "maxQuality": 1460,
+    "name": {
+      "de": "Mithril-Baselarden",
+      "en": "Mythril Baselards",
+      "fr": "Baselards en mithril",
+      "ja": "ミスリルバゼラード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
     "baseLevel": 40,
     "difficulty": 138,
     "durability": 80,
@@ -16857,6 +19484,25 @@
     "suggestedCraftsmanship": 129
   },
   {
+    "baseLevel": 38,
+    "difficulty": 129,
+    "durability": 80,
+    "level": 38,
+    "maxQuality": 1280,
+    "name": {
+      "de": "Mithril-Messer",
+      "en": "Mythril Knives",
+      "fr": "Couteaux en mithril",
+      "ja": "ミスリルナイフ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
     "baseLevel": 42,
     "difficulty": 144,
     "durability": 80,
@@ -16924,6 +19570,25 @@
       "en": "Mythril Pliers",
       "fr": "Tenailles en mithril",
       "ja": "ミスリルプライヤー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 75,
+    "suggestedCraftsmanship": 150
+  },
+  {
+    "baseLevel": 45,
+    "difficulty": 158,
+    "durability": 80,
+    "level": 45,
+    "maxQuality": 1700,
+    "name": {
+      "de": "Mithril-Pugiones",
+      "en": "Mythril Pugiones",
+      "fr": "Pugiones en mithril",
+      "ja": "ミスリルプジオ"
     },
     "progressDivider": 50,
     "progressModifier": 100,
@@ -17085,6 +19750,44 @@
     "suggestedCraftsmanship": 136
   },
   {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Ahle",
+      "en": "Mythrite Awl",
+      "fr": "Alêne en mithrite",
+      "ja": "ミスライトアウル"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Klauenhammer",
+      "en": "Mythrite Claw Hammer",
+      "fr": "Marteau arrache-clou en mithrite",
+      "ja": "ミスライトクローハンマー"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -17102,6 +19805,44 @@
     "qualityModifier": 100,
     "suggestedControl": 426,
     "suggestedCraftsmanship": 468
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Küchenmesser",
+      "en": "Mythrite Culinary Knife",
+      "fr": "Couteau de cuisine en mithrite",
+      "ja": "ミスライトクリナリーナイフ"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Feile",
+      "en": "Mythrite File",
+      "fr": "Lime en mithrite",
+      "ja": "ミスライトファイル"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 53,
@@ -17133,6 +19874,44 @@
       "en": "Mythrite Halfheart Saw",
       "fr": "Scie ronde en mithrite",
       "ja": "ミスライトラウンドソー"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 260,
+    "durability": 80,
+    "level": 125,
+    "maxQuality": 2140,
+    "name": {
+      "de": "Mythrit-Handbeil",
+      "en": "Mythrite Hatchet",
+      "fr": "Hachette en mithrite",
+      "ja": "ミスライトハチェット"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 130,
+    "durability": 40,
+    "level": 125,
+    "maxQuality": 1712,
+    "name": {
+      "de": "Mythrit-Barren",
+      "en": "Mythrite Ingot",
+      "fr": "Lingot de mithrite",
+      "ja": "ミスライトインゴット"
     },
     "progressDivider": 62,
     "progressModifier": 100,
@@ -17237,6 +20016,44 @@
     "suggestedCraftsmanship": 502
   },
   {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Mörser",
+      "en": "Mythrite Mortar",
+      "fr": "Mortier en mithrite",
+      "ja": "ミスライトモーター"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 110,
+    "durability": 40,
+    "level": 115,
+    "maxQuality": 1656,
+    "name": {
+      "de": "Mythrit-Nugget",
+      "en": "Mythrite Nugget",
+      "fr": "Pépite de mithrite",
+      "ja": "ミスライトナゲット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -17273,6 +20090,25 @@
     "qualityModifier": 100,
     "suggestedControl": 462,
     "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythritzange",
+      "en": "Mythrite Pliers",
+      "fr": "Tenailles en mithrite",
+      "ja": "ミスライトプライヤー"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
   },
   {
     "baseLevel": 51,
@@ -17313,6 +20149,25 @@
     "suggestedCraftsmanship": 502
   },
   {
+    "baseLevel": 51,
+    "difficulty": 110,
+    "durability": 40,
+    "level": 115,
+    "maxQuality": 1656,
+    "name": {
+      "de": "Mythrit-Nieten",
+      "en": "Mythrite Rivets",
+      "fr": "Rivets en mithrite",
+      "ja": "ミスライトリベット"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
+  },
+  {
     "baseLevel": 52,
     "difficulty": 260,
     "durability": 80,
@@ -17338,6 +20193,44 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
+      "de": "Mythrit-Sense",
+      "en": "Mythrite Scythe",
+      "fr": "Faux en mithrite",
+      "ja": "ミスライトサイズ"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
+      "de": "Mythrit-Vorschlaghammer",
+      "en": "Mythrite Sledgehammer",
+      "fr": "Maillet en mithrite",
+      "ja": "ミスライトモール"
+    },
+    "progressDivider": 63,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 480,
+    "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 53,
+    "difficulty": 300,
+    "durability": 80,
+    "level": 130,
+    "maxQuality": 2210,
+    "name": {
       "de": "Mythrit-Stilettos",
       "en": "Mythrite Stilettos",
       "fr": "Stylets en mithrite",
@@ -17349,6 +20242,44 @@
     "qualityModifier": 100,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
+  },
+  {
+    "baseLevel": 52,
+    "difficulty": 260,
+    "durability": 80,
+    "level": 125,
+    "maxQuality": 2140,
+    "name": {
+      "de": "Mythrit-Tachi",
+      "en": "Mythrite Tachi",
+      "fr": "Tachi en mithrite",
+      "ja": "精霊銀太刀"
+    },
+    "progressDivider": 62,
+    "progressModifier": 100,
+    "qualityDivider": 43,
+    "qualityModifier": 100,
+    "suggestedControl": 462,
+    "suggestedCraftsmanship": 502
+  },
+  {
+    "baseLevel": 51,
+    "difficulty": 220,
+    "durability": 80,
+    "level": 115,
+    "maxQuality": 2070,
+    "name": {
+      "de": "Mythrit-Uchigatana",
+      "en": "Mythrite Uchigatana",
+      "fr": "Uchigatana en mithrite",
+      "ja": "精霊銀打刀"
+    },
+    "progressDivider": 61,
+    "progressModifier": 100,
+    "qualityDivider": 39,
+    "qualityModifier": 100,
+    "suggestedControl": 426,
+    "suggestedCraftsmanship": 468
   },
   {
     "baseLevel": 51,
@@ -18220,6 +21151,25 @@
     "suggestedCraftsmanship": 150
   },
   {
+    "baseLevel": 32,
+    "difficulty": 110,
+    "durability": 80,
+    "level": 32,
+    "maxQuality": 475,
+    "name": {
+      "de": "Oasen-Laternenmast",
+      "en": "Oasis Lamppost",
+      "fr": "Lampadaire thanalanais",
+      "ja": "ザナラーン・ランプポスト"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 60,
+    "suggestedCraftsmanship": 121
+  },
+  {
     "baseLevel": 20,
     "difficulty": 74,
     "durability": 70,
@@ -18256,6 +21206,26 @@
     "qualityModifier": 100,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Oasen-Straßenlaterne",
+      "en": "Oasis Path Light",
+      "fr": "Éclairage au sol thanalanais",
+      "ja": "ザナラーン・フットランプ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 17,
@@ -18471,6 +21441,25 @@
     "qualityModifier": 100,
     "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 40,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Oroshigane-Barren",
+      "en": "Oroshigane Ingot",
+      "fr": "Lingot d'oroshigane",
+      "ja": "卸し鉄"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 60,
@@ -19110,6 +22099,25 @@
     "suggestedCraftsmanship": 2140
   },
   {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Palladium-Stockhammer",
+      "en": "Palladium Texture Hammer",
+      "fr": "Marteau d'orfèvre en palladium",
+      "ja": "パラース・ゴールドスミスハンマー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1335,
     "durability": 35,
@@ -19187,6 +22195,26 @@
     "suggestedCraftsmanship": 391
   },
   {
+    "baseLevel": 50,
+    "difficulty": 250,
+    "durability": 80,
+    "level": 70,
+    "maxQuality": 1250,
+    "name": {
+      "de": "Plasmakugel",
+      "en": "Plasma Lamp",
+      "fr": "Lampe à plasma de Ramuh",
+      "ja": "ラムウのプラズマランプ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 2,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -19223,6 +22251,25 @@
     "qualityModifier": 100,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Gefiederte Domastahl-Spitzhacke",
+      "en": "Plumed Doman Steel Pickaxe",
+      "fr": "Pioche en acier domien à plumet",
+      "ja": "プルームド・ドマスチールピック"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 29,
@@ -21019,6 +24066,26 @@
     "suggestedCraftsmanship": 136
   },
   {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Riviera-Zaun",
+      "en": "Riviera Fence",
+      "fr": "Clôture à grille noscéenne",
+      "ja": "ラノシアン・フェンスウォール"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
     "baseLevel": 47,
     "difficulty": 167,
     "durability": 80,
@@ -21093,6 +24160,26 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Riviera-Straßenlaterne",
+      "en": "Riviera Path Light",
+      "fr": "Éclairage au sol noscéen",
+      "ja": "ラノシアン・フットランプ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 21,
@@ -21926,6 +25013,26 @@
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 420,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 1375,
+    "name": {
+      "de": "Duschständer",
+      "en": "Shower Stand",
+      "fr": "Colonne de douche",
+      "ja": "シャワースタンド"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
   },
   {
     "baseLevel": 60,
@@ -22780,6 +25887,25 @@
     "suggestedCraftsmanship": 121
   },
   {
+    "baseLevel": 34,
+    "difficulty": 115,
+    "durability": 80,
+    "level": 34,
+    "maxQuality": 1050,
+    "name": {
+      "de": "Stahl-Baselarden",
+      "en": "Steel Baselards",
+      "fr": "Baselards en acier",
+      "ja": "スチールバゼラード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 64,
+    "suggestedCraftsmanship": 129
+  },
+  {
     "baseLevel": 35,
     "difficulty": 123,
     "durability": 80,
@@ -22932,6 +26058,25 @@
     "suggestedCraftsmanship": 121
   },
   {
+    "baseLevel": 26,
+    "difficulty": 90,
+    "durability": 70,
+    "level": 26,
+    "maxQuality": 690,
+    "name": {
+      "de": "Stahldolche",
+      "en": "Steel Daggers",
+      "fr": "Dagues en acier",
+      "ja": "スチールダガー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 49,
+    "suggestedCraftsmanship": 99
+  },
+  {
     "baseLevel": 33,
     "difficulty": 111,
     "durability": 80,
@@ -23044,6 +26189,25 @@
     "qualityModifier": 100,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
+  },
+  {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 850,
+    "name": {
+      "de": "Stahlmesser",
+      "en": "Steel Knives",
+      "fr": "Couteaux en acier",
+      "ja": "スチールナイフ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
   },
   {
     "baseLevel": 37,
@@ -23901,6 +27065,25 @@
     "suggestedCraftsmanship": 391
   },
   {
+    "baseLevel": 66,
+    "difficulty": 440,
+    "durability": 40,
+    "level": 279,
+    "maxQuality": 2592,
+    "name": {
+      "de": "Tama-hagane-Barren",
+      "en": "Tama-hagane Ingot",
+      "fr": "Lingot de tamahagane",
+      "ja": "玉鋼"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 70,
@@ -24406,6 +27589,25 @@
   },
   {
     "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Titanbronze-Barren",
+      "en": "Titanbronze Ingot",
+      "fr": "Lingot de bronze titané",
+      "ja": "チタンブロンズインゴット"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 76,
     "difficulty": 1500,
     "durability": 80,
     "level": 409,
@@ -24653,6 +27855,25 @@
     "suggestedCraftsmanship": 620
   },
   {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Ahle",
+      "en": "Titanium Awl",
+      "fr": "Alêne en titane",
+      "ja": "チタンアウル"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
     "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
@@ -24729,6 +27950,25 @@
     "suggestedCraftsmanship": 560
   },
   {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Klauenhammer",
+      "en": "Titanium Claw Hammer",
+      "fr": "Marteau arrache-clou en titane",
+      "ja": "チタンクローハンマー"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
     "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
@@ -24786,6 +28026,44 @@
     "suggestedCraftsmanship": 539
   },
   {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Küchenmesser",
+      "en": "Titanium Culinary Knife",
+      "fr": "Couteau de cuisine en titane",
+      "ja": "チタンクリナリーナイフ"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Feile",
+      "en": "Titanium File",
+      "fr": "Lime en titane",
+      "ja": "チタンファイル"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
     "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
@@ -24822,6 +28100,44 @@
     "qualityModifier": 100,
     "suggestedControl": 524,
     "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 55,
+    "difficulty": 380,
+    "durability": 70,
+    "level": 136,
+    "maxQuality": 2350,
+    "name": {
+      "de": "Titan-Handbeil",
+      "en": "Titanium Hatchet",
+      "fr": "Hachette en titane",
+      "ja": "チタンハチェット"
+    },
+    "progressDivider": 65,
+    "progressModifier": 100,
+    "qualityDivider": 45,
+    "qualityModifier": 100,
+    "suggestedControl": 502,
+    "suggestedCraftsmanship": 539
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 210,
+    "durability": 35,
+    "level": 139,
+    "maxQuality": 1936,
+    "name": {
+      "de": "Titan-Barren",
+      "en": "Titanium Ingot",
+      "fr": "Lingot de titane",
+      "ja": "チタンインゴット"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 54,
@@ -24919,6 +28235,82 @@
     "suggestedCraftsmanship": 560
   },
   {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Mörser",
+      "en": "Titanium Mortar",
+      "fr": "Mortier en titane",
+      "ja": "チタンモーター"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 170,
+    "durability": 40,
+    "level": 133,
+    "maxQuality": 1824,
+    "name": {
+      "de": "Titan-Nugget",
+      "en": "Titanium Nugget",
+      "fr": "Pépite de titane",
+      "ja": "チタンナゲット"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 57,
+    "difficulty": 460,
+    "durability": 70,
+    "level": 142,
+    "maxQuality": 2490,
+    "name": {
+      "de": "Titan-Spitzhacke",
+      "en": "Titanium Pickaxe",
+      "fr": "Pioche en titane",
+      "ja": "チタンピック"
+    },
+    "progressDivider": 67,
+    "progressModifier": 100,
+    "qualityDivider": 47,
+    "qualityModifier": 100,
+    "suggestedControl": 524,
+    "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titanzange",
+      "en": "Titanium Pliers",
+      "fr": "Tenailles en titane",
+      "ja": "チタンプライヤー"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
     "baseLevel": 54,
     "difficulty": 340,
     "durability": 80,
@@ -24955,6 +28347,101 @@
     "qualityModifier": 100,
     "suggestedControl": 524,
     "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 170,
+    "durability": 40,
+    "level": 133,
+    "maxQuality": 1824,
+    "name": {
+      "de": "Titan-Nieten",
+      "en": "Titanium Rivets",
+      "fr": "Rivets en titane",
+      "ja": "チタンリベット"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Sense",
+      "en": "Titanium Scythe",
+      "fr": "Faux en titane",
+      "ja": "チタンサイズ"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Titan-Vorschlaghammer",
+      "en": "Titanium Sledgehammer",
+      "fr": "Maillet en titane",
+      "ja": "チタンモール"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 56,
+    "difficulty": 420,
+    "durability": 70,
+    "level": 139,
+    "maxQuality": 2420,
+    "name": {
+      "de": "Hartsilber-Tachi",
+      "en": "Titanium Tachi",
+      "fr": "Tachi en titane",
+      "ja": "地鉄太刀"
+    },
+    "progressDivider": 66,
+    "progressModifier": 100,
+    "qualityDivider": 46,
+    "qualityModifier": 100,
+    "suggestedControl": 513,
+    "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 54,
+    "difficulty": 340,
+    "durability": 80,
+    "level": 133,
+    "maxQuality": 2280,
+    "name": {
+      "de": "Hartsilber-Uchigatana",
+      "en": "Titanium Uchigatana",
+      "fr": "Uchigatana en titane",
+      "ja": "地鉄打刀"
+    },
+    "progressDivider": 64,
+    "progressModifier": 100,
+    "qualityDivider": 44,
+    "qualityModifier": 100,
+    "suggestedControl": 491,
+    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 54,
@@ -25001,6 +28488,26 @@
     "level": 55,
     "maxQuality": 1100,
     "name": {
+      "de": "Tomberry-Kronleuchter",
+      "en": "Tonberry Chandelier",
+      "fr": "Lustre tomberry",
+      "ja": "トンベリシャンデリア"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
       "de": "Tomberry-Wandlaterne",
       "en": "Tonberry Wall Lantern",
       "fr": "Flambeau tomberry",
@@ -25013,6 +28520,25 @@
     "stars": 1,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
+  },
+  {
+    "baseLevel": 18,
+    "difficulty": 67,
+    "durability": 70,
+    "level": 18,
+    "maxQuality": 225,
+    "name": {
+      "de": "Handtuchaufhänger",
+      "en": "Towel Hanger",
+      "fr": "Porte-serviette",
+      "ja": "タオルハンガー"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 39,
+    "suggestedCraftsmanship": 78
   },
   {
     "baseLevel": 90,
@@ -25499,6 +29025,25 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 180,
+    "durability": 80,
+    "level": 50,
+    "maxQuality": 1000,
+    "name": {
+      "de": "Wandlaterne",
+      "en": "Wall Lantern",
+      "fr": "Lanterne murale",
+      "ja": "ウォールランタン"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 88,
+    "suggestedCraftsmanship": 176
   },
   {
     "baseLevel": 50,

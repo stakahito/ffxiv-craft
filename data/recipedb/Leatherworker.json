@@ -736,6 +736,25 @@
     "suggestedCraftsmanship": 1027
   },
   {
+    "baseLevel": 30,
+    "difficulty": 102,
+    "durability": 70,
+    "level": 30,
+    "maxQuality": 425,
+    "name": {
+      "de": "Moosweicher Waldboden",
+      "en": "Arbor Flooring",
+      "fr": "Parquet sylvestre",
+      "ja": "フォレストフローリング"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
     "baseLevel": 51,
     "difficulty": 110,
     "durability": 40,
@@ -1307,6 +1326,25 @@
     "stars": 4,
     "suggestedControl": 407,
     "suggestedCraftsmanship": 451
+  },
+  {
+    "baseLevel": 74,
+    "difficulty": 680,
+    "durability": 40,
+    "level": 403,
+    "maxQuality": 3200,
+    "name": {
+      "de": "Atrociraptorleder",
+      "en": "Atrociraptor Leather",
+      "fr": "Cuir d'atrociraptor",
+      "ja": "アトロシラプトルレザー"
+    },
+    "progressDivider": 104,
+    "progressModifier": 100,
+    "qualityDivider": 84,
+    "qualityModifier": 100,
+    "suggestedControl": 1387,
+    "suggestedCraftsmanship": 1498
   },
   {
     "baseLevel": 74,
@@ -8132,6 +8170,25 @@
   },
   {
     "baseLevel": 61,
+    "difficulty": 315,
+    "durability": 40,
+    "level": 255,
+    "maxQuality": 2232,
+    "name": {
+      "de": "Gaganaleder",
+      "en": "Gagana Leather",
+      "fr": "Cuir de gagana",
+      "ja": "ガガナレザー"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
     "difficulty": 630,
     "durability": 80,
     "level": 255,
@@ -8141,6 +8198,25 @@
       "en": "Gaganaskin Boots of Aiming",
       "fr": "Bottes de pisteur en cuir de gagana",
       "ja": "ガガナレンジャーブーツ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Buschhut",
+      "en": "Gaganaskin Bush Hat",
+      "fr": "Chapeau mou en cuir de gagana",
+      "ja": "ガガナブッシュハット"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -8175,10 +8251,67 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
+      "de": "Gaganaleder-Fransenstiefel",
+      "en": "Gaganaskin Fringe Boots",
+      "fr": "Bottes à franges en cuir de gagana",
+      "ja": "ガガナフリンジブーツ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Handschuhe",
+      "en": "Gaganaskin Gloves",
+      "fr": "Gants en cuir de gagana",
+      "ja": "ガガナグローブ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
       "de": "Gaganaleder-Handschuhe des Zielens",
       "en": "Gaganaskin Gloves of Aiming",
       "fr": "Gants de pisteur en cuir de gagana",
       "ja": "ガガナレンジャーグローブ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Kurzfingerhandschuhe",
+      "en": "Gaganaskin Halfgloves",
+      "fr": "Mitaines en cuir de gagana",
+      "ja": "ガガナハーフグローブ"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -8308,6 +8441,44 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
+      "de": "Gaganaleder-Sandalen der Magie",
+      "en": "Gaganaskin Sandals of Casting",
+      "fr": "Sandales d'incantateur en cuir de gagana",
+      "ja": "ガガナキャスターサンダル"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Sandalen der Heilung",
+      "en": "Gaganaskin Sandals of Healing",
+      "fr": "Sandales de soigneur en cuir de gagana",
+      "ja": "ガガナヒーラーサンダル"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
       "de": "Gaganaleder-Sandalen des Spähens",
       "en": "Gaganaskin Sandals of Scouting",
       "fr": "Sandales d'éclaireur en cuir de gagana",
@@ -8331,6 +8502,44 @@
       "en": "Gaganaskin Sandals of Striking",
       "fr": "Sandales d'agresseur en cuir de gagana",
       "ja": "ガガナストライカーサンダル"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Schuhe",
+      "en": "Gaganaskin Shoes",
+      "fr": "Chaussures en cuir de gagana",
+      "ja": "ガガナシューズ"
+    },
+    "progressDivider": 81,
+    "progressModifier": 100,
+    "qualityDivider": 58,
+    "qualityModifier": 100,
+    "suggestedControl": 968,
+    "suggestedCraftsmanship": 1006
+  },
+  {
+    "baseLevel": 61,
+    "difficulty": 630,
+    "durability": 80,
+    "level": 255,
+    "maxQuality": 2790,
+    "name": {
+      "de": "Gaganaleder-Weste",
+      "en": "Gaganaskin Vest",
+      "fr": "Gilet en cuir de gagana",
+      "ja": "ガガナベスト"
     },
     "progressDivider": 81,
     "progressModifier": 100,
@@ -8760,6 +8969,215 @@
     "suggestedCraftsmanship": 176
   },
   {
+    "baseLevel": 68,
+    "difficulty": 490,
+    "durability": 40,
+    "level": 285,
+    "maxQuality": 2736,
+    "name": {
+      "de": "Gazellenleder",
+      "en": "Gazelle Leather",
+      "fr": "Cuir de gazelle",
+      "ja": "ガゼルレザー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Molybdän-Armschützer des Zielens",
+      "en": "Gazelleskin Armguards of Aiming",
+      "fr": "Garde-bras de pisteur en cuir de gazelle",
+      "ja": "ガゼル・レンジャーアームガード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Armschützer der Magie",
+      "en": "Gazelleskin Armguards of Casting",
+      "fr": "Garde-bras d'incantateur en cuir de gazelle",
+      "ja": "ガゼル・キャスターアームガード"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Stiefel des Zielens",
+      "en": "Gazelleskin Boots of Aiming",
+      "fr": "Bottes de pisteur en cuir de gazelle",
+      "ja": "ガゼルレンジャーブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Stiefel der Magie",
+      "en": "Gazelleskin Boots of Casting",
+      "fr": "Bottes d'incantateur en cuir de gazelle",
+      "ja": "ガゼルキャスターブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Stiefel der Heilung",
+      "en": "Gazelleskin Boots of Healing",
+      "fr": "Bottes de soigneur en cuir de gazelle",
+      "ja": "ガゼルヒーラーブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Armschienen der Verteidigung",
+      "en": "Gazelleskin Bracers of Fending",
+      "fr": "Brassières de protecteur en cuir de gazelle",
+      "ja": "ガゼルディフェンダーブレーサー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Armschienen der Heilung",
+      "en": "Gazelleskin Bracers of Healing",
+      "fr": "Brassières de soigneur en cuir de gazelle",
+      "ja": "ガゼルヒーラーブレーサー"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Doppelseiden-Braies des Verstümmelns",
+      "en": "Gazelleskin Brais of Maiming",
+      "fr": "Brailles d'abatteur en cuir de gazelle",
+      "ja": "ガゼルスレイヤーブレー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Braies des Spähens",
+      "en": "Gazelleskin Brais of Scouting",
+      "fr": "Brailles d'éclaireur en cuir de gazelle",
+      "ja": "ガゼルスカウトブレー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Braies des Schlagens",
+      "en": "Gazelleskin Brais of Striking",
+      "fr": "Brailles d'agresseur en cuir de gazelle",
+      "ja": "ガゼルストライカーブレー"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
@@ -8779,6 +9197,101 @@
     "suggestedCraftsmanship": 1079
   },
   {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Mantel der Verteidigung",
+      "en": "Gazelleskin Coat of Fending",
+      "fr": "Manteau de protecteur en cuir de gazelle",
+      "ja": "ガゼルディフェンダーコート"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Mantel der Heilung",
+      "en": "Gazelleskin Coat of Healing",
+      "fr": "Manteau de soigneur en cuir de gazelle",
+      "ja": "ガゼルヒーラーコート"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Brustpanzer des Verstümmelns",
+      "en": "Gazelleskin Corselet of Maiming",
+      "fr": "Jaseran d'abatteur en cuir de gazelle",
+      "ja": "ガゼルスレイヤーコースリット"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Brustpanzer des Spähens",
+      "en": "Gazelleskin Corselet of Scouting",
+      "fr": "Jaseran d'éclaireur en cuir de gazelle",
+      "ja": "ガゼルスカウトコースリット"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
+    "baseLevel": 69,
+    "difficulty": 1030,
+    "durability": 80,
+    "level": 288,
+    "maxQuality": 3510,
+    "name": {
+      "de": "Gazellenleder-Brustpanzer des Schlagens",
+      "en": "Gazelleskin Corselet of Striking",
+      "fr": "Jaseran d'agresseur en cuir de gazelle",
+      "ja": "ガゼルストライカーコースリット"
+    },
+    "progressDivider": 89,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1050,
+    "suggestedCraftsmanship": 1075
+  },
+  {
     "baseLevel": 70,
     "difficulty": 1080,
     "durability": 80,
@@ -8796,6 +9309,82 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 70,
+    "difficulty": 1080,
+    "durability": 80,
+    "level": 290,
+    "maxQuality": 3600,
+    "name": {
+      "de": "Gazellenleder-Handschuhe des Handwerks",
+      "en": "Gazelleskin Gloves of Crafting",
+      "fr": "Gants des créations en cuir de gazelle",
+      "ja": "ガゼルクラフターグローブ"
+    },
+    "progressDivider": 90,
+    "progressModifier": 100,
+    "qualityDivider": 70,
+    "qualityModifier": 100,
+    "suggestedControl": 1055,
+    "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Molybdän-Stiefel des Verstümmelns",
+      "en": "Gazelleskin Open-toed Boots of Maiming",
+      "fr": "Cuissardes à bout ouvert d'abatteur en cuir de gazelle",
+      "ja": "ガゼル・スレイヤーオープンブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Stiefel des Spähens",
+      "en": "Gazelleskin Open-toed Boots of Scouting",
+      "fr": "Cuissardes à bout ouvert d'éclaireur en cuir de gazelle",
+      "ja": "ガゼル・スカウトオープンブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
+  },
+  {
+    "baseLevel": 68,
+    "difficulty": 980,
+    "durability": 80,
+    "level": 285,
+    "maxQuality": 3420,
+    "name": {
+      "de": "Gazellenleder-Stiefel des Schlagens",
+      "en": "Gazelleskin Open-toed Boots of Striking",
+      "fr": "Cuissardes à bout ouvert d'agresseur en cuir de gazelle",
+      "ja": "ガゼル・ストライカーオープンブーツ"
+    },
+    "progressDivider": 88,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1043,
+    "suggestedCraftsmanship": 1069
   },
   {
     "baseLevel": 70,
@@ -10194,6 +10783,25 @@
     "suggestedCraftsmanship": 1320
   },
   {
+    "baseLevel": 72,
+    "difficulty": 610,
+    "durability": 40,
+    "level": 395,
+    "maxQuality": 3040,
+    "name": {
+      "de": "Grünes Gleiterleder",
+      "en": "Green Glider Leather",
+      "fr": "Cuir de planeur vert",
+      "ja": "グリーングライダーレザー"
+    },
+    "progressDivider": 102,
+    "progressModifier": 100,
+    "qualityDivider": 82,
+    "qualityModifier": 100,
+    "suggestedControl": 1284,
+    "suggestedCraftsmanship": 1388
+  },
+  {
     "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
@@ -11267,6 +11875,101 @@
     "suggestedCraftsmanship": 22
   },
   {
+    "baseLevel": 62,
+    "difficulty": 340,
+    "durability": 40,
+    "level": 265,
+    "maxQuality": 2304,
+    "name": {
+      "de": "Gyukileder",
+      "en": "Gyuki Leather",
+      "fr": "Cuir de gyuki",
+      "ja": "ギュウキレザー"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Stiefel des Zielens",
+      "en": "Gyuki Leather Boots of Aiming",
+      "fr": "Bottes de pisteur en cuir de gyuki",
+      "ja": "ギュウキレンジャーブーツ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Stiefel des Eifers",
+      "en": "Gyuki Leather Boots of Gathering",
+      "fr": "Bottes des ressources en cuir de gyuki",
+      "ja": "ギュウキギャザラーブーツ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Stiefel der Heilung",
+      "en": "Gyuki Leather Boots of Healing",
+      "fr": "Bottes de soigneur en cuir de gyuki",
+      "ja": "ギュウキヒーラーブーツ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Chaps",
+      "en": "Gyuki Leather Chaps",
+      "fr": "Houseaux en cuir de gyuki",
+      "ja": "ギュウキチャップス"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -11284,6 +11987,25 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Galahandschuhe der Heilung",
+      "en": "Gyuki Leather Dress Gloves",
+      "fr": "Gants d'apparat en cuir de gyuki",
+      "ja": "ギュウキドレスグローブ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 63,
@@ -11305,6 +12027,215 @@
     "suggestedCraftsmanship": 1037
   },
   {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Handschuhe des Zielens",
+      "en": "Gyuki Leather Gloves of Aiming",
+      "fr": "Gants de pisteur en cuir de gyuki",
+      "ja": "ギュウキ・レンジャーグローブ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Handschuhe des Handwerks",
+      "en": "Gyuki Leather Gloves of Crafting",
+      "fr": "Gants des créations en cuir de gyuki",
+      "ja": "ギュウキクラフターグローブ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Handschuhe des Eifers",
+      "en": "Gyuki Leather Gloves of Gathering",
+      "fr": "Gants des ressources en cuir de gyuki",
+      "ja": "ギュウキギャザラーグローブ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Kurzfingerhandschuhe des Spähens",
+      "en": "Gyuki Leather Halfgloves of Scouting",
+      "fr": "Mitaines d'éclaireur en cuir de gyuki",
+      "ja": "ギュウキ・スカウトハーフグローブ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Kurzfingerhandschuhe des Schlagens",
+      "en": "Gyuki Leather Halfgloves of Striking",
+      "fr": "Mitaines d'agresseur en cuir de gyuki",
+      "ja": "ギュウキ・ストライカーハーフグローブ"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Hut",
+      "en": "Gyuki Leather Hat",
+      "fr": "Chapeau en cuir de gyuki",
+      "ja": "ギュウキハット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Kniestiefel des Spähens",
+      "en": "Gyuki Leather Highboots of Scouting",
+      "fr": "Cuissardes d'éclaireur en cuir de gyuki",
+      "ja": "ギュウキ・スカウトハイブーツ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Kniestiefel des Schlagens",
+      "en": "Gyuki Leather Highboots of Striking",
+      "fr": "Cuissardes d'agresseur en cuir de gyuki",
+      "ja": "ギュウキ・ストライカーハイブーツ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Jacke",
+      "en": "Gyuki Leather Jacket",
+      "fr": "Jaque en cuir de gyuki",
+      "ja": "ギュウキジャケット"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Trippen der Magie",
+      "en": "Gyuki Leather Pattens",
+      "fr": "Patins en cuir de gyuki",
+      "ja": "ギュウキパッテン"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Kaskett des Zielens",
+      "en": "Gyuki Leather Pot Helm",
+      "fr": "Heaume en cuir de gyuki",
+      "ja": "ギュウキポットヘルム"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -11322,6 +12253,63 @@
     "qualityModifier": 100,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 63,
+    "difficulty": 730,
+    "durability": 80,
+    "level": 270,
+    "maxQuality": 2970,
+    "name": {
+      "de": "Gyukileder-Schuhe",
+      "en": "Gyuki Leather Shoes",
+      "fr": "Chaussures en cuir de gyuki",
+      "ja": "ギュウキシューズ"
+    },
+    "progressDivider": 83,
+    "progressModifier": 100,
+    "qualityDivider": 64,
+    "qualityModifier": 100,
+    "suggestedControl": 1005,
+    "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Hose der Verteidigung",
+      "en": "Gyuki Leather Trousers of Fending",
+      "fr": "Pantalon de protecteur en cuir de gyuki",
+      "ja": "ギュウキディフェンダートラウザー"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 62,
+    "difficulty": 680,
+    "durability": 80,
+    "level": 265,
+    "maxQuality": 2880,
+    "name": {
+      "de": "Gyukileder-Hose des Verstümmelns",
+      "en": "Gyuki Leather Trousers of Maiming",
+      "fr": "Pantalon d'abatteur en cuir de gyuki",
+      "ja": "ギュウキスレイヤートラウザー"
+    },
+    "progressDivider": 82,
+    "progressModifier": 100,
+    "qualityDivider": 61,
+    "qualityModifier": 100,
+    "suggestedControl": 993,
+    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 63,
@@ -12815,6 +13803,26 @@
     "qualityModifier": 100,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 240,
+    "durability": 80,
+    "level": 110,
+    "maxQuality": 2900,
+    "name": {
+      "de": "Shiva-Rossstirn",
+      "en": "Ice Barding",
+      "fr": "Barde de Shiva",
+      "ja": "シヴァ・バード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 4,
+    "suggestedControl": 407,
+    "suggestedCraftsmanship": 451
   },
   {
     "baseLevel": 50,
@@ -14600,6 +15608,26 @@
     "suggestedCraftsmanship": 325
   },
   {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 90,
+    "maxQuality": 2750,
+    "name": {
+      "de": "Blitz-Rossharnisch",
+      "en": "Levin Barding",
+      "fr": "Barde de Ramuh",
+      "ja": "ラムウ・バード"
+    },
+    "progressDivider": 50,
+    "progressModifier": 80,
+    "qualityDivider": 30,
+    "qualityModifier": 70,
+    "stars": 3,
+    "suggestedControl": 374,
+    "suggestedCraftsmanship": 391
+  },
+  {
     "baseLevel": 80,
     "difficulty": 1780,
     "durability": 70,
@@ -15253,6 +16281,25 @@
     "level": 28,
     "maxQuality": 380,
     "name": {
+      "de": "Herrenhaus-Garnitur",
+      "en": "Manor Sofa",
+      "fr": "Fauteuil du Manoir",
+      "ja": "御用邸のソファ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 53,
+    "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 28,
+    "difficulty": 100,
+    "durability": 70,
+    "level": 28,
+    "maxQuality": 380,
+    "name": {
       "de": "Herrenhaus-Hocker",
       "en": "Manor Stool",
       "fr": "Tabouret du Manoir",
@@ -15264,6 +16311,234 @@
     "qualityModifier": 100,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 440,
+    "durability": 40,
+    "level": 279,
+    "maxQuality": 2592,
+    "name": {
+      "de": "Maridenleder",
+      "en": "Marid Leather",
+      "fr": "Cuir de marid",
+      "ja": "マーリドレザー"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Pantoffeln des Handwerks",
+      "en": "Marid Leather Babouches of Crafting",
+      "fr": "Babouches des créations en cuir de marid",
+      "ja": "マーリドクラフターバブーシュ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Pantoffeln des Eifers",
+      "en": "Marid Leather Babouches of Gathering",
+      "fr": "Babouches des ressources en cuir de marid",
+      "ja": "マーリドギャザラーバブーシュ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Bolero des Handwerks",
+      "en": "Marid Leather Bolero of Crafting",
+      "fr": "Boléro des créations en cuir de marid",
+      "ja": "マーリドクラフターボレロ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Bolero des Eifers",
+      "en": "Marid Leather Bolero of Gathering",
+      "fr": "Boléro des ressources en cuir de marid",
+      "ja": "マーリドギャザラーボレロ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Stiefel des Zielens",
+      "en": "Marid Leather Boots of Aiming",
+      "fr": "Bottes de pisteur en cuir de marid",
+      "ja": "マーリドレンジャーブーツ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Stiefel der Magie",
+      "en": "Marid Leather Boots of Casting",
+      "fr": "Bottes d'incantateur en cuir de marid",
+      "ja": "マーリドキャスターブーツ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Stiefel der Heilung",
+      "en": "Marid Leather Boots of Healing",
+      "fr": "Bottes de soigneur en cuir de marid",
+      "ja": "マーリドヒーラーブーツ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Reiterhose der Verteidigung",
+      "en": "Marid Leather Breeches of Fending",
+      "fr": "Braies de protecteur en cuir de marid",
+      "ja": "マーリドディフェンダーブリーチ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Reiterhose des Verstümmelns",
+      "en": "Marid Leather Breeches of Maiming",
+      "fr": "Braies d'abatteur en cuir de marid",
+      "ja": "マーリドスレイヤーブリーチ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Reiterhose des Spähens",
+      "en": "Marid Leather Breeches of Scouting",
+      "fr": "Braies d'éclaireur en cuir de marid",
+      "ja": "マーリドスカウトブリーチ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Reiterhose des Schlagens",
+      "en": "Marid Leather Breeches of Striking",
+      "fr": "Braies d'agresseur en cuir de marid",
+      "ja": "マーリドストライカーブリーチ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
   },
   {
     "baseLevel": 67,
@@ -15291,6 +16566,44 @@
     "level": 282,
     "maxQuality": 3330,
     "name": {
+      "de": "Maridenleder-Mantel des Spähens",
+      "en": "Marid Leather Coat of Scouting",
+      "fr": "Manteau d'éclaireur en cuir de marid",
+      "ja": "マーリドスカウトコート"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Mantel des Schlagens",
+      "en": "Marid Leather Coat of Striking",
+      "fr": "Manteau d'agresseur en cuir de marid",
+      "ja": "マーリドストライカーコート"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
       "de": "Maridenleder-Ohrringe",
       "en": "Marid Leather Earrings",
       "fr": "Boucles d'oreilles en cuir de marid",
@@ -15302,6 +16615,139 @@
     "qualityModifier": 100,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Handschuhe des Zielens",
+      "en": "Marid Leather Gloves of Aiming",
+      "fr": "Gants de pisteur en cuir de marid",
+      "ja": "マーリドレンジャーグローブ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Handschuhe der Magie",
+      "en": "Marid Leather Gloves of Casting",
+      "fr": "Gants d'incantateur en cuir de marid",
+      "ja": "マーリドキャスターグローブ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Handschuhe des Handwerks",
+      "en": "Marid Leather Gloves of Crafting",
+      "fr": "Gants des créations en cuir de marid",
+      "ja": "マーリドクラフターグローブ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 67,
+    "difficulty": 930,
+    "durability": 80,
+    "level": 282,
+    "maxQuality": 3330,
+    "name": {
+      "de": "Maridenleder-Handschuhe des Eifers",
+      "en": "Marid Leather Gloves of Gathering",
+      "fr": "Gants des ressources en cuir de marid",
+      "ja": "マーリドギャザラーグローブ"
+    },
+    "progressDivider": 87,
+    "progressModifier": 100,
+    "qualityDivider": 68,
+    "qualityModifier": 100,
+    "suggestedControl": 1035,
+    "suggestedCraftsmanship": 1063
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Handschuhe der Heilung",
+      "en": "Marid Leather Gloves of Healing",
+      "fr": "Gants de soigneur en cuir de marid",
+      "ja": "マーリドヒーラーグローブ"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Haube des Spähens",
+      "en": "Marid Leather Hood of Scouting",
+      "fr": "Capuche d'éclaireur en cuir de marid",
+      "ja": "マーリドスカウトフード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 66,
+    "difficulty": 880,
+    "durability": 80,
+    "level": 279,
+    "maxQuality": 3240,
+    "name": {
+      "de": "Maridenleder-Haube des Schlagens",
+      "en": "Marid Leather Hood of Striking",
+      "fr": "Capuche d'agresseur en cuir de marid",
+      "ja": "マーリドストライカーフード"
+    },
+    "progressDivider": 86,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1028,
+    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 67,
@@ -20155,6 +21601,25 @@
     "suggestedCraftsmanship": 1866
   },
   {
+    "baseLevel": 39,
+    "difficulty": 137,
+    "durability": 80,
+    "level": 39,
+    "maxQuality": 670,
+    "name": {
+      "de": "Gehilfenschalter",
+      "en": "Retainer Counter",
+      "fr": "Comptoir de servant",
+      "ja": "リテイナーカウンター"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "suggestedControl": 68,
+    "suggestedCraftsmanship": 136
+  },
+  {
     "baseLevel": 3,
     "difficulty": 36,
     "durability": 60,
@@ -21398,6 +22863,25 @@
     "qualityModifier": 100,
     "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 78,
+    "difficulty": 820,
+    "durability": 40,
+    "level": 415,
+    "maxQuality": 3520,
+    "name": {
+      "de": "Glaucus-Leder",
+      "en": "Sea Swallow Leather",
+      "fr": "Cuir de glaucus",
+      "ja": "シースワローレザー"
+    },
+    "progressDivider": 108,
+    "progressModifier": 100,
+    "qualityDivider": 88,
+    "qualityModifier": 100,
+    "suggestedControl": 1541,
+    "suggestedCraftsmanship": 1662
   },
   {
     "baseLevel": 60,
@@ -23095,6 +24579,120 @@
   },
   {
     "baseLevel": 71,
+    "difficulty": 597,
+    "durability": 40,
+    "level": 390,
+    "maxQuality": 3010,
+    "name": {
+      "de": "Smilodonleder",
+      "en": "Smilodon Leather",
+      "fr": "Cuir de smilodon",
+      "ja": "スミロドンレザー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Armschützer der Magie",
+      "en": "Smilodonskin Armguards of Casting",
+      "fr": "Garde-bras d'incantateur en cuir de smilodon",
+      "ja": "スミロドン・キャスターアームガード"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Armschützer der Heilung",
+      "en": "Smilodonskin Armguards of Healing",
+      "fr": "Garde-bras de soigneur en cuir de smilodon",
+      "ja": "スミロドン・ヒーラーアームガード"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Stiefel der Magie",
+      "en": "Smilodonskin Boots of Casting",
+      "fr": "Bottes d'incantateur en cuir de smilodon",
+      "ja": "スミロドンキャスターブーツ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Stiefel der Heilung",
+      "en": "Smilodonskin Boots of Healing",
+      "fr": "Bottes de soigneur en cuir de smilodon",
+      "ja": "スミロドンヒーラーブーツ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Stiefel des Spähens",
+      "en": "Smilodonskin Boots of Scouting",
+      "fr": "Bottes d'éclaireur en cuir de smilodon",
+      "ja": "スミロドンスカウトブーツ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
     "difficulty": 1195,
     "durability": 80,
     "level": 390,
@@ -23176,6 +24774,101 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
+      "de": "Smilodonleder-Handschuhe des Verstümmelns",
+      "en": "Smilodonskin Gloves of Maiming",
+      "fr": "Gants d'abatteur en cuir de smilodon",
+      "ja": "スミロドンスレイヤーグローブ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Handschuhe des Spähens",
+      "en": "Smilodonskin Gloves of Scouting",
+      "fr": "Gants d'éclaireur en cuir de smilodon",
+      "ja": "スミロドンスカウトグローブ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Leggins des Verstümmelns",
+      "en": "Smilodonskin Leggings of Maiming",
+      "fr": "Jambières d'abatteur en cuir de smilodon",
+      "ja": "スミロドンスレイヤーレギンス"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Stiefel des Zielens",
+      "en": "Smilodonskin Open-toed Boots of Aiming",
+      "fr": "Cuissardes à bout ouvert de pisteur en cuir de smilodon",
+      "ja": "スミロドン・レンジャーオープンブーツ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Kniestiefel des Schlagens",
+      "en": "Smilodonskin Open-toed Boots of Striking",
+      "fr": "Cuissardes à bout ouvert d'agresseur en cuir de smilodon",
+      "ja": "スミロドン・ストライカーオープンブーツ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
       "de": "Smilodonleder-Ring",
       "en": "Smilodonskin Ring",
       "fr": "Bague croisée en cuir de smilodon",
@@ -23218,6 +24911,44 @@
       "en": "Smilodonskin Shoes of Gathering",
       "fr": "Chaussures des ressources en cuir de smilodon",
       "ja": "スミロドンギャザラーシューズ"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Hose der Verteidigung",
+      "en": "Smilodonskin Trousers of Fending",
+      "fr": "Pantalon de protecteur en cuir de smilodon",
+      "ja": "スミロドンディフェンダートラウザー"
+    },
+    "progressDivider": 101,
+    "progressModifier": 100,
+    "qualityDivider": 81,
+    "qualityModifier": 100,
+    "suggestedControl": 1220,
+    "suggestedCraftsmanship": 1320
+  },
+  {
+    "baseLevel": 71,
+    "difficulty": 1195,
+    "durability": 80,
+    "level": 390,
+    "maxQuality": 3763,
+    "name": {
+      "de": "Smilodonleder-Hose des Verstümmelns",
+      "en": "Smilodonskin Trousers of Maiming",
+      "fr": "Pantalon d'abatteur en cuir de smilodon",
+      "ja": "スミロドンスレイヤートラウザー"
     },
     "progressDivider": 101,
     "progressModifier": 100,
@@ -23645,6 +25376,26 @@
     "qualityModifier": 100,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 50,
+    "difficulty": 210,
+    "durability": 80,
+    "level": 55,
+    "maxQuality": 1100,
+    "name": {
+      "de": "Stoff-Goblin",
+      "en": "Stuffed Goblin",
+      "fr": "Gobelin en peluche",
+      "ja": "ゴブリンのぬいぐるみ"
+    },
+    "progressDivider": 50,
+    "progressModifier": 100,
+    "qualityDivider": 30,
+    "qualityModifier": 100,
+    "stars": 1,
+    "suggestedControl": 325,
+    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 59,
@@ -24356,6 +26107,348 @@
     "stars": 4,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 390,
+    "durability": 40,
+    "level": 273,
+    "maxQuality": 2448,
+    "name": {
+      "de": "Tigerleder",
+      "en": "Tiger Leather",
+      "fr": "Cuir de tigre",
+      "ja": "タイガーレザー"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Tigerleder-Armschützer der Magie",
+      "en": "Tigerskin Armguards of Casting",
+      "fr": "Garde-bras d'incantateur en cuir de tigre",
+      "ja": "タイガー・キャスターアームガード"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Tigerleder-Armschützer der Heilung",
+      "en": "Tigerskin Armguards of Healing",
+      "fr": "Garde-bras de soigneur en cuir de tigre",
+      "ja": "タイガー・ヒーラーアームガード"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Stiefel des Handwerks",
+      "en": "Tigerskin Boots of Crafting",
+      "fr": "Bottes des créations en cuir de tigre",
+      "ja": "タイガークラフターブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Stiefel des Eifers",
+      "en": "Tigerskin Boots of Gathering",
+      "fr": "Bottes des ressources en cuir de tigre",
+      "ja": "タイガーギャザラーブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kappe des Eifers",
+      "en": "Tigerskin Cap of Gathering",
+      "fr": "Bonnet des ressources en cuir de tigre",
+      "ja": "タイガーギャザラーキャップ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Fingerlinge des Eifers",
+      "en": "Tigerskin Fingerless Gloves of Gathering",
+      "fr": "Gants sans doigts des ressources en cuir de tigre",
+      "ja": "タイガー・ギャザラーフィンガレスグローブ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Tigerleder-Handschuhe des Zielens",
+      "en": "Tigerskin Gloves of Aiming",
+      "fr": "Couvre-poignets de pisteur en cuir de tigre",
+      "ja": "タイガー・レンジャーリストグローブ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Tigerleder-Handschuhe des Spähens",
+      "en": "Tigerskin Gloves of Scouting",
+      "fr": "Couvre-poignets d'éclaireur en cuir de tigre",
+      "ja": "タイガー・スカウトリストグローブ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kampfstiefel der Magie",
+      "en": "Tigerskin Jackboots of Casting",
+      "fr": "Bottes militaires d'incantateur en cuir de tigre",
+      "ja": "タイガー・キャスタージャックブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kampfstiefel der Heilung",
+      "en": "Tigerskin Jackboots of Healing",
+      "fr": "Bottes militaires de soigneur en cuir de tigre",
+      "ja": "タイガー・ヒーラージャックブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kniestiefel des Zielens",
+      "en": "Tigerskin Thighboots of Aiming",
+      "fr": "Cuissardes de pisteur en cuir de tigre",
+      "ja": "タイガー・レンジャーサイブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kniestiefel des Spähens",
+      "en": "Tigerskin Thighboots of Scouting",
+      "fr": "Cuissardes d'éclaireur en cuir de tigre",
+      "ja": "タイガー・スカウトサイブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Kniestiefel des Schlagens",
+      "en": "Tigerskin Thighboots of Striking",
+      "fr": "Cuissardes d'agresseur en cuir de tigre",
+      "ja": "タイガー・ストライカーサイブーツ"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Dreispitz des Zielens",
+      "en": "Tigerskin Tricorne of Aiming",
+      "fr": "Tricorne de pisteur en cuir de tigre",
+      "ja": "タイガー・レンジャートライコーン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Dreispitz des Spähens",
+      "en": "Tigerskin Tricorne of Scouting",
+      "fr": "Tricorne d'éclaireur en cuir de tigre",
+      "ja": "タイガー・スカウトトライコーン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 65,
+    "difficulty": 830,
+    "durability": 80,
+    "level": 276,
+    "maxQuality": 3150,
+    "name": {
+      "de": "Tigerleder-Dreispitz des Schlagens",
+      "en": "Tigerskin Tricorne of Striking",
+      "fr": "Tricorne d'agresseur en cuir de tigre",
+      "ja": "タイガー・ストライカートライコーン"
+    },
+    "progressDivider": 85,
+    "progressModifier": 100,
+    "qualityDivider": 66,
+    "qualityModifier": 100,
+    "suggestedControl": 1020,
+    "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 64,
+    "difficulty": 780,
+    "durability": 80,
+    "level": 273,
+    "maxQuality": 3060,
+    "name": {
+      "de": "Tigerleder-Handschuhe des Schlagens",
+      "en": "Tigerskin Wristgloves of Striking",
+      "fr": "Couvre-poignets d'agresseur en cuir de tigre",
+      "ja": "タイガー・ストライカーリストグローブ"
+    },
+    "progressDivider": 84,
+    "progressModifier": 100,
+    "qualityDivider": 65,
+    "qualityModifier": 100,
+    "suggestedControl": 1013,
+    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 90,
@@ -26256,6 +28349,25 @@
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
+  },
+  {
+    "baseLevel": 76,
+    "difficulty": 750,
+    "durability": 40,
+    "level": 409,
+    "maxQuality": 3360,
+    "name": {
+      "de": "Zonure-Leder",
+      "en": "Zonure Leather",
+      "fr": "Cuir de zonure",
+      "ja": "ゾヌールレザー"
+    },
+    "progressDivider": 106,
+    "progressModifier": 100,
+    "qualityDivider": 86,
+    "qualityModifier": 100,
+    "suggestedControl": 1464,
+    "suggestedCraftsmanship": 1580
   },
   {
     "baseLevel": 77,
