@@ -475,11 +475,11 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
-    if (isActionEq(action, AllActions.trainedPerfection)) {
-        if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
-            s.wastedActions += 1;
-        }
-    }
+    // if (isActionEq(action, AllActions.trainedPerfection)) {
+    //     if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
+    //         s.wastedActions += 1;
+    //     }
+    // }
 
     return {
         craftsmanship: craftsmanship,

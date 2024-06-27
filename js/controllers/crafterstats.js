@@ -165,6 +165,7 @@
           if (action.shortName === "carefulSynthesis" && $scope.crafter.stats[actionClass].level >= 82) continue;
           if (action.shortName === "rapidSynthesis" && $scope.crafter.stats[actionClass].level >= 63) continue;
           if (action.shortName === "basicSynth" && $scope.crafter.stats[actionClass].level >= 31) continue;
+          if (action.shortName === "delicateSynthesis" && $scope.crafter.stats[actionClass].level >= 94) continue;
 
           selectedActions.push(action.shortName);
         }
