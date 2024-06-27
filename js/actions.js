@@ -72,11 +72,11 @@ var AllActions = {
     trainedEye: new Action(         'trainedEye',           'Trained Eye',          10,    250,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          80),
 
     // Endwalker
-    carefulSynthesis2: new Action(   'carefulSynthesis2',     'Careful Synthesis',  10,      7,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          82),
-    groundwork2: new Action(         'groundwork2',           'Groundwork',         20,     18,  1.0, 0.0, 3.6, 'immediate',   1,  'All',          86),
+    carefulSynthesis2: new Action(   'carefulSynthesis2',    'Careful Synthesis',   10,      7,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          82),
+    groundwork2: new Action(         'groundwork2',          'Groundwork',          20,     18,  1.0, 0.0, 3.6, 'immediate',   1,  'All',          86),
     advancedTouch: new Action(       'advancedTouch',        'Advanced Touch',      10,     46,  1.0, 1.5, 0.0, 'immediate',   1,  'All',          68),
     prudentSynthesis: new Action(    'prudentSynthesis',     'Prudent Synthesis',    5,     18,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          88),
-    trainedFinesse: new Action(       'trainedFinesse',       'Trained Finesse',     0,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          90),
+    trainedFinesse: new Action(      'trainedFinesse',       'Trained Finesse',      0,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          90),
 
     // Dawntrail
     // refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
