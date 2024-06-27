@@ -26,6 +26,8 @@
     wasteNot: {                common: true, buff: true, skillID: {"Leatherworker": 279} },
     wasteNot2: {               common: true, buff: true, skillID: {"Leatherworker": 285} },
     manipulation: {            common: true, buff: true, skillID: {"Goldsmith": 278} },
+    // Inner Quiet isn't actually an ability now, but this is needed so the buff has an icon.
+    innerQuiet: {              common: true, buff: true, skillID: {"Alchemist": 258, "Armorer": 254, "Blacksmith": 253, "Carpenter": 252, "Culinarian": 259, "Goldsmith": 255, "Leatherworker": 257, "Weaver": 256} },
     greatStrides: {            common: true, buff: true, skillID: {"Alchemist": 266, "Armorer": 262, "Blacksmith": 261, "Carpenter": 260, "Culinarian": 267, "Goldsmith": 263, "Leatherworker": 265, "Weaver": 264} },
     innovation: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
     veneration: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
@@ -64,7 +66,7 @@
     observedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     standardTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     advancedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
-    refinedTouchCombo:  {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    refinedTouchCombo:  {       common: true,             skillID: {} },
     
     observe: {                 common: true,             skillID: {"Alchemist": 100099, "Armorer": 100040, "Blacksmith": 100023, "Carpenter": 100010, "Culinarian": 100113, "Goldsmith": 100082, "Leatherworker": 100053, "Weaver": 100070} }
   };
@@ -91,23 +93,18 @@
   for (var shortName in extraActionInfo) {
     if (extraActionInfo.hasOwnProperty(shortName)) {
       var extraInfo = extraActionInfo[shortName];
-      var action = AllActions[shortName];
+      var action = AllActions[shortName] ?? {};
 
       action.buff = extraInfo.buff;
       action.skillID = extraInfo.skillID;
       var imagePaths = {};
       for (var j = 0; j < allClasses.length; j++) {
         var cls = allClasses[j];
-        if (action.cls == 'All') {
-          if (extraInfo.common) {
-            imagePaths[cls] = 'img/actions/' + shortName + '.png';
-          }
-          else {
-            imagePaths[cls] = 'img/actions/' + cls + '/' + shortName + '.png';
-          }
+        if (extraInfo.common) {
+          imagePaths[cls] = 'img/actions/' + shortName + '.png';
         }
         else {
-          imagePaths[cls] = 'img/actions/' + action.cls + '/' + shortName + '.png';
+          imagePaths[cls] = 'img/actions/' + cls + '/' + shortName + '.png';
         }
         action.imagePaths = imagePaths;
       }

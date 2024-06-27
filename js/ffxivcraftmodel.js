@@ -118,18 +118,7 @@ function isActionNe(action1, action2) {
 // Ranged edit -- Combo actions. Poor coding practice but I'm not too experienced with JS and I wouldn't know how to do it otherwise...
 // This returns the action object matching the name
 function getComboAction(comboName) {
-    var returnAction;
-
-    if(comboName == AllActions.observe.shortName){                  // Observe
-        returnAction = AllActions.observe;
-    } else if(comboName == AllActions.basicTouch.shortName){        // Basic Touch
-        returnAction = AllActions.basicTouch;
-    } else if(comboName == AllActions.standardTouch.shortName){     // Standard Touch
-        returnAction = AllActions.standardTouch;
-    } else if(comboName == AllActions.advancedTouch.shortName){     // Advanced Touch
-        returnAction = AllActions.advancedTouch;
-    }
-    return returnAction;
+    return Object.keys(AllActions).find(key => AllActions[key].shortName == comboName);
 }
 
 function EffectTracker() {
@@ -589,6 +578,9 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     if ("innerQuiet" in s.effects.countUps) {
         // Increment inner quiet countups that have conditional requirements
         if (isActionEq(action, AllActions.preparatoryTouch)) {
+            s.effects.countUps["innerQuiet"] += 2;
+        }
+        else if (s.action === AllActions.basicTouch.shortName && isActionEq(action, AllActions.refinedTouch)) {
             s.effects.countUps["innerQuiet"] += 2;
         }
         // Increment inner quiet countups that have conditional requirements
