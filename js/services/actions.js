@@ -26,7 +26,6 @@
     wasteNot: {                common: true, buff: true, skillID: {"Leatherworker": 279} },
     wasteNot2: {               common: true, buff: true, skillID: {"Leatherworker": 285} },
     manipulation: {            common: true, buff: true, skillID: {"Goldsmith": 278} },
-    innerQuiet: {              common: true, buff: true, skillID: {"Alchemist": 258, "Armorer": 254, "Blacksmith": 253, "Carpenter": 252, "Culinarian": 259, "Goldsmith": 255, "Leatherworker": 257, "Weaver": 256} },
     greatStrides: {            common: true, buff: true, skillID: {"Alchemist": 266, "Armorer": 262, "Blacksmith": 261, "Carpenter": 260, "Culinarian": 267, "Goldsmith": 263, "Leatherworker": 265, "Weaver": 264} },
     innovation: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
     veneration: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
@@ -56,7 +55,8 @@
     trainedFinesse: {           common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     
     // Dawntrail
-    delicateSynthesis2: {                                 skillID: {}},
+    refinedTouch: {                                       skillID: {} },
+    delicateSynthesis2: {                                 skillID: {} },
     immaculateMend: {           common: true,             skillID: {} },
 
     
@@ -64,6 +64,7 @@
     observedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     standardTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     advancedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    refinedTouchCombo:  {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     
     observe: {                 common: true,             skillID: {"Alchemist": 100099, "Armorer": 100040, "Blacksmith": 100023, "Carpenter": 100010, "Culinarian": 100113, "Goldsmith": 100082, "Leatherworker": 100053, "Weaver": 100070} }
   };
@@ -148,7 +149,8 @@
       name: "Combo'd Actions", actions: [
         "observedTouchCombo",
         "standardTouchCombo",
-        "advancedTouchCombo"
+        "advancedTouchCombo",
+        "refinedTouchCombo"
       ]
     },
     {
@@ -161,7 +163,8 @@
         "preciseTouch",
         "prudentTouch",
         "preparatoryTouch",
-        "trainedFinesse"
+        "trainedFinesse",
+        "refinedTouch"
       ]
     },
     {
@@ -180,7 +183,6 @@
     },
     {
       name: "Buffs", actions: [
-        //"innerQuiet",
 	      "veneration",
         "greatStrides",
         "innovation",

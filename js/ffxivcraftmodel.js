@@ -412,15 +412,15 @@ function ApplyModifiers(s, action, condition) {
         qualityIncreaseMultiplier += 0.5;
     }
         
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        qualityIncreaseMultiplierIQ += (0.1 * (s.effects.countUps[AllActions.innerQuiet.shortName] + 1))
+    if ("innerQuiet" in s.effects.countUps) {
+        qualityIncreaseMultiplierIQ += (0.1 * (s.effects.countUps["innerQuiet"] + 1))
         // +1 because buffs start incrementing from 0
     }
 
     // We can only use Byregot actions when we have at least 1 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
-        if ((AllActions.innerQuiet.shortName in s.effects.countUps) && s.effects.countUps[AllActions.innerQuiet.shortName] >= 1) {
-            qualityIncreaseMultiplier *= 1 + Math.min((0.2 * (s.effects.countUps[AllActions.innerQuiet.shortName] + 1)), 3);
+        if (("innerQuiet" in s.effects.countUps) && s.effects.countUps["innerQuiet"] >= 1) {
+            qualityIncreaseMultiplier *= 1 + Math.min((0.2 * (s.effects.countUps["innerQuiet"] + 1)), 3);
         } else {
             qualityIncreaseMultiplier = 0;
         }
@@ -437,7 +437,7 @@ function ApplyModifiers(s, action, condition) {
     // Trained finesse
     if (isActionEq(action, AllActions.trainedFinesse)) {
         // Not at 10 stacks of IQ -> wasted action
-        if (!(AllActions.innerQuiet.shortName in s.effects.countUps) || s.effects.countUps[AllActions.innerQuiet.shortName] != 9) {
+        if (!("innerQuiet" in s.effects.countUps) || s.effects.countUps["innerQuiet"] != 9) {
             s.wastedActions += 1;
             bQualityGain = 0;
         }
@@ -535,8 +535,8 @@ function ApplySpecialActionEffects(s, action, condition) {
     }
 
     if (isActionEq(action, AllActions.byregotsBlessing)) {
-        if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-            delete s.effects.countUps[AllActions.innerQuiet.shortName];
+        if ("innerQuiet" in s.effects.countUps) {
+            delete s.effects.countUps["innerQuiet"];
         }
         else {
             s.wastedActions += 1;
@@ -545,7 +545,7 @@ function ApplySpecialActionEffects(s, action, condition) {
 
     if (isActionEq(action, AllActions.reflect)) {
         if (s.step == 1) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] = 1;
+            s.effects.countUps["innerQuiet"] = 1;
         } else {
             s.wastedActions += 1;
         }
@@ -586,22 +586,22 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
         }
     }
 
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
+    if ("innerQuiet" in s.effects.countUps) {
         // Increment inner quiet countups that have conditional requirements
         if (isActionEq(action, AllActions.preparatoryTouch)) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
+            s.effects.countUps["innerQuiet"] += 2;
         }
         // Increment inner quiet countups that have conditional requirements
         else if (isActionEq(action, AllActions.preciseTouch) && condition.checkGoodOrExcellent()) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 2 * successProbability * condition.pGoodOrExcellent();
+            s.effects.countUps["innerQuiet"] += 2 * successProbability * condition.pGoodOrExcellent();
         }
         // Increment all other inner quiet count ups
         else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect) && !isActionEq(action, AllActions.trainedFinesse)) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 1 * successProbability;
+            s.effects.countUps["innerQuiet"] += 1 * successProbability;
         }
 
         // Cap inner quiet stacks at 9 (10)
-        s.effects.countUps[AllActions.innerQuiet.shortName] = Math.min(s.effects.countUps[AllActions.innerQuiet.shortName], 9);
+        s.effects.countUps["innerQuiet"] = Math.min(s.effects.countUps["innerQuiet"], 9);
     }
 
     // Initialize new effects after countdowns are managed to reset them properly
@@ -781,8 +781,8 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
             }
 
             var iqCnt = 0;
-            if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-                iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
+            if ("innerQuiet" in s.effects.countUps) {
+                iqCnt = s.effects.countUps["innerQuiet"];
             }
             if (debug) {
                 logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
@@ -925,8 +925,8 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     var chk = s.checkViolations();
 
     var iqCnt = 0;
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
+    if ("innerQuiet" in s.effects.countUps) {
+        iqCnt = s.effects.countUps["innerQuiet"];
     }
 
     // Add internal state variables for later output of best and worst cases
@@ -1593,10 +1593,6 @@ function heuristicSequenceBuilder(synth) {
     if (tryAction('reflect')) {
         pushAction(subSeq1, 'reflect')
     } 
-    
-    if (tryAction('innerQuiet')) {
-        pushAction(subSeq1, 'innerQuiet');
-    }
 
     preferredAction = 'basicTouch';
 

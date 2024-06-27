@@ -47,7 +47,6 @@ var AllActions = {
     mastersMend: new Action(        'mastersMend',          'Master\'s Mend',        0,     88,  1.0, 0.0, 0.0, 'immediate',   1,  'All',           7),
     tricksOfTheTrade: new Action(   'tricksOfTheTrade',     'Tricks of the Trade',   0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          13,  true,       true),
 
-    innerQuiet: new Action(         'innerQuiet',           'Inner Quiet',           0,     18,  1.0, 0.0, 0.0, 'countup',     1,  'All',          11),
     manipulation: new Action(       'manipulation',         'Manipulation',          0,     96,  1.0, 0.0, 0.0, 'countdown',   8,  'All',          65),
     wasteNot: new Action(           'wasteNot',             'Waste Not',             0,     56,  1.0, 0.0, 0.0, 'countdown',   4,  'All',          15),
     wasteNot2: new Action(          'wasteNot2',            'Waste Not II',          0,     98,  1.0, 0.0, 0.0, 'countdown',   8,  'All',          47),
@@ -79,7 +78,7 @@ var AllActions = {
     trainedFinesse: new Action(      'trainedFinesse',       'Trained Finesse',      0,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          90),
 
     // Dawntrail
-    // refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
+    refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     24,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
     delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
     immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
     // trainedPerfection: new Action(   'trainedPerf',         'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          100),
@@ -91,7 +90,7 @@ var AllActions = {
     observedTouchCombo: new Action(     'observedTouchCombo',       'Observed Touch Combo',      10,     25, 1.0,  1.5,  0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['observe', 'advancedTouch']),
     standardTouchCombo: new Action(     'standardTouchCombo',       'Standard Touch Combo',      20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),
     advancedTouchCombo: new Action(     'advancedTouchCombo',       'Advanced Touch Combo',      30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     84,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
-    // refinedTouchCombo: new Action(      'refinedTouchCombo',        'Refined Touch Combo',       20,     42, 1.0,  2.0,  0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'refinedTouch']),
+    refinedTouchCombo: new Action(      'refinedTouchCombo',        'Refined Touch Combo',       20,     42, 1.0,  2.0,  0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'refinedTouch']),
 
     // Special Actions - not selectable
     dummyAction: new Action(        'dummyAction',          '______________',        0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',           1)
