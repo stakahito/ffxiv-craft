@@ -80,8 +80,8 @@ var AllActions = {
 
     // Dawntrail
     // refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
-    // delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
-    // immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
+    delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
+    immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
     // trainedPerfection: new Action(   'trainedPerf',         'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          100),
 
     // Ranged edit: special combo'd actions that are handled differently

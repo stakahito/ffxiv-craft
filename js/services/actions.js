@@ -54,6 +54,12 @@
     advancedTouch: {                                      skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     prudentSynthesis: {                                   skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     trainedFinesse: {           common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    
+    // Dawntrail
+    delicateSynthesis2: {                                 skillID: {}},
+    immaculateMend: {           common: true,             skillID: {} },
+
+    
     // Ranged edit - Combo Actions
     observedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     standardTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
@@ -134,7 +140,8 @@
     },
     {
       name: "Synthesis + Quality", actions: [
-        "delicateSynthesis"
+        "delicateSynthesis",
+        "delicateSynthesis2"
       ]
     },
     {
@@ -167,7 +174,8 @@
         "mastersMend",
         "wasteNot",
         "wasteNot2",
-        "manipulation"
+        "manipulation",
+        "immaculateMend"
       ]
     },
     {

@@ -138,7 +138,7 @@ function EffectTracker() {
     this.indefinites = {};
 }
 
-function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep) {
+function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep, oneTimeUse) {
     this.synth = synth;
     this.step = step;
     this.lastStep = lastStep;
@@ -158,6 +158,9 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     // Advancedtouch combo stuff
     this.touchComboStep = touchComboStep;
 
+    // To track abilities you can only use once
+    this.oneTimeUse = oneTimeUse;
+
     // Internal state variables set after each step.
     this.iqCnt = 0;
     this.control = 0;
@@ -169,7 +172,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
 }
 
 State.prototype.clone = function () {
-    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
+    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep, this.oneTimeUse);
 };
 
 State.prototype.checkViolations = function () {
@@ -248,7 +251,10 @@ function NewStateFromSynth(synth) {
     var condition = 'Normal';
     var touchComboStep = 0;
 
-    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep);
+    // Empty array to add single-use abilities to as we use them
+    var oneTimeUse = [];
+
+    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep, oneTimeUse);
 }
 
 function probGoodForSynth(synth) {
@@ -469,6 +475,12 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
+    if (isActionEq(action, AllActions.trainedPerfection)) {
+        if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
+            s.wastedActions += 1;
+        }
+    }
+
     return {
         craftsmanship: craftsmanship,
         control: control,
@@ -502,6 +514,14 @@ function ApplySpecialActionEffects(s, action, condition) {
     // Special Effect Actions
     if (isActionEq(action, AllActions.mastersMend)) {
         s.durabilityState += 30;
+        if (s.synth.solverVars.solveForCompletion) {
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
+        }
+    }
+
+    if (isActionEq(action, AllActions.immaculateMend)) {
+        // Set durability to max durability for the recipe
+        s.durabilityState = s.synth.recipe.durability;
         if (s.synth.solverVars.solveForCompletion) {
             s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
         }
