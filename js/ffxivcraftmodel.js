@@ -127,7 +127,7 @@ function EffectTracker() {
     this.indefinites = {};
 }
 
-function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep, oneTimeUse) {
+function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse) {
     this.synth = synth;
     this.step = step;
     this.lastStep = lastStep;
@@ -139,7 +139,6 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.progressState = progressState;
     this.wastedActions = wastedActions;
     this.trickUses = trickUses;
-    this.nameOfElementUses = nameOfElementUses;
     this.reliability = reliability;
     this.effects = effects;
     this.condition =  condition;
@@ -161,7 +160,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
 }
 
 State.prototype.clone = function () {
-    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep, this.oneTimeUse);
+    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep, this.oneTimeUse);
 };
 
 State.prototype.checkViolations = function () {
@@ -230,7 +229,6 @@ function NewStateFromSynth(synth) {
     var progressState = 0;
     var wastedActions = 0;
     var trickUses = 0;
-    var nameOfElementUses = 0;
     var reliability = 1;
     var effects = new EffectTracker();
     effects.countUps["innerQuiet"] = -1; // Endwalker: Inner Quiet at the start
@@ -243,7 +241,7 @@ function NewStateFromSynth(synth) {
     // Empty array to add single-use abilities to as we use them
     var oneTimeUse = [];
 
-    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep, oneTimeUse);
+    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse);
 }
 
 function probGoodForSynth(synth) {
@@ -283,14 +281,6 @@ function probExcellentForSynth(synth) {
     else {
         return 0.02;
     }
-}
-
-function calcNameOfElementsBonus(s) {
-    // Progress is determined by calculating the percentage and rounding down to the nearest percent.
-    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
-    // Bonus ranges from 0 to 200% based on the inverse of the progress.
-    var bonus = 2 * (100 - percentComplete) / 100;
-    return Math.min(2, Math.max(0, bonus));
 }
 
 function getEffectiveCrafterLevel(synth) {
@@ -383,6 +373,14 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
+    if (AllActions.trainedPerfection.shortName in s.effects.countDowns) {
+        // If we burned our "free durability" buff on something already free...
+        if (durabilityCost === 0) {
+            s.wastedActions += 1;
+        }
+        durabilityCost = 0;
+    }
+
 	if (s.durabilityState < durabilityCost) {
         if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
             progressIncreaseMultiplier *= 0.5;
@@ -464,11 +462,14 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
-    // if (isActionEq(action, AllActions.trainedPerfection)) {
-    //     if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
-    //         s.wastedActions += 1;
-    //     }
-    // }
+    if (isActionEq(action, AllActions.trainedPerfection)) {
+        if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
+            s.wastedActions += 1;
+            delete s.effects.countDowns[AllActions.trainedPerfection.shortName];
+        } else {
+            s.oneTimeUse.push(AllActions.trainedPerfection.shortName);
+        }
+    }
 
     return {
         craftsmanship: craftsmanship,
@@ -616,16 +617,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     }
 
     if (action.type === 'countdown') {
-        if (action.shortName.indexOf('nameOf') >= 0) {
-            if (s.nameOfElementUses == 0) {
-                s.effects.countDowns[action.shortName] = action.activeTurns;
-                s.nameOfElementUses += 1;
-            }
-            else {
-                s.wastedActions += 1;
-            }
-        }
-        else if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
+        if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
             s.wastedActions += 1;
         }
         else {

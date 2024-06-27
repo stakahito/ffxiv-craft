@@ -60,6 +60,7 @@
     refinedTouch: {                                       skillID: {} },
     delicateSynthesis2: {                                 skillID: {} },
     immaculateMend: {           common: true,             skillID: {} },
+    trainedPerfection: {        common: true,             skillID: {} },
 
     
     // Ranged edit - Combo Actions
@@ -69,22 +70,6 @@
     refinedTouchCombo:  {       common: true,             skillID: {} },
     
     observe: {                 common: true,             skillID: {"Alchemist": 100099, "Armorer": 100040, "Blacksmith": 100023, "Carpenter": 100010, "Culinarian": 100113, "Goldsmith": 100082, "Leatherworker": 100053, "Weaver": 100070} }
-  };
-
-  var obsoleteActions = {
-    byregotsBrow: true,
-    brandOfEarth: true,
-    brandOfFire: true,
-    brandOfIce: true,
-    brandOfLightning: true,
-    brandOfWater: true,
-    brandOfWind: true,
-    nameOfEarth: true,
-    nameOfFire: true,
-    nameOfIce: true,
-    nameOfLightning: true,
-    nameOfWater: true,
-    nameOfWind: true,
   };
 
   var actionsByName = {};
@@ -175,7 +160,8 @@
         "wasteNot",
         "wasteNot2",
         "manipulation",
-        "immaculateMend"
+        "immaculateMend",
+        "trainedPerfection"
       ]
     },
     {
@@ -199,8 +185,7 @@
     }
     var info = actionsByName[action];
     if (!angular.isDefined(info)) {
-      if (!obsoleteActions[action])
-        console.error('unknown action: %s', action);
+      console.error('unknown action: %s', action);
       return 'img/actions/unknown.svg';
     }
     return info.imagePaths[cls];
@@ -213,8 +198,7 @@
     }
     var info = actionsByName[name];
     if (!angular.isDefined(info)) {
-      if (!obsoleteActions[name])
-        console.error('unknown action: %s', name);
+      console.error('unknown action: %s', name);
       return false;
     }
     return info.cls !== 'All';
