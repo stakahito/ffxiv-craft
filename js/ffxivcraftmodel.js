@@ -1546,6 +1546,10 @@ function heuristicSequenceBuilder(synth) {
             progress += progressGain;
             steps += 1;
         }
+        else if (tryAction('immaculateMend')) {
+            unshiftAction(subSeq2, 'immaculateMend');
+            dur = synth.recipe.durability;
+        }
         else if (tryAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
@@ -1563,7 +1567,11 @@ function heuristicSequenceBuilder(synth) {
     sequence = subSeq1.concat(sequence);
 
     if (dur <= 20) {
-        if (tryAction('manipulation')) {
+        if (tryAction('immaculateMend')) {
+            unshiftAction(subSeq2, 'immaculateMend');
+            dur = synth.recipe.durability;
+        }
+        else if (tryAction('manipulation')) {
             unshiftAction(sequence, 'manipulation');
             dur += 30;
         }
@@ -1617,7 +1625,11 @@ function heuristicSequenceBuilder(synth) {
             pushAction(subSeq2, preferredAction);
         }
         else if (dur < 20) {
-            if (tryAction('manipulation')) {
+            if (tryAction('immaculateMend')) {
+                unshiftAction(subSeq2, 'immaculateMend');
+                dur = synth.recipe.durability;
+            }
+            else if (tryAction('manipulation')) {
                 unshiftAction(subSeq2, 'manipulation');
                 dur += 30;
             }
