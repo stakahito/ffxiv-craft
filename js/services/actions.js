@@ -39,8 +39,6 @@
    // Stormblood
     rapidSynthesis2: {         common: true,             skillID: {"Alchemist": 100217, "Armorer": 100213, "Blacksmith": 100212, "Carpenter": 100211, "Culinarian": 100218, "Goldsmith": 100214, "Leatherworker": 100215, "Weaver": 100216} },
     prudentTouch: {                                      skillID: {"Alchemist": 100233, "Armorer": 100229, "Blacksmith": 100228, "Carpenter": 100227, "Culinarian": 100234, "Goldsmith": 100230, "Leatherworker": 100231, "Weaver": 100232} },
-    focusedSynthesis: {                                  skillID: {"Alchemist": 100241, "Armorer": 100237, "Blacksmith": 100236, "Carpenter": 100235, "Culinarian": 100242, "Goldsmith": 100238, "Leatherworker": 100239, "Weaver": 100240} },
-    focusedTouch: {                                      skillID: {"Alchemist": 100249, "Armorer": 100245, "Blacksmith": 100244, "Carpenter": 100243, "Culinarian": 100250, "Goldsmith": 100246, "Leatherworker": 100247, "Weaver": 100248} },
     reflect: {                 common: true,             skillID: {"Alchemist": 100281, "Armorer": 100277, "Blacksmith": 100276, "Carpenter": 100275, "Culinarian": 100282, "Goldsmith": 100278, "Leatherworker": 100279, "Weaver": 100280} },
 
     // Shadowbringers
@@ -57,8 +55,7 @@
     prudentSynthesis: {                                   skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     trainedFinesse: {           common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     // Ranged edit - Combo Actions
-    focusedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
-    focusedSynthesisCombo: {       common: true,         skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    // observedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     standardTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     advancedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     
@@ -129,7 +126,6 @@
         "carefulSynthesis",
         "carefulSynthesis2",
         "rapidSynthesis2",
-        "focusedSynthesis",
         "groundwork",
         "groundwork2",
         "intensiveSynthesis",
@@ -143,8 +139,7 @@
     },
     {
       name: "Combo'd Actions", actions: [
-        "focusedSynthesisCombo",
-        "focusedTouchCombo",
+        "observedTouchCombo",
         "standardTouchCombo",
         "advancedTouchCombo"
       ]
@@ -158,7 +153,6 @@
         "byregotsBlessing",
         "preciseTouch",
         "prudentTouch",
-        "focusedTouch",
         "preparatoryTouch",
         "trainedFinesse"
       ]

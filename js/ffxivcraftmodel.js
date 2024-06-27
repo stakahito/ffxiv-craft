@@ -122,10 +122,6 @@ function getComboAction(comboName) {
 
     if(comboName == AllActions.observe.shortName){                  // Observe
         returnAction = AllActions.observe;
-    } else if(comboName == AllActions.focusedTouch.shortName){      // Focused Touch
-        returnAction = AllActions.focusedTouch;
-    } else if(comboName == AllActions.focusedSynthesis.shortName){  // Focused Synthesis
-        returnAction = AllActions.focusedSynthesis;
     } else if(comboName == AllActions.basicTouch.shortName){        // Basic Touch
         returnAction = AllActions.basicTouch;
     } else if(comboName == AllActions.standardTouch.shortName){     // Standard Touch
@@ -329,17 +325,14 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modfiying probability
     var successProbability = action.successProbability;
-    if (isActionEq(action, AllActions.focusedSynthesis) || isActionEq(action, AllActions.focusedTouch)) {
-        if (s.action === AllActions.observe.shortName) {
-            successProbability = 1.0;
-        }
-    }
     successProbability = Math.min(successProbability, 1);
 
     // Advancted Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
-        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
+        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1)  {
             s.touchComboStep = 0;
+            cpCost = 18;
+        } else if (s.action === AllActions.observe.shortName) {
             cpCost = 18;
         }
     }

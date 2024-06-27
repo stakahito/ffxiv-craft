@@ -62,9 +62,7 @@ var AllActions = {
     // Stormblood actions
     rapidSynthesis2: new Action(    'rapidSynthesis2',      'Rapid Synthesis',      10,      0,  0.5, 0.0, 5.0, 'immediate',   1,  'All',          63),
     prudentTouch: new Action(       'prudentTouch',         'Prudent Touch',         5,     25,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          66),
-    focusedSynthesis: new Action(   'focusedSynthesis',     'Focused Synthesis',    10,      5,  0.5, 0.0, 2.0, 'immediate',   1,  'All',          67),
-    focusedTouch: new Action(       'focusedTouch',         'Focused Touch',        10,     18,  0.5, 1.5, 0.0, 'immediate',   1,  'All',          68),
-    reflect: new Action(            'reflect',              'Reflect',              10,     6,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          69),
+    reflect: new Action(            'reflect',              'Reflect',              10,      6,  1.0, 3.0, 0.0, 'immediate',   1,  'All',          69),
 
     // ShadowBringers actions
     preparatoryTouch: new Action(   'preparatoryTouch',     'Preparatory Touch',    20,     40,  1.0, 2.0, 0.0, 'immediate',   1,  'All',          71),
@@ -76,18 +74,24 @@ var AllActions = {
     // Endwalker
     carefulSynthesis2: new Action(   'carefulSynthesis2',     'Careful Synthesis',  10,      7,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          82),
     groundwork2: new Action(         'groundwork2',           'Groundwork',         20,     18,  1.0, 0.0, 3.6, 'immediate',   1,  'All',          86),
-    advancedTouch: new Action(       'advancedTouch',        'Advanced Touch',      10,     46,  1.0, 1.5, 0.0, 'immediate',   1,  'All',          84),
-    prudentSynthesis: new Action(    'prudentSynthesis',     'Prudent Synthesis',   5,      18,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          88),
-    trainedFinesse: new Action(       'trainedFinesse',       'Trained Finesse',    0,      32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          90),
+    advancedTouch: new Action(       'advancedTouch',        'Advanced Touch',      10,     46,  1.0, 1.5, 0.0, 'immediate',   1,  'All',          68),
+    prudentSynthesis: new Action(    'prudentSynthesis',     'Prudent Synthesis',    5,     18,  1.0, 0.0, 1.8, 'immediate',   1,  'All',          88),
+    trainedFinesse: new Action(       'trainedFinesse',       'Trained Finesse',     0,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          90),
+
+    // Dawntrail
+    // refinedTouch: new Action(        'refinedTouch',        'Refined Touch',        10,     32,  1.0, 1.0, 0.0, 'immediate',   1,  'All',          92),
+    // delicateSynthesis2: new Action(  'delicateSynthesis2',  'Delicate Synthesis',   10,     32,  1.0, 1.0, 1.5, 'immediate',   1,  'All',          94),
+    // immaculateMend: new Action(      'immaculateMend',      'Immaculate Mend',       0,    112,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          98),
+    // trainedPerfection: new Action(   'trainedPerf',         'Trained Perfection',    0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',          100),
 
     // Ranged edit: special combo'd actions that are handled differently
     // Combo Actions. Making new combo actions need an image, extraActionInfo, and some code in getComboAction() in ffxivcraftmodel.js
     // The existence of this breaks the montecarlo simulation but idgaf about that
-    //                              shortName,              fullName,              dur,     cp, Prob, QIM, PIM, Type,          t,  cls,           lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
-    focusedTouchCombo: new Action(  'focusedTouchCombo',    'Focused Touch Combo',  10,     25, 1.0,  1.5, 0.0, 'immediate',   1,  'All',         68,   false,      false,       false,     true,       ['observe', 'focusedTouch']),
-    focusedSynthesisCombo: new Action(  'focusedSynthesisCombo',    'Focused Synthesis Combo',  10, 12, 1.0,  0.0, 2.0, 'immediate',   1,  'All',         67,   false,      false,       false,     true,       ['observe', 'focusedSynthesis']),
-    standardTouchCombo: new Action(  'standardTouchCombo',    'Standard Touch Combo',  20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),
-    advancedTouchCombo: new Action(  'advancedTouchCombo',    'Advanced Touch Combo',  30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     84,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
+    //                                  shortName,                  fullName,                   dur,    cp, Prob, QIM,  PIM, Type,          t,  cls,       lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
+    observedTouchCombo: new Action(     'observedTouchCombo',       'Observed Touch Combo',      10,     25, 1.0,  1.5,  0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['observe', 'advancedTouch']),
+    standardTouchCombo: new Action(     'standardTouchCombo',       'Standard Touch Combo',      20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),
+    advancedTouchCombo: new Action(     'advancedTouchCombo',       'Advanced Touch Combo',      30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     84,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
+    // refinedTouchCombo: new Action(      'refinedTouchCombo',        'Refined Touch Combo',       20,     42, 1.0,  2.0,  0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'refinedTouch']),
 
     // Special Actions - not selectable
     dummyAction: new Action(        'dummyAction',          '______________',        0,      0,  1.0, 0.0, 0.0, 'immediate',   1,  'All',           1)
