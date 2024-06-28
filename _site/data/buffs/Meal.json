@@ -454,6 +454,32 @@
     }
   },
   {
+    "cp_percent": 8,
+    "cp_value": 30,
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 192,
+    "hq": false,
+    "name": {
+      "de": "Gâteau au Chocolat",
+      "en": "Gateau Au Chocolat",
+      "fr": "Gâteau au chocolat",
+      "ja": "ガトーショコラ"
+    }
+  },
+  {
+    "cp_percent": 10,
+    "cp_value": 38,
+    "craftsmanship_percent": 9,
+    "craftsmanship_value": 240,
+    "hq": true,
+    "name": {
+      "de": "Gâteau au Chocolat",
+      "en": "Gateau Au Chocolat",
+      "fr": "Gâteau au chocolat",
+      "ja": "ガトーショコラ"
+    }
+  },
+  {
     "control_percent": 7,
     "control_value": 132,
     "craftsmanship_percent": 4,
@@ -843,6 +869,58 @@
       "en": "Rolanberry Lassi",
       "fr": "Lassi à la rolanbaie",
       "ja": "ロランベリーラッシー"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 77,
+    "cp_percent": 21,
+    "cp_value": 73,
+    "hq": false,
+    "name": {
+      "de": "Rroneek-Steak",
+      "en": "Rroneek Steak",
+      "fr": "Steak de rroneek",
+      "ja": "ロネークステーキ"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 97,
+    "cp_percent": 26,
+    "cp_value": 92,
+    "hq": true,
+    "name": {
+      "de": "Rroneek-Steak",
+      "en": "Rroneek Steak",
+      "fr": "Steak de rroneek",
+      "ja": "ロネークステーキ"
+    }
+  },
+  {
+    "control_percent": 7,
+    "control_value": 172,
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 78,
+    "hq": false,
+    "name": {
+      "de": "Getrockneter Lachs",
+      "en": "Salmon Jerky",
+      "fr": "Tranches de saumon séché",
+      "ja": "サーモンジャーキー"
+    }
+  },
+  {
+    "control_percent": 9,
+    "control_value": 215,
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 98,
+    "hq": true,
+    "name": {
+      "de": "Getrockneter Lachs",
+      "en": "Salmon Jerky",
+      "fr": "Tranches de saumon séché",
+      "ja": "サーモンジャーキー"
     }
   },
   {
