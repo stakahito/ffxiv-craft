@@ -26,6 +26,7 @@
     wasteNot: {                common: true, buff: true, skillID: {"Leatherworker": 279} },
     wasteNot2: {               common: true, buff: true, skillID: {"Leatherworker": 285} },
     manipulation: {            common: true, buff: true, skillID: {"Goldsmith": 278} },
+    // Inner Quiet isn't actually an ability now, but this is needed so the buff has an icon.
     innerQuiet: {              common: true, buff: true, skillID: {"Alchemist": 258, "Armorer": 254, "Blacksmith": 253, "Carpenter": 252, "Culinarian": 259, "Goldsmith": 255, "Leatherworker": 257, "Weaver": 256} },
     greatStrides: {            common: true, buff: true, skillID: {"Alchemist": 266, "Armorer": 262, "Blacksmith": 261, "Carpenter": 260, "Culinarian": 267, "Goldsmith": 263, "Leatherworker": 265, "Weaver": 264} },
     innovation: {              common: true, buff: true, skillID: {"Goldsmith": 284} },
@@ -39,8 +40,6 @@
    // Stormblood
     rapidSynthesis2: {         common: true,             skillID: {"Alchemist": 100217, "Armorer": 100213, "Blacksmith": 100212, "Carpenter": 100211, "Culinarian": 100218, "Goldsmith": 100214, "Leatherworker": 100215, "Weaver": 100216} },
     prudentTouch: {                                      skillID: {"Alchemist": 100233, "Armorer": 100229, "Blacksmith": 100228, "Carpenter": 100227, "Culinarian": 100234, "Goldsmith": 100230, "Leatherworker": 100231, "Weaver": 100232} },
-    focusedSynthesis: {                                  skillID: {"Alchemist": 100241, "Armorer": 100237, "Blacksmith": 100236, "Carpenter": 100235, "Culinarian": 100242, "Goldsmith": 100238, "Leatherworker": 100239, "Weaver": 100240} },
-    focusedTouch: {                                      skillID: {"Alchemist": 100249, "Armorer": 100245, "Blacksmith": 100244, "Carpenter": 100243, "Culinarian": 100250, "Goldsmith": 100246, "Leatherworker": 100247, "Weaver": 100248} },
     reflect: {                 common: true,             skillID: {"Alchemist": 100281, "Armorer": 100277, "Blacksmith": 100276, "Carpenter": 100275, "Culinarian": 100282, "Goldsmith": 100278, "Leatherworker": 100279, "Weaver": 100280} },
 
     // Shadowbringers
@@ -56,29 +55,21 @@
     advancedTouch: {                                      skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     prudentSynthesis: {                                   skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     trainedFinesse: {           common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    
+    // Dawntrail
+    refinedTouch: {                                       skillID: {} },
+    delicateSynthesis2: {                                 skillID: {} },
+    immaculateMend: {           common: true,             skillID: {} },
+    trainedPerfection: {        common: true,             skillID: {} },
+
+    
     // Ranged edit - Combo Actions
-    focusedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
-    focusedSynthesisCombo: {       common: true,         skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    observedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     standardTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
     advancedTouchCombo: {       common: true,             skillID: {"Alchemist": 0, "Armorer": 0, "Blacksmith": 0, "Carpenter": 0, "Culinarian": 0, "Goldsmith": 0, "Leatherworker": 0, "Weaver": 0} },
+    refinedTouchCombo:  {       common: true,             skillID: {} },
     
     observe: {                 common: true,             skillID: {"Alchemist": 100099, "Armorer": 100040, "Blacksmith": 100023, "Carpenter": 100010, "Culinarian": 100113, "Goldsmith": 100082, "Leatherworker": 100053, "Weaver": 100070} }
-  };
-
-  var obsoleteActions = {
-    byregotsBrow: true,
-    brandOfEarth: true,
-    brandOfFire: true,
-    brandOfIce: true,
-    brandOfLightning: true,
-    brandOfWater: true,
-    brandOfWind: true,
-    nameOfEarth: true,
-    nameOfFire: true,
-    nameOfIce: true,
-    nameOfLightning: true,
-    nameOfWater: true,
-    nameOfWind: true,
   };
 
   var actionsByName = {};
@@ -87,23 +78,18 @@
   for (var shortName in extraActionInfo) {
     if (extraActionInfo.hasOwnProperty(shortName)) {
       var extraInfo = extraActionInfo[shortName];
-      var action = AllActions[shortName];
+      var action = AllActions[shortName] ?? {};
 
       action.buff = extraInfo.buff;
       action.skillID = extraInfo.skillID;
       var imagePaths = {};
       for (var j = 0; j < allClasses.length; j++) {
         var cls = allClasses[j];
-        if (action.cls == 'All') {
-          if (extraInfo.common) {
-            imagePaths[cls] = 'img/actions/' + shortName + '.png';
-          }
-          else {
-            imagePaths[cls] = 'img/actions/' + cls + '/' + shortName + '.png';
-          }
+        if (extraInfo.common) {
+          imagePaths[cls] = 'img/actions/' + shortName + '.png';
         }
         else {
-          imagePaths[cls] = 'img/actions/' + action.cls + '/' + shortName + '.png';
+          imagePaths[cls] = 'img/actions/' + cls + '/' + shortName + '.png';
         }
         action.imagePaths = imagePaths;
       }
@@ -129,7 +115,6 @@
         "carefulSynthesis",
         "carefulSynthesis2",
         "rapidSynthesis2",
-        "focusedSynthesis",
         "groundwork",
         "groundwork2",
         "intensiveSynthesis",
@@ -138,15 +123,16 @@
     },
     {
       name: "Synthesis + Quality", actions: [
-        "delicateSynthesis"
+        "delicateSynthesis",
+        "delicateSynthesis2"
       ]
     },
     {
       name: "Combo'd Actions", actions: [
-        "focusedSynthesisCombo",
-        "focusedTouchCombo",
+        "observedTouchCombo",
         "standardTouchCombo",
-        "advancedTouchCombo"
+        "advancedTouchCombo",
+        "refinedTouchCombo"
       ]
     },
     {
@@ -158,9 +144,9 @@
         "byregotsBlessing",
         "preciseTouch",
         "prudentTouch",
-        "focusedTouch",
         "preparatoryTouch",
-        "trainedFinesse"
+        "trainedFinesse",
+        "refinedTouch"
       ]
     },
     {
@@ -173,12 +159,13 @@
         "mastersMend",
         "wasteNot",
         "wasteNot2",
-        "manipulation"
+        "manipulation",
+        "immaculateMend",
+        "trainedPerfection"
       ]
     },
     {
       name: "Buffs", actions: [
-        //"innerQuiet",
 	      "veneration",
         "greatStrides",
         "innovation",
@@ -198,8 +185,7 @@
     }
     var info = actionsByName[action];
     if (!angular.isDefined(info)) {
-      if (!obsoleteActions[action])
-        console.error('unknown action: %s', action);
+      console.error('unknown action: %s', action);
       return 'img/actions/unknown.svg';
     }
     return info.imagePaths[cls];
@@ -212,8 +198,7 @@
     }
     var info = actionsByName[name];
     if (!angular.isDefined(info)) {
-      if (!obsoleteActions[name])
-        console.error('unknown action: %s', name);
+      console.error('unknown action: %s', name);
       return false;
     }
     return info.cls !== 'All';
