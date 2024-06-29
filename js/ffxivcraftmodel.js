@@ -118,22 +118,7 @@ function isActionNe(action1, action2) {
 // Ranged edit -- Combo actions. Poor coding practice but I'm not too experienced with JS and I wouldn't know how to do it otherwise...
 // This returns the action object matching the name
 function getComboAction(comboName) {
-    var returnAction;
-
-    if(comboName == AllActions.observe.shortName){                  // Observe
-        returnAction = AllActions.observe;
-    } else if(comboName == AllActions.focusedTouch.shortName){      // Focused Touch
-        returnAction = AllActions.focusedTouch;
-    } else if(comboName == AllActions.focusedSynthesis.shortName){  // Focused Synthesis
-        returnAction = AllActions.focusedSynthesis;
-    } else if(comboName == AllActions.basicTouch.shortName){        // Basic Touch
-        returnAction = AllActions.basicTouch;
-    } else if(comboName == AllActions.standardTouch.shortName){     // Standard Touch
-        returnAction = AllActions.standardTouch;
-    } else if(comboName == AllActions.advancedTouch.shortName){     // Advanced Touch
-        returnAction = AllActions.advancedTouch;
-    }
-    return returnAction;
+    return Object.keys(AllActions).find(key => AllActions[key].shortName == comboName);
 }
 
 function EffectTracker() {
@@ -142,7 +127,7 @@ function EffectTracker() {
     this.indefinites = {};
 }
 
-function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep) {
+function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse) {
     this.synth = synth;
     this.step = step;
     this.lastStep = lastStep;
@@ -154,13 +139,15 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.progressState = progressState;
     this.wastedActions = wastedActions;
     this.trickUses = trickUses;
-    this.nameOfElementUses = nameOfElementUses;
     this.reliability = reliability;
     this.effects = effects;
     this.condition =  condition;
 
     // Advancedtouch combo stuff
     this.touchComboStep = touchComboStep;
+
+    // To track abilities you can only use once
+    this.oneTimeUse = oneTimeUse;
 
     // Internal state variables set after each step.
     this.iqCnt = 0;
@@ -173,7 +160,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
 }
 
 State.prototype.clone = function () {
-    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
+    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep, this.oneTimeUse);
 };
 
 State.prototype.checkViolations = function () {
@@ -242,7 +229,6 @@ function NewStateFromSynth(synth) {
     var progressState = 0;
     var wastedActions = 0;
     var trickUses = 0;
-    var nameOfElementUses = 0;
     var reliability = 1;
     var effects = new EffectTracker();
     effects.countUps["innerQuiet"] = -1; // Endwalker: Inner Quiet at the start
@@ -252,7 +238,10 @@ function NewStateFromSynth(synth) {
     var condition = 'Normal';
     var touchComboStep = 0;
 
-    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep);
+    // Empty array to add single-use abilities to as we use them
+    var oneTimeUse = [];
+
+    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, reliability, effects, condition, touchComboStep, oneTimeUse);
 }
 
 function probGoodForSynth(synth) {
@@ -294,14 +283,6 @@ function probExcellentForSynth(synth) {
     }
 }
 
-function calcNameOfElementsBonus(s) {
-    // Progress is determined by calculating the percentage and rounding down to the nearest percent.
-    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
-    // Bonus ranges from 0 to 200% based on the inverse of the progress.
-    var bonus = 2 * (100 - percentComplete) / 100;
-    return Math.min(2, Math.max(0, bonus));
-}
-
 function getEffectiveCrafterLevel(synth) {
     var effCrafterLevel = synth.crafter.level;
     if (LevelTable[synth.crafter.level]) {
@@ -329,17 +310,14 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modfiying probability
     var successProbability = action.successProbability;
-    if (isActionEq(action, AllActions.focusedSynthesis) || isActionEq(action, AllActions.focusedTouch)) {
-        if (s.action === AllActions.observe.shortName) {
-            successProbability = 1.0;
-        }
-    }
     successProbability = Math.min(successProbability, 1);
 
     // Advancted Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
-        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
+        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1)  {
             s.touchComboStep = 0;
+            cpCost = 18;
+        } else if (s.action === AllActions.observe.shortName) {
             cpCost = 18;
         }
     }
@@ -395,6 +373,14 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
+    if (AllActions.trainedPerfection.shortName in s.effects.countDowns) {
+        // If we burned our "free durability" buff on something already free...
+        if (durabilityCost === 0) {
+            s.wastedActions += 1;
+        }
+        durabilityCost = 0;
+    }
+
 	if (s.durabilityState < durabilityCost) {
         if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
             progressIncreaseMultiplier *= 0.5;
@@ -413,15 +399,15 @@ function ApplyModifiers(s, action, condition) {
         qualityIncreaseMultiplier += 0.5;
     }
         
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        qualityIncreaseMultiplierIQ += (0.1 * (s.effects.countUps[AllActions.innerQuiet.shortName] + 1))
+    if ("innerQuiet" in s.effects.countUps) {
+        qualityIncreaseMultiplierIQ += (0.1 * (s.effects.countUps["innerQuiet"] + 1))
         // +1 because buffs start incrementing from 0
     }
 
     // We can only use Byregot actions when we have at least 1 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
-        if ((AllActions.innerQuiet.shortName in s.effects.countUps) && s.effects.countUps[AllActions.innerQuiet.shortName] >= 1) {
-            qualityIncreaseMultiplier *= 1 + Math.min((0.2 * (s.effects.countUps[AllActions.innerQuiet.shortName] + 1)), 3);
+        if (("innerQuiet" in s.effects.countUps) && s.effects.countUps["innerQuiet"] >= 1) {
+            qualityIncreaseMultiplier *= 1 + Math.min((0.2 * (s.effects.countUps["innerQuiet"] + 1)), 3);
         } else {
             qualityIncreaseMultiplier = 0;
         }
@@ -438,7 +424,7 @@ function ApplyModifiers(s, action, condition) {
     // Trained finesse
     if (isActionEq(action, AllActions.trainedFinesse)) {
         // Not at 10 stacks of IQ -> wasted action
-        if (!(AllActions.innerQuiet.shortName in s.effects.countUps) || s.effects.countUps[AllActions.innerQuiet.shortName] != 9) {
+        if (!("innerQuiet" in s.effects.countUps) || s.effects.countUps["innerQuiet"] != 9) {
             s.wastedActions += 1;
             bQualityGain = 0;
         }
@@ -473,6 +459,15 @@ function ApplyModifiers(s, action, condition) {
             control = 0;
             bQualityGain = 0;
             cpCost = 0;
+        }
+    }
+
+    if (isActionEq(action, AllActions.trainedPerfection)) {
+        if (s.oneTimeUse.includes(AllActions.trainedPerfection.shortName)) {
+            s.wastedActions += 1;
+            delete s.effects.countDowns[AllActions.trainedPerfection.shortName];
+        } else {
+            s.oneTimeUse.push(AllActions.trainedPerfection.shortName);
         }
     }
 
@@ -514,6 +509,14 @@ function ApplySpecialActionEffects(s, action, condition) {
         }
     }
 
+    if (isActionEq(action, AllActions.immaculateMend)) {
+        // Set durability to max durability for the recipe
+        s.durabilityState = s.synth.recipe.durability;
+        if (s.synth.solverVars.solveForCompletion) {
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
+        }
+    }
+
     if ((AllActions.manipulation.shortName in s.effects.countDowns) && (s.durabilityState > 0) && !isActionEq(action, AllActions.manipulation)) {
         s.durabilityState += 5;
         if (s.synth.solverVars.solveForCompletion) {
@@ -522,8 +525,8 @@ function ApplySpecialActionEffects(s, action, condition) {
     }
 
     if (isActionEq(action, AllActions.byregotsBlessing)) {
-        if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-            delete s.effects.countUps[AllActions.innerQuiet.shortName];
+        if ("innerQuiet" in s.effects.countUps) {
+            delete s.effects.countUps["innerQuiet"];
         }
         else {
             s.wastedActions += 1;
@@ -532,7 +535,7 @@ function ApplySpecialActionEffects(s, action, condition) {
 
     if (isActionEq(action, AllActions.reflect)) {
         if (s.step == 1) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] = 1;
+            s.effects.countUps["innerQuiet"] = 1;
         } else {
             s.wastedActions += 1;
         }
@@ -573,22 +576,25 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
         }
     }
 
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
+    if ("innerQuiet" in s.effects.countUps) {
         // Increment inner quiet countups that have conditional requirements
         if (isActionEq(action, AllActions.preparatoryTouch)) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
+            s.effects.countUps["innerQuiet"] += 2;
+        }
+        else if (s.action === AllActions.basicTouch.shortName && isActionEq(action, AllActions.refinedTouch)) {
+            s.effects.countUps["innerQuiet"] += 2;
         }
         // Increment inner quiet countups that have conditional requirements
         else if (isActionEq(action, AllActions.preciseTouch) && condition.checkGoodOrExcellent()) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 2 * successProbability * condition.pGoodOrExcellent();
+            s.effects.countUps["innerQuiet"] += 2 * successProbability * condition.pGoodOrExcellent();
         }
         // Increment all other inner quiet count ups
         else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect) && !isActionEq(action, AllActions.trainedFinesse)) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] += 1 * successProbability;
+            s.effects.countUps["innerQuiet"] += 1 * successProbability;
         }
 
         // Cap inner quiet stacks at 9 (10)
-        s.effects.countUps[AllActions.innerQuiet.shortName] = Math.min(s.effects.countUps[AllActions.innerQuiet.shortName], 9);
+        s.effects.countUps["innerQuiet"] = Math.min(s.effects.countUps["innerQuiet"], 9);
     }
 
     // Initialize new effects after countdowns are managed to reset them properly
@@ -611,16 +617,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     }
 
     if (action.type === 'countdown') {
-        if (action.shortName.indexOf('nameOf') >= 0) {
-            if (s.nameOfElementUses == 0) {
-                s.effects.countDowns[action.shortName] = action.activeTurns;
-                s.nameOfElementUses += 1;
-            }
-            else {
-                s.wastedActions += 1;
-            }
-        }
-        else if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
+        if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
             s.wastedActions += 1;
         }
         else {
@@ -768,8 +765,8 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
             }
 
             var iqCnt = 0;
-            if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-                iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
+            if ("innerQuiet" in s.effects.countUps) {
+                iqCnt = s.effects.countUps["innerQuiet"];
             }
             if (debug) {
                 logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
@@ -912,8 +909,8 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     var chk = s.checkViolations();
 
     var iqCnt = 0;
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
+    if ("innerQuiet" in s.effects.countUps) {
+        iqCnt = s.effects.countUps["innerQuiet"];
     }
 
     // Add internal state variables for later output of best and worst cases
@@ -1533,6 +1530,10 @@ function heuristicSequenceBuilder(synth) {
             progress += progressGain;
             steps += 1;
         }
+        else if (tryAction('immaculateMend')) {
+            unshiftAction(subSeq2, 'immaculateMend');
+            dur = synth.recipe.durability;
+        }
         else if (tryAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
@@ -1550,7 +1551,11 @@ function heuristicSequenceBuilder(synth) {
     sequence = subSeq1.concat(sequence);
 
     if (dur <= 20) {
-        if (tryAction('manipulation')) {
+        if (tryAction('immaculateMend')) {
+            unshiftAction(subSeq2, 'immaculateMend');
+            dur = synth.recipe.durability;
+        }
+        else if (tryAction('manipulation')) {
             unshiftAction(sequence, 'manipulation');
             dur += 30;
         }
@@ -1572,10 +1577,6 @@ function heuristicSequenceBuilder(synth) {
     if (tryAction('reflect')) {
         pushAction(subSeq1, 'reflect')
     } 
-    
-    if (tryAction('innerQuiet')) {
-        pushAction(subSeq1, 'innerQuiet');
-    }
 
     preferredAction = 'basicTouch';
 
@@ -1604,7 +1605,11 @@ function heuristicSequenceBuilder(synth) {
             pushAction(subSeq2, preferredAction);
         }
         else if (dur < 20) {
-            if (tryAction('manipulation')) {
+            if (tryAction('immaculateMend')) {
+                unshiftAction(subSeq2, 'immaculateMend');
+                dur = synth.recipe.durability;
+            }
+            else if (tryAction('manipulation')) {
                 unshiftAction(subSeq2, 'manipulation');
                 dur += 30;
             }
