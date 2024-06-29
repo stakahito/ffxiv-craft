@@ -51,7 +51,7 @@ function setupSim(settings) {
     crafterActions);
   var recipe = new Recipe(settings.recipe.baseLevel, settings.recipe.level, settings.recipe.difficulty,
       settings.recipe.durability, settings.recipe.startQuality, settings.recipe.safetyMargin, settings.recipe.maxQuality,
-      settings.recipe.suggestedCraftsmanship, settings.recipe.suggestedControl,
+      settings.recipe.suggestedCraftsmanship,
       settings.recipe.progressDivider, settings.recipe.progressModifier, settings.recipe.qualityDivider, settings.recipe.qualityModifier, settings.recipe.stars);
   var solverVars = new SolverVars(false, 0, 0);
   var synth = new Synth(crafter, recipe, settings.maxTricksUses, settings.reliabilityPercent / 100.0,
