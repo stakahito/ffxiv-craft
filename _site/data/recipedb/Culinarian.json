@@ -15,7 +15,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -34,8 +33,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 6000,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 11000,
+    "name": {
+      "de": "Acqua Pazza",
+      "en": "Acqua Pazza",
+      "fr": "Acqua pazza",
+      "ja": "アクアパッツァ"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
   },
   {
     "baseLevel": 6,
@@ -53,7 +69,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -73,7 +88,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 5,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -92,7 +106,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -112,7 +125,6 @@
     "qualityDivider": 90,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 1860,
     "suggestedCraftsmanship": 2000
   },
   {
@@ -131,7 +143,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -150,7 +161,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -170,7 +180,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -189,7 +198,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -208,7 +216,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -227,7 +234,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -246,7 +252,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -266,7 +271,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -285,7 +289,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -304,7 +307,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -323,7 +325,6 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
   },
   {
@@ -342,7 +343,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -361,7 +361,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -380,7 +379,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -400,7 +398,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 695,
     "suggestedCraftsmanship": 718
   },
   {
@@ -419,7 +416,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -438,7 +434,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -457,7 +452,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -477,7 +471,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -496,7 +489,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -516,7 +508,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 820,
     "suggestedCraftsmanship": 850
   },
   {
@@ -535,7 +526,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -554,7 +544,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -574,7 +563,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -593,7 +581,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -612,7 +599,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -631,7 +617,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -650,7 +635,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -670,7 +654,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -689,7 +672,6 @@
     "progressModifier": 100,
     "qualityDivider": 87,
     "qualityModifier": 100,
-    "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
   },
   {
@@ -708,7 +690,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -727,7 +708,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -746,7 +726,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -765,7 +744,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -784,7 +762,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -803,7 +780,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -822,7 +798,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -841,7 +816,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -860,7 +834,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -879,7 +852,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -898,7 +870,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -918,7 +889,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -938,7 +908,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 407,
     "suggestedCraftsmanship": 451
   },
   {
@@ -958,7 +927,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 407,
     "suggestedCraftsmanship": 451
   },
   {
@@ -977,7 +945,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -996,7 +963,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -1016,7 +982,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -1035,7 +1000,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -1054,7 +1018,6 @@
     "progressModifier": 100,
     "qualityDivider": 86,
     "qualityModifier": 100,
-    "suggestedControl": 1464,
     "suggestedCraftsmanship": 1580
   },
   {
@@ -1073,7 +1036,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -1092,7 +1054,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -1111,7 +1072,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -1130,7 +1090,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -1149,7 +1108,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -1168,7 +1126,6 @@
     "progressModifier": 100,
     "qualityDivider": 58,
     "qualityModifier": 100,
-    "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
   },
   {
@@ -1187,8 +1144,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 80,
+    "level": 656,
+    "maxQuality": 9000,
+    "name": {
+      "de": "Bananen-Ponzenkuchen",
+      "en": "Banana Ponzecake",
+      "fr": "Quatre-quarts à la banane",
+      "ja": "バナナパンズケーキ"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
   },
   {
     "baseLevel": 70,
@@ -1207,7 +1181,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -1226,7 +1199,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -1245,7 +1217,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -1264,7 +1235,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -1283,7 +1253,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -1303,7 +1272,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -1322,7 +1290,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -1341,7 +1308,6 @@
     "progressModifier": 100,
     "qualityDivider": 44,
     "qualityModifier": 100,
-    "suggestedControl": 491,
     "suggestedCraftsmanship": 529
   },
   {
@@ -1360,7 +1326,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -1379,7 +1344,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -1398,7 +1362,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -1417,7 +1380,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -1437,7 +1399,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -1456,7 +1417,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -1475,7 +1435,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -1494,7 +1453,6 @@
     "progressModifier": 100,
     "qualityDivider": 89,
     "qualityModifier": 100,
-    "suggestedControl": 1579,
     "suggestedCraftsmanship": 1702
   },
   {
@@ -1513,7 +1471,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -1532,7 +1489,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -1551,7 +1507,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -1570,8 +1525,25 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 80,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Alpakafleischpfanne",
+      "en": "Boiled Alpaca Steak",
+      "fr": "Steak d'alpaga bouilli",
+      "ja": "ボイルド・アルパカステーキ"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 68,
@@ -1589,7 +1561,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -1608,7 +1579,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -1627,7 +1597,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -1646,8 +1615,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4950,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 7200,
+    "name": {
+      "de": "Boonewa-Saftschorle",
+      "en": "Boonewa Soda",
+      "fr": "Soda boonewa",
+      "ja": "ブネワ・ソーダ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 83,
@@ -1665,7 +1651,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -1685,7 +1670,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 820,
     "suggestedCraftsmanship": 850
   },
   {
@@ -1705,7 +1689,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -1724,7 +1707,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -1743,7 +1725,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -1762,7 +1743,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -1781,7 +1761,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
   },
   {
@@ -1800,7 +1779,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -1820,7 +1798,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -1839,7 +1816,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -1858,7 +1834,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -1878,8 +1853,25 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Sautiertes grünes Gemüse",
+      "en": "Broccoli and Spinach Saute",
+      "fr": "Sauté aux légumes verts",
+      "ja": "ブロコスピナッチソテー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 12,
@@ -1897,7 +1889,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -1916,7 +1907,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -1935,7 +1925,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -1954,7 +1943,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -1973,7 +1961,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -1992,7 +1979,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 80,
     "suggestedCraftsmanship": 161
   },
   {
@@ -2011,7 +1997,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -2030,7 +2015,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -2050,7 +2034,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -2069,7 +2052,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -2088,7 +2070,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -2107,7 +2088,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -2127,7 +2107,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -2146,7 +2125,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -2165,7 +2143,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -2184,7 +2161,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -2204,7 +2180,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -2224,7 +2199,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -2243,7 +2217,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -2262,7 +2235,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -2281,7 +2253,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -2300,7 +2271,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -2319,7 +2289,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -2338,7 +2307,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -2357,7 +2325,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -2377,7 +2344,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -2396,7 +2362,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -2415,7 +2380,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -2434,8 +2398,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 2625,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 4320,
+    "name": {
+      "de": "Cherimoya-Saft",
+      "en": "Cherimoya Juice",
+      "fr": "Jus de cherimoyas",
+      "ja": "チェリモヤジュース"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "suggestedCraftsmanship": 2805
   },
   {
     "baseLevel": 80,
@@ -2454,7 +2435,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -2473,7 +2453,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -2492,7 +2471,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -2512,7 +2490,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -2532,7 +2509,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -2551,7 +2527,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -2570,7 +2545,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
   },
   {
@@ -2589,7 +2563,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -2608,7 +2581,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -2627,7 +2599,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -2646,7 +2617,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -2665,7 +2635,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -2684,7 +2653,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -2703,7 +2671,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -2722,7 +2689,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -2741,7 +2707,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -2760,7 +2725,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -2779,7 +2743,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -2798,7 +2761,6 @@
     "progressModifier": 100,
     "qualityDivider": 108,
     "qualityModifier": 100,
-    "suggestedControl": 2388,
     "suggestedCraftsmanship": 2507
   },
   {
@@ -2817,7 +2779,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -2836,7 +2797,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -2855,7 +2815,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -2874,7 +2833,6 @@
     "progressModifier": 100,
     "qualityDivider": 89,
     "qualityModifier": 100,
-    "suggestedControl": 1579,
     "suggestedCraftsmanship": 1702
   },
   {
@@ -2893,7 +2851,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -2912,7 +2869,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -2931,7 +2887,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -2950,7 +2905,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -2970,7 +2924,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -2990,7 +2943,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -3010,7 +2962,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -3030,7 +2981,6 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "stars": 1,
-    "suggestedControl": 2703,
     "suggestedCraftsmanship": 2924
   },
   {
@@ -3050,7 +3000,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -3070,7 +3019,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -3089,8 +3037,25 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 2000,
+    "durability": 40,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Kochmezcal",
+      "en": "Cooking Mezcal",
+      "fr": "Mezcal de cuisine",
+      "ja": "メスカル料理酒"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 70,
@@ -3108,7 +3073,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -3127,7 +3091,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -3146,7 +3109,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -3165,7 +3127,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -3184,7 +3145,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -3203,7 +3163,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -3222,7 +3181,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -3241,7 +3199,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -3261,7 +3218,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -3280,7 +3236,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -3299,7 +3254,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -3318,7 +3272,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -3337,8 +3290,43 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Sahnige Alpaka-Spaghetti",
+      "en": "Creamy Alpaca Pasta",
+      "fr": "Pâtes crêmeuses à l'alpaga",
+      "ja": "アルパカクリームパスタ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Heiße Schokolade mit Sahne",
+      "en": "Creamy Hot Chocolate",
+      "fr": "Tasse de chocolat viennois",
+      "ja": "ホイップ・ホットココア"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 80,
@@ -3357,7 +3345,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -3377,7 +3364,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -3397,7 +3383,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -3416,7 +3401,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 80,
     "suggestedCraftsmanship": 161
   },
   {
@@ -3435,7 +3419,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -3454,7 +3437,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -3473,7 +3455,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -3492,7 +3473,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -3511,7 +3491,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -3530,7 +3509,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -3549,7 +3527,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -3568,7 +3545,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -3587,7 +3563,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -3606,7 +3581,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -3625,7 +3599,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -3644,7 +3617,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -3663,7 +3635,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -3682,7 +3653,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -3701,7 +3671,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -3720,7 +3689,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -3739,7 +3707,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -3758,7 +3725,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -3777,7 +3743,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -3796,7 +3761,6 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
   },
   {
@@ -3815,7 +3779,6 @@
     "progressModifier": 100,
     "qualityDivider": 44,
     "qualityModifier": 100,
-    "suggestedControl": 491,
     "suggestedCraftsmanship": 529
   },
   {
@@ -3834,7 +3797,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -3853,7 +3815,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -3872,7 +3833,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -3891,7 +3851,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -3910,7 +3869,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -3929,7 +3887,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -3949,7 +3906,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -3968,7 +3924,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -3987,8 +3942,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 6000,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 11000,
+    "name": {
+      "de": "Treibholz-Katfischpastete",
+      "en": "Driftwood Catfish Pie",
+      "fr": "Tourte au poisson-chat",
+      "ja": "キャットフィッシュパイ"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
   },
   {
     "baseLevel": 60,
@@ -4006,7 +3978,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -4026,7 +3997,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -4045,7 +4015,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -4064,7 +4033,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -4084,7 +4052,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -4103,7 +4070,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4122,7 +4088,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -4141,7 +4106,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -4160,7 +4124,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -4179,7 +4142,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -4198,7 +4160,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -4217,7 +4178,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -4237,7 +4197,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -4256,7 +4215,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -4275,7 +4233,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -4294,7 +4251,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -4313,7 +4269,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4332,7 +4287,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -4351,7 +4305,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -4370,7 +4323,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -4389,7 +4341,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -4408,7 +4359,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4427,7 +4377,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -4447,7 +4396,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -4466,7 +4414,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4485,7 +4432,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -4505,7 +4451,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -4525,7 +4470,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -4545,7 +4489,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -4564,7 +4507,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -4583,8 +4525,25 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 3375,
+    "durability": 80,
+    "level": 656,
+    "maxQuality": 5400,
+    "name": {
+      "de": "Vergorener Aloe-Saft",
+      "en": "Fermented Aloe Juice",
+      "fr": "Jus d'aloès fermenté",
+      "ja": "ロトンアロエジュース"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
   },
   {
     "baseLevel": 53,
@@ -4602,7 +4561,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 480,
     "suggestedCraftsmanship": 519
   },
   {
@@ -4621,7 +4579,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -4640,7 +4597,6 @@
     "progressModifier": 100,
     "qualityDivider": 39,
     "qualityModifier": 100,
-    "suggestedControl": 426,
     "suggestedCraftsmanship": 468
   },
   {
@@ -4659,7 +4615,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -4678,7 +4633,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4697,7 +4651,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -4717,7 +4670,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -4736,7 +4688,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -4755,7 +4706,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -4774,7 +4724,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -4793,7 +4742,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -4812,7 +4760,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -4831,7 +4778,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -4851,7 +4797,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -4871,7 +4816,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 407,
     "suggestedCraftsmanship": 451
   },
   {
@@ -4890,7 +4834,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -4909,7 +4852,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -4928,7 +4870,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -4947,7 +4888,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -4966,7 +4906,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -4985,7 +4924,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -5004,7 +4942,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -5023,7 +4960,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -5042,8 +4978,25 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 6000,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 11000,
+    "name": {
+      "de": "Aloe-Fruchtgelee",
+      "en": "Fruit and Aloe Jelly",
+      "fr": "Gelée à l'aloès et aux fruits forestiers",
+      "ja": "森の果実とアロエのゼリー"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
   },
   {
     "baseLevel": 78,
@@ -5061,7 +5014,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -5080,7 +5032,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -5099,7 +5050,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -5119,7 +5069,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -5138,7 +5087,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -5157,7 +5105,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -5176,7 +5123,6 @@
     "progressModifier": 100,
     "qualityDivider": 108,
     "qualityModifier": 100,
-    "suggestedControl": 2388,
     "suggestedCraftsmanship": 2507
   },
   {
@@ -5196,8 +5142,25 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 5100,
+    "durability": 80,
+    "level": 665,
+    "maxQuality": 9800,
+    "name": {
+      "de": "Gâteau au Chocolat",
+      "en": "Gateau Au Chocolat",
+      "fr": "Gâteau au chocolat",
+      "ja": "ガトーショコラ"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
   },
   {
     "baseLevel": 50,
@@ -5215,7 +5178,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -5234,7 +5196,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -5253,7 +5214,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -5272,7 +5232,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -5291,7 +5250,6 @@
     "progressModifier": 100,
     "qualityDivider": 111,
     "qualityModifier": 100,
-    "suggestedControl": 2482,
     "suggestedCraftsmanship": 2626
   },
   {
@@ -5310,7 +5268,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -5329,7 +5286,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -5349,7 +5305,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -5368,7 +5323,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -5387,7 +5341,6 @@
     "progressModifier": 100,
     "qualityDivider": 108,
     "qualityModifier": 100,
-    "suggestedControl": 2388,
     "suggestedCraftsmanship": 2507
   },
   {
@@ -5406,7 +5359,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -5425,7 +5377,6 @@
     "progressModifier": 100,
     "qualityDivider": 58,
     "qualityModifier": 100,
-    "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
   },
   {
@@ -5444,7 +5395,6 @@
     "progressModifier": 100,
     "qualityDivider": 58,
     "qualityModifier": 100,
-    "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
   },
   {
@@ -5463,7 +5413,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -5483,7 +5432,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -5502,7 +5450,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -5521,7 +5468,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -5541,7 +5487,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5560,7 +5505,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -5579,7 +5523,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -5598,7 +5541,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -5617,7 +5559,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -5636,7 +5577,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -5656,7 +5596,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 3,
-    "suggestedControl": 2206,
     "suggestedCraftsmanship": 2484
   },
   {
@@ -5676,7 +5615,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5696,7 +5634,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5716,7 +5653,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5736,7 +5672,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5756,7 +5691,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -5775,7 +5709,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -5794,7 +5727,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -5813,7 +5745,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -5832,7 +5763,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -5851,7 +5781,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -5871,7 +5800,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -5890,7 +5818,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -5909,7 +5836,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -5928,7 +5854,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -5947,7 +5872,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -5966,7 +5890,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -5986,7 +5909,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -6005,7 +5927,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -6024,7 +5945,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -6043,7 +5963,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -6062,7 +5981,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -6081,7 +5999,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -6100,7 +6017,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -6120,7 +6036,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -6139,7 +6054,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -6158,7 +6072,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -6177,7 +6090,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -6196,7 +6108,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -6215,7 +6126,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -6234,7 +6144,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -6253,7 +6162,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -6272,7 +6180,6 @@
     "progressModifier": 100,
     "qualityDivider": 44,
     "qualityModifier": 100,
-    "suggestedControl": 491,
     "suggestedCraftsmanship": 529
   },
   {
@@ -6291,7 +6198,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -6310,8 +6216,25 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
+  },
+  {
+    "baseLevel": 92,
+    "difficulty": 4250,
+    "durability": 80,
+    "level": 653,
+    "maxQuality": 8600,
+    "name": {
+      "de": "Gegrillte Urqo-Forelle",
+      "en": "Grilled Urqotrout",
+      "fr": "Truite pacha grillée",
+      "ja": "グリルドオルコトラウト"
+    },
+    "progressDivider": 146,
+    "progressModifier": 100,
+    "qualityDivider": 126,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3485
   },
   {
     "baseLevel": 20,
@@ -6329,7 +6252,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -6348,7 +6270,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -6367,7 +6288,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -6386,7 +6306,6 @@
     "progressModifier": 100,
     "qualityDivider": 58,
     "qualityModifier": 100,
-    "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
   },
   {
@@ -6405,7 +6324,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -6424,7 +6342,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -6443,7 +6360,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -6462,7 +6378,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -6481,7 +6396,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -6501,7 +6415,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -6521,7 +6434,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -6540,7 +6452,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -6559,7 +6470,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -6578,7 +6488,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -6597,7 +6506,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -6616,7 +6524,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -6635,7 +6542,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -6654,7 +6560,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -6673,7 +6578,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -6692,7 +6596,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -6711,7 +6614,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -6730,7 +6632,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -6750,7 +6651,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -6770,7 +6670,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 835,
     "suggestedCraftsmanship": 870
   },
   {
@@ -6789,7 +6688,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -6808,7 +6706,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -6828,7 +6725,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -6847,7 +6743,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -6866,7 +6761,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -6885,7 +6779,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -6904,7 +6797,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -6923,7 +6815,6 @@
     "progressModifier": 100,
     "qualityDivider": 45,
     "qualityModifier": 100,
-    "suggestedControl": 502,
     "suggestedCraftsmanship": 539
   },
   {
@@ -6942,7 +6833,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -6961,7 +6851,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -6981,7 +6870,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -7000,7 +6888,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -7019,7 +6906,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -7038,7 +6924,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -7058,7 +6943,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -7077,7 +6961,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -7097,7 +6980,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -7116,7 +6998,6 @@
     "progressModifier": 100,
     "qualityDivider": 45,
     "qualityModifier": 100,
-    "suggestedControl": 502,
     "suggestedCraftsmanship": 539
   },
   {
@@ -7135,7 +7016,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -7154,7 +7034,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -7173,7 +7052,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -7193,7 +7071,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -7212,7 +7089,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -7231,7 +7107,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -7250,7 +7125,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -7269,7 +7143,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -7288,7 +7161,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 480,
     "suggestedCraftsmanship": 519
   },
   {
@@ -7307,7 +7179,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 480,
     "suggestedCraftsmanship": 519
   },
   {
@@ -7326,7 +7197,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -7346,7 +7216,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -7365,8 +7234,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 3825,
+    "durability": 80,
+    "level": 665,
+    "maxQuality": 5880,
+    "name": {
+      "de": "Ja Tiika-Bananensaft",
+      "en": "Ja Tiika Juice",
+      "fr": "Jus de bananes turquoise",
+      "ja": "ディープグリーンジュース"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
   },
   {
     "baseLevel": 10,
@@ -7384,7 +7270,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -7404,7 +7289,6 @@
     "qualityDivider": 70,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 1080,
     "suggestedCraftsmanship": 1100
   },
   {
@@ -7423,7 +7307,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -7442,7 +7325,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -7461,7 +7343,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
   },
   {
@@ -7480,7 +7361,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -7500,7 +7380,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -7520,7 +7399,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -7539,7 +7417,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -7558,7 +7435,6 @@
     "progressModifier": 100,
     "qualityDivider": 45,
     "qualityModifier": 100,
-    "suggestedControl": 502,
     "suggestedCraftsmanship": 539
   },
   {
@@ -7578,7 +7454,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -7597,7 +7472,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -7616,7 +7490,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -7636,7 +7509,6 @@
     "qualityDivider": 70,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 1080,
     "suggestedCraftsmanship": 1100
   },
   {
@@ -7655,7 +7527,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -7675,7 +7546,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -7695,7 +7565,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -7715,7 +7584,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -7734,7 +7602,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -7753,7 +7620,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -7773,7 +7639,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -7792,7 +7657,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -7811,7 +7675,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -7830,8 +7693,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 3825,
+    "durability": 80,
+    "level": 665,
+    "maxQuality": 5880,
+    "name": {
+      "de": "Kukuru-Manschsaft",
+      "en": "Kukuru Pulp Juice",
+      "fr": "Jus de pulpe de kukuru",
+      "ja": "ククルパルプジュース"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
   },
   {
     "baseLevel": 80,
@@ -7850,7 +7730,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -7869,7 +7748,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -7889,7 +7767,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -7908,7 +7785,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -7927,7 +7803,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -7947,7 +7822,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -7966,7 +7840,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -7985,7 +7858,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -8004,7 +7876,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -8024,7 +7895,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -8043,7 +7913,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -8063,7 +7932,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -8083,7 +7951,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -8103,7 +7970,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -8122,7 +7988,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -8141,7 +8006,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -8160,7 +8024,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -8179,7 +8042,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -8198,7 +8060,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -8218,7 +8079,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -8238,7 +8098,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -8258,7 +8117,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 820,
     "suggestedCraftsmanship": 850
   },
   {
@@ -8277,7 +8135,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -8296,7 +8153,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -8315,7 +8171,6 @@
     "progressModifier": 100,
     "qualityDivider": 58,
     "qualityModifier": 100,
-    "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
   },
   {
@@ -8334,7 +8189,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -8353,7 +8207,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -8372,7 +8225,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -8391,7 +8243,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -8410,7 +8261,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -8429,7 +8279,6 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
   },
   {
@@ -8448,7 +8297,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -8467,7 +8315,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -8486,7 +8333,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -8506,7 +8352,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -8525,7 +8370,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -8544,7 +8388,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -8563,7 +8406,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -8582,8 +8424,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 80,
+    "level": 656,
+    "maxQuality": 9000,
+    "name": {
+      "de": "Ahorn-Teriyaki",
+      "en": "Maple Teriyaki",
+      "fr": "Poulet à la sauce teriyaki royale",
+      "ja": "照り焼きメープルチキン"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
   },
   {
     "baseLevel": 90,
@@ -8602,7 +8461,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -8621,7 +8479,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -8640,7 +8497,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -8659,7 +8515,6 @@
     "progressModifier": 100,
     "qualityDivider": 87,
     "qualityModifier": 100,
-    "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
   },
   {
@@ -8678,7 +8533,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -8698,7 +8552,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -8717,7 +8570,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -8736,7 +8588,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -8756,7 +8607,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -8776,7 +8626,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -8796,7 +8645,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -8815,8 +8663,61 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 6000,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 11000,
+    "name": {
+      "de": "Mesquite-Saft",
+      "en": "Mesquite Juice",
+      "fr": "Jus de haricot mesquite",
+      "ja": "メスキートジュース"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Mesquite-Suppe",
+      "en": "Mesquite Soup",
+      "fr": "Soupe de haricots mesquite",
+      "ja": "メスキートスープ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 92,
+    "difficulty": 4250,
+    "durability": 80,
+    "level": 653,
+    "maxQuality": 8600,
+    "name": {
+      "de": "Marinierter Sumpfmönch",
+      "en": "Mezcal-marinated Swampmonk",
+      "fr": "Steak de moine des marécages au mezcal",
+      "ja": "スワンプモンクのメスカルソースがけ"
+    },
+    "progressDivider": 146,
+    "progressModifier": 100,
+    "qualityDivider": 126,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3485
   },
   {
     "baseLevel": 60,
@@ -8834,7 +8735,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -8853,7 +8753,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -8872,7 +8771,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -8891,7 +8789,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
   },
   {
@@ -8910,7 +8807,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -8930,7 +8826,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -8949,7 +8844,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -8968,7 +8862,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -8987,7 +8880,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -9006,7 +8898,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -9025,7 +8916,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -9044,7 +8934,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -9063,7 +8952,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -9082,7 +8970,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -9101,7 +8988,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -9121,7 +9007,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -9140,8 +9025,43 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 92,
+    "difficulty": 2125,
+    "durability": 40,
+    "level": 653,
+    "maxQuality": 8600,
+    "name": {
+      "de": "Gebirgssalz",
+      "en": "Mountain Salt",
+      "fr": "Sel de table des montagnes",
+      "ja": "高山食塩"
+    },
+    "progressDivider": 146,
+    "progressModifier": 100,
+    "qualityDivider": 126,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3485
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Kakaotasse",
+      "en": "Mug of Cocoa",
+      "fr": "Tasse de chocolat chaud",
+      "ja": "ココアマグカップ"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 38,
@@ -9159,7 +9079,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -9178,7 +9097,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 80,
     "suggestedCraftsmanship": 161
   },
   {
@@ -9197,7 +9115,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -9216,7 +9133,6 @@
     "progressModifier": 100,
     "qualityDivider": 86,
     "qualityModifier": 100,
-    "suggestedControl": 1464,
     "suggestedCraftsmanship": 1580
   },
   {
@@ -9235,7 +9151,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -9254,7 +9169,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -9273,7 +9187,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -9293,8 +9206,25 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
+  },
+  {
+    "baseLevel": 97,
+    "difficulty": 5700,
+    "durability": 80,
+    "level": 675,
+    "maxQuality": 10600,
+    "name": {
+      "de": "Nasi Goreng",
+      "en": "Nasi Goreng",
+      "fr": "Nasi goreng",
+      "ja": "ナシゴレン"
+    },
+    "progressDivider": 161,
+    "progressModifier": 100,
+    "qualityDivider": 141,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3952
   },
   {
     "baseLevel": 57,
@@ -9312,7 +9242,6 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
   },
   {
@@ -9331,7 +9260,6 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
   },
   {
@@ -9350,7 +9278,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -9369,7 +9296,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -9388,7 +9314,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -9407,7 +9332,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -9426,7 +9350,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -9445,7 +9368,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -9464,7 +9386,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -9484,7 +9405,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -9503,7 +9423,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -9522,7 +9441,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -9542,7 +9460,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -9562,7 +9479,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 2055,
     "suggestedCraftsmanship": 2250
   },
   {
@@ -9582,7 +9498,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -9601,7 +9516,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -9621,7 +9535,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -9641,7 +9554,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -9660,7 +9572,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -9679,8 +9590,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 80,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Omuraisu",
+      "en": "Omelette Rice",
+      "fr": "Omurice",
+      "ja": "オムライス"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 68,
@@ -9698,7 +9626,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -9717,7 +9644,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -9736,7 +9662,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -9755,7 +9680,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -9774,7 +9698,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -9793,7 +9716,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -9812,7 +9734,6 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
   },
   {
@@ -9831,7 +9752,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -9850,7 +9770,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -9869,7 +9788,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -9888,7 +9806,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -9908,7 +9825,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -9928,7 +9844,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -9947,7 +9862,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -9966,7 +9880,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -9986,7 +9899,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -10006,7 +9918,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 695,
     "suggestedCraftsmanship": 718
   },
   {
@@ -10025,7 +9936,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10044,7 +9954,6 @@
     "progressModifier": 100,
     "qualityDivider": 89,
     "qualityModifier": 100,
-    "suggestedControl": 1579,
     "suggestedCraftsmanship": 1702
   },
   {
@@ -10063,7 +9972,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10082,7 +9990,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10101,7 +10008,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -10121,7 +10027,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -10140,7 +10045,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -10159,7 +10063,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10178,7 +10081,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -10198,7 +10100,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -10217,7 +10118,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10236,7 +10136,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -10256,7 +10155,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 835,
     "suggestedCraftsmanship": 870
   },
   {
@@ -10275,7 +10173,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -10294,7 +10191,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -10313,7 +10209,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -10333,7 +10228,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -10353,7 +10247,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -10372,7 +10265,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -10392,7 +10284,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 820,
     "suggestedCraftsmanship": 850
   },
   {
@@ -10411,7 +10302,6 @@
     "progressModifier": 100,
     "qualityDivider": 87,
     "qualityModifier": 100,
-    "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
   },
   {
@@ -10430,7 +10320,6 @@
     "progressModifier": 100,
     "qualityDivider": 106,
     "qualityModifier": 100,
-    "suggestedControl": 2238,
     "suggestedCraftsmanship": 2336
   },
   {
@@ -10450,7 +10339,6 @@
     "qualityDivider": 70,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 1080,
     "suggestedCraftsmanship": 1100
   },
   {
@@ -10469,7 +10357,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -10488,7 +10375,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -10508,7 +10394,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -10527,7 +10412,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -10547,7 +10431,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -10567,7 +10450,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -10587,7 +10469,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -10607,7 +10488,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -10626,7 +10506,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10645,7 +10524,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -10665,7 +10543,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -10685,7 +10562,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -10705,7 +10581,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -10724,7 +10599,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -10744,7 +10618,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -10764,7 +10637,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -10783,7 +10655,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -10802,7 +10673,6 @@
     "progressModifier": 100,
     "qualityDivider": 87,
     "qualityModifier": 100,
-    "suggestedControl": 1502,
     "suggestedCraftsmanship": 1621
   },
   {
@@ -10821,7 +10691,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -10841,7 +10710,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -10861,7 +10729,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -10880,8 +10747,25 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 4500,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 6600,
+    "name": {
+      "de": "Kaktorfeigensaft",
+      "en": "Prickly Pear Juice",
+      "fr": "Jus anti-gueule de bois",
+      "ja": "ドランカートゥナジュース"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
   },
   {
     "baseLevel": 60,
@@ -10900,7 +10784,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -10919,7 +10802,6 @@
     "progressModifier": 100,
     "qualityDivider": 85,
     "qualityModifier": 100,
-    "suggestedControl": 1425,
     "suggestedCraftsmanship": 1539
   },
   {
@@ -10938,7 +10820,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -10957,7 +10838,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -10976,7 +10856,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -10995,7 +10874,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -11015,7 +10893,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -11035,7 +10912,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -11054,7 +10930,6 @@
     "progressModifier": 100,
     "qualityDivider": 81,
     "qualityModifier": 100,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -11073,7 +10948,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -11092,7 +10966,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -11111,7 +10984,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -11130,7 +11002,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -11150,7 +11021,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -11169,7 +11039,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -11188,8 +11057,43 @@
     "progressModifier": 100,
     "qualityDivider": 61,
     "qualityModifier": 100,
-    "suggestedControl": 993,
     "suggestedCraftsmanship": 1027
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 80,
+    "level": 656,
+    "maxQuality": 9000,
+    "name": {
+      "de": "Bananen-Ponzenkuchen (Sammlerstück)",
+      "en": "Rarefied Banana Ponzecake",
+      "fr": "Quatre-quarts à la banane collectionnable",
+      "ja": "収集用のバナナパンズケーキ"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 80,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Alpakafleischpfanne (Sammlerstück)",
+      "en": "Rarefied Boiled Alpaca Steak",
+      "fr": "Steak d'alpaga bouilli collectionnable",
+      "ja": "収集用のボイルド・アルパカステーキ"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 70,
@@ -11207,7 +11111,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -11226,7 +11129,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -11245,7 +11147,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -11264,7 +11165,6 @@
     "progressModifier": 100,
     "qualityDivider": 111,
     "qualityModifier": 100,
-    "suggestedControl": 2482,
     "suggestedCraftsmanship": 2626
   },
   {
@@ -11283,7 +11183,6 @@
     "progressModifier": 100,
     "qualityDivider": 113,
     "qualityModifier": 100,
-    "suggestedControl": 2589,
     "suggestedCraftsmanship": 2748
   },
   {
@@ -11302,7 +11201,6 @@
     "progressModifier": 100,
     "qualityDivider": 82,
     "qualityModifier": 100,
-    "suggestedControl": 1284,
     "suggestedCraftsmanship": 1388
   },
   {
@@ -11321,7 +11219,6 @@
     "progressModifier": 100,
     "qualityDivider": 109,
     "qualityModifier": 100,
-    "suggestedControl": 2418,
     "suggestedCraftsmanship": 2549
   },
   {
@@ -11340,7 +11237,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -11359,7 +11255,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -11378,7 +11273,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -11397,7 +11291,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -11416,7 +11309,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
   },
   {
@@ -11435,7 +11327,6 @@
     "progressModifier": 100,
     "qualityDivider": 86,
     "qualityModifier": 100,
-    "suggestedControl": 1464,
     "suggestedCraftsmanship": 1580
   },
   {
@@ -11454,8 +11345,25 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
+  },
+  {
+    "baseLevel": 97,
+    "difficulty": 5700,
+    "durability": 80,
+    "level": 675,
+    "maxQuality": 10600,
+    "name": {
+      "de": "Getrockneter Lachs (Sammlerstück)",
+      "en": "Rarefied Salmon Jerky",
+      "fr": "Tranches de saumon séché collectionnable",
+      "ja": "収集用のサーモンジャーキー"
+    },
+    "progressDivider": 161,
+    "progressModifier": 100,
+    "qualityDivider": 141,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3952
   },
   {
     "baseLevel": 54,
@@ -11473,7 +11381,6 @@
     "progressModifier": 100,
     "qualityDivider": 44,
     "qualityModifier": 100,
-    "suggestedControl": 491,
     "suggestedCraftsmanship": 529
   },
   {
@@ -11492,7 +11399,6 @@
     "progressModifier": 100,
     "qualityDivider": 65,
     "qualityModifier": 100,
-    "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
   },
   {
@@ -11511,7 +11417,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -11530,8 +11435,25 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
+  },
+  {
+    "baseLevel": 99,
+    "difficulty": 6300,
+    "durability": 80,
+    "level": 685,
+    "maxQuality": 11400,
+    "name": {
+      "de": "Gefüllte Paprikas (Sammlerstück)",
+      "en": "Rarefied Stuffed Peppers",
+      "fr": "Poivrons farcis collectionnables",
+      "ja": "収集用のスタッフドピーマン"
+    },
+    "progressDivider": 167,
+    "progressModifier": 100,
+    "qualityDivider": 147,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4131
   },
   {
     "baseLevel": 90,
@@ -11549,8 +11471,25 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Tacos de Carne Asada (Sammlerstück)",
+      "en": "Rarefied Tacos de Carne Asada",
+      "fr": "Tacos de carne asada collectionnables",
+      "ja": "収集用のタコス・カルネ・アサーダ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 66,
@@ -11568,8 +11507,25 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 5100,
+    "durability": 80,
+    "level": 665,
+    "maxQuality": 9800,
+    "name": {
+      "de": "Tural-Ananaskuchen (Sammlerstück)",
+      "en": "Rarefied Turali Pineapple Ponzecake",
+      "fr": "Gâteau à l'ananas turalien collectionnable",
+      "ja": "収集用のトラルパイナップルケーキ"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
   },
   {
     "baseLevel": 37,
@@ -11587,7 +11543,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -11606,7 +11561,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 41,
     "suggestedCraftsmanship": 82
   },
   {
@@ -11625,7 +11579,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -11644,7 +11597,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -11663,7 +11615,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -11682,7 +11633,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -11701,7 +11651,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -11720,7 +11669,6 @@
     "progressModifier": 100,
     "qualityDivider": 111,
     "qualityModifier": 100,
-    "suggestedControl": 2482,
     "suggestedCraftsmanship": 2626
   },
   {
@@ -11739,7 +11687,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -11758,7 +11705,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -11778,7 +11724,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -11798,7 +11743,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -11818,7 +11762,6 @@
     "qualityDivider": 130,
     "qualityModifier": 100,
     "stars": 5,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -11837,7 +11780,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -11856,7 +11798,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -11876,7 +11817,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -11895,7 +11835,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -11914,7 +11853,6 @@
     "progressModifier": 100,
     "qualityDivider": 88,
     "qualityModifier": 100,
-    "suggestedControl": 1541,
     "suggestedCraftsmanship": 1662
   },
   {
@@ -11933,7 +11871,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -11952,7 +11889,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -11971,7 +11907,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -11990,7 +11925,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -12010,7 +11944,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -12029,8 +11962,25 @@
     "progressModifier": 100,
     "qualityDivider": 86,
     "qualityModifier": 100,
-    "suggestedControl": 1464,
     "suggestedCraftsmanship": 1580
+  },
+  {
+    "baseLevel": 98,
+    "difficulty": 6000,
+    "durability": 80,
+    "level": 680,
+    "maxQuality": 11000,
+    "name": {
+      "de": "Gebratenes Rroneek",
+      "en": "Roast Rroneek",
+      "fr": "Rôti de rroneek",
+      "ja": "ローストロネーク"
+    },
+    "progressDivider": 164,
+    "progressModifier": 100,
+    "qualityDivider": 144,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4041
   },
   {
     "baseLevel": 17,
@@ -12041,14 +11991,13 @@
     "name": {
       "de": "Kaktus-Steak",
       "en": "Roasted Nopales",
-      "fr": "Figues de barbarie grillées",
+      "fr": "Raquettes de cactus grillées",
       "ja": "ローストノパル"
     },
     "progressDivider": 50,
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -12068,7 +12017,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1990,
     "suggestedCraftsmanship": 2140
   },
   {
@@ -12087,7 +12035,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -12107,7 +12054,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -12126,7 +12072,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -12145,7 +12090,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -12165,7 +12109,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -12184,7 +12127,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -12203,7 +12145,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -12222,8 +12163,61 @@
     "progressModifier": 100,
     "qualityDivider": 47,
     "qualityModifier": 100,
-    "suggestedControl": 524,
     "suggestedCraftsmanship": 560
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 2250,
+    "durability": 40,
+    "level": 656,
+    "maxQuality": 9000,
+    "name": {
+      "de": "Königsahornsirup",
+      "en": "Royal Maple Syrup",
+      "fr": "Sirop d'érable royal",
+      "ja": "ロイヤルメープルシロップ"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 80,
+    "level": 656,
+    "maxQuality": 9000,
+    "name": {
+      "de": "Toast Royale",
+      "en": "Royal Toast",
+      "fr": "Toast au sirop royal",
+      "ja": "ロイヤルトースト"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3587
+  },
+  {
+    "baseLevel": 99,
+    "difficulty": 6300,
+    "durability": 80,
+    "level": 685,
+    "maxQuality": 11400,
+    "name": {
+      "de": "Rroneek-Steak",
+      "en": "Rroneek Steak",
+      "fr": "Steak de rroneek",
+      "ja": "ロネークステーキ"
+    },
+    "progressDivider": 167,
+    "progressModifier": 100,
+    "qualityDivider": 147,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4131
   },
   {
     "baseLevel": 4,
@@ -12241,7 +12235,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -12261,8 +12254,25 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 97,
+    "difficulty": 5700,
+    "durability": 80,
+    "level": 675,
+    "maxQuality": 10600,
+    "name": {
+      "de": "Getrockneter Lachs",
+      "en": "Salmon Jerky",
+      "fr": "Tranches de saumon séché",
+      "ja": "サーモンジャーキー"
+    },
+    "progressDivider": 161,
+    "progressModifier": 100,
+    "qualityDivider": 141,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3952
   },
   {
     "baseLevel": 23,
@@ -12280,7 +12290,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -12300,7 +12309,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -12319,7 +12327,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -12338,7 +12345,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -12357,7 +12363,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -12376,7 +12381,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -12395,7 +12399,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -12414,7 +12417,6 @@
     "progressModifier": 100,
     "qualityDivider": 86,
     "qualityModifier": 100,
-    "suggestedControl": 1464,
     "suggestedCraftsmanship": 1580
   },
   {
@@ -12434,7 +12436,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -12454,7 +12455,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -12474,7 +12474,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -12493,7 +12492,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 480,
     "suggestedCraftsmanship": 519
   },
   {
@@ -12513,7 +12511,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -12533,7 +12530,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -12552,7 +12548,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -12571,7 +12566,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 64,
     "suggestedCraftsmanship": 129
   },
   {
@@ -12591,7 +12585,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -12611,7 +12604,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -12630,7 +12622,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -12650,7 +12641,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
   },
   {
@@ -12669,7 +12659,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -12689,7 +12678,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -12708,7 +12696,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -12727,7 +12714,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -12746,7 +12732,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -12765,7 +12750,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 49,
     "suggestedCraftsmanship": 99
   },
   {
@@ -12784,8 +12768,25 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 80,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Krabbencocktail",
+      "en": "Shrimp Cocktail",
+      "fr": "Cocktail de crevettes",
+      "ja": "シュリンプカクテル"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 89,
@@ -12803,7 +12804,6 @@
     "progressModifier": 100,
     "qualityDivider": 113,
     "qualityModifier": 100,
-    "suggestedControl": 2589,
     "suggestedCraftsmanship": 2748
   },
   {
@@ -12822,7 +12822,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -12841,7 +12840,6 @@
     "progressModifier": 100,
     "qualityDivider": 68,
     "qualityModifier": 100,
-    "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
   },
   {
@@ -12860,7 +12858,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -12880,7 +12877,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
   },
   {
@@ -12899,7 +12895,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -12918,7 +12913,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -12937,7 +12931,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -12956,7 +12949,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -12975,7 +12967,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -12994,7 +12985,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -13013,7 +13003,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -13033,7 +13022,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -13053,7 +13041,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -13072,7 +13059,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
   },
   {
@@ -13091,7 +13077,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -13110,7 +13095,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -13130,7 +13114,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -13149,7 +13132,6 @@
     "progressModifier": 100,
     "qualityDivider": 44,
     "qualityModifier": 100,
-    "suggestedControl": 491,
     "suggestedCraftsmanship": 529
   },
   {
@@ -13168,7 +13150,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -13187,7 +13168,6 @@
     "progressModifier": 100,
     "qualityDivider": 39,
     "qualityModifier": 100,
-    "suggestedControl": 426,
     "suggestedCraftsmanship": 468
   },
   {
@@ -13207,7 +13187,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -13227,7 +13206,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -13246,8 +13224,25 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
+  },
+  {
+    "baseLevel": 94,
+    "difficulty": 4800,
+    "durability": 80,
+    "level": 660,
+    "maxQuality": 9400,
+    "name": {
+      "de": "Olio e Peperoncino",
+      "en": "Spaghetti al Olio e Peperoncino",
+      "fr": "Pâtes aux piments à l'huile",
+      "ja": "オーリオ・ペペロンチーノ"
+    },
+    "progressDivider": 152,
+    "progressModifier": 100,
+    "qualityDivider": 132,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3706
   },
   {
     "baseLevel": 16,
@@ -13265,7 +13260,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -13284,7 +13278,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -13304,7 +13297,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 820,
     "suggestedCraftsmanship": 850
   },
   {
@@ -13323,7 +13315,6 @@
     "progressModifier": 100,
     "qualityDivider": 110,
     "qualityModifier": 100,
-    "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
   },
   {
@@ -13343,7 +13334,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -13363,7 +13353,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -13383,7 +13372,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -13402,7 +13390,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -13421,7 +13408,6 @@
     "progressModifier": 100,
     "qualityDivider": 83,
     "qualityModifier": 100,
-    "suggestedControl": 1348,
     "suggestedCraftsmanship": 1457
   },
   {
@@ -13440,7 +13426,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -13459,7 +13444,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -13478,7 +13462,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -13497,7 +13480,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -13516,7 +13498,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -13535,7 +13516,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 47,
     "suggestedCraftsmanship": 94
   },
   {
@@ -13554,7 +13534,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -13574,7 +13553,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -13593,7 +13571,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -13612,7 +13589,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -13632,7 +13608,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -13651,7 +13626,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -13670,7 +13644,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -13689,7 +13662,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -13708,7 +13680,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -13728,7 +13699,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
   },
   {
@@ -13747,7 +13717,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -13766,7 +13735,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -13785,7 +13753,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -13804,7 +13771,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -13823,7 +13789,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 68,
     "suggestedCraftsmanship": 136
   },
   {
@@ -13842,7 +13807,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 75,
     "suggestedCraftsmanship": 150
   },
   {
@@ -13861,7 +13825,6 @@
     "progressModifier": 100,
     "qualityDivider": 43,
     "qualityModifier": 100,
-    "suggestedControl": 462,
     "suggestedCraftsmanship": 502
   },
   {
@@ -13880,7 +13843,6 @@
     "progressModifier": 100,
     "qualityDivider": 50,
     "qualityModifier": 100,
-    "suggestedControl": 553,
     "suggestedCraftsmanship": 587
   },
   {
@@ -13900,8 +13862,25 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
+  },
+  {
+    "baseLevel": 99,
+    "difficulty": 6300,
+    "durability": 80,
+    "level": 685,
+    "maxQuality": 11400,
+    "name": {
+      "de": "Gefüllte Paprika",
+      "en": "Stuffed Peppers",
+      "fr": "Poivrons farcis",
+      "ja": "スタッフドピーマン"
+    },
+    "progressDivider": 167,
+    "progressModifier": 100,
+    "qualityDivider": 147,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 4131
   },
   {
     "baseLevel": 59,
@@ -13919,7 +13898,6 @@
     "progressModifier": 100,
     "qualityDivider": 49,
     "qualityModifier": 100,
-    "suggestedControl": 546,
     "suggestedCraftsmanship": 580
   },
   {
@@ -13938,7 +13916,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -13957,7 +13934,6 @@
     "progressModifier": 100,
     "qualityDivider": 64,
     "qualityModifier": 100,
-    "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
   },
   {
@@ -13977,7 +13953,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -13996,7 +13971,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -14015,7 +13989,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -14034,7 +14007,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -14053,7 +14025,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -14073,7 +14044,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 695,
     "suggestedCraftsmanship": 718
   },
   {
@@ -14092,7 +14062,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
   },
   {
@@ -14111,8 +14080,25 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 94,
+    "difficulty": 4800,
+    "durability": 80,
+    "level": 660,
+    "maxQuality": 9400,
+    "name": {
+      "de": "Süßer Muffin",
+      "en": "Sweetmuffin",
+      "fr": "Muffin moelleux",
+      "ja": "スイートマフィン"
+    },
+    "progressDivider": 152,
+    "progressModifier": 100,
+    "qualityDivider": 132,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3706
   },
   {
     "baseLevel": 90,
@@ -14130,7 +14116,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -14149,7 +14134,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -14169,7 +14153,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -14188,7 +14171,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -14207,7 +14189,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 11,
     "suggestedCraftsmanship": 22
   },
   {
@@ -14226,8 +14207,43 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Tacos al pastor",
+      "en": "Tacos Al Pastor",
+      "fr": "Tacos al pastor",
+      "ja": "タコス・アル・パストール"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Tacos mit Carne Asada",
+      "en": "Tacos de Carne Asada",
+      "fr": "Tacos de carne asada",
+      "ja": "タコス・カルネ・アサーダ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 50,
@@ -14246,7 +14262,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
   },
   {
@@ -14266,7 +14281,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -14285,7 +14299,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -14305,8 +14318,25 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Turalisches Fruchttörtchen",
+      "en": "Tart Turali Tart",
+      "fr": "Tarte aux fruits turaliens",
+      "ja": "トラルフルーツのタルト"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 70,
@@ -14324,7 +14354,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -14343,8 +14372,25 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Wolkenkuchen",
+      "en": "Tender Shortcake",
+      "fr": "Shortcake moelleux",
+      "ja": "テンダーショートケーキ"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 70,
@@ -14362,7 +14408,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -14382,7 +14427,6 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 2,
-    "suggestedControl": 3080,
     "suggestedCraftsmanship": 3180
   },
   {
@@ -14401,7 +14445,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -14420,7 +14463,6 @@
     "progressModifier": 100,
     "qualityDivider": 112,
     "qualityModifier": 100,
-    "suggestedControl": 2535,
     "suggestedCraftsmanship": 2686
   },
   {
@@ -14440,7 +14482,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
   },
   {
@@ -14460,7 +14501,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 325,
     "suggestedCraftsmanship": 325
   },
   {
@@ -14479,7 +14519,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
   },
   {
@@ -14498,7 +14537,6 @@
     "progressModifier": 100,
     "qualityDivider": 108,
     "qualityModifier": 100,
-    "suggestedControl": 2388,
     "suggestedCraftsmanship": 2507
   },
   {
@@ -14517,7 +14555,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14536,7 +14573,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 29,
     "suggestedCraftsmanship": 59
   },
   {
@@ -14555,7 +14591,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14574,7 +14609,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14593,7 +14627,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 25,
     "suggestedCraftsmanship": 50
   },
   {
@@ -14612,7 +14645,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -14632,7 +14664,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 407,
     "suggestedCraftsmanship": 451
   },
   {
@@ -14651,7 +14682,6 @@
     "progressModifier": 100,
     "qualityDivider": 113,
     "qualityModifier": 100,
-    "suggestedControl": 2589,
     "suggestedCraftsmanship": 2748
   },
   {
@@ -14670,8 +14700,43 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 60,
     "suggestedCraftsmanship": 121
+  },
+  {
+    "baseLevel": 94,
+    "difficulty": 2400,
+    "durability": 40,
+    "level": 660,
+    "maxQuality": 9400,
+    "name": {
+      "de": "Tural-Maisöl",
+      "en": "Turali Corn Oil",
+      "fr": "Huile de maïs turalien",
+      "ja": "トラルコーンオイル"
+    },
+    "progressDivider": 152,
+    "progressModifier": 100,
+    "qualityDivider": 132,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3706
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 5100,
+    "durability": 80,
+    "level": 665,
+    "maxQuality": 9800,
+    "name": {
+      "de": "Turalischer Ananas-Ponzenkuchen",
+      "en": "Turali Pineapple Ponzecake",
+      "fr": "Gâteau à l'ananas turalien",
+      "ja": "トラルパイナップルケーキ"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
   },
   {
     "baseLevel": 80,
@@ -14690,7 +14755,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -14709,7 +14773,6 @@
     "progressModifier": 100,
     "qualityDivider": 48,
     "qualityModifier": 100,
-    "suggestedControl": 535,
     "suggestedCraftsmanship": 570
   },
   {
@@ -14728,7 +14791,6 @@
     "progressModifier": 100,
     "qualityDivider": 107,
     "qualityModifier": 100,
-    "suggestedControl": 2340,
     "suggestedCraftsmanship": 2438
   },
   {
@@ -14748,7 +14810,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 4,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -14767,7 +14828,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -14786,7 +14846,6 @@
     "progressModifier": 100,
     "qualityDivider": 84,
     "qualityModifier": 100,
-    "suggestedControl": 1387,
     "suggestedCraftsmanship": 1498
   },
   {
@@ -14806,7 +14865,6 @@
     "qualityDivider": 50,
     "qualityModifier": 100,
     "stars": 1,
-    "suggestedControl": 589,
     "suggestedCraftsmanship": 620
   },
   {
@@ -14826,8 +14884,25 @@
     "qualityDivider": 115,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 2000,
+    "durability": 40,
+    "level": 650,
+    "maxQuality": 8200,
+    "name": {
+      "de": "Ut'ohmu-Chilisoße",
+      "en": "Ut'ohmu Chili Sauce",
+      "fr": "Sauce chili d'Ut'ohmu",
+      "ja": "ウトォームチリソース"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3366
   },
   {
     "baseLevel": 50,
@@ -14846,8 +14921,25 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "stars": 3,
-    "suggestedControl": 374,
     "suggestedCraftsmanship": 391
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "de": "Gemüsesuppe",
+      "en": "Vegetable Soup",
+      "fr": "Soupe de légumes",
+      "ja": "ベジタブルスープ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 50,
@@ -14865,7 +14957,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14884,7 +14975,6 @@
     "progressModifier": 100,
     "qualityDivider": 46,
     "qualityModifier": 100,
-    "suggestedControl": 513,
     "suggestedCraftsmanship": 550
   },
   {
@@ -14903,7 +14993,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -14922,7 +15011,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14941,7 +15029,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 39,
     "suggestedCraftsmanship": 78
   },
   {
@@ -14960,7 +15047,6 @@
     "progressModifier": 100,
     "qualityDivider": 66,
     "qualityModifier": 100,
-    "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
   },
   {
@@ -14979,7 +15065,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 88,
     "suggestedCraftsmanship": 176
   },
   {
@@ -14999,7 +15084,6 @@
     "qualityDivider": 180,
     "qualityModifier": 100,
     "stars": 3,
-    "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },
   {
@@ -15018,8 +15102,43 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 33,
     "suggestedCraftsmanship": 67
+  },
+  {
+    "baseLevel": 95,
+    "difficulty": 2550,
+    "durability": 40,
+    "level": 665,
+    "maxQuality": 9800,
+    "name": {
+      "de": "Schlagrahm",
+      "en": "Whipped Cream",
+      "fr": "Crème fouettée",
+      "ja": "ホイップクリーム"
+    },
+    "progressDivider": 155,
+    "progressModifier": 100,
+    "qualityDivider": 135,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3789
+  },
+  {
+    "baseLevel": 96,
+    "difficulty": 5400,
+    "durability": 80,
+    "level": 670,
+    "maxQuality": 10200,
+    "name": {
+      "de": "Wildbananen-Smoothie",
+      "en": "Wild Banana Blend",
+      "fr": "Jus onctueux de banane sauvage",
+      "ja": "ワイルドバナナスムージー"
+    },
+    "progressDivider": 158,
+    "progressModifier": 100,
+    "qualityDivider": 138,
+    "qualityModifier": 100,
+    "suggestedCraftsmanship": 3876
   },
   {
     "baseLevel": 60,
@@ -15038,7 +15157,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 955,
     "suggestedCraftsmanship": 995
   },
   {
@@ -15057,7 +15175,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -15076,7 +15193,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -15095,7 +15211,6 @@
     "progressModifier": 100,
     "qualityDivider": 108,
     "qualityModifier": 100,
-    "suggestedControl": 2388,
     "suggestedCraftsmanship": 2507
   },
   {
@@ -15114,7 +15229,6 @@
     "progressModifier": 100,
     "qualityDivider": 30,
     "qualityModifier": 100,
-    "suggestedControl": 53,
     "suggestedCraftsmanship": 106
   },
   {
@@ -15133,7 +15247,6 @@
     "progressModifier": 90,
     "qualityDivider": 115,
     "qualityModifier": 80,
-    "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
   },
   {
@@ -15152,7 +15265,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -15171,7 +15283,6 @@
     "progressModifier": 100,
     "qualityDivider": 70,
     "qualityModifier": 100,
-    "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
   },
   {
@@ -15190,7 +15301,6 @@
     "progressModifier": 100,
     "qualityDivider": 111,
     "qualityModifier": 100,
-    "suggestedControl": 2482,
     "suggestedCraftsmanship": 2626
   },
   {
@@ -15210,7 +15320,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "stars": 4,
-    "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
   },
   {
@@ -15229,7 +15338,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   },
   {
@@ -15248,7 +15356,6 @@
     "progressModifier": 100,
     "qualityDivider": 105,
     "qualityModifier": 100,
-    "suggestedControl": 2136,
     "suggestedCraftsmanship": 2234
   },
   {
@@ -15267,7 +15374,6 @@
     "progressModifier": 100,
     "qualityDivider": 90,
     "qualityModifier": 100,
-    "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
   }
 ]
