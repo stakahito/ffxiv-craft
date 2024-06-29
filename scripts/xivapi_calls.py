@@ -34,7 +34,6 @@ def construct_recipe_json(original_recipe):
         "maxQuality": math.floor(
             original_recipe["RecipeLevelTable"]["Quality"] * original_recipe["QualityFactor"] / 100),
         "suggestedCraftsmanship": original_recipe["RecipeLevelTable"]["SuggestedCraftsmanship"],
-        "suggestedControl": original_recipe["RecipeLevelTable"]["SuggestedControl"],
         "progressDivider": original_recipe["RecipeLevelTable"]["ProgressDivider"],
         "progressModifier": original_recipe["RecipeLevelTable"]["ProgressModifier"],
         "qualityDivider": original_recipe["RecipeLevelTable"]["QualityDivider"],
