@@ -89,7 +89,7 @@ var AllActions = {
     //                                  shortName,                  fullName,                   dur,    cp, Prob, QIM,  PIM, Type,          t,  cls,       lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
     observedTouchCombo: new Action(     'observedTouchCombo',       'Observed Touch Combo',      10,     25, 1.0,  1.5,  0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['observe', 'advancedTouch']),
     standardTouchCombo: new Action(     'standardTouchCombo',       'Standard Touch Combo',      20,     36, 1.0,  2.25, 0.0, 'immediate',   1,  'All',     18,   false,      false,       false,     true,       ['basicTouch', 'standardTouch']),
-    advancedTouchCombo: new Action(     'advancedTouchCombo',       'Advanced Touch Combo',      30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     84,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
+    advancedTouchCombo: new Action(     'advancedTouchCombo',       'Advanced Touch Combo',      30,     54, 1.0,  3.75, 0.0, 'immediate',   1,  'All',     68,   false,      false,       false,     true,       ['basicTouch', 'standardTouch', 'advancedTouch']),
     refinedTouchCombo: new Action(      'refinedTouchCombo',        'Refined Touch Combo',       20,     42, 1.0,  2.0,  0.0, 'immediate',   1,  'All',     92,   false,      false,       false,     true,       ['basicTouch', 'refinedTouch']),
 
     // Buffs - Here to just represent as a placeholder for the buff
